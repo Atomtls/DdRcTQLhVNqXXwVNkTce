@@ -1,463 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 
-	<title type="text">ChoufTV Live - YouTube</title>
-	<id>http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=By+custom+name&amp;custom=ChoufTVLiveMaroc&amp;duration_min=&amp;duration_max=&amp;format=Atom</id>
-	<icon>https://www.youtube.com//favicon.ico</icon>
-	<logo>https://www.youtube.com//favicon.ico</logo>
-	<updated>2022-07-10T20:47:13+00:00</updated>
-	<author>
-		<name>RSS-Bridge</name>
-	</author>
-	<link rel="alternate" type="text/html" href="https://www.youtube.com/ChoufTVLiveMaroc/videos" />
-	<link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=By+custom+name&amp;custom=ChoufTVLiveMaroc&amp;duration_min=&amp;duration_max=&amp;format=Atom" />
+	<title type="text">‫خريبكة نيوز     khouribga news - Publications | Facebook‬</title>
+	<icon>https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico</icon>
+	<logo>https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico</logo>
 
 	<entry>
-		<title type="html">دموع وحزن وسط سجن عكاشة يوم العيد:شابة مشدودة تذرف الدموع:تشديت بسبب السرقة وكنطلب من ميمتي تسمح ليا</title>
-		<published>2022-07-10T20:23:54+00:00</published>
-		<updated>2022-07-10T20:23:54+00:00</updated>
-		<id>https://www.youtube.com/watch?v=9712YJNU_YE</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9712YJNU_YE"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=9712YJNU_YE"&gt;&lt;img src="https://img.youtube.com/vi/9712YJNU_YE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;رصدت &amp;amp;quot;شوف تيفي&amp;amp;quot; الأجواء التي عرفها السجن المحلي عين السبع 1 &amp;amp;quot;عكاشة&amp;amp;quot;، حيث امتزجت فرحة النزلاء بعيد الأضحى بالحزن والألم، بسبب الاحتفال بهذه المناسبة بعيدا عن الأسرة.&lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">اعرفه كما يعرفه الكل المحامي عن...</title>
+		<published>2020-07-16T14:55:38+00:00</published>
+		<updated>2020-07-16T14:55:38+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/photos/a.1575109889394794/2667876970118075/</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/photos/a.1575109889394794/2667876970118075/"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/photos/a.1575109889394794/2667876970118075/"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;اعرفه كما يعرفه الكل المحامي عن هيئة خريبكة  عز الدين فذني لا يتكلم من فراغ و اعرف ان عنده الدليل 😢😢&lt;br /&gt; ما رأيكم !!! و ما البديل و لماذا وووووووو &lt;br /&gt; جريمة اخرى ترتكب ضد ساكنة خريبكة و ساكنتها...&lt;br /&gt;  اغلبهم يعرفون و دايرين رأسهم متضامنون لكسب الاصوات و التأثير على الساكنة&lt;/p&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/photos/a.1575109889394794/2667876970118075/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.6435-9/109368085_2667876973451408_7834796019225531487_n.jpg?stp=dst-jpg_s851x315&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=nXeFvE47axcAX8LmwnR&amp;_nc_oc=AQk14eqVZ97gnJFjJfKZCGZMlg-J40I2pNTTqoGPsSesXoD9wCUYrP5rVxrxWrU10P4&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT_hUmox_IuuS1kBy4ne7NJ4zRdevoP5isK584ZLwXgsIQ&amp;oe=62F28DEF" alt="Peut &amp;#xea;tre une image de 1 personne" width="500" height="307" caption="Peut &amp;#xea;tre une image de 1 personne" /&gt;&lt;/a&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">من الدار البيضاء..أخطر حادث وقع فعيد الأضحى..طاكسي خرج على الطريق ودخل فشجرة</title>
-		<published>2022-07-10T19:51:53+00:00</published>
-		<updated>2022-07-10T19:51:53+00:00</updated>
-		<id>https://www.youtube.com/watch?v=u9u3y5yId6I</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=u9u3y5yId6I"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=u9u3y5yId6I"&gt;&lt;img src="https://img.youtube.com/vi/u9u3y5yId6I/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من الدار البيضاء..أخطر حادث وقع فعيد الأضحى..طاكسي خرج على الطريق ودخل فشجرة</content>
+		<title type="html">خريبكة نيوز     khouribga newsWalaw4.6star·Site web d’actualités·Toujours ouvertCasablanca </title>
+		<published>2022-07-07T14:22:43+00:00</published>
+		<updated>2022-07-07T14:22:43+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02WbegtgPk5aYooSbN8muiDigdZwH9Aw7esJnzGrVnm8FLfRNEuVGQw7ZzmAnfWeGml</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02WbegtgPk5aYooSbN8muiDigdZwH9Aw7esJnzGrVnm8FLfRNEuVGQw7ZzmAnfWeGml"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02WbegtgPk5aYooSbN8muiDigdZwH9Aw7esJnzGrVnm8FLfRNEuVGQw7ZzmAnfWeGml"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/271403236_3108812969438457_852139318862481563_n.jpg?stp=dst-jpg_s526x296&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=dd9801&amp;_nc_ohc=oZVEF4pHLroAX_490N4&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT-jE3Hfu1iGnf4UFzZTJOEg7Qeq3xbHtFn2rFJNkIpxog&amp;oe=62CF497E" alt="Photo de Walaw." width="526" height="200" caption="Photo de Walaw." /&gt;&lt;/a&gt;&lt;a href="http://share.here.com/r/mylocation/e-eyJuYW1lIjoiV2FsYXciLCJhZGRyZXNzIjoiNjAwIEJkIE1vdWxheSBZb3Vzc2VmLCBDYXNhYmxhbmNhLCBNYXJvYyIsImxhdGl0dWRlIjozMy42MDA4NywibG9uZ2l0dWRlIjotNy42MzI1NCwicHJvdmlkZXJOYW1lIjoiZmFjZWJvb2siLCJwcm92aWRlcklkIjoxOTMwNDEzOTI3Mjc4MzczfQ==?link=addresses&amp;fb_locale=fr_FR&amp;ref=facebook"&gt;&lt;img alt="" src="https://external.fcmn2-1.fna.fbcdn.net/static_map.php?region=MA&amp;v=2029&amp;ccb=4-4&amp;size=60x80&amp;zoom=12&amp;markers=icon%3A%2Fimages%2Fplaces%2Fmap%2Fbright-pink-pin.png%7Canchor%3A0.5%2C1%7C33.60087000%2C-7.63254000&amp;language=fr_FR" width="60" height="80" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-1/289779521_3236231963363223_7594884113082628237_n.jpg?stp=cp0_dst-jpg_p80x80&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=5npkFBvPkpIAX_NEspo&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT9-KkhnAw2jln22ru9CzhNoQYqwnzYUWzBXupw6ZAtsxg&amp;oe=62D0A42A" alt="" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw4.6&lt;i&gt;&lt;u&gt;star&lt;/u&gt;&lt;/i&gt;·Site web d’actualités·Toujours ouvertCasablanca &lt;/a&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">بعد فيديو قناة شوف تيفي..أونسا تدخل على خط استغاثة القنيطري لي شرا حولي ب 70 الف ريال ولقاه مريض</title>
-		<published>2022-07-10T19:46:54+00:00</published>
-		<updated>2022-07-10T19:46:54+00:00</updated>
-		<id>https://www.youtube.com/watch?v=0-dQUS3Wwi8</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=0-dQUS3Wwi8"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=0-dQUS3Wwi8"&gt;&lt;img src="https://img.youtube.com/vi/0-dQUS3Wwi8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عاجل ومباشر من القنيطرة : بعد فيديو قناة شوف تيفي..أونسا تدخل على خط استغاثة القنيطري لي شرا حولي ب 70 الف ريال ولقاه مريض..شوفو شنو واقع&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">خريبكة نيوز     khouribga newsWalawألف مبروووووووووووووووووووووك 🇲🇦😍 المنتخب...</title>
+		<published>2022-06-28T14:49:49+00:00</published>
+		<updated>2022-06-28T14:49:49+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0359ZmSCViob84tG1e3z7rPg3nY23uZsWRYYZ51ke63qVoizXsDvcessoTRzVARwhCl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0359ZmSCViob84tG1e3z7rPg3nY23uZsWRYYZ51ke63qVoizXsDvcessoTRzVARwhCl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0359ZmSCViob84tG1e3z7rPg3nY23uZsWRYYZ51ke63qVoizXsDvcessoTRzVARwhCl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/walaw.press/photos/a.2177973949189035/3241752379477848/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/290899811_3241752472811172_7747442420251399834_n.jpg?stp=dst-jpg_s600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=vFEMjJFBBqsAX9DEWwM&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT_7zXw2-ZXwSYU1dS4cIJoAdXYuUffBjBADhzgcT9LkoA&amp;oe=62D09D02" alt="Peut &amp;#xea;tre une image de 4 personnes et texte" width="501" height="577" caption="Peut &amp;#xea;tre une image de 4 personnes et texte" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/photos/a.2177973949189035/3241752379477848/"&gt;&lt;/a&gt;&lt;p&gt;ألف مبروووووووووووووووووووووك 🇲🇦😍&lt;br /&gt; المنتخب الوطني المغربي لكرة الصالات بطل العرب للمرة الثانية على التوالي بعد إنتصاره في المباراة النهائية على المنتخب العراقي بثلاثة أهداف نظيفة 🇲🇦!&lt;/p&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">مهدي شاب يعيش التشرد وينام بالشارع ودوز العيد فالزنقة بالخبز وأتاي:كنت فالإمارات ودارت بيا الدنيا</title>
-		<published>2022-07-10T19:38:29+00:00</published>
-		<updated>2022-07-10T19:38:29+00:00</updated>
-		<id>https://www.youtube.com/watch?v=kINVYe5wXbI</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=kINVYe5wXbI"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=kINVYe5wXbI"&gt;&lt;img src="https://img.youtube.com/vi/kINVYe5wXbI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عاينت شوف تيفي الحالة التي عليها شاب يعيش حياة التشرد بمدينة أكادير &lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">https://www.facebook.com/YedNajma/</title>
+		<published>2022-06-19T15:32:27+00:00</published>
+		<updated>2022-06-19T15:32:27+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid033Mw1rkEpe84YNWN9nRw9XwZHxGuMwJBE7WH6rmod45wsuJdEPtA8X7iE88QkrgHl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid033Mw1rkEpe84YNWN9nRw9XwZHxGuMwJBE7WH6rmod45wsuJdEPtA8X7iE88QkrgHl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid033Mw1rkEpe84YNWN9nRw9XwZHxGuMwJBE7WH6rmod45wsuJdEPtA8X7iE88QkrgHl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/YedNajma/"&gt;https://www.facebook.com/YedNajma/&lt;/a&gt;&lt;/p&gt;&lt;a href="https://www.facebook.com/YedNajma/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/289631116_701974117819103_6937363569791333593_n.jpg?stp=dst-jpg_s480x480&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=dd9801&amp;_nc_ohc=JIha-CSiMtEAX9eMd55&amp;_nc_oc=AQkrKXTvGYBy9vpbj2ICYRq8F8Pewzw9FkxKJ4zL0c3eCcs4JgVNlFsjWWc-O95DO0o&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT_z8MZWnSvuZzs1BzyQHJnQoNUZQM7tgaXabTzRZxt9iA&amp;oe=62D12A69" alt="Photo de Yed Najma." width="476" height="210" caption="Photo de Yed Najma." /&gt;&lt;/a&gt;&lt;a href="http://share.here.com/r/mylocation/e-eyJuYW1lIjoiWWVkIE5ham1hIiwiYWRkcmVzcyI6IkJvdWxldmFyZCBNb2hhbWVkIFYsIFNpZGkgWWFoeWEgRWwgR2hhcmIsIE1hcm9jIiwibGF0aXR1ZGUiOjM0LjMwNzk4NjM1OTU2OSwibG9uZ2l0dWRlIjotNi4zMDI1MzMwODQxMzk0LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjIyNDU3NTg1MjIyNTYwMX0=?link=addresses&amp;fb_locale=fr_FR&amp;ref=facebook"&gt;&lt;img alt="" src="https://external.fcmn2-1.fna.fbcdn.net/static_map.php?region=MA&amp;v=2029&amp;ccb=4-4&amp;size=60x80&amp;zoom=12&amp;markers=icon%3A%2Fimages%2Fplaces%2Fmap%2Fbright-pink-pin.png%7Canchor%3A0.5%2C1%7C34.30798636%2C-6.30253308&amp;language=fr_FR" width="60" height="80" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/YedNajma/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-1/289638274_701966364486545_2536525560701129089_n.jpg?stp=cp0_dst-jpg_p80x80&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=VJLxoyFSxzwAX8CmfK5&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT_SXlistf5Y5wXdAQG9jrVldpkFNV_GoUskcki_vZULcg&amp;oe=62D03108" alt="" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/YedNajma/"&gt;Yed NajmaOrganisation à but non lucratifSidi Yahia al Gharb &lt;/a&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">لايف سيصدم المغاربة...مهدي شاب يعيش التشرد وينام بالشارع ومدوز العيد فالزنقة بالخبز وأتاي</title>
-		<published>2022-07-10T19:35:29+00:00</published>
-		<updated>2022-07-10T19:35:29+00:00</updated>
-		<id>https://www.youtube.com/watch?v=YTLvg0wG7L8</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=YTLvg0wG7L8"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=YTLvg0wG7L8"&gt;&lt;img src="https://img.youtube.com/vi/YTLvg0wG7L8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من أكادير: لايف سيصدم المغاربة...مهدي شاب يعيش التشرد وينام بالشارع ومدوز العيد فالزنقة بالخبز وأتاي ومعندو لا حنين لا رحيم بعدما كان فالإمارات وحياتو تقلبات&lt;br /&gt;
-للمساعدة: 0601679494&lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">خريبكة نيوز     khouribga...</title>
+		<published>2022-06-03T21:21:12+00:00</published>
+		<updated>2022-06-03T21:21:12+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02js9N8gFmNWsnKFZXPW8nmw33nN1At6gGjcGfSe3rrcu9rsHVGgrnXtY8YuMGzmiXl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02js9N8gFmNWsnKFZXPW8nmw33nN1At6gGjcGfSe3rrcu9rsHVGgrnXtY8YuMGzmiXl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02js9N8gFmNWsnKFZXPW8nmw33nN1At6gGjcGfSe3rrcu9rsHVGgrnXtY8YuMGzmiXl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/pcb.170849935403239/170849745403258/"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/286189819_170849738736592_1804038581237372975_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=J6KZMD_euH0AX_OPNNQ&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT-EEm8yc8BO-kOdTWOJsomGFQ13OQ1pzk6pwi_AOfpTYA&amp;oe=62D0D8F6" alt="Peut &amp;#xea;tre une image de texte" width="500" height="453" caption="Peut &amp;#xea;tre une image de texte" /&gt;{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2022-06-03T13:07:03-0700","dateModified":"2022-06-03T13:07:03-0700","identifier":"170849745403258:9:0","url":"https:\/\/www.facebook.com\/Yednejma\/photos\/a.162238342931065\/170849745403258\/?type=3","isPartOf":"https:\/\/www.facebook.com\/Yednejma\/","headline":"\u200eAssociation Yed... - Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":370}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","identifier":109103588244541,"url":"https:\/\/www.facebook.com\/Yednejma\/","image":null,"sameAs":"","address":null,"foundingDate":"2021-11-04T00:30:05-0700"},"image":{"\u0040type":"ImageObject","name":null,"width":1061,"contentUrl":"https:\/\/scontent.fcmn2-2.fna.fbcdn.net\/v\/t39.30808-6\/286189819_170849738736592_1804038581237372975_n.jpg?stp=dst-jpg_p960x960&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=J6KZMD_euH0AX_OPNNQ&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT9-IX1wJk3Zr4a9UfmhO0c_bFwzscsziPbW3FpnKzmrhQ&amp;oe=62D0D8F6","caption":"","representativeOfPage":true}}&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/pcb.170849935403239/170849862069913/"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/285887425_170849858736580_6953112673540342272_n.jpg?stp=dst-jpg_p235x350&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=pxU8Z4wd_n8AX90UkY3&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT8jVwgy4WemTsTL1iNyCF-8ljOYmISeQ96Qi3tdGZ6Umg&amp;oe=62D0CAF7" alt="Peut &amp;#xea;tre une image de texte" width="249" height="344" caption="Peut &amp;#xea;tre une image de texte" /&gt;{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2022-06-03T13:07:03-0700","dateModified":"2022-06-03T13:07:03-0700","identifier":"170849862069913:9:0","url":"https:\/\/www.facebook.com\/Yednejma\/photos\/a.162238342931065\/170849862069913\/?type=3","isPartOf":"https:\/\/www.facebook.com\/Yednejma\/","headline":"\u200eAssociation Yed... - Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":1},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":370}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","identifier":109103588244541,"url":"https:\/\/www.facebook.com\/Yednejma\/","image":null,"sameAs":"","address":null,"foundingDate":"2021-11-04T00:30:05-0700"},"image":{"\u0040type":"ImageObject","name":null,"width":929,"contentUrl":"https:\/\/scontent.fcmn2-2.fna.fbcdn.net\/v\/t39.30808-6\/285887425_170849858736580_6953112673540342272_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=pxU8Z4wd_n8AX90UkY3&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT_TrDe_Il5M5CtSi5SsDfwo3nHr15y89Pp4omQINA9eUg&amp;oe=62D0CAF7","caption":"","representativeOfPage":true}}&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/pcb.170849935403239/170849912069908/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/286146650_170849905403242_7224064198354104760_n.jpg?stp=dst-jpg_p261x260&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=e8s4MBYWUBkAX_KvcL_&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT9I9-10i7i2DIU2GJaAbGeX5UoVrpUbvooxqIJx--M4Bg&amp;oe=62D100E3" alt="Aucune description de photo disponible." width="249" height="354" caption="Aucune description de photo disponible." /&gt;{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2022-06-03T13:07:03-0700","dateModified":"2022-06-03T13:07:03-0700","identifier":"170849912069908:9:0","url":"https:\/\/www.facebook.com\/Yednejma\/photos\/a.162238342931065\/170849912069908\/?type=3","isPartOf":"https:\/\/www.facebook.com\/Yednejma\/","headline":"\u200eAssociation Yed... - Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":370}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","identifier":109103588244541,"url":"https:\/\/www.facebook.com\/Yednejma\/","image":null,"sameAs":"","address":null,"foundingDate":"2021-11-04T00:30:05-0700"},"image":{"\u0040type":"ImageObject","name":null,"width":900,"contentUrl":"https:\/\/scontent.fcmn2-1.fna.fbcdn.net\/v\/t39.30808-6\/286146650_170849905403242_7224064198354104760_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=e8s4MBYWUBkAX_KvcL_&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT_q_NafRpSy_9DYTAYtk4tIZivqSdAL7235_V39xETb8Q&amp;oe=62D100E3","caption":"","representativeOfPage":true}}&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/"&gt;Association Yed Nejma - جمعية يد نجمة&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/posts/pfbid02q8H5gvz5EgmAgmFy1Fcb9ezEKg4Lii1JA8Cytu1KFvo6smRLHvtLtkcaZ2h9rB9Nl"&gt;&lt;/a&gt;&lt;p&gt;جمعية يد نجمة تكمل إجراءات المشاركة ببرنامج اوراش كأول جمعية على مستوى إقليم سيدي سليمان،  كما تطمح لإعطاء إضافة نوعية للبرنامج من خلال الورش التعليمي أو الورش الصحي،  وكذا الورش البيئي.&lt;/p&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">صرخة ممزوجة بالدموع لزوج مراتو مريضة بزاف وحالتها صعيبة:"فيها السرطان وخايف نفقدها "</title>
-		<published>2022-07-10T19:30:56+00:00</published>
-		<updated>2022-07-10T19:30:56+00:00</updated>
-		<id>https://www.youtube.com/watch?v=g2WyuVGpTRY</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=g2WyuVGpTRY"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=g2WyuVGpTRY"&gt;&lt;img src="https://img.youtube.com/vi/g2WyuVGpTRY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;ناشد زوج المحسنين لمساعدته في علاج زوجته التي تعاني من مرض السرطان &lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">خريبكة نيوز     khouribga newsAssociation Yed Nejma - جمعية يد نجمة</title>
+		<published>2022-05-08T23:45:07+00:00</published>
+		<updated>2022-05-08T23:45:07+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ybiynAC4LBYTWmym3ANStCWhToN3CCjdSDBzowNhDQ3ibftqUsdjzNakU7EkMNwKl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ybiynAC4LBYTWmym3ANStCWhToN3CCjdSDBzowNhDQ3ibftqUsdjzNakU7EkMNwKl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ybiynAC4LBYTWmym3ANStCWhToN3CCjdSDBzowNhDQ3ibftqUsdjzNakU7EkMNwKl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/a.162238342931065/163746369446929/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/279789791_163746422780257_3843788589106052626_n.jpg?stp=dst-jpg_s720x720&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=UT-3bsM6SpUAX-LCmsf&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT8UcXUB86HwCHISkdZSu3qSWiaVDwUGdcsZ-ck2je6wEg&amp;oe=62D07329" alt="Aucune description de photo disponible." width="500" height="715" caption="Aucune description de photo disponible." /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/"&gt;Association Yed Nejma - جمعية يد نجمة&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/a.162238342931065/163746369446929/"&gt;&lt;/a&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">شباب حي شعبي معروف بطنجة ناشطين يوم عيد الأضحى والأجواء جد رائعة</title>
-		<published>2022-07-10T19:11:36+00:00</published>
-		<updated>2022-07-10T19:11:36+00:00</updated>
-		<id>https://www.youtube.com/watch?v=pzZboIfZblg</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=pzZboIfZblg"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=pzZboIfZblg"&gt;&lt;img src="https://img.youtube.com/vi/pzZboIfZblg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عاينت شوف تيفي الأجواء وسط حي شعبي معروف بمدينة طنجة خلال العيد &lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">‎خريبكة نيوز     khouribga news‎ se sent relax.البلدية...</title>
+		<published>2022-05-01T15:54:33+00:00</published>
+		<updated>2022-05-01T15:54:33+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02LeNCpcWAZMX4YjGraHyTCAuSftr5onqPiKAfA1ZRR4ZnqxVc8ciwCmkjHGcKpofal</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02LeNCpcWAZMX4YjGraHyTCAuSftr5onqPiKAfA1ZRR4ZnqxVc8ciwCmkjHGcKpofal"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;‎&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;‎ &lt;i&gt;&lt;/i&gt;se sent relax.&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02LeNCpcWAZMX4YjGraHyTCAuSftr5onqPiKAfA1ZRR4ZnqxVc8ciwCmkjHGcKpofal"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/photo.php"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/278774319_478780133990557_296916387094072126_n.jpg?stp=dst-jpg_s526x395&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=DemKdtq5ezwAX8k23Ak&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT89BCahqc8J7UZePU7x0ipPUrNJDtwEE7TnlhRzIeGELg&amp;oe=62D0C5A5" alt="Peut &amp;#xea;tre une image de texte" width="257" height="395" caption="Peut &amp;#xea;tre une image de texte" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/photo.php"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/278874560_478780177323886_3492847149708917807_n.jpg?stp=dst-jpg_p296x100&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=6rs22soaXrYAX9TGVkq&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT9bCyXgVOEv2Kl3gZfAIvdCfH494N1YcagVzfivPPxRDw&amp;oe=62CFA3B2" alt="Peut &amp;#xea;tre une image de 2 personnes, personnes assises et int&amp;#xe9;rieur" width="296" height="256" caption="Peut &amp;#xea;tre une image de 2 personnes, personnes assises et int&amp;#xe9;rieur" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/people/%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86/100055757244971/"&gt;البلدية والمواطن&lt;/a&gt;&lt;a href="https://www.facebook.com/permalink.php"&gt;&lt;/a&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/hashtag/&amp;#x645;&amp;#x644;&amp;#x627;&amp;#x639;&amp;#x628;_&amp;#x627;&amp;#x644;&amp;#x642;&amp;#x631;&amp;#x628;_&amp;#x628;&amp;#x633;&amp;#x64a;&amp;#x62f;&amp;#x64a;_&amp;#x64a;&amp;#x62d;&amp;#x64a;&amp;#x649;_&amp;#x627;&amp;#x644;&amp;#x63a;&amp;#x631;&amp;#x628;"&gt;#ملاعب_القرب_بسيدي_يحيى_الغرب&lt;/a&gt;&lt;/p&gt;&lt;p&gt; كل الشكر والتقدير للبرلماني الكفء صبري والرئيس الجماعي وللأعضاء المنتخبة.&lt;/p&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">مباشرة من الكارة ضواحي برشيد :أول خروج اعلامي لأسرة الشاب اللي تقتل أمام مقهى شعبي ليلة العيد</title>
-		<published>2022-07-10T19:11:15+00:00</published>
-		<updated>2022-07-10T19:11:15+00:00</updated>
-		<id>https://www.youtube.com/watch?v=aQBYRT2xZPU</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=aQBYRT2xZPU"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=aQBYRT2xZPU"&gt;&lt;img src="https://img.youtube.com/vi/aQBYRT2xZPU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من الكارة ضواحي برشيد :أول خروج اعلامي لأسرة الشاب اللي تقتل أمام مقهى شعبي ليلة العيد ..شوفو شنوا واقع والقضية مرعبة بزاف</content>
+		<title type="html">خريبكة نيوز     khouribga...</title>
+		<published>2022-05-01T03:53:40+00:00</published>
+		<updated>2022-05-01T03:53:40+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02Cv4NQfKKbrKBR8BCSDKMsVSv13MKACna19jy254bVtv96txUQTepMCMEFJ2sDCssl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02Cv4NQfKKbrKBR8BCSDKMsVSv13MKACna19jy254bVtv96txUQTepMCMEFJ2sDCssl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02Cv4NQfKKbrKBR8BCSDKMsVSv13MKACna19jy254bVtv96txUQTepMCMEFJ2sDCssl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/pcb.162238369597729/162238202931079/"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/279595709_162238392931060_857378034557209455_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=MyQbaSvUH2EAX9mHuOA&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT_F-jXrSKb857avKPhhk4yrfzIbnMFYOjUuvNuZrV6XWg&amp;oe=62D06826" alt="Peut &amp;#xea;tre une image de 5 personnes et personnes debout" width="500" height="376" caption="Peut &amp;#xea;tre une image de 5 personnes et personnes debout" /&gt;{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2022-04-30T20:17:29-0700","dateModified":"2022-04-30T20:17:29-0700","identifier":"162238202931079:9:0","url":"https:\/\/www.facebook.com\/Yednejma\/photos\/a.162238342931065\/162238202931079\/?type=3","isPartOf":"https:\/\/www.facebook.com\/Yednejma\/","headline":"\u200eAssociation Yed... - Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":370}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","identifier":109103588244541,"url":"https:\/\/www.facebook.com\/Yednejma\/","image":null,"sameAs":"","address":null,"foundingDate":"2021-11-04T00:30:05-0700"},"image":{"\u0040type":"ImageObject","name":null,"width":1280,"contentUrl":"https:\/\/scontent.fcmn2-2.fna.fbcdn.net\/v\/t39.30808-6\/279595709_162238392931060_857378034557209455_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=MyQbaSvUH2EAX9mHuOA&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT94TYzl54Xcti7h_qweSH_HU32eWbGKnqVaYcM3LqyDkg&amp;oe=62D06826","caption":"","representativeOfPage":true}}&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/pcb.162238369597729/162238239597742/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/279348534_162238456264387_4398532940488674101_n.jpg?stp=dst-jpg_s235x165&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=Kt2ILaLAnYsAX-qnki0&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT93Cz5Mos8t0tK3qb9OKtriboQZnHyepOpklzUdsLaEnA&amp;oe=62D05F3D" alt="Peut &amp;#xea;tre une image de 3 personnes et personnes debout" width="220" height="165" caption="Peut &amp;#xea;tre une image de 3 personnes et personnes debout" /&gt;{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2022-04-30T20:17:29-0700","dateModified":"2022-04-30T20:17:29-0700","identifier":"162238239597742:9:0","url":"https:\/\/www.facebook.com\/Yednejma\/photos\/a.162238342931065\/162238239597742\/?type=3","isPartOf":"https:\/\/www.facebook.com\/Yednejma\/","headline":"\u200eAssociation Yed... - Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":370}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","identifier":109103588244541,"url":"https:\/\/www.facebook.com\/Yednejma\/","image":null,"sameAs":"","address":null,"foundingDate":"2021-11-04T00:30:05-0700"},"image":{"\u0040type":"ImageObject","name":null,"width":1280,"contentUrl":"https:\/\/scontent.fcmn2-1.fna.fbcdn.net\/v\/t39.30808-6\/279348534_162238456264387_4398532940488674101_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=Kt2ILaLAnYsAX-qnki0&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT_Jpc8trofIpS-LDhfCvCwAwkP8bh1Z8cEKuVLHPQg75A&amp;oe=62D05F3D","caption":"","representativeOfPage":true}}&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/pcb.162238369597729/162238266264406/"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/279476102_162238462931053_5175915399731044722_n.jpg?stp=dst-jpg_s235x165&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=RkKaHVa0R-MAX9aSNRD&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT8KF2Eqo96YRMFkGqgFCXPkL8O1kY1c3f6cwb1ORdK7Zg&amp;oe=62CFE3F4" alt="Peut &amp;#xea;tre une image de 4 personnes et personnes debout" width="220" height="165" caption="Peut &amp;#xea;tre une image de 4 personnes et personnes debout" /&gt;{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2022-04-30T20:17:29-0700","dateModified":"2022-04-30T20:17:29-0700","identifier":"162238266264406:9:0","url":"https:\/\/www.facebook.com\/Yednejma\/photos\/a.162238342931065\/162238266264406\/?type=3","isPartOf":"https:\/\/www.facebook.com\/Yednejma\/","headline":"\u200eAssociation Yed... - Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":370}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","identifier":109103588244541,"url":"https:\/\/www.facebook.com\/Yednejma\/","image":null,"sameAs":"","address":null,"foundingDate":"2021-11-04T00:30:05-0700"},"image":{"\u0040type":"ImageObject","name":null,"width":1280,"contentUrl":"https:\/\/scontent.fcmn2-2.fna.fbcdn.net\/v\/t39.30808-6\/279476102_162238462931053_5175915399731044722_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=RkKaHVa0R-MAX9aSNRD&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT9CnUuhNC6zgTMQLth6Da5E1pcqLUP8iGD3ZUIYDdiRcg&amp;oe=62CFE3F4","caption":"","representativeOfPage":true}}&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/photos/pcb.162238369597729/162238296264403/"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/279361143_162238479597718_5051536493179497906_n.jpg?stp=dst-jpg_s235x165&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=ZY4EcegF1q0AX-GKDaK&amp;_nc_oc=AQmz460R1X2XFZ5sG0k4TLqVWDJzD5gVrZ4RKS2h-L0R2X6qMg3u2p_qF6HHtrYeYpg&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT8ks5sJ2T3oB6Rb41y8vGuZ9xCRtgjMUm1CqF_y3Xkmkw&amp;oe=62D05B3B" alt="Peut &amp;#xea;tre une image de 5 personnes, personnes assises, personnes debout et int&amp;#xe9;rieur" width="220" height="165" caption="Peut &amp;#xea;tre une image de 5 personnes, personnes assises, personnes debout et int&amp;#xe9;rieur" /&gt;+2{"\u0040context":"https:\/\/schema.org","\u0040type":"SocialMediaPosting","dateCreated":"2022-04-30T20:17:29-0700","dateModified":"2022-04-30T20:17:29-0700","identifier":"162238296264403:9:0","url":"https:\/\/www.facebook.com\/Yednejma\/photos\/a.162238342931065\/162238296264403\/?type=3","isPartOf":"https:\/\/www.facebook.com\/Yednejma\/","headline":"\u200eAssociation Yed... - Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","interactionStatistic":[{"\u0040type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/LikeAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ShareAction","userInteractionCount":0},{"\u0040type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":370}],"commentCount":0,"author":{"\u0040type":"Organization","name":"Association Yed Nejma - \u062c\u0645\u0639\u064a\u0629 \u064a\u062f \u0646\u062c\u0645\u0629","identifier":109103588244541,"url":"https:\/\/www.facebook.com\/Yednejma\/","image":null,"sameAs":"","address":null,"foundingDate":"2021-11-04T00:30:05-0700"},"image":{"\u0040type":"ImageObject","name":null,"width":1280,"contentUrl":"https:\/\/scontent.fcmn2-2.fna.fbcdn.net\/v\/t39.30808-6\/279361143_162238479597718_5051536493179497906_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=ZY4EcegF1q0AX-GKDaK&amp;_nc_oc=AQmz460R1X2XFZ5sG0k4TLqVWDJzD5gVrZ4RKS2h-L0R2X6qMg3u2p_qF6HHtrYeYpg&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT907UnDEsBDrmGITrs3ETD-mMMIMCTUR0w2utwXdj9y-A&amp;oe=62D05B3B","caption":"","representativeOfPage":true}}&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/"&gt;Association Yed Nejma - جمعية يد نجمة&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/posts/pfbid0oUW4SQytVCyonVUpwwmd9FpLSKoefhBW4FTUKUtBb5B3WBmmnFq9Jgy4vyvNJkRfl"&gt;&lt;/a&gt;&lt;p&gt;دعما للرياضة المحلية والشباب سيدي يحيى الغرب تقدم السيد الكاتب العام لجمعية يد نجمة السيد رحال صبري بتسليم جوائز الدوريات الرمضانية  المقامة بمنطقة المرجة  ودار الشباب الشهيد بالقصيص  نيابة عن رئيس الجمعية السيد أنوار صبري ، بالتوفيق للرياضة المحلية لتعود لسابق عهدها 💪💪&lt;/p&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">على المباشر : إقبال كبير من طرف الناس على الجزار فيوم عيد الاضحى..شوفو معانا الاجواء</title>
-		<published>2022-07-10T18:51:39+00:00</published>
-		<updated>2022-07-10T18:51:39+00:00</updated>
-		<id>https://www.youtube.com/watch?v=cMXWno-42So</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=cMXWno-42So"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=cMXWno-42So"&gt;&lt;img src="https://img.youtube.com/vi/cMXWno-42So/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;على المباشر : إقبال كبير من طرف الناس على الجزار فيوم عيد الاضحى..شوفو معانا الاجواء&lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">خريبكة نيوز     khouribga newsWalaw était en direct.الاجتماع الاخباري والتشاوري حول اعداد...</title>
+		<published>2022-03-16T15:04:55+00:00</published>
+		<updated>2022-03-16T15:04:55+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0VWXb6m4AurLEX1MrXx8WpbG9HzX9rHgnbV8H1e6FyCKYVkkdmDXYhN9UExw1t6erl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0VWXb6m4AurLEX1MrXx8WpbG9HzX9rHgnbV8H1e6FyCKYVkkdmDXYhN9UExw1t6erl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0VWXb6m4AurLEX1MrXx8WpbG9HzX9rHgnbV8H1e6FyCKYVkkdmDXYhN9UExw1t6erl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t15.5256-10/276037542_1149318362564216_5145587931010016037_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=f2c4d5&amp;_nc_ohc=YqPkkx_eL1IAX8lM44y&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT_KeUajYYEb24tPE4QKr32pS8QCDQ3fKC3AJFkxNYcVyQ&amp;oe=62D04A7E" /&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw&lt;/a&gt; était en direct.&lt;a href="https://www.facebook.com/walaw.press/videos/633605077737388/"&gt;&lt;/a&gt;&lt;p&gt;الاجتماع الاخباري والتشاوري حول اعداد برنامج عمل الجماعة الترابية لسيدي يحيى الغرب&lt;/p&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">الملقبة بفتيحة روتيني اليومي تستقبل الشاب الجزائري ضحية الكبرانات شوفو كيفاش فرحات به يوم عيد الاضحى</title>
-		<published>2022-07-10T18:50:20+00:00</published>
-		<updated>2022-07-10T18:50:20+00:00</updated>
-		<id>https://www.youtube.com/watch?v=EvFZ5LPA3Zw</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EvFZ5LPA3Zw"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=EvFZ5LPA3Zw"&gt;&lt;img src="https://img.youtube.com/vi/EvFZ5LPA3Zw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من تمارة ..الملقبة بفتيحة روتيني اليومي تستقبل الشاب الجزائري ضحية الكبرانات ..شوفو كيفاش فرحات به يوم عيد الاضحى&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">خريبكة نيوز     khouribga newsWalawرشيد الطاوسي مدربا جديدا للرجاء البيضاوي : رجعت...</title>
+		<published>2022-02-28T14:57:06+00:00</published>
+		<updated>2022-02-28T14:57:06+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02xury2CTFtKjQpP9tH7aW5SvcJhofxpffBkkp8GqgZTVMHqo4grs7AgaJ2TxMACAxl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02xury2CTFtKjQpP9tH7aW5SvcJhofxpffBkkp8GqgZTVMHqo4grs7AgaJ2TxMACAxl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02xury2CTFtKjQpP9tH7aW5SvcJhofxpffBkkp8GqgZTVMHqo4grs7AgaJ2TxMACAxl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t15.5256-10/274904368_2853750764863534_278958206089283996_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=f2c4d5&amp;_nc_ohc=C_BsBtjwlfYAX_OxmW3&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT-kr2u85ubplCc_f7j6CW_cNfZNFpj36-1g_FjldGg0pw&amp;oe=62D0953A" /&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/videos/680905600001043/"&gt;&lt;/a&gt;&lt;p&gt;رشيد الطاوسي مدربا جديدا للرجاء البيضاوي : رجعت للرجاء باش ندي الألقاب.&lt;/p&gt;&lt;p&gt; &lt;a href="https://www.facebook.com/hashtag/&amp;#x631;&amp;#x634;&amp;#x64a;&amp;#x62f;_&amp;#x627;&amp;#x644;&amp;#x637;&amp;#x627;&amp;#x648;&amp;#x633;&amp;#x64a;"&gt;#رشيد_الطاوسي&lt;/a&gt;   &lt;a href="https://www.facebook.com/hashtag/&amp;#x627;&amp;#x644;&amp;#x628;&amp;#x637;&amp;#x648;&amp;#x644;&amp;#x629;"&gt;#البطولة&lt;/a&gt;  &lt;a href="https://www.facebook.com/hashtag/&amp;#x627;&amp;#x644;&amp;#x631;&amp;#x62c;&amp;#x627;&amp;#x621;"&gt;#الرجاء&lt;/a&gt;&lt;/p&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">مشهد يتكرر كل عيد أضحى..تجمع كمية كبيرة من الأزبال بطنجة والساكنة طالع ليها الدم:فين هي شركة النظافة</title>
-		<published>2022-07-10T17:51:13+00:00</published>
-		<updated>2022-07-10T17:51:13+00:00</updated>
-		<id>https://www.youtube.com/watch?v=oM8Z4O5dT-8</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=oM8Z4O5dT-8"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=oM8Z4O5dT-8"&gt;&lt;img src="https://img.youtube.com/vi/oM8Z4O5dT-8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عاينت شوف تيفي تجمع الازبال بشوارع وأحياء مدينة طنجة يوم عيد الأضحى &lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">خريبكة نيوز     khouribga newsWalaw📣توضيحات بخصوص برنامج الفرصة📣 📌برنامج الفرصة هو...</title>
+		<published>2022-02-23T13:31:02+00:00</published>
+		<updated>2022-02-23T13:31:02+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02RH8cU9GRSGGTG4hG1vk29KvriH64AUxWbU12tQ6DdUVbYJ2b2gebdXM76Qhh9VsSl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02RH8cU9GRSGGTG4hG1vk29KvriH64AUxWbU12tQ6DdUVbYJ2b2gebdXM76Qhh9VsSl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02RH8cU9GRSGGTG4hG1vk29KvriH64AUxWbU12tQ6DdUVbYJ2b2gebdXM76Qhh9VsSl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/walaw.press/posts/pfbid02B4Nrxq9YEGamKA3o2gMpHp7grajuvSV7nr1kps1rFsrkAusjX1bgBZcpWPpUtnjAl"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-1/289779521_3236231963363223_7594884113082628237_n.jpg?stp=cp0_dst-jpg_p40x40&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=5npkFBvPkpIAX_NEspo&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT_DbpUKatWiz25zSv9Ui9ump93e7XdHMf3UcbrliV0OdQ&amp;oe=62D0A42A" alt="" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/posts/pfbid02B4Nrxq9YEGamKA3o2gMpHp7grajuvSV7nr1kps1rFsrkAusjX1bgBZcpWPpUtnjAl"&gt;&lt;/a&gt;&lt;p&gt;📣توضيحات بخصوص برنامج الفرصة📣&lt;/p&gt;&lt;p&gt; 📌برنامج الفرصة هو برنامج لتمويل حاملي المشاريع و المقاولين الداتيين و التعاونيات و المقاولات عن طريق تقديم قروض شرف يعني بدون فائد…ة غادي ترجع فقط الفلوس لي خديتي بدون زيادة سينطلق في شهر مارس.&lt;/p&gt;&lt;p&gt; 📌الفرق بين برنامج انطلاقة و برنامج الفرصة 👇👇👇&lt;/p&gt;&lt;p&gt; 🔷️سقف التمويل في برنامج انطلاقة هو 120مليون سنتيم.&lt;br /&gt; 🔷️سقف التمويل في برنامج الفرصة هو 10مليون سنتيم  ممكن ترجعها على 10سنوات.&lt;/p&gt;&lt;p&gt; 🔶️برنامج انطلاقة لا يقدم اموال بل هو قرض استثمار يعني كيشريو ليك التجهيزات و السلع لي تحتاج للمشروع ماشي فلوس البنك كتعطي شيك للممول لي كتشري من عندو ماشي كتاخد فلوس.&lt;/p&gt;&lt;p&gt; 🔶️️برنامج الفرصة كتاخد فلوس.&lt;/p&gt;&lt;p&gt; 🔷️نسنة الفائدة في برنامج انطلاقة 2%&lt;br /&gt; 🔷️نسبة الفائدة في برنامج الفرصة 0%&lt;/p&gt;&lt;p&gt; 🔶️برنامج انطلاقة فيه شروط كثيرة من اهمها يكون عندك جزء من تكلفة المشروع و دراسة الجدوى و الخبرة.&lt;/p&gt;&lt;p&gt; 🔶️برنامج الفرصة  مفيهش شروط مبدئيا لانه موجه للفئات لي معندهاش القدرة المالية.&lt;/p&gt; &lt;a href="https://www.facebook.com"&gt;Voir plus&lt;/a&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">مسؤول بمركز تجاري معروف يكشف حقيقة وقوع فوضى فتسليم أضاحي العيد للزبناء</title>
-		<published>2022-07-10T17:42:01+00:00</published>
-		<updated>2022-07-10T17:42:01+00:00</updated>
-		<id>https://www.youtube.com/watch?v=OZ1NxAlKeZQ</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OZ1NxAlKeZQ"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=OZ1NxAlKeZQ"&gt;&lt;img src="https://img.youtube.com/vi/OZ1NxAlKeZQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;كشف مسؤول بمركز تجاري معروف عن الفوضى التي عرفها توزيع أضاحي العيد على الزبناء&lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">https://www.facebook.com/Yednejma/</title>
+		<published>2022-02-22T14:14:59+00:00</published>
+		<updated>2022-02-22T14:14:59+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02LAxJJWRdhRq7FcaZWT9NTTyGd7SVaPBmwFcEHW3RiZya8tk5LaoD6RVfh5HAEDSAl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02LAxJJWRdhRq7FcaZWT9NTTyGd7SVaPBmwFcEHW3RiZya8tk5LaoD6RVfh5HAEDSAl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02LAxJJWRdhRq7FcaZWT9NTTyGd7SVaPBmwFcEHW3RiZya8tk5LaoD6RVfh5HAEDSAl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/Yednejma/"&gt;https://www.facebook.com/Yednejma/&lt;/a&gt;&lt;/p&gt;&lt;a href="https://www.facebook.com/Yednejma/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/253549331_109108408244059_1353860197276066269_n.png?stp=dst-png_s552x414&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=dd9801&amp;_nc_ohc=WeJAbnJkOmAAX-2i3At&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-_NSabEZdIr8_3BeFBMgREzRmHklUMuvDWHjLKogKrkg&amp;oe=62CFB8DB" alt="Photo de &amp;#x200e;Association Yed Nejma - &amp;#x62c;&amp;#x645;&amp;#x639;&amp;#x64a;&amp;#x629; &amp;#x64a;&amp;#x62f; &amp;#x646;&amp;#x62c;&amp;#x645;&amp;#x629;&amp;#x200e;." width="542" height="200" caption="Photo de &amp;#x200e;Association Yed Nejma - &amp;#x62c;&amp;#x645;&amp;#x639;&amp;#x64a;&amp;#x629; &amp;#x64a;&amp;#x62f; &amp;#x646;&amp;#x62c;&amp;#x645;&amp;#x629;&amp;#x200e;." /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-1/286195344_172681228553443_7587929988670284285_n.jpg?stp=cp0_dst-jpg_p80x80&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=RKBQLGcRp7MAX9K1vw6&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT9Qih-cbP31h48p7Zpoxu1OXQ2CzhSGepu23-TvuPL_tg&amp;oe=62CF7A0A" alt="" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/Yednejma/"&gt;Association Yed Nejma - جمعية يد نجمةOrganisation non gouvernementale (ONG)341 personnes aiment ça&lt;/a&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">شاب جزائري يكشف تطورات قضيته الصادمة والمؤلمة ويفضح الكبرانات:"المسؤولين ديال بلادي معقلوش عليا"</title>
-		<published>2022-07-10T17:40:04+00:00</published>
-		<updated>2022-07-10T17:40:04+00:00</updated>
-		<id>https://www.youtube.com/watch?v=8g8FcCt14Xo</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8g8FcCt14Xo"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=8g8FcCt14Xo"&gt;&lt;img src="https://img.youtube.com/vi/8g8FcCt14Xo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;كشف جزائري عن تفاصيل خاصة بالوضع الذي عاشه ببلده ما جعله يحل بالمغرب &lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">شرح مبسط لبرنامج اوراش</title>
+		<published>2022-02-08T17:27:58+00:00</published>
+		<updated>2022-02-08T17:27:58+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02jM18Ujwy9EGNNpVyD98pbYcd6ubytbcP2YjWxjA6d2L1Uz5hJZHz32mqr3tytct4l</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02jM18Ujwy9EGNNpVyD98pbYcd6ubytbcP2YjWxjA6d2L1Uz5hJZHz32mqr3tytct4l"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02jM18Ujwy9EGNNpVyD98pbYcd6ubytbcP2YjWxjA6d2L1Uz5hJZHz32mqr3tytct4l"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;شرح مبسط لبرنامج اوراش&lt;/p&gt;&lt;a href="https://youtu.be/-0Qaqt7Yz6g"&gt;شرح مبسط لبرنامج #اوراش&lt;img src="https://external.fcmn2-1.fna.fbcdn.net/emg1/v/t13/395317836896943959?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-0Qaqt7Yz6g%2Fmaxresdefault.jpg&amp;fb_obo=1&amp;utld=fbcdn.net&amp;stp=c0.5000x0.5000f_dst-emg0_p540x282_q75_u&amp;ccb=13-1&amp;oh=00_AT9rgTYAo3uLv9PCEcCw03A-hIMsnGWMjYCDXaRrHP7o8Q&amp;oe=62CCB024&amp;_nc_sid=c504da" alt="" width="500" height="262" caption="" /&gt;&lt;/a&gt;&lt;p&gt;youtube.com&lt;/p&gt;&lt;p&gt;الفيلم القصير.....برنامج اوراش&lt;/p&gt;شرح مبسط لبرنامج #اوراش&lt;a href="https://youtu.be/-0Qaqt7Yz6g"&gt;شرح مبسط لبرنامج #اوراش&lt;/a&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">شوفو شباب بوطويل باب إيلان كيفاش تيتعاموا مع شي رؤوس الأضاحي تحت درجة حرارة قياسية</title>
-		<published>2022-07-10T17:36:48+00:00</published>
-		<updated>2022-07-10T17:36:48+00:00</updated>
-		<id>https://www.youtube.com/watch?v=iBFDh_Q6TAk</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=iBFDh_Q6TAk"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=iBFDh_Q6TAk"&gt;&lt;img src="https://img.youtube.com/vi/iBFDh_Q6TAk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من مراكش: الحال سخون.. شوفو شباب بوطويل باب إيلان كيفاش تيتعاموا مع شي رؤوس الأضاحي تحت درجة حرارة قياسية</content>
+		<title type="html">جريدة متجددة على مدار الساعة</title>
+		<published>2022-02-08T16:06:00+00:00</published>
+		<updated>2022-02-08T16:06:00+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0H1vGC4PXBYpCz7KtT8DKJUmnw4vXX81tqZMxYHvHCPD7aXJ2AoMijZ73TgJFWo8Al</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0H1vGC4PXBYpCz7KtT8DKJUmnw4vXX81tqZMxYHvHCPD7aXJ2AoMijZ73TgJFWo8Al"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0H1vGC4PXBYpCz7KtT8DKJUmnw4vXX81tqZMxYHvHCPD7aXJ2AoMijZ73TgJFWo8Al"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;جريدة متجددة على مدار الساعة&lt;/p&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/271403236_3108812969438457_852139318862481563_n.jpg?stp=dst-jpg_s526x296&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=dd9801&amp;_nc_ohc=oZVEF4pHLroAX_490N4&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT-jE3Hfu1iGnf4UFzZTJOEg7Qeq3xbHtFn2rFJNkIpxog&amp;oe=62CF497E" alt="Photo de Walaw." width="526" height="200" caption="Photo de Walaw." /&gt;&lt;/a&gt;&lt;a href="http://share.here.com/r/mylocation/e-eyJuYW1lIjoiV2FsYXciLCJhZGRyZXNzIjoiNjAwIEJkIE1vdWxheSBZb3Vzc2VmLCBDYXNhYmxhbmNhLCBNYXJvYyIsImxhdGl0dWRlIjozMy42MDA4NywibG9uZ2l0dWRlIjotNy42MzI1NCwicHJvdmlkZXJOYW1lIjoiZmFjZWJvb2siLCJwcm92aWRlcklkIjoxOTMwNDEzOTI3Mjc4MzczfQ==?link=addresses&amp;fb_locale=fr_FR&amp;ref=facebook"&gt;&lt;img alt="" src="https://external.fcmn2-1.fna.fbcdn.net/static_map.php?region=MA&amp;v=2029&amp;ccb=4-4&amp;size=60x80&amp;zoom=12&amp;markers=icon%3A%2Fimages%2Fplaces%2Fmap%2Fbright-pink-pin.png%7Canchor%3A0.5%2C1%7C33.60087000%2C-7.63254000&amp;language=fr_FR" width="60" height="80" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t39.30808-1/289779521_3236231963363223_7594884113082628237_n.jpg?stp=cp0_dst-jpg_p80x80&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=5npkFBvPkpIAX_NEspo&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT9-KkhnAw2jln22ru9CzhNoQYqwnzYUWzBXupw6ZAtsxg&amp;oe=62D0A42A" alt="" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw4.6&lt;i&gt;&lt;u&gt;star&lt;/u&gt;&lt;/i&gt;·Site web d’actualités·Toujours ouvertCasablanca &lt;/a&gt;</content>
 		
 		
 		
 	</entry>
 
 	<entry>
-		<title type="html">من دوار ولاد بنسليمان :دموع الرجال... أب لأربعة بنات يبكي بحرقة ويناشد المسؤولين والمحسنين</title>
-		<published>2022-07-10T17:22:14+00:00</published>
-		<updated>2022-07-10T17:22:14+00:00</updated>
-		<id>https://www.youtube.com/watch?v=QF8u9TRF3OI</id>
-		<link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QF8u9TRF3OI"/>
-		<author><name>ChoufTV Live</name></author>
-		<content type="html">&lt;a href="https://www.youtube.com/watch?v=QF8u9TRF3OI"&gt;&lt;img src="https://img.youtube.com/vi/QF8u9TRF3OI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من دوار ولاد بنسليمان :دموع الرجال... أب لأربعة بنات يبكي بحرقة ويناشد المسؤولين والمحسنين:&amp;amp;quot;البارح بالليل جاو شعلو لي العافية في المنزل ديالي وبغاو يقتلوني&amp;amp;quot;للمساعدة: 0672034358&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-#chouftv #chouftv_live #chouftvlive&lt;br /&gt;
-&lt;br /&gt;
-قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
-&lt;br /&gt;
-اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
-&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
-&lt;a href="https://bit.ly/ChouftvLive" target="_blank"&gt;https://bit.ly/ChouftvLive&lt;/a&gt; ﻿&lt;br /&gt;
-Chouftv - شوف تيفي&lt;br /&gt;
-شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
-____&lt;br /&gt;
-ChoufTV &lt;br /&gt;
-Site Web Officiel:  &lt;a href="http://ChoufTV.ma" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt; &lt;br /&gt;
-Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt; &lt;br /&gt;
-instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt; &lt;br /&gt;
-Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt; &lt;br /&gt;
-Page Google+: &lt;a href="https://plus.google.com/+ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt; &lt;br /&gt;
-Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt; &lt;br /&gt;
-#chouftv #maroc #casablanca</content>
+		<title type="html">خريبكة نيوز     khouribga newsWalaw était en direct.مباشرة من مدينة الدارالبيضاء....ومن وسط...</title>
+		<published>2022-02-07T14:21:19+00:00</published>
+		<updated>2022-02-07T14:21:19+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ML7udc8Hv5bKoYJaw3yfHjzP8M3QPveLJsKFnxM3GJqFRi9CxGAbAqiZEoSek2jcl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ML7udc8Hv5bKoYJaw3yfHjzP8M3QPveLJsKFnxM3GJqFRi9CxGAbAqiZEoSek2jcl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ML7udc8Hv5bKoYJaw3yfHjzP8M3QPveLJsKFnxM3GJqFRi9CxGAbAqiZEoSek2jcl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t15.5256-10/273448880_673081550492894_2204070224491266699_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=f2c4d5&amp;_nc_ohc=biYstUk4T8IAX_ggsPU&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT9-qYdNN_GdTvFlkglb11VgBVHdJ6wuzmr7_bPwJnQ5GQ&amp;oe=62CFAEE1" /&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw&lt;/a&gt; était en direct.&lt;a href="https://www.facebook.com/walaw.press/videos/635813894390478/"&gt;&lt;/a&gt;&lt;p&gt;مباشرة من مدينة الدارالبيضاء....ومن وسط الحي الحسني...شباب الدارالبيضاء يخلدون ذكرى الطفل ريان عليه رحمة الله.....&lt;/p&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">خريبكة نيوز     khouribga newsشرح مبسط لبرنامج #اوراشyoutube.comالفيلم القصير.....برنامج...</title>
+		<published>2022-02-07T10:03:43+00:00</published>
+		<updated>2022-02-07T10:03:43+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0intwQNxPddgLvFeksTt3g8hf7iPNuUhXfB8TvfRp5qtAUEW6q3ZaXMB1Ku7xAXewl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0intwQNxPddgLvFeksTt3g8hf7iPNuUhXfB8TvfRp5qtAUEW6q3ZaXMB1Ku7xAXewl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0intwQNxPddgLvFeksTt3g8hf7iPNuUhXfB8TvfRp5qtAUEW6q3ZaXMB1Ku7xAXewl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://youtu.be/-0Qaqt7Yz6g"&gt;شرح مبسط لبرنامج #اوراش&lt;img src="https://external.fcmn2-1.fna.fbcdn.net/emg1/v/t13/395317836896943959?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-0Qaqt7Yz6g%2Fmaxresdefault.jpg&amp;fb_obo=1&amp;utld=fbcdn.net&amp;stp=c0.5000x0.5000f_dst-emg0_p540x282_q75_u&amp;ccb=13-1&amp;oh=00_AT9rgTYAo3uLv9PCEcCw03A-hIMsnGWMjYCDXaRrHP7o8Q&amp;oe=62CCB024&amp;_nc_sid=c504da" alt="" width="500" height="262" caption="" /&gt;&lt;/a&gt;&lt;p&gt;youtube.com&lt;/p&gt;&lt;p&gt;الفيلم القصير.....برنامج اوراش&lt;/p&gt;شرح مبسط لبرنامج #اوراش&lt;a href="https://youtu.be/-0Qaqt7Yz6g"&gt;شرح مبسط لبرنامج #اوراش&lt;/a&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">خريبكة نيوز     khouribga newsWalawترقبوا الحلقة الأولى من سلسلة شرح البرنامج الحكومي...</title>
+		<published>2022-02-07T09:40:48+00:00</published>
+		<updated>2022-02-07T09:40:48+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02SEq3hWBUuJF2nxD9X2DbXjVaC2ysaTtQoejbb2nUUhmCSqq31ufM48xLpfVXf1hPl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02SEq3hWBUuJF2nxD9X2DbXjVaC2ysaTtQoejbb2nUUhmCSqq31ufM48xLpfVXf1hPl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02SEq3hWBUuJF2nxD9X2DbXjVaC2ysaTtQoejbb2nUUhmCSqq31ufM48xLpfVXf1hPl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;a href="https://www.facebook.com/walaw.press/photos/a.2177973949189035/3132482873738133/"&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/273471897_3132482923738128_2054558310258541946_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=110474&amp;_nc_ohc=m5pnqQCvFZ8AX-bK4xk&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT_-BxERDb0fyx_G4c9yf6AwK1QMgnb0vruMJQ2cf7Uclw&amp;oe=62CF5143" alt="Peut &amp;#xea;tre une image de 5 personnes, plein air et texte" width="500" height="282" caption="Peut &amp;#xea;tre une image de 5 personnes, plein air et texte" /&gt;&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw&lt;/a&gt;&lt;a href="https://www.facebook.com/walaw.press/photos/a.2177973949189035/3132482873738133/"&gt;&lt;/a&gt;&lt;p&gt;ترقبوا الحلقة الأولى من سلسلة شرح البرنامج الحكومي اوراش والذي سيبت صباح اليوم بالجريدة الإلكترونية ولو بريس على الساعة الحادية عشرة صباحا&lt;/p&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">https://fb.watch/a_cS8vmgv_/</title>
+		<published>2022-02-05T13:22:13+00:00</published>
+		<updated>2022-02-05T13:22:13+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ipXx9RH1ZQMN62FWryHFgWqCJxahHdomjdiaRSu2bHotx64BJjo8tZRA2fyPcLbjl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ipXx9RH1ZQMN62FWryHFgWqCJxahHdomjdiaRSu2bHotx64BJjo8tZRA2fyPcLbjl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid0ipXx9RH1ZQMN62FWryHFgWqCJxahHdomjdiaRSu2bHotx64BJjo8tZRA2fyPcLbjl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;p&gt;&lt;a href="https://fb.watch/a_cS8vmgv_/"&gt;https://fb.watch/a_cS8vmgv_/&lt;/a&gt;&lt;/p&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t15.5256-10/273257920_285295980193962_3704985983590011158_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=f2c4d5&amp;_nc_ohc=Sza0ige7FQQAX-JEYDT&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT9eIln4wVB5oXUoiVFZd0zMYpDIzFqsAFrSfH_EpxfaVA&amp;oe=62CF5338" /&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw&lt;/a&gt; était en direct.&lt;a href="https://www.facebook.com/walaw.press/videos/902598823747162/"&gt;&lt;/a&gt;&lt;p&gt;عاجل ومباشر..السلطات تطوق المكان استعداد لإخراج الطفل ريان&lt;/p&gt;</content>
+		
+		
+		
+	</entry>
+
+	<entry>
+		<title type="html">خريبكة نيوز     khouribga newsWalaw était en direct.عاجل ومباشرة من إقليم شفشاون...المغاربة...</title>
+		<published>2022-02-05T01:28:31+00:00</published>
+		<updated>2022-02-05T01:28:31+00:00</updated>
+		<id>https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02zAAB18SxdGorQRMCk8a1w7tqUWkdeybrSDYGBWmKzDKfExMXa7Qc7WFRGHu6AbKhl</id>
+		<link rel="alternate" type="text/html" href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02zAAB18SxdGorQRMCk8a1w7tqUWkdeybrSDYGBWmKzDKfExMXa7Qc7WFRGHu6AbKhl"/>
+		<author><name>‫خريبكة نيوز     khouribga news - Publications | Facebook‬</name></author>
+		<content type="html">&lt;a href="https://www.facebook.com/khouribganews.guantanamo/"&gt;&lt;img src="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.18169-1/14681853_1801431016762679_7010877804949733368_n.jpg?stp=cp0_dst-jpg_p50x50&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=dbb9e7&amp;_nc_ohc=nWpinmqQL84AX9JfbHT&amp;_nc_ht=scontent.fcmn2-1.fna&amp;oh=00_AT-fpSSNk9lZVTch9LdN-I1S9Hu1BbR9k7zCpRoA5yVKbQ&amp;oe=62F22D40" alt="" /&gt;&lt;/a&gt;&lt;a dir="rtl" href="https://www.facebook.com/khouribganews.guantanamo/"&gt;خريبكة نيوز     khouribga news&lt;/a&gt;&lt;a href="https://www.facebook.com/khouribganews.guantanamo/posts/pfbid02zAAB18SxdGorQRMCk8a1w7tqUWkdeybrSDYGBWmKzDKfExMXa7Qc7WFRGHu6AbKhl"&gt;&lt;/a&gt;&lt;i&gt;&lt;/i&gt;&lt;img src="https://scontent.fcmn2-2.fna.fbcdn.net/v/t15.5256-10/273323743_4155797244522905_2746658487488637574_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=f2c4d5&amp;_nc_ohc=XCaz6Qd0KqkAX_L5xiw&amp;_nc_ht=scontent.fcmn2-2.fna&amp;oh=00_AT8Fuzqg22g2qjc3z7FaHrh-BouMpoGxYvV53CbllxBwCQ&amp;oe=62D0E003" /&gt;&lt;a href="https://www.facebook.com/walaw.press/"&gt;Walaw&lt;/a&gt; était en direct.&lt;a href="https://www.facebook.com/walaw.press/videos/351238846630032/"&gt;&lt;/a&gt;&lt;p&gt;عاجل ومباشرة من إقليم شفشاون...المغاربة على أعصابهم وعملية الحفر الأخيرة لإنقاذ الطفل "ريان" متواصلة&lt;/p&gt;</content>
 		
 		
 		
