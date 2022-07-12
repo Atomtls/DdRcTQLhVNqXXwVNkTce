@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title type="text">Search: شوف تيفي الطلبة - YouTube</title>
-  <id>http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=%D8%B4%D9%88%D9%81+%D8%AA%D9%8A%D9%81%D9%8A+%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom</id>
+  <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
-  <updated>2022-07-12T14:38:45+00:00</updated>
+  <entry>
     <title type="html">من الدارالبيضاء....نايضة الروينة فقلب كلية الطب والصيدلة بسبب الاكتظاظ و ولوج طلبة أو.كرونيا</title>
     <published>2022-06-28T00:00:00+00:00</published>
     <updated>2022-06-28T00:00:00+00:00</updated>

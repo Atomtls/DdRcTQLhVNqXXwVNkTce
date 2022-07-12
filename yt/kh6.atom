@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title type="text">Search: "hespress" الطلبة - YouTube</title>
-  <id>http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=%22hespress%22+%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom</id>
+  <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
-  <updated>2022-07-12T14:40:14+00:00</updated>
+  <entry>
     <title type="html">طلبة الطب والصيدلة ينظمون وقفة وطنية بالرباط احتجاجا  ضد الاكتظاظ ويطالبون بتحسين ظروف التكوين</title>
     <published>2022-07-05T00:00:00+00:00</published>
     <updated>2022-07-05T00:00:00+00:00</updated>
