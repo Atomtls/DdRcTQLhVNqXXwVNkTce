@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">ONCF E-1451 TL 903 CASA VOYAGEUR KHOURIBGA PARTIE 1</title>
+    <published>2022-07-14T00:00:00+00:00</published>
+    <updated>2022-07-14T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=RNrPdk7BMWs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RNrPdk7BMWs"/>
+    <author>
+      <name>RAYAN TRAINZ AINDROID مصور قطارات مغربية</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=RNrPdk7BMWs"&gt;&lt;img src="https://img.youtube.com/vi/RNrPdk7BMWs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">Picine l3agrabe khouribga 3amer bazaf lharara</title>
     <published>2022-07-13T00:00:00+00:00</published>
     <updated>2022-07-13T00:00:00+00:00</updated>
@@ -35,17 +46,6 @@
       <name>Scout Football Players</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=IirF2hxaL_k"&gt;&lt;img src="https://img.youtube.com/vi/IirF2hxaL_k/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Résultats CPGE MPSI Khouribga et BENI MELLAL 2023 par ordre alphabetique</title>
-    <published>2022-07-08T00:00:00+00:00</published>
-    <updated>2022-07-08T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=QsqTVjm0U1A</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QsqTVjm0U1A"/>
-    <author>
-      <name>INGENIEUR Prof توجيه ومعرفة</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QsqTVjm0U1A"&gt;&lt;img src="https://img.youtube.com/vi/QsqTVjm0U1A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">Institut Lina Privee Khouribga 2022</title>
@@ -209,17 +209,6 @@ Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم</
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=pI6KOY_15VM"&gt;&lt;img src="https://img.youtube.com/vi/pI6KOY_15VM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">BLUE DROP : KHOTBI HAMZA - MAARIF YAHYA - TAKHIM OTHMANE / CFP Khouribga</title>
-    <published>2022-06-19T00:00:00+00:00</published>
-    <updated>2022-06-19T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=TDzw7Torc-c</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=TDzw7Torc-c"/>
-    <author>
-      <name>Odyssées Régionales</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=TDzw7Torc-c"&gt;&lt;img src="https://img.youtube.com/vi/TDzw7Torc-c/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">QUICK PARC :  HAJAR EL MANSOURI / CFP Khouribga</title>
     <published>2022-06-19T00:00:00+00:00</published>
     <updated>2022-06-19T00:00:00+00:00</updated>
@@ -284,5 +273,16 @@ Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم</
       <name>Odyssées Régionales</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=bySkBCQnFSc"&gt;&lt;img src="https://img.youtube.com/vi/bySkBCQnFSc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">MACHINE RECYCLAGE PLASTIQUE :  ABDELKADER HARZANI / CFP Khouribga</title>
+    <published>2022-06-19T00:00:00+00:00</published>
+    <updated>2022-06-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=L2Q754YPKxA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=L2Q754YPKxA"/>
+    <author>
+      <name>Odyssées Régionales</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=L2Q754YPKxA"&gt;&lt;img src="https://img.youtube.com/vi/L2Q754YPKxA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
