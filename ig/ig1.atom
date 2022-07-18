@@ -1,66 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">babaloo.food - Instagram Bridge</title>
+  <icon>https://www.instagram.com//favicon.ico</icon>
+  <logo>https://www.instagram.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19191)</title>
-    <published>2022-07-18T11:09:47+00:00</published>
-    <updated>2022-07-18T11:09:47+00:00</updated>
-    <id>urn:sha1:1d27f0d6346130e8958c8cca4061e88aec940f75</id>
-    <content type="html">&lt;section&gt;
-    &lt;p class="exception-message"&gt;
-        Uncaught Exception HttpException: Could not resolve host: www.instagram.com (6) at lib/contents.php line 208    &lt;/p&gt;
-
-                        &lt;code&gt;
-                #0 index.php:32            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #1 actions/DisplayAction.php:136            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #2 bridges/InstagramBridge.php:127            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #3 bridges/InstagramBridge.php:278            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #4 bridges/InstagramBridge.php:92            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #5 lib/contents.php:89            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #6 lib/contents.php:208            &lt;/code&gt;
-            &lt;br&gt;
-            
-    &lt;br&gt;
-
-    &lt;p&gt;
-        Query string: action=display&amp;amp;bridge=InstagramBridge&amp;amp;context=Username&amp;amp;u=babaloo.food&amp;amp;media_type=all&amp;amp;format=Atom    &lt;/p&gt;
-    &lt;p&gt;
-        Version: git.master.64c8d4a    &lt;/p&gt;
-
-    &lt;div class="advice"&gt;
-        &lt;ul class="advice"&gt;
-            &lt;li&gt;Press Return to check your input parameters&lt;/li&gt;
-            &lt;li&gt;Press F5 to retry&lt;/li&gt;
-            &lt;li&gt;Check if this issue was already reported on &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+babaloo.food+-+Instagram+Bridge"&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;
-            &lt;li&gt;Open a &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=babaloo.food+-+Instagram+Bridge+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Could+not+resolve+host%3A+www.instagram.com+%286%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FInstagramBridge.php%3A127%0A%233+bridges%2FInstagramBridge.php%3A278%0A%234+bridges%2FInstagramBridge.php%3A92%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DInstagramBridge%26context%3DUsername%26u%3Dbabaloo.food%26media_type%3Dall%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer"&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+babaloo.food+-+Instagram+Bridge" title="Opens GitHub to search for similar issues"&gt;
-        &lt;button&gt;Search GitHub Issues&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=babaloo.food+-+Instagram+Bridge+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Could+not+resolve+host%3A+www.instagram.com+%286%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FInstagramBridge.php%3A127%0A%233+bridges%2FInstagramBridge.php%3A278%0A%234+bridges%2FInstagramBridge.php%3A92%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DInstagramBridge%26context%3DUsername%26u%3Dbabaloo.food%26media_type%3Dall%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
-        &lt;button&gt;Open GitHub Issue&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;p class="maintainer"&gt;No maintainer&lt;/p&gt;
-&lt;/section&gt;
-
-</content>
+    <title type="html">A l'occasion de  Aïd Al Adha nous informons notre aimable clientèle que votre restaurant Babaloo Food  sera fermé du ...</title>
+    <published>2022-07-08T23:58:44+00:00</published>
+    <updated>2022-07-08T23:58:44+00:00</updated>
+    <id>https://www.instagram.com/p/CfxUSSqqM6-/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/CfxUSSqqM6-/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;a href="https://www.instagram.com/p/CfxUSSqqM6-/" target="_blank"&gt;&lt;img src="https://www.instagram.com/p/CfxUSSqqM6-/media?size=l" alt="A l'occasion de  Aïd Al Adha nous informons notre aimable clientèle que votre restaurant Babaloo Food  sera fermé du ..." /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;A l'occasion de  A&amp;iuml;d Al Adha nous informons notre aimable client&amp;egrave;le que votre restaurant Babaloo Food  sera ferm&amp;eacute; du  09/07 au 13/07 (l'apr&amp;egrave;s midi) inclus. &lt;br /&gt;
+Nous vous retrouvons pour la r&amp;eacute;ouverture le Mercredi 13 Juillet &amp;agrave; partir de 19h00 ! &lt;br /&gt;
+Merci de votre compr&amp;eacute;hension et Aid Adha Mubarak 🙏&lt;br /&gt;
+تقبل الله منا ومنكم صالح الأعمال!&lt;br /&gt;
+&lt;a href="https://www.instagram.com/explore/tags/babaloo"&gt;#babaloo&lt;/a&gt; &lt;a href="https://www.instagram.com/explore/tags/restaurant"&gt;#restaurant&lt;/a&gt; &lt;a href="https://www.instagram.com/explore/tags/fastfood"&gt;#fastfood&lt;/a&gt; &lt;a href="https://www.instagram.com/explore/tags/eljadida"&gt;#eljadida&lt;/a&gt; &lt;a href="https://www.instagram.com/explore/tags/a"&gt;#a&lt;/a&gt;&amp;iuml;daladha</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/CfxUSSqqM6-/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">▶ Babaloo 😍🔥...</title>
+    <published>2022-06-30T21:14:12+00:00</published>
+    <updated>2022-06-30T21:14:12+00:00</updated>
+    <id>https://www.instagram.com/p/CfcbBQjKoxl/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/CfcbBQjKoxl/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;video controls&gt;&lt;source src="https://instagram.fcmn3-1.fna.fbcdn.net/v/t50.2886-16/290974545_2107438726123815_8411205320813164279_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&amp;_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&amp;_nc_cat=103&amp;_nc_ohc=lfNcOK7DRkgAX-71iqi&amp;edm=APU89FABAAAA&amp;vs=763466161452024_4294064155&amp;_nc_vs=HBksFQAYJEdGSHJWeEVuRWFoUXRId0hBUGUyOGJfc21ycDBicV9FQUFBRhUAAsgBABUAGCRHRF9CVmhFY3VBMVlCb29CQUZfeDEtd1Y5aU1JYnFfRUFBQUYVAgLIAQAoABgAGwAVAAAmlsWMvteU6D8VAigCQzMsF0Aku2RaHKwIGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&amp;_nc_rid=d6cdf37120&amp;ccb=7-5&amp;oe=62D794A8&amp;oh=00_AT95TzZtmFJBmrqvRS5Bh0QR7g5jIvgsZeN3zbgbhU6nBA&amp;_nc_sid=86f79a" poster="https://www.instagram.com/p/CfcbBQjKoxl/media?size=l" type="video/mp4"&gt;&lt;img src="https://www.instagram.com/p/CfcbBQjKoxl/media?size=l" alt=""&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;Babaloo 😍🔥&lt;br /&gt;
+&lt;br /&gt;
+📹: @ayub_hammada &lt;br /&gt;
+&lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+#food #eljadida #babaloo #hey_el_matar #heyelmatar #maroc #reels #reelsinstagram #reelsvideo #reelsviral #reelsinstagram #explorepage #explorepage #exploretheworld #trendingreels</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/CfcbBQjKoxl/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">▶ شنو أحسن طبق عجبك 😍😋...</title>
+    <published>2022-06-17T23:15:34+00:00</published>
+    <updated>2022-06-17T23:15:34+00:00</updated>
+    <id>https://www.instagram.com/p/Ce7Kj6_qtgc/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/Ce7Kj6_qtgc/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;video controls&gt;&lt;source src="https://instagram.fcmn3-2.fna.fbcdn.net/v/t50.2886-16/288183115_502148521664363_238770455834911139_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&amp;_nc_ht=instagram.fcmn3-2.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=YYltDJKaNSYAX8HL97-&amp;edm=APU89FABAAAA&amp;vs=401475441921473_4238907280&amp;_nc_vs=HBksFQAYJEdFdFRMUkZySDBLUXM4Z0JBS1BoNWVwMlNGQURicV9FQUFBRhUAAsgBABUAGCRHQlYtRlJHNENNazdsMFFFQUZoWHlEWE1qcGtoYnFfRUFBQUYVAgLIAQAoABgAGwAVAAAm3rWRoMnslUAVAigCQzMsF0AUZmZmZmZmGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&amp;_nc_rid=d6cdfe4cdb&amp;ccb=7-5&amp;oe=62D79775&amp;oh=00_AT-q02VwODe-4Jb-ai4PJVVv9abjczS1ukAAH_ForOgqmQ&amp;_nc_sid=86f79a" poster="https://www.instagram.com/p/Ce7Kj6_qtgc/media?size=l" type="video/mp4"&gt;&lt;img src="https://www.instagram.com/p/Ce7Kj6_qtgc/media?size=l" alt=""&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;شنو أحسن طبق عجبك 😍😋&lt;br /&gt;
+&lt;br /&gt;
+📹: @ayub_hammada &lt;br /&gt;
+&lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+#food #eljadida #babaloo #hey_el_matar #heyelmatar #maroc #reels #reelsinstagram #reelsvideo #reelsviral #reelsinstagram #explorepage #explorepage #exploretheworld #trendingreels</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/Ce7Kj6_qtgc/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">▶ 😋😂 ساندويش و مندويش...</title>
+    <published>2022-06-09T21:15:13+00:00</published>
+    <updated>2022-06-09T21:15:13+00:00</updated>
+    <id>https://www.instagram.com/p/CemUs-mq4sE/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/CemUs-mq4sE/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;video controls&gt;&lt;source src="https://instagram.fcmn3-2.fna.fbcdn.net/v/t50.2886-16/10000000_441298660667878_5035724118830157589_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&amp;_nc_ht=instagram.fcmn3-2.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=CrkWQ5ExX_oAX-KQB-O&amp;tn=2MiKZPWtzqE_Kzph&amp;edm=APU89FABAAAA&amp;vs=691214708632426_2838467335&amp;_nc_vs=HBksFQAYJEdJQ1dtQURtc2VqWlc1RUJBQlVQdmRsbmZPSkZicV9FQUFBRhUAAsgBABUAGCRHUFRER0JHM0tiWkRGbTBDQU5reTJHTkhWWjE4YnFfRUFBQUYVAgLIAQAoABgAGwAVAAAmotic%2BbCo4T8VAigCQzMsF0BKndLxqfvnGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&amp;_nc_rid=d6cdf08284&amp;ccb=7-5&amp;oe=62D77C65&amp;oh=00_AT8ALK5HK6b3eC5PD-1tZQqFsJC6EVZLEoq7-b99US5MeA&amp;_nc_sid=86f79a" poster="https://www.instagram.com/p/CemUs-mq4sE/media?size=l" type="video/mp4"&gt;&lt;img src="https://www.instagram.com/p/CemUs-mq4sE/media?size=l" alt=""&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;😋😂 ساندويش و مندويش&lt;br /&gt;
+&lt;br /&gt;
+📹: @ayub_hammada &lt;br /&gt;
+&lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+#food #eljadida #babaloo #hey_el_matar #heyelmatar #maroc #reels #reelsinstagram #reelsvideo #reelsviral #reelsinstagram #explorepage #explorepage #exploretheworld #trendingreels</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/CemUs-mq4sE/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">▶ Le seul et l'unique restaurant qui vous donne l'opportunité de composé votre salade !...</title>
+    <published>2022-06-06T17:18:29+00:00</published>
+    <updated>2022-06-06T17:18:29+00:00</updated>
+    <id>https://www.instagram.com/p/CeeM-x4KPYB/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/CeeM-x4KPYB/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;video controls&gt;&lt;source src="https://instagram.fcmn3-1.fna.fbcdn.net/v/t50.2886-16/10000000_157795753447617_5165398029364832605_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&amp;_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=gd7EDXPDtdgAX-3BNbw&amp;tn=2MiKZPWtzqE_Kzph&amp;edm=APU89FABAAAA&amp;vs=758342208913895_2792280200&amp;_nc_vs=HBksFQAYJEdJQ1dtQURCME5Tdmc0OEFBRjBweV9jakxxOUhicV9FQUFBRhUAAsgBABUAGCRHQVdPRmhGa1FmUUNKNzRMQUtBaHBmSm5qX0V0YnFfRUFBQUYVAgLIAQAoABgAGwAVAAAm4IHH2pzV2UAVAigCQzMsF0BHxDlYEGJOGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&amp;_nc_rid=d6cdfd347b&amp;ccb=7-5&amp;oe=62D778D9&amp;oh=00_AT_BZ3ZS7q44iiydljbq-G7duZGE4Kxw3MJm8ktfKZ1vtg&amp;_nc_sid=86f79a" poster="https://www.instagram.com/p/CeeM-x4KPYB/media?size=l" type="video/mp4"&gt;&lt;img src="https://www.instagram.com/p/CeeM-x4KPYB/media?size=l" alt=""&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;Le seul et l'unique restaurant qui vous donne l'opportunit&amp;eacute; de compos&amp;eacute; votre salade !&lt;br /&gt;
+Et oui ! Chez Babaloo, vous composez votre salade de A &amp;agrave; Z 🥗 . &lt;br /&gt;
+&lt;br /&gt;
+📹: @ayub_hammada &lt;br /&gt;
+&lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+#food #eljadida #babaloo #hey_el_matar #heyelmatar #maroc #reels #reelsinstagram #reelsvideo #reelsviral #reelsinstagram #explorepage #explorepage #exploretheworld #trendingreels</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/CeeM-x4KPYB/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">▶ بووووم بوووم 💣💥💥...</title>
+    <published>2022-06-05T13:31:32+00:00</published>
+    <updated>2022-06-05T13:31:32+00:00</updated>
+    <id>https://www.instagram.com/p/CebL__lqqdX/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/CebL__lqqdX/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;video controls&gt;&lt;source src="https://instagram.fcmn3-2.fna.fbcdn.net/v/t50.2886-16/285139614_1391010671326151_1707766219418113138_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&amp;_nc_ht=instagram.fcmn3-2.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=7lV09QinmboAX9sx7w-&amp;edm=APU89FABAAAA&amp;vs=324958709835565_1999516632&amp;_nc_vs=HBksFQAYJEdKN2ktaERIYy1Ib0hmRUVBSElVMUJOVU5MTVhicV9FQUFBRhUAAsgBABUAGCRHQUFGQWhHaUIwYzdfdVVHQUZNV0JMajZhYmtnYnFfRUFBQUYVAgLIAQAoABgAGwAVAAAmqsHplquOlUAVAigCQzMsF0Ald0vGp%2B%2BeGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&amp;_nc_rid=d6cdf01f68&amp;ccb=7-5&amp;oe=62D79360&amp;oh=00_AT_hJIr4gUVBypg1ewwv_sIkbgN6x1gWtUderX3uT_IS4g&amp;_nc_sid=86f79a" poster="https://www.instagram.com/p/CebL__lqqdX/media?size=l" type="video/mp4"&gt;&lt;img src="https://www.instagram.com/p/CebL__lqqdX/media?size=l" alt=""&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;بووووم بوووم 💣💥💥&lt;br /&gt;
+هكا تقدرو تشاركو معانا تعاليقكم ب شنو كعجبكم شي بابالو .</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/CebL__lqqdX/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">▶ Pasticcio VH 🤤❤️...</title>
+    <published>2022-05-27T18:23:45+00:00</published>
+    <updated>2022-05-27T18:23:45+00:00</updated>
+    <id>https://www.instagram.com/p/CeEkWJ2qan8/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/CeEkWJ2qan8/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;video controls&gt;&lt;source src="https://instagram.fcmn3-1.fna.fbcdn.net/v/t50.2886-16/10000000_558260655919780_6749381852639393192_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&amp;_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&amp;_nc_cat=104&amp;_nc_ohc=gp0x5JP24GkAX-MEQOP&amp;edm=APU89FABAAAA&amp;vs=1017462108943744_1697475624&amp;_nc_vs=HBksFQAYJEdJQ1dtQUNra2hZd3ZQc0JBS2oxQ1FRSm42cGRicV9FQUFBRhUAAsgBABUAGCRHTGVGNlJBSEpBZmR6VzRFQVAxVlBVNmswYWNTYnFfRUFBQUYVAgLIAQAoABgAGwAVAAAmjp%2Br74%2Fv6z8VAigCQzMsF0BGYgxJul41GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&amp;_nc_rid=d6cdf63b06&amp;ccb=7-5&amp;oe=62D7E390&amp;oh=00_AT9shWYm8nrhDxZwODJQ8BgVoQKtiTENZZkfYxHckrVzXw&amp;_nc_sid=86f79a" poster="https://www.instagram.com/p/CeEkWJ2qan8/media?size=l" type="video/mp4"&gt;&lt;img src="https://www.instagram.com/p/CeEkWJ2qan8/media?size=l" alt=""&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;Pasticcio VH 🤤❤️&lt;br /&gt;
+&lt;br /&gt;
+📹: @ayub_hammada &lt;br /&gt;
+&lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+#food #eljadida #babaloo #hey_el_matar #heyelmatar #maroc #reels #reelsinstagram #reelsvideo #reelsviral #reelsinstagram #explorepage #explorepage #exploretheworld #trendingreels</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/CeEkWJ2qan8/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">▶ 🤤❤️...</title>
+    <published>2022-05-21T17:59:35+00:00</published>
+    <updated>2022-05-21T17:59:35+00:00</updated>
+    <id>https://www.instagram.com/p/Cd1E8bxqwKp/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/Cd1E8bxqwKp/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;video controls&gt;&lt;source src="https://instagram.fcmn3-2.fna.fbcdn.net/v/t50.2886-16/282542637_2307144529435661_2156512758074668672_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&amp;_nc_ht=instagram.fcmn3-2.fna.fbcdn.net&amp;_nc_cat=105&amp;_nc_ohc=dRTgOYnS3acAX8eaSLP&amp;edm=APU89FABAAAA&amp;vs=429363458527806_905510868&amp;_nc_vs=HBksFQAYJEdDMUMxeEFOWEIteVZUSUlBSUIybzRMdGVPMGRicV9FQUFBRhUAAsgBABUAGCRHRmtkeUJCcTVodGlxWjBDQUMxTUpYY2IyWXhsYnFfRUFBQUYVAgLIAQAoABgAGwAVAAAmjNe1spX3zj8VAigCQzMsF0A7MzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&amp;_nc_rid=d6cdf3259a&amp;ccb=7-5&amp;oe=62D7A134&amp;oh=00_AT9cF_936JOVhpw0dO9GrlsRU-edEy85F-fp1R39rlT4fg&amp;_nc_sid=86f79a" poster="https://www.instagram.com/p/Cd1E8bxqwKp/media?size=l" type="video/mp4"&gt;&lt;img src="https://www.instagram.com/p/Cd1E8bxqwKp/media?size=l" alt=""&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;🤤❤️&lt;br /&gt;
+&lt;br /&gt;
+📹: @ayub_hammada &lt;br /&gt;
+&lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+@babaloo.food &lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+#food #eljadida #babaloo #hey_el_matar #heyelmatar #maroc #reels #reelsinstagram #reelsvideo #reelsviral #reelsinstagram #explorepage #explorepage #exploretheworld #trendingreels</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/Cd1E8bxqwKp/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">▶ (no text)</title>
+    <published>2022-05-20T16:11:18+00:00</published>
+    <updated>2022-05-20T16:11:18+00:00</updated>
+    <id>https://www.instagram.com/p/CdyTdb_KdqV/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/CdyTdb_KdqV/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;video controls&gt;&lt;source src="https://instagram.fcmn3-2.fna.fbcdn.net/v/t50.2886-16/281343925_163879712763442_4853173591901761152_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&amp;_nc_ht=instagram.fcmn3-2.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=URQwJERDl6IAX-IbJ5s&amp;edm=APU89FABAAAA&amp;vs=726059358531685_225728908&amp;_nc_vs=HBksFQAYJEdMWDN4QkF5cmhBNERKVUFBSUJ1bkNxcjcxbERicV9FQUFBRhUAAsgBABUAGCRHT1Bqd2hETlBwUVFlWHdDQUlPa3MwbzFFb0JkYnFfRUFBQUYVAgLIAQAoABgAGwAVAAAmyOus2%2BTHwT8VAigCQzMsF0AnzMzMzMzNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&amp;_nc_rid=d6cdfbf083&amp;ccb=7-5&amp;oe=62D7ED25&amp;oh=00_AT-GYP_3mdsnX4qa6FbZRIjNRPHROfXdEeXPKuRCmhSt4g&amp;_nc_sid=86f79a" poster="https://www.instagram.com/p/CdyTdb_KdqV/media?size=l" type="video/mp4"&gt;&lt;img src="https://www.instagram.com/p/CdyTdb_KdqV/media?size=l" alt=""&gt;&lt;/video&gt;&lt;br&gt;&lt;br&gt;(no text)</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/CdyTdb_KdqV/media?size=l"/>
+  </entry>
+  <entry>
+    <title type="html">Restaurant "Babaloo" RECRUTE !!!!🔥⚡️💥🚧🎉🎊⛔️⚠️...</title>
+    <published>2022-05-16T11:50:31+00:00</published>
+    <updated>2022-05-16T11:50:31+00:00</updated>
+    <id>https://www.instagram.com/p/Cdni0PeIIG1/</id>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/Cdni0PeIIG1/"/>
+    <author>
+      <name>babaloo.food</name>
+    </author>
+    <content type="html">&lt;a href="https://www.instagram.com/p/Cdni0PeIIG1/" target="_blank"&gt;&lt;img src="https://www.instagram.com/p/Cdni0PeIIG1/media?size=l" alt="Restaurant "Babaloo" RECRUTE !!!!🔥⚡️💥🚧🎉🎊⛔️⚠️..." /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;Restaurant &amp;quot;Babaloo&amp;quot; RECRUTE !!!!🔥⚡️💥🚧🎉🎊⛔️⚠️&lt;br /&gt;
+TITRE du poste : Caissi&amp;egrave;re&lt;br /&gt;
+Lieu de travail : El jadida&lt;br /&gt;
+Missions : ex&amp;eacute;cution des taches du poste caissier.&lt;br /&gt;
+Profil requis : - Exp&amp;eacute;rience dans le m&amp;ecirc;me poste.&lt;br /&gt;
+ - Familier avec les syst&amp;egrave;mes de caisse.&lt;br /&gt;
+ * Crit&amp;egrave;res souhaitables : (cr&amp;eacute;ative, disciplin&amp;eacute;e et &lt;br /&gt;
+  suivre les instructions du sup&amp;eacute;rieur hi&amp;eacute;rarchique)&lt;br /&gt;
+Nous vous offrons : - Une formation sur le &lt;br /&gt;
+  syst&amp;egrave;me utilis&amp;eacute; du caisse.&lt;br /&gt;
+ - P&amp;eacute;riode d'essai d'une &lt;br /&gt;
+  semaine.&lt;br /&gt;
+Modalit&amp;eacute;s de candidature : Envoyez vos CV et vos contacts par WHATSUP au numero : 06.01.0615.70&lt;br /&gt;
+Salaire: &amp;agrave; discuter.</content>
+    <link rel="enclosure" type="application/octet-stream" href="https://www.instagram.com/p/Cdni0PeIIG1/media?size=l"/>
   </entry>
 </feed>
