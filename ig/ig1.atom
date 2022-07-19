@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">babaloo.food - Instagram Bridge</title>
-  <icon>https://www.instagram.com//favicon.ico</icon>
-  <logo>https://www.instagram.com//favicon.ico</logo>
+  <title type="text"></title>
+  <icon>https://github.com/favicon.ico</icon>
+  <logo>https://github.com/favicon.ico</logo>
+  <entry>
+    <title type="html">Bridge returned error 500! (19192)</title>
+    <published>2022-07-19T23:10:41+00:00</published>
+    <updated>2022-07-19T23:10:41+00:00</updated>
+    <id>urn:sha1:30dbb0aed4b334731e19752c9bd88e717098eeec</id>
+    <content type="html">&lt;section&gt;
+    &lt;p class="exception-message"&gt;
+        Uncaught Exception Exception: Unable to find username in search result. at lib/error.php line 26    &lt;/p&gt;
+
+                        &lt;code&gt;
+                #0 index.php:32            &lt;/code&gt;
+            &lt;br&gt;
+                    &lt;code&gt;
+                #1 actions/DisplayAction.php:136            &lt;/code&gt;
+            &lt;br&gt;
+                    &lt;code&gt;
+                #2 bridges/InstagramBridge.php:127            &lt;/code&gt;
+            &lt;br&gt;
+                    &lt;code&gt;
+                #3 bridges/InstagramBridge.php:272            &lt;/code&gt;
+            &lt;br&gt;
+                    &lt;code&gt;
+                #4 bridges/InstagramBridge.php:116            &lt;/code&gt;
+            &lt;br&gt;
+                    &lt;code&gt;
+                #5 lib/error.php:46            &lt;/code&gt;
+            &lt;br&gt;
+                    &lt;code&gt;
+                #6 lib/error.php:26            &lt;/code&gt;
+            &lt;br&gt;
+            
+    &lt;br&gt;
+
+    &lt;p&gt;
+        Query string: action=display&amp;amp;bridge=InstagramBridge&amp;amp;context=Username&amp;amp;u=babaloo.food&amp;amp;media_type=all&amp;amp;format=Atom    &lt;/p&gt;
+    &lt;p&gt;
+        Version: git.master.64c8d4a    &lt;/p&gt;
+
+    &lt;div class="advice"&gt;
+        &lt;ul class="advice"&gt;
+            &lt;li&gt;Press Return to check your input parameters&lt;/li&gt;
+            &lt;li&gt;Press F5 to retry&lt;/li&gt;
+            &lt;li&gt;Check if this issue was already reported on &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+babaloo.food+-+Instagram+Bridge"&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;
+            &lt;li&gt;Open a &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=babaloo.food+-+Instagram+Bridge+failed+with+error+500&amp;body=%60%60%60%0AUncaught+Exception+Exception%3A+Unable+to+find+username+in+search+result.+at+lib%2Ferror.php+line+26%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FInstagramBridge.php%3A127%0A%233+bridges%2FInstagramBridge.php%3A272%0A%234+bridges%2FInstagramBridge.php%3A116%0A%235+lib%2Ferror.php%3A46%0A%236+lib%2Ferror.php%3A26%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DInstagramBridge%26context%3DUsername%26u%3Dbabaloo.food%26media_type%3Dall%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer"&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+
+    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+babaloo.food+-+Instagram+Bridge" title="Opens GitHub to search for similar issues"&gt;
+        &lt;button&gt;Search GitHub Issues&lt;/button&gt;
+    &lt;/a&gt;
+
+    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=babaloo.food+-+Instagram+Bridge+failed+with+error+500&amp;body=%60%60%60%0AUncaught+Exception+Exception%3A+Unable+to+find+username+in+search+result.+at+lib%2Ferror.php+line+26%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FInstagramBridge.php%3A127%0A%233+bridges%2FInstagramBridge.php%3A272%0A%234+bridges%2FInstagramBridge.php%3A116%0A%235+lib%2Ferror.php%3A46%0A%236+lib%2Ferror.php%3A26%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DInstagramBridge%26context%3DUsername%26u%3Dbabaloo.food%26media_type%3Dall%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
+        &lt;button&gt;Open GitHub Issue&lt;/button&gt;
+    &lt;/a&gt;
+
+    &lt;p class="maintainer"&gt;No maintainer&lt;/p&gt;
+&lt;/section&gt;
+
+</content>
+  </entry>
 </feed>
