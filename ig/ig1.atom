@@ -4,10 +4,10 @@
   <icon>https://github.com/favicon.ico</icon>
   <logo>https://github.com/favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 500! (19192)</title>
-    <published>2022-07-19T23:10:41+00:00</published>
-    <updated>2022-07-19T23:10:41+00:00</updated>
-    <id>urn:sha1:30dbb0aed4b334731e19752c9bd88e717098eeec</id>
+    <title type="html">Bridge returned error 500! (19193)</title>
+    <published>2022-07-20T02:09:57+00:00</published>
+    <updated>2022-07-20T02:09:57+00:00</updated>
+    <id>urn:sha1:6fd970b61ebf574db82d20d9f1cc17a8848147cd</id>
     <content type="html">&lt;section&gt;
     &lt;p class="exception-message"&gt;
         Uncaught Exception Exception: Unable to find username in search result. at lib/error.php line 26    &lt;/p&gt;
