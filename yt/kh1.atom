@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">الحفل الختامي لجمعية الوحدة لمربي و مربيات التعليم الاولي بمدينة خريبكة...</title>
+    <published>2022-07-21T00:00:00+00:00</published>
+    <updated>2022-07-21T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ollWpHZrLW4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ollWpHZrLW4"/>
+    <author>
+      <name>Almouaten24 - المواطن 24</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ollWpHZrLW4"&gt;&lt;img src="https://img.youtube.com/vi/ollWpHZrLW4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">خريبكة مدينة بلا ماء</title>
     <published>2022-07-20T00:00:00+00:00</published>
     <updated>2022-07-20T00:00:00+00:00</updated>
@@ -249,16 +260,5 @@ Akhbar Almaghrib&lt;br /&gt;
       <name>Anas Laabaid vero</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=FA0aRUQru2M"&gt;&lt;img src="https://img.youtube.com/vi/FA0aRUQru2M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;اشتركوا في قنات.    anas laabaid vero</content>
-  </entry>
-  <entry>
-    <title type="html">كراكج خيالي الجماهير المغرب الفاسي أمامة أولامبيك خريبكة 🔥🔥</title>
-    <published>2022-07-19T00:00:00+00:00</published>
-    <updated>2022-07-19T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=VdBMT04nksI</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=VdBMT04nksI"/>
-    <author>
-      <name>MC MACHHOUR</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=VdBMT04nksI"&gt;&lt;img src="https://img.youtube.com/vi/VdBMT04nksI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
