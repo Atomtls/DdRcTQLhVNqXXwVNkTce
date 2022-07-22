@@ -186,17 +186,6 @@ Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم</
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=pI6KOY_15VM"&gt;&lt;img src="https://img.youtube.com/vi/pI6KOY_15VM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">BLUE DROP : KHOTBI HAMZA - MAARIF YAHYA - TAKHIM OTHMANE / CFP Khouribga</title>
-    <published>2022-06-19T00:00:00+00:00</published>
-    <updated>2022-06-19T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=TDzw7Torc-c</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=TDzw7Torc-c"/>
-    <author>
-      <name>Odyssées Régionales</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=TDzw7Torc-c"&gt;&lt;img src="https://img.youtube.com/vi/TDzw7Torc-c/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">QUICK PARC :  HAJAR EL MANSOURI / CFP Khouribga</title>
     <published>2022-06-19T00:00:00+00:00</published>
     <updated>2022-06-19T00:00:00+00:00</updated>
@@ -250,5 +239,16 @@ Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم</
       <name>Odyssées Régionales</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=IMnVOYWxjsw"&gt;&lt;img src="https://img.youtube.com/vi/IMnVOYWxjsw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">SIEMI :  ABDELMOUNIM BOUDIAR - ISMAIL OUBOURAGHN / CFP Khouribga</title>
+    <published>2022-06-19T00:00:00+00:00</published>
+    <updated>2022-06-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=bySkBCQnFSc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bySkBCQnFSc"/>
+    <author>
+      <name>Odyssées Régionales</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=bySkBCQnFSc"&gt;&lt;img src="https://img.youtube.com/vi/bySkBCQnFSc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
