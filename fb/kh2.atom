@@ -4,10 +4,10 @@
   <icon>https://github.com/favicon.ico</icon>
   <logo>https://github.com/favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19196)</title>
-    <published>2022-07-23T23:01:19+00:00</published>
-    <updated>2022-07-23T23:01:19+00:00</updated>
-    <id>urn:sha1:e0a1f314ddbc122025cc1dc5080b421d12870b14</id>
+    <title type="html">Bridge returned error 0! (19197)</title>
+    <published>2022-07-24T02:01:18+00:00</published>
+    <updated>2022-07-24T02:01:18+00:00</updated>
+    <id>urn:sha1:fe6c26029b9da14ddf6279fd6e9cf030e364034b</id>
     <content type="html">&lt;section&gt;
     &lt;p class="exception-message"&gt;
         Uncaught Exception HttpException: Failed to connect to www.facebook.com port 443: Network is unreachable (7) at lib/contents.php line 208    &lt;/p&gt;
