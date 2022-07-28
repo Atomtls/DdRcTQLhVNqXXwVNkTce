@@ -1,66 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19200)</title>
-    <published>2022-07-27T20:06:07+00:00</published>
-    <updated>2022-07-27T20:06:07+00:00</updated>
-    <id>urn:sha1:df9eb0903f412ddff92d4defedc4ff95b8d20d88</id>
-    <content type="html">&lt;section&gt;
-    &lt;p class="exception-message"&gt;
-        Uncaught Exception HttpException: Failed to connect to www.youtube.com port 443: Network is unreachable (7) at lib/contents.php line 208    &lt;/p&gt;
-
-                        &lt;code&gt;
-                #0 index.php:32            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #1 actions/DisplayAction.php:136            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #2 bridges/YoutubeBridge.php:398            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #3 bridges/YoutubeBridge.php:227            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #4 lib/contents.php:262            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #5 lib/contents.php:89            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #6 lib/contents.php:208            &lt;/code&gt;
-            &lt;br&gt;
-            
-    &lt;br&gt;
-
-    &lt;p&gt;
-        Query string: action=display&amp;amp;bridge=Youtube&amp;amp;context=Search+result&amp;amp;s=%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/p&gt;
-    &lt;p&gt;
-        Version: git.master.64c8d4a    &lt;/p&gt;
-
-    &lt;div class="advice"&gt;
-        &lt;ul class="advice"&gt;
-            &lt;li&gt;Press Return to check your input parameters&lt;/li&gt;
-            &lt;li&gt;Press F5 to retry&lt;/li&gt;
-            &lt;li&gt;Check if this issue was already reported on &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube"&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;
-            &lt;li&gt;Open a &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Failed+to+connect+to+www.youtube.com+port+443%3A+Network+is+unreachable+%287%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FYoutubeBridge.php%3A398%0A%233+bridges%2FYoutubeBridge.php%3A227%0A%234+lib%2Fcontents.php%3A262%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92"&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-        &lt;button&gt;Search GitHub Issues&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Failed+to+connect+to+www.youtube.com+port+443%3A+Network+is+unreachable+%287%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FYoutubeBridge.php%3A398%0A%233+bridges%2FYoutubeBridge.php%3A227%0A%234+lib%2Fcontents.php%3A262%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-        &lt;button&gt;Open GitHub Issue&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;p class="maintainer"&gt;em92&lt;/p&gt;
-&lt;/section&gt;
-
-</content>
+    <title type="html">الأهداف سعيد كرادة لاعب أولمبيك خريبكة ومغرب التطواني سابقا</title>
+    <published>2022-07-27T00:00:00+00:00</published>
+    <updated>2022-07-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zFeSwEkkU8s</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zFeSwEkkU8s"/>
+    <author>
+      <name>rajawi mn bkri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zFeSwEkkU8s"&gt;&lt;img src="https://img.youtube.com/vi/zFeSwEkkU8s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/%D9%84%D8%A7%D8%AA%D9%86%D8%B3%D9%89_%D9%84%D8%A7%D9%8A%D9%83_%D9%88%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83_%D8%A8%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D9%84%D9%8A%D8%B5%D9%84%D9%83_%D9%83%D9%84_%D8%AC%D8%AF%D9%8A%D8%AF" target="_blank"&gt;#لاتنسى_لايك_واشتراك_بالقناة_ليصلك_كل_جديد&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D9%81_%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9" target="_blank"&gt;#الأهداف_سعيد_الكرادة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9" target="_blank"&gt;#سعيد_الكرادة&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عبدات الرمى خريبكة جواز التلقيح</title>
+    <published>2022-07-27T00:00:00+00:00</published>
+    <updated>2022-07-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IkPAyZCSwxU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IkPAyZCSwxU"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IkPAyZCSwxU"&gt;&lt;img src="https://img.youtube.com/vi/IkPAyZCSwxU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">سعيد داودي فخاطرناس جعيدان خريبكة</title>
+    <published>2022-07-27T00:00:00+00:00</published>
+    <updated>2022-07-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=sB7sxB_SPHc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=sB7sxB_SPHc"/>
+    <author>
+      <name>سعيد داودي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=sB7sxB_SPHc"&gt;&lt;img src="https://img.youtube.com/vi/sB7sxB_SPHc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;سعيد داودي فخاطر ناس جعيدان</content>
+  </entry>
+  <entry>
+    <title type="html">محطة رأس العين قطار خريبكة واد زم مرحبا في الشاوية مزاب العلوة 27-07-2021</title>
+    <published>2022-07-27T00:00:00+00:00</published>
+    <updated>2022-07-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=CJIom5CrhUE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=CJIom5CrhUE"/>
+    <author>
+      <name>Islami2011</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=CJIom5CrhUE"&gt;&lt;img src="https://img.youtube.com/vi/CJIom5CrhUE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;محطة رأس العين قطار خريبكة واد زم</content>
+  </entry>
+  <entry>
+    <title type="html">اضواء مدينة خريبكة # نافورات تكسر لهيب صيف غير مسبوق</title>
+    <published>2022-07-26T00:00:00+00:00</published>
+    <updated>2022-07-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ihG7GTuiPE8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ihG7GTuiPE8"/>
+    <author>
+      <name>رحاب المغرب</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ihG7GTuiPE8"&gt;&lt;img src="https://img.youtube.com/vi/ihG7GTuiPE8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">كابيلو سيكانينغ مهاجم البوتسواني لاعب أولمبيك خريبكة</title>
+    <published>2022-07-26T00:00:00+00:00</published>
+    <updated>2022-07-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=s6kBfHhWWD0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=s6kBfHhWWD0"/>
+    <author>
+      <name>rajawi mn bkri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=s6kBfHhWWD0"&gt;&lt;img src="https://img.youtube.com/vi/s6kBfHhWWD0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/%D9%84%D8%A7%D8%AA%D9%86%D8%B3%D9%89_%D9%84%D8%A7%D9%8A%D9%83_%D9%88%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83_%D8%A8%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D9%84%D9%8A%D8%B5%D9%84%D9%83_%D9%83%D9%84_%D8%AC%D8%AF%D9%8A%D8%AF" target="_blank"&gt;#لاتنسى_لايك_واشتراك_بالقناة_ليصلك_كل_جديد&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مهارات زين دين دراك لاعب أولمبيك خريبكة القريب من فريق الرجاء الرياضي | zin din derrag</title>
+    <published>2022-07-26T00:00:00+00:00</published>
+    <updated>2022-07-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zrzDrFZ4JK8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zrzDrFZ4JK8"/>
+    <author>
+      <name>green eagles 1949</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zrzDrFZ4JK8"&gt;&lt;img src="https://img.youtube.com/vi/zrzDrFZ4JK8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خريبكة : وقفة احتجاجيةلساكنة جماعة لبراكسة قبيلة سماعلة وادزم  مطالبين بالحق الماء الصالح للشرب</title>
+    <published>2022-07-26T00:00:00+00:00</published>
+    <updated>2022-07-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=KP7O0GjhEAM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KP7O0GjhEAM"/>
+    <author>
+      <name>Almouaten24 - المواطن 24</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=KP7O0GjhEAM"&gt;&lt;img src="https://img.youtube.com/vi/KP7O0GjhEAM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الرئيس الأول لإستئنافية خريبكة: علاقة القضاة والمحامون معادلة أساسية في منظومة العدالة.</title>
+    <published>2022-07-26T00:00:00+00:00</published>
+    <updated>2022-07-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=QgTZ95p1Ofs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QgTZ95p1Ofs"/>
+    <author>
+      <name>khabar khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QgTZ95p1Ofs"&gt;&lt;img src="https://img.youtube.com/vi/QgTZ95p1Ofs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;تصريح السيد محمد عبيد عقب الندوة العلمية التي نظمتها هيئة المحامين بخريبكة في موضوع المسطرة الغيابية بين النص التشريعي واشكالات التطبيق.</content>
+  </entry>
+  <entry>
+    <title type="html">منتزة ريحانة بالمفاسيس خريبكة روعة المكان...</title>
+    <published>2022-07-26T00:00:00+00:00</published>
+    <updated>2022-07-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=myKoH6U9tEs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=myKoH6U9tEs"/>
+    <author>
+      <name>Mohamed onk sahili</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=myKoH6U9tEs"&gt;&lt;img src="https://img.youtube.com/vi/myKoH6U9tEs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جول في مدينه خريبكة</title>
+    <published>2022-07-26T00:00:00+00:00</published>
+    <updated>2022-07-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=kXrE2-HjEeM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=kXrE2-HjEeM"/>
+    <author>
+      <name>fatiha OM ilyass</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=kXrE2-HjEeM"&gt;&lt;img src="https://img.youtube.com/vi/kXrE2-HjEeM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/%D8%AC%D9%88%D9%84%D8%A9" target="_blank"&gt;#جولة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt;&lt;a href="https://www.youtube.com/hashtag/%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9" target="_blank"&gt;#خريبكة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AD%D8%AF%D9%8A%D9%82%D8%A9" target="_blank"&gt;#حديقة&lt;/a&gt; #</content>
+  </entry>
+  <entry>
+    <title type="html">لحظة استقبال خديجة الرميشي حارسة المنتخب الوطني بمدينة خريبكة</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=uaAOFmXjPlo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uaAOFmXjPlo"/>
+    <author>
+      <name>newlooks</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=uaAOFmXjPlo"&gt;&lt;img src="https://img.youtube.com/vi/uaAOFmXjPlo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">راب الشوارع....شابكة كلاشات 👊دراري ولاد خريبكة ناضين❤️❤️</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=joMagsYFElY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=joMagsYFElY"/>
+    <author>
+      <name>Oussama Oubbadi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=joMagsYFElY"&gt;&lt;img src="https://img.youtube.com/vi/joMagsYFElY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ساكنة خريبكة : استقبال بهيج لخديجة الرميشي حارسة المنتخب الوطني لكرة القدم...</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=wl11-oI6oiI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=wl11-oI6oiI"/>
+    <author>
+      <name>Almouaten24 - المواطن 24</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=wl11-oI6oiI"&gt;&lt;img src="https://img.youtube.com/vi/wl11-oI6oiI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أجواء جميل في عرس مغريبة مع مجموعة نجوم السلطان خريبكة دخلة عروس</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=29Vo954qe3U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=29Vo954qe3U"/>
+    <author>
+      <name>Simo khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=29Vo954qe3U"&gt;&lt;img src="https://img.youtube.com/vi/29Vo954qe3U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/%D8%B9%D9%8A%D8%B3%D8%A7%D9%88%D8%A9" target="_blank"&gt;#عيساوة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/issawa" target="_blank"&gt;#issawa&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%BA%D9%8A%D8%B7%D8%A9" target="_blank"&gt;#الغيطة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B9%D8%A8%D9%8A%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%85%D9%89" target="_blank"&gt;#عبيدات_الرمى&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/cha3bi" target="_blank"&gt;#cha3bi&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%86%D8%A7%D9%8A%D8%B6%D8%A9_%D8%B4%D8%B9%D8%A8%D9%8A" target="_blank"&gt;#نايضة_شعبي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/afrah" target="_blank"&gt;#afrah&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD" target="_blank"&gt;#أفراح&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%B3" target="_blank"&gt;#اعرس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#اعراس_مغربية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%87" target="_blank"&gt;#اعراس_عراقيه&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9" target="_blank"&gt;#اعراس_عراقية&lt;/a&gt; #&lt;br /&gt;
+أجواء جميل في عرس مغريبة مع مجموعة نجوم السلطان خريبكة دخلة عروس</content>
+  </entry>
+  <entry>
+    <title type="html">عرس مغربية جمل مع عيساوة نجوم السلطان خريبكة</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=wB5D43Wve1k</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=wB5D43Wve1k"/>
+    <author>
+      <name>Simo khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=wB5D43Wve1k"&gt;&lt;img src="https://img.youtube.com/vi/wB5D43Wve1k/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/%D8%B9%D9%8A%D8%B3%D8%A7%D9%88%D8%A9" target="_blank"&gt;#عيساوة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/issawa" target="_blank"&gt;#issawa&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%BA%D9%8A%D8%B7%D8%A9" target="_blank"&gt;#الغيطة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B9%D8%A8%D9%8A%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%85%D9%89" target="_blank"&gt;#عبيدات_الرمى&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/cha3bi" target="_blank"&gt;#cha3bi&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%86%D8%A7%D9%8A%D8%B6%D8%A9_%D8%B4%D8%B9%D8%A8%D9%8A" target="_blank"&gt;#نايضة_شعبي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/afrah" target="_blank"&gt;#afrah&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D9%81%D8%B1%D8%A7%D8%AD" target="_blank"&gt;#أفراح&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%B3" target="_blank"&gt;#اعرس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#اعراس_مغربية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%87" target="_blank"&gt;#اعراس_عراقيه&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9" target="_blank"&gt;#اعراس_عراقية&lt;/a&gt; #&lt;br /&gt;
+عرس مغربية جمل مع عيساوة نجوم السلطان خريبكة</content>
+  </entry>
+  <entry>
+    <title type="html">استقبال حار لخديجة الرميشي حارسة المنتخب الوطني  من طرف ساكنة حي البريك خريبكة</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=lvjQL6FUCzE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lvjQL6FUCzE"/>
+    <author>
+      <name>Akhbar chaab أخبار الشعب</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=lvjQL6FUCzE"&gt;&lt;img src="https://img.youtube.com/vi/lvjQL6FUCzE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;تصوير ومونطاج مصطفى بنان متابعة المصطفى شعب تنسيق سناء طيان زوروا موقعنا &lt;br /&gt;
+&lt;a href="http://akhbarchaab.ma/" target="_blank"&gt;http://akhbarchaab.ma/&lt;/a&gt;&lt;br /&gt;
+تابعونا على مواقع التواصل الإجتماعي&lt;br /&gt;
+فايسبوك :  &lt;a href="http://fb.com/akhbarchaab.ma" target="_blank"&gt;http://fb.com/akhbarchaab.ma&lt;/a&gt;&lt;br /&gt;
+انستاغرام :  &lt;a href="https://www.instagram.com/akhbarchaab/" target="_blank"&gt;https://www.instagram.com/akhbarchaab/&lt;/a&gt;&lt;br /&gt;
+تويتر :  &lt;a href="https://twitter.com/akhbarchaabma" target="_blank"&gt;https://twitter.com/akhbarchaabma&lt;/a&gt;&lt;br /&gt;
+بانتيريست : &lt;a href="https://www.pinterest.com/akhbarchaab/" target="_blank"&gt;https://www.pinterest.com/akhbarchaab/&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خريبكة : إستقبال أسطوري لحارسة المنتخب المغربي النسوي "خديجة الرميشي" بعد الوصول لنهائي الكان</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=oTFjlVMnlx4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=oTFjlVMnlx4"/>
+    <author>
+      <name>Marocains du Monde مغاربة العالم MDMTV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=oTFjlVMnlx4"&gt;&lt;img src="https://img.youtube.com/vi/oTFjlVMnlx4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;إشتراكك في قناتنا يشرفنا فمرحبا بك و لا تنسى تفعيل الجرس للتوصل بالجديد أول بأول&lt;br /&gt;
+Site web : &lt;a href="http://mdmtv.ma/" target="_blank"&gt;http://mdmtv.ma/&lt;/a&gt;&lt;br /&gt;
+Facebook + 2M fans  : &lt;a href="https://web.facebook.com/mdmtv.ma/" target="_blank"&gt;https://web.facebook.com/mdmtv.ma/&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/mdmtv.ma/" target="_blank"&gt;https://www.instagram.com/mdmtv.ma/&lt;/a&gt;&lt;br /&gt;
+Tik Tok : &lt;a href="https://www.tiktok.com/@mdmtv.ma" target="_blank"&gt;https://www.tiktok.com/@mdmtv.ma&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جولة من من مدينة خريبكة إلى مدينة المحمدية</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=llZa7MQUExI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=llZa7MQUExI"/>
+    <author>
+      <name>tvقناة الخير</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=llZa7MQUExI"&gt;&lt;img src="https://img.youtube.com/vi/llZa7MQUExI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Created by InShot:&lt;a href="https://inshotapp.page.link/YTShare" target="_blank"&gt;https://inshotapp.page.link/YTShare&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خريبكة:بعد تهميشه, مقهى أجيال تحتفي ببطل افريقيا للتكواندو ابن مدينة خريبكة عبد الباسط وصفي .</title>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IQ_vHLDocVk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IQ_vHLDocVk"/>
+    <author>
+      <name>المغربية للأخبار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IQ_vHLDocVk"&gt;&lt;img src="https://img.youtube.com/vi/IQ_vHLDocVk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
