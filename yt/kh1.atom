@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">زاهية مع شيخات خريبكة #2022 #chaabi</title>
+    <published>2022-07-30T00:00:00+00:00</published>
+    <updated>2022-07-30T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=lVfAYrcYbVc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lVfAYrcYbVc"/>
+    <author>
+      <name>chaabi marocc شعبي المغربي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=lVfAYrcYbVc"&gt;&lt;img src="https://img.youtube.com/vi/lVfAYrcYbVc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">خريبكة:رئيس المجلس البلدي يشرح مشكلة الماء الصالح للشرب،وفسخ العقدة مع مكتري المسبح أصبح أمرا  واردا</title>
     <published>2022-07-29T00:00:00+00:00</published>
     <updated>2022-07-29T00:00:00+00:00</updated>
@@ -230,16 +241,5 @@ touria channel</content>
       <name>Almouaten24 - المواطن 24</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=KP7O0GjhEAM"&gt;&lt;img src="https://img.youtube.com/vi/KP7O0GjhEAM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">منتزة ريحانة بالمفاسيس خريبكة روعة المكان...</title>
-    <published>2022-07-26T00:00:00+00:00</published>
-    <updated>2022-07-26T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=myKoH6U9tEs</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=myKoH6U9tEs"/>
-    <author>
-      <name>Mohamed onk sahili</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=myKoH6U9tEs"&gt;&lt;img src="https://img.youtube.com/vi/myKoH6U9tEs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
