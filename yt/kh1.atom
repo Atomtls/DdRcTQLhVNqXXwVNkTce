@@ -1,66 +1,258 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19206)</title>
-    <published>2022-08-02T11:03:21+00:00</published>
-    <updated>2022-08-02T11:03:21+00:00</updated>
-    <id>urn:sha1:d701ba1e23bebf0b9ed54e56023760bdf112e921</id>
-    <content type="html">&lt;section&gt;
-    &lt;p class="exception-message"&gt;
-        Uncaught Exception HttpException: Could not resolve host: www.youtube.com (6) at lib/contents.php line 208    &lt;/p&gt;
-
-                        &lt;code&gt;
-                #0 index.php:32            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #1 actions/DisplayAction.php:136            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #2 bridges/YoutubeBridge.php:398            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #3 bridges/YoutubeBridge.php:227            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #4 lib/contents.php:262            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #5 lib/contents.php:89            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #6 lib/contents.php:208            &lt;/code&gt;
-            &lt;br&gt;
-            
-    &lt;br&gt;
-
-    &lt;p&gt;
-        Query string: action=display&amp;amp;bridge=Youtube&amp;amp;context=Search+result&amp;amp;s=%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/p&gt;
-    &lt;p&gt;
-        Version: git.master.64c8d4a    &lt;/p&gt;
-
-    &lt;div class="advice"&gt;
-        &lt;ul class="advice"&gt;
-            &lt;li&gt;Press Return to check your input parameters&lt;/li&gt;
-            &lt;li&gt;Press F5 to retry&lt;/li&gt;
-            &lt;li&gt;Check if this issue was already reported on &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube"&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;
-            &lt;li&gt;Open a &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Could+not+resolve+host%3A+www.youtube.com+%286%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FYoutubeBridge.php%3A398%0A%233+bridges%2FYoutubeBridge.php%3A227%0A%234+lib%2Fcontents.php%3A262%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92"&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-        &lt;button&gt;Search GitHub Issues&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Could+not+resolve+host%3A+www.youtube.com+%286%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FYoutubeBridge.php%3A398%0A%233+bridges%2FYoutubeBridge.php%3A227%0A%234+lib%2Fcontents.php%3A262%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-        &lt;button&gt;Open GitHub Issue&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;p class="maintainer"&gt;em92&lt;/p&gt;
-&lt;/section&gt;
-
-</content>
+    <title type="html">اشغال  مهرجان خريبكة للتبوريدة بأولاد عبدون الذي عرف مشاركة أزيد من 26 فرقة ب 500 فرس</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=cJkEUHladds</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=cJkEUHladds"/>
+    <author>
+      <name>النهار نيوز المغربية</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=cJkEUHladds"&gt;&lt;img src="https://img.youtube.com/vi/cJkEUHladds/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عراسية زاهية مع ناس خريبكة وناس وادي زم</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=xmQ6SeSMpPE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=xmQ6SeSMpPE"/>
+    <author>
+      <name>Ziko Chaabi 2021</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=xmQ6SeSMpPE"&gt;&lt;img src="https://img.youtube.com/vi/xmQ6SeSMpPE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اجواء عيشورة بمدينة خريبكة مع جولة في LC WAIKIKI 😍😍</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=GRb3-JCpBZM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=GRb3-JCpBZM"/>
+    <author>
+      <name>ام صفوان</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=GRb3-JCpBZM"&gt;&lt;img src="https://img.youtube.com/vi/GRb3-JCpBZM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اجواء عاشوراء في مدينة خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=bZEoYMCuClQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bZEoYMCuClQ"/>
+    <author>
+      <name>tvقناة الخير</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=bZEoYMCuClQ"&gt;&lt;img src="https://img.youtube.com/vi/bZEoYMCuClQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة جميع طلقات مهرجان الفروسية التقليدية</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Xhe8_QgZDyU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Xhe8_QgZDyU"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Xhe8_QgZDyU"&gt;&lt;img src="https://img.youtube.com/vi/Xhe8_QgZDyU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=CcEYtX0KTqE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=CcEYtX0KTqE"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=CcEYtX0KTqE"&gt;&lt;img src="https://img.youtube.com/vi/CcEYtX0KTqE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">كلمة أسامة الشعيبي بعد التوقيع لأولمبيك خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=NE_yIEBge-M</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NE_yIEBge-M"/>
+    <author>
+      <name>ockfoot1923</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=NE_yIEBge-M"&gt;&lt;img src="https://img.youtube.com/vi/NE_yIEBge-M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;كلمة أسامة الشعيبي بعد التوقيع لأولمبيك خريبكة</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة.تحية للقوات المساعدة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_v3U5-HaIxc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_v3U5-HaIxc"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_v3U5-HaIxc"&gt;&lt;img src="https://img.youtube.com/vi/_v3U5-HaIxc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عبيدات الرمى خريبكة مع مجموعة نجوم السلطان</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=8j_pGdV53S0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8j_pGdV53S0"/>
+    <author>
+      <name>مجموعة نجوم السلطان</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=8j_pGdV53S0"&gt;&lt;img src="https://img.youtube.com/vi/8j_pGdV53S0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">«زووم سبور» الرجاء يواصل الإنتدابات اولمبيك خريبكة بمدرب جديد واخبار اخرى حول الميركاتو</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Jq0s-2dgdnM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Jq0s-2dgdnM"/>
+    <author>
+      <name>LeSiteinfo</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Jq0s-2dgdnM"&gt;&lt;img src="https://img.youtube.com/vi/Jq0s-2dgdnM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;كافة الأخبار في حينها على موقع ''سيت آنفو''&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+شاهد المزيد من الفيديوهات  من هنا : &lt;a href="https://bit.ly/2J6cn8y" target="_blank"&gt;https://bit.ly/2J6cn8y&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+للأشتراك في القناة : &lt;a href="https://bit.ly/2qH28B4" target="_blank"&gt;https://bit.ly/2qH28B4&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Our Official Website: &lt;a href="http://www.lesiteinfo.com/" target="_blank"&gt;http://www.lesiteinfo.com/&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+الموقع بالعربية:  &lt;a href="http://ar.lesiteinfo.com/" target="_blank"&gt;http://ar.lesiteinfo.com/&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+ Facebook : &lt;a href="https://www.facebook.com/lesiteinfo" target="_blank"&gt;https://www.facebook.com/lesiteinfo&lt;/a&gt; &lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+صفحة الفيسبوك :  &lt;a href="https://www.facebook.com/LeSiteinfo.Arabic" target="_blank"&gt;https://www.facebook.com/LeSiteinfo.Arabic&lt;/a&gt; &lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+ Twitter - توتير : &lt;a href="https://twitter.com/LeSiteInfo" target="_blank"&gt;https://twitter.com/LeSiteInfo&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B3%D9%8A%D8%AA_%D8%A3%D9%86%D9%81%D9%88" target="_blank"&gt;#سيت_أنفو&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/lesiteinfo" target="_blank"&gt;#lesiteinfo&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جولة في منتزه ريحانة نواحي خريبكة / الطبيعة و الهدوء 👍🥰</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=OI7Xy8L-WS8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OI7Xy8L-WS8"/>
+    <author>
+      <name>Nazha hakimi نزهة حاكمي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=OI7Xy8L-WS8"&gt;&lt;img src="https://img.youtube.com/vi/OI7Xy8L-WS8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">«زووم سبور» الرجاء يواصل الإنتدابات اولمبيك خريبكة بمدرب جديد واخبار اخرى حول الميركاتو</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=G1t-sciZywo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=G1t-sciZywo"/>
+    <author>
+      <name>HorizonTV.ma</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=G1t-sciZywo"&gt;&lt;img src="https://img.youtube.com/vi/G1t-sciZywo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;اشترك في قناة أوريزون عبر الرابط التالي :  &lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+ &lt;a href="https://bit.ly/2XacAiS" target="_blank"&gt;https://bit.ly/2XacAiS&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+قناة إلكترونية مغربية تجدد على مدار السا&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+زوروا  موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://www.horizontv.ma/" target="_blank"&gt;https://www.horizontv.ma/&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+تابعونا على إنستغرام : &lt;a href="http://bit.ly/2TXCp3F" target="_blank"&gt;http://bit.ly/2TXCp3F&lt;/a&gt;&lt;br /&gt;&#13;
+تابعونا على فايسبوك  : &lt;a href="http://bit.ly/2TWltL7" target="_blank"&gt;http://bit.ly/2TWltL7&lt;/a&gt; &lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+by: horizontv.ma&lt;br /&gt;&#13;
+&lt;a href="https://www.horizontv.ma/" target="_blank"&gt;https://www.horizontv.ma/&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A3%D9%88%D8%B1%D9%8A%D8%B2%D9%88%D9%86" target="_blank"&gt;#أوريزون&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/horizontv" target="_blank"&gt;#Horizontv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#Maroc&lt;/a&gt;&lt;br /&gt;&#13;
+&lt;a href="https://www.youtube.com/hashtag/morocco" target="_blank"&gt;#Morocco&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/news" target="_blank"&gt;#News&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1" target="_blank"&gt;#أخبار&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">نايضة مع عبيدات الرمى نجوم السلطان خريبكة في عرس  مغريبة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=UtFLpWrMWk4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=UtFLpWrMWk4"/>
+    <author>
+      <name>Simo khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=UtFLpWrMWk4"&gt;&lt;img src="https://img.youtube.com/vi/UtFLpWrMWk4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/chortes" target="_blank"&gt;#chortes&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chorts" target="_blank"&gt;#chorts&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chorts_" target="_blank"&gt;#chorts_&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chorte" target="_blank"&gt;#chorte&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chortskitten2021%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5" target="_blank"&gt;#chortskitten2021прикольное&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/tiktok" target="_blank"&gt;#tiktok&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/instagram" target="_blank"&gt;#instagram&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/india" target="_blank"&gt;#india&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/trending" target="_blank"&gt;#trending&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%87" target="_blank"&gt;#اعراس_عراقيه&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chikhat" target="_blank"&gt;#chikhat&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#اعراس_مغربية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5" target="_blank"&gt;#رقص&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5_%D8%B4%D8%B1%D9%82%D9%8A" target="_blank"&gt;#رقص_شرقي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5_%D8%AE%D9%84%D9%8A%D8%AC%D9%8A" target="_blank"&gt;#رقص_خليجي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5_%D8%B4%D8%B9%D8%A8%D9%8A" target="_blank"&gt;#رقص_شعبي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A" target="_blank"&gt;#رقص_عراقي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5_%D8%B3%D8%B9%D9%88%D8%AF%D9%8A" target="_blank"&gt;#رقص_سعودي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5_%D9%85%D9%86%D8%B2%D9%84%D9%8A" target="_blank"&gt;#رقص_منزلي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5_%D9%85%D8%B5%D8%B1%D9%8A" target="_blank"&gt;#رقص_مصري&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%82%D8%B5_%D8%A8%D9%86%D8%A7%D8%AA" target="_blank"&gt;#رقص_بنات&lt;/a&gt;&lt;br /&gt;
+نايضة مع عبيدات الرمى نجوم السلطان خريبكة في عرس الهربة 👑💍🤴👸</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=3ghBiR5Lz9U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3ghBiR5Lz9U"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=3ghBiR5Lz9U"&gt;&lt;img src="https://img.youtube.com/vi/3ghBiR5Lz9U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ZmFhfI9DFyg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ZmFhfI9DFyg"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ZmFhfI9DFyg"&gt;&lt;img src="https://img.youtube.com/vi/ZmFhfI9DFyg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">موسم التبوريدة بجماعة اولاد عبدون إقليم خريبكة 🐴🐴🐴</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_x9QaHY9GPo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_x9QaHY9GPo"/>
+    <author>
+      <name>عالم أم مغربية Aalam om maghribiya</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_x9QaHY9GPo"&gt;&lt;img src="https://img.youtube.com/vi/_x9QaHY9GPo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=BEO_gZjplSA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=BEO_gZjplSA"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=BEO_gZjplSA"&gt;&lt;img src="https://img.youtube.com/vi/BEO_gZjplSA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9BcrNruCfiw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9BcrNruCfiw"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9BcrNruCfiw"&gt;&lt;img src="https://img.youtube.com/vi/9BcrNruCfiw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ocqegiRPW1A</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ocqegiRPW1A"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ocqegiRPW1A"&gt;&lt;img src="https://img.youtube.com/vi/ocqegiRPW1A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولاد عبدون خريبكة</title>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=L3JVUm_VmVI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=L3JVUm_VmVI"/>
+    <author>
+      <name>لسيان التبوريدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=L3JVUm_VmVI"&gt;&lt;img src="https://img.youtube.com/vi/L3JVUm_VmVI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
