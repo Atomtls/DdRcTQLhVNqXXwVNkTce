@@ -58,17 +58,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=bW3KMplob5U"&gt;&lt;img src="https://img.youtube.com/vi/bW3KMplob5U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">VR-Moments . Café Rihanna , Khouribga</title>
-    <published>2022-08-10T00:00:00+00:00</published>
-    <updated>2022-08-10T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=ANq-Ra8sUPE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ANq-Ra8sUPE"/>
-    <author>
-      <name>VR Moments</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ANq-Ra8sUPE"&gt;&lt;img src="https://img.youtube.com/vi/ANq-Ra8sUPE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">Zaim fi picine sghir khouribga</title>
     <published>2022-08-10T00:00:00+00:00</published>
     <updated>2022-08-10T00:00:00+00:00</updated>
@@ -282,5 +271,16 @@ Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم</
       <name>Odyssées Régionales</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=q0VWp2Ej1vw"&gt;&lt;img src="https://img.youtube.com/vi/q0VWp2Ej1vw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">COMPOSTAGE:  KHALFADI MERYEM / CFP Khouribga</title>
+    <published>2022-06-19T00:00:00+00:00</published>
+    <updated>2022-06-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IMnVOYWxjsw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IMnVOYWxjsw"/>
+    <author>
+      <name>Odyssées Régionales</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IMnVOYWxjsw"&gt;&lt;img src="https://img.youtube.com/vi/IMnVOYWxjsw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
