@@ -4,13 +4,13 @@
   <icon>https://github.com/favicon.ico</icon>
   <logo>https://github.com/favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19248)</title>
-    <published>2022-09-13T23:01:21+00:00</published>
-    <updated>2022-09-13T23:01:21+00:00</updated>
-    <id>urn:sha1:75932da59b3368f80697738d58c9aa590afcbca7</id>
+    <title type="html">Bridge returned error 0! (19249)</title>
+    <published>2022-09-14T02:01:09+00:00</published>
+    <updated>2022-09-14T02:01:09+00:00</updated>
+    <id>urn:sha1:f14fa0cf5dca9ceb2cee39145b7afa228962bc48</id>
     <content type="html">&lt;section&gt;
     &lt;p class="exception-message"&gt;
-        Uncaught Exception HttpException: Failed to connect to www.facebook.com port 443: No route to host (7) at lib/contents.php line 208    &lt;/p&gt;
+        Uncaught Exception Error: Call to a member function children() on null at bridges/FacebookBridge.php line 576    &lt;/p&gt;
 
                         &lt;code&gt;
                 #0 index.php:32            &lt;/code&gt;
@@ -22,16 +22,7 @@
                 #2 bridges/FacebookBridge.php:151            &lt;/code&gt;
             &lt;br&gt;
                     &lt;code&gt;
-                #3 bridges/FacebookBridge.php:556            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #4 lib/contents.php:262            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #5 lib/contents.php:89            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #6 lib/contents.php:208            &lt;/code&gt;
+                #3 bridges/FacebookBridge.php:576            &lt;/code&gt;
             &lt;br&gt;
             
     &lt;br&gt;
@@ -46,7 +37,7 @@
             &lt;li&gt;Press Return to check your input parameters&lt;/li&gt;
             &lt;li&gt;Press F5 to retry&lt;/li&gt;
             &lt;li&gt;Check if this issue was already reported on &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+Facebook+Bridge+%7C+Main+Site"&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;
-            &lt;li&gt;Open a &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Failed+to+connect+to+www.facebook.com+port+443%3A+No+route+to+host+%287%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FFacebookBridge.php%3A151%0A%233+bridges%2FFacebookBridge.php%3A556%0A%234+lib%2Fcontents.php%3A262%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3D%25D8%25A3%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2582%25D9%2584%25D9%258A%25D9%2585-%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9-khouribga-light-173899819330375%26media_type%3Dall%26limit%3D-1%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer"&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;
+            &lt;li&gt;Open a &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+Error%3A+Call+to+a+member+function+children%28%29+on+null+at+bridges%2FFacebookBridge.php+line+576%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FFacebookBridge.php%3A151%0A%233+bridges%2FFacebookBridge.php%3A576%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3D%25D8%25A3%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2582%25D9%2584%25D9%258A%25D9%2585-%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9-khouribga-light-173899819330375%26media_type%3Dall%26limit%3D-1%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer"&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
 
@@ -54,7 +45,7 @@
         &lt;button&gt;Search GitHub Issues&lt;/button&gt;
     &lt;/a&gt;
 
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Failed+to+connect+to+www.facebook.com+port+443%3A+No+route+to+host+%287%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FFacebookBridge.php%3A151%0A%233+bridges%2FFacebookBridge.php%3A556%0A%234+lib%2Fcontents.php%3A262%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3D%25D8%25A3%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2582%25D9%2584%25D9%258A%25D9%2585-%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9-khouribga-light-173899819330375%26media_type%3Dall%26limit%3D-1%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=Facebook+Bridge+%7C+Main+Site+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+Error%3A+Call+to+a+member+function+children%28%29+on+null+at+bridges%2FFacebookBridge.php+line+576%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FFacebookBridge.php%3A151%0A%233+bridges%2FFacebookBridge.php%3A576%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DFacebook%26context%3DUser%26u%3D%25D8%25A3%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2582%25D9%2584%25D9%258A%25D9%2585-%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9-khouribga-light-173899819330375%26media_type%3Dall%26limit%3D-1%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
         &lt;button&gt;Open GitHub Issue&lt;/button&gt;
     &lt;/a&gt;
 
