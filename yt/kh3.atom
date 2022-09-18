@@ -132,21 +132,6 @@ khouribga avito</content>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=wkKrf2gDQwM"&gt;&lt;img src="https://img.youtube.com/vi/wkKrf2gDQwM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">تعرف أكثر على الخزانة الوسائطية لخريبكة</title>
-    <published>2022-03-16T00:00:00+00:00</published>
-    <updated>2022-03-16T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=eNWlRDCqWNc</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=eNWlRDCqWNc"/>
-    <author>
-      <name>Act4community Khouribga</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=eNWlRDCqWNc"&gt;&lt;img src="https://img.youtube.com/vi/eNWlRDCqWNc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;الخزانة الوسائطية لمدينة خريبكة ب '' المنجم الأخضر '' ثاني أكبر مكتبة بالمغرب من حيث الحجم بعد المكتبة الوطنية في الرباط&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.youtube.com/hashtag/ocp" target="_blank"&gt;#ocp&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://www.youtube.com/hashtag/act4community" target="_blank"&gt;#act4community&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://www.youtube.com/hashtag/m%C3%A9diat%C3%A8que" target="_blank"&gt;#médiatèque&lt;/a&gt;</content>
-  </entry>
-  <entry>
     <title type="html">جولة في الحي الفرنسي بمدينة خريبكة - Khouribga Village OCP</title>
     <published>2022-02-17T00:00:00+00:00</published>
     <updated>2022-02-17T00:00:00+00:00</updated>
@@ -544,5 +529,16 @@ Règle de jeu:&lt;br /&gt;
       <name>Socialink TV</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=CVsSUGICaTg"&gt;&lt;img src="https://img.youtube.com/vi/CVsSUGICaTg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Colonies de vacances virtuelles OCP Khouribga 2021 - Kids art at home: Let's do it !</title>
+    <published>2021-08-18T00:00:00+00:00</published>
+    <updated>2021-08-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ZaTizS1lHvk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ZaTizS1lHvk"/>
+    <author>
+      <name>Socialink TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ZaTizS1lHvk"&gt;&lt;img src="https://img.youtube.com/vi/ZaTizS1lHvk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
