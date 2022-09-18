@@ -1,66 +1,366 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "khouribga" -"خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19252)</title>
-    <published>2022-09-17T20:10:50+00:00</published>
-    <updated>2022-09-17T20:10:50+00:00</updated>
-    <id>urn:sha1:d60b1201650eea13122eeb2f2b2c121a97e7f6b5</id>
-    <content type="html">&lt;section&gt;
-    &lt;p class="exception-message"&gt;
-        Uncaught Exception HttpException: Failed to connect to www.youtube.com port 443: Connection timed out (28) at lib/contents.php line 208    &lt;/p&gt;
-
-                        &lt;code&gt;
-                #0 index.php:32            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #1 actions/DisplayAction.php:136            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #2 bridges/YoutubeBridge.php:398            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #3 bridges/YoutubeBridge.php:227            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #4 lib/contents.php:262            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #5 lib/contents.php:89            &lt;/code&gt;
-            &lt;br&gt;
-                    &lt;code&gt;
-                #6 lib/contents.php:208            &lt;/code&gt;
-            &lt;br&gt;
-            
-    &lt;br&gt;
-
-    &lt;p&gt;
-        Query string: action=display&amp;amp;bridge=Youtube&amp;amp;context=Search+result&amp;amp;s=%22khouribga%22+-%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/p&gt;
-    &lt;p&gt;
-        Version: git.master.64c8d4a    &lt;/p&gt;
-
-    &lt;div class="advice"&gt;
-        &lt;ul class="advice"&gt;
-            &lt;li&gt;Press Return to check your input parameters&lt;/li&gt;
-            &lt;li&gt;Press F5 to retry&lt;/li&gt;
-            &lt;li&gt;Check if this issue was already reported on &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube"&gt;GitHub&lt;/a&gt; (give it a thumbs-up)&lt;/li&gt;
-            &lt;li&gt;Open a &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Failed+to+connect+to+www.youtube.com+port+443%3A+Connection+timed+out+%2828%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FYoutubeBridge.php%3A398%0A%233+bridges%2FYoutubeBridge.php%3A227%0A%234+lib%2Fcontents.php%3A262%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%2522khouribga%2522%2B-%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92"&gt;GitHub Issue&lt;/a&gt; if this error persists&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-        &lt;button&gt;Search GitHub Issues&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AUncaught+Exception+HttpException%3A+Failed+to+connect+to+www.youtube.com+port+443%3A+Connection+timed+out+%2828%29+at+lib%2Fcontents.php+line+208%0A%0A%230+index.php%3A32%0A%231+actions%2FDisplayAction.php%3A136%0A%232+bridges%2FYoutubeBridge.php%3A398%0A%233+bridges%2FYoutubeBridge.php%3A227%0A%234+lib%2Fcontents.php%3A262%0A%235+lib%2Fcontents.php%3A89%0A%236+lib%2Fcontents.php%3A208%0A%0AQuery+string%3Aaction%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%2522khouribga%2522%2B-%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3Agit.master.64c8d4a%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-        &lt;button&gt;Open GitHub Issue&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;p class="maintainer"&gt;em92&lt;/p&gt;
-&lt;/section&gt;
-
-</content>
+    <title type="html">khouribga ا 57 bal bala</title>
+    <published>2022-09-17T00:00:00+00:00</published>
+    <updated>2022-09-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=i9jEq1ZERUw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=i9jEq1ZERUw"/>
+    <author>
+      <name>Kamal kamal</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=i9jEq1ZERUw"&gt;&lt;img src="https://img.youtube.com/vi/i9jEq1ZERUw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Olympique Khouribga vs Wydad Athletic Club live stream 18 September 2022</title>
+    <published>2022-09-17T00:00:00+00:00</published>
+    <updated>2022-09-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=-0Sa4hzuTuo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-0Sa4hzuTuo"/>
+    <author>
+      <name>Maksvell Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-0Sa4hzuTuo"&gt;&lt;img src="https://img.youtube.com/vi/-0Sa4hzuTuo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Morocco. Botola. Complexe OCP. Olympique Khouribga vs Wydad Athletic Club live stream 18 September 2022</content>
+  </entry>
+  <entry>
+    <title type="html">#foryou #maroc #khouribga #benimellal #casablanca #ouedzem</title>
+    <published>2022-09-17T00:00:00+00:00</published>
+    <updated>2022-09-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=k0rU7cZsrys</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=k0rU7cZsrys"/>
+    <author>
+      <name>عبيدات الرمى 20 غشت</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=k0rU7cZsrys"&gt;&lt;img src="https://img.youtube.com/vi/k0rU7cZsrys/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">wac vs ock Wydad Casablanca olympique Khouribga التحليل القبلي لمباراة الوداد و للأوصيكا❤️💚</title>
+    <published>2022-09-17T00:00:00+00:00</published>
+    <updated>2022-09-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=f3rCrTdd6SA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=f3rCrTdd6SA"/>
+    <author>
+      <name>M E M H</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=f3rCrTdd6SA"&gt;&lt;img src="https://img.youtube.com/vi/f3rCrTdd6SA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;السلام عليكم الأشباح نتمنى تكونوا بخير مرتاحين كلشي هو هداك اليوم عدنا تحليل لماتش غذا تاع اوصيكا ضد الوداد البيضاوي &lt;br /&gt;
+غانفليو شوية الخصم المهم لاعجبكم هادشي دعمونا معحباتكمش شي حاجة قولوهالينا راه هكا علاش دارو بلاصتو التعليقات 😂❤️&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/ock" target="_blank"&gt;#ock&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/olympiquekhouribga" target="_blank"&gt;#olympiquekhouribga&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/wac" target="_blank"&gt;#wac&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/wydad" target="_blank"&gt;#wydad&lt;/a&gt; &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ock,&lt;br /&gt;
+ock vs husa,&lt;br /&gt;
+ock vs sccm,&lt;br /&gt;
+ock vs ocs,&lt;br /&gt;
+ocktv,&lt;br /&gt;
+ock vs mohammedia,&lt;br /&gt;
+ock foot 1923,&lt;br /&gt;
+ock foot,&lt;br /&gt;
+ock vs cayb,&lt;br /&gt;
+ock vs mas,&lt;br /&gt;
+ock vs rca,&lt;br /&gt;
+ock vs fus,&lt;br /&gt;
+ock agadir,&lt;br /&gt;
+ock attaquant,&lt;br /&gt;
+but wac vs ock,&lt;br /&gt;
+berrechid vs ock,&lt;br /&gt;
+berkane vs ock,&lt;br /&gt;
+berkane ock&lt;br /&gt;
+&lt;br /&gt;
+olympique khouribga,&lt;br /&gt;
+olympique khouribga live,&lt;br /&gt;
+olympique khouribga vs,&lt;br /&gt;
+olympique khouribga vs chabab mohammedia,&lt;br /&gt;
+olympique khouribga vs chabab,&lt;br /&gt;
+olympique khouribga vs olympique safi,&lt;br /&gt;
+wydad vs olympique khouribga,&lt;br /&gt;
+wac vs olympique khouribga,&lt;br /&gt;
+far rabat vs olympique khouribga,&lt;br /&gt;
+wydad casablanca vs olympique khouribga,&lt;br /&gt;
+olympique khouribga vs fus,&lt;br /&gt;
+olympique khouribga aujourd'hui,&lt;br /&gt;
+olympique khouribga algerie&lt;br /&gt;
+&lt;br /&gt;
+wac,&lt;br /&gt;
+wac live,&lt;br /&gt;
+wac vs fus,&lt;br /&gt;
+wac vs rca,&lt;br /&gt;
+wac vs dhj,&lt;br /&gt;
+wac vs berkane,&lt;br /&gt;
+wac vs mco,&lt;br /&gt;
+wac vs rsb,&lt;br /&gt;
+wac vs ahly,&lt;br /&gt;
+wac vs oujda,&lt;br /&gt;
+wac dhj,&lt;br /&gt;
+wac vs soualem,&lt;br /&gt;
+wac vs jss,&lt;br /&gt;
+wac fus,&lt;br /&gt;
+wac ahly final 2022,&lt;br /&gt;
+wac ahly&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+wac vs ock,&lt;br /&gt;
+wac vs ock 2015,&lt;br /&gt;
+wac vs ock 4-1,&lt;br /&gt;
+wac vs ock 5-0,&lt;br /&gt;
+wac vs ock 2016,&lt;br /&gt;
+wac vs ock live,&lt;br /&gt;
+wac vs ock 4-3,&lt;br /&gt;
+wac vs ock 5-2,&lt;br /&gt;
+wac vs ock tifo,&lt;br /&gt;
+wac vs ock 1-0,&lt;br /&gt;
+wac vs ock 2017,&lt;br /&gt;
+wac vs ock 2022,&lt;br /&gt;
+wac vs ock arryadia,&lt;br /&gt;
+wac vs ock ambiance,&lt;br /&gt;
+wac vs ock aujourd'hui,&lt;br /&gt;
+arryadia live wac vs ock,&lt;br /&gt;
+wac vs ock but,&lt;br /&gt;
+but wac vs ock,&lt;br /&gt;
+wac vs ock match complet</content>
+  </entry>
+  <entry>
+    <title type="html">cover khouribga</title>
+    <published>2022-09-16T00:00:00+00:00</published>
+    <updated>2022-09-16T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=VdiA5P4pLFE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=VdiA5P4pLFE"/>
+    <author>
+      <name>Stubborn</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=VdiA5P4pLFE"&gt;&lt;img src="https://img.youtube.com/vi/VdiA5P4pLFE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">mfassis khouribga</title>
+    <published>2022-09-16T00:00:00+00:00</published>
+    <updated>2022-09-16T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=M4VoKI398B4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=M4VoKI398B4"/>
+    <author>
+      <name>mohamed elrhabi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=M4VoKI398B4"&gt;&lt;img src="https://img.youtube.com/vi/M4VoKI398B4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#foryou #maroc #khouribga #tiktok #casablanca #benimellal #ouedzem</title>
+    <published>2022-09-15T00:00:00+00:00</published>
+    <updated>2022-09-15T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=mGUckaS4P4o</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=mGUckaS4P4o"/>
+    <author>
+      <name>عبيدات الرمى 20 غشت</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=mGUckaS4P4o"&gt;&lt;img src="https://img.youtube.com/vi/mGUckaS4P4o/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Madinat Khouribga</title>
+    <published>2022-09-10T00:00:00+00:00</published>
+    <updated>2022-09-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=jNdig2dN0i8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jNdig2dN0i8"/>
+    <author>
+      <name>Mohammed Erryfy</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=jNdig2dN0i8"&gt;&lt;img src="https://img.youtube.com/vi/jNdig2dN0i8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Hassania Agadir vs Olympique Khouribga live stream 11 September 2022</title>
+    <published>2022-09-10T00:00:00+00:00</published>
+    <updated>2022-09-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_-Z6w5Sd-l8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_-Z6w5Sd-l8"/>
+    <author>
+      <name>Live Watch</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_-Z6w5Sd-l8"&gt;&lt;img src="https://img.youtube.com/vi/_-Z6w5Sd-l8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Morocco. Botola. Stade Adrar. Hassania Agadir vs Olympique Khouribga live stream 11 September 2022</content>
+  </entry>
+  <entry>
+    <title type="html">#foryou #maroc #khouribga #casablanca #غشت 20 عبيدات الرمى 0603318930</title>
+    <published>2022-09-08T00:00:00+00:00</published>
+    <updated>2022-09-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Yj3UoxujLgE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Yj3UoxujLgE"/>
+    <author>
+      <name>عبيدات الرمى 20 غشت</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Yj3UoxujLgE"&gt;&lt;img src="https://img.youtube.com/vi/Yj3UoxujLgE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اكت فور كومينوتي ACT4COMMUNITY KHOURIBGA تسعد اطفال الفقيه بن صالح  على ضفاف الهرهورة وعين السبع .</title>
+    <published>2022-09-03T00:00:00+00:00</published>
+    <updated>2022-09-03T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=e648TmZeBAw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=e648TmZeBAw"/>
+    <author>
+      <name>العين تيفيAINE TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=e648TmZeBAw"&gt;&lt;img src="https://img.youtube.com/vi/e648TmZeBAw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;اكت فور كومينوتي ACT4COMMUNITY KHOURIBGA تسعد اطفال الفقيه بن صالح  على ضفاف الهرهورة وعين السبع .&lt;br /&gt;
+&lt;br /&gt;
+AINE TV@</content>
+  </entry>
+  <entry>
+    <title type="html">5195 - #Mariage - #Khouribga</title>
+    <published>2022-09-01T00:00:00+00:00</published>
+    <updated>2022-09-01T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Ge8vjs8UUCA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ge8vjs8UUCA"/>
+    <author>
+      <name>Maroc-Zawaj</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ge8vjs8UUCA"&gt;&lt;img src="https://img.youtube.com/vi/Ge8vjs8UUCA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://w.maroc-zawaj.com/5195" target="_blank"&gt;https://w.maroc-zawaj.com/5195&lt;/a&gt;&lt;br /&gt;
+------------------&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/mariage" target="_blank"&gt;#Mariage&lt;/a&gt; - &lt;a href="https://www.youtube.com/hashtag/khouribga" target="_blank"&gt;#Khouribga&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/femme_cherche_homme" target="_blank"&gt;#Femme_cherche_Homme&lt;/a&gt;&lt;br /&gt;
+------------------&lt;br /&gt;
+Salam ana men khouribga khadama motala9a age 29 kan9alab 3la lhlal rajal ikoun men nafs medina chokran&lt;br /&gt;
+------------------&lt;br /&gt;
+Age *: 29 ans&lt;br /&gt;
+Corps: Quelques kilos en plus - قليل من الوزن زائد&lt;br /&gt;
+Teint de peau: Olivâtre - قمح&lt;br /&gt;
+Apparence: Attrayante - شكل جذاب&lt;br /&gt;
+Etat de santé/physique: Problèmes de santé mineurs - لدي مشاكل صحية خفيفة&lt;br /&gt;
+Niveau d'études *: Licence / IEP / Bac+3&lt;br /&gt;
+Profession: Fonctionnaire au public - موظف(ة) بالقطاع العمومي&lt;br /&gt;
+Statut professionnel: Travail à plein temps - عمل بدوام كامل&lt;br /&gt;
+Revenu Mensuel: Entre 4.000 et 6.000 DHs&lt;br /&gt;
+Situation familiale *: Divorcé(e) - مطلق/ة&lt;br /&gt;
+Enfants *: Non - ليس لي أطفال&lt;br /&gt;
+Nombre d'enfants: 0&lt;br /&gt;
+Situation de vie: Je vis avec mes parents - أسكن مع أحد الوالدين أو كليهما&lt;br /&gt;
+Type de logement: Maison de ville - منزل مملوك بالمدينة&lt;br /&gt;
+Valeurs religieuses: Pratiquant(e) - متدين/ة&lt;br /&gt;
+Port du "Hijab": Je porte le foulard avec des habits modernes - أضع غطاء الرأس مع ملابس عصرية&lt;br /&gt;
+Port du "Khimar": Je suis contre le port du Khimar - ضد ارتداء الخمار&lt;br /&gt;
+Port du "Niqab": Je suis contre le port du Niqab - ضد ارتداء النقاب&lt;br /&gt;
+------------------&lt;br /&gt;
+&lt;a href="https://w.maroc-zawaj.com/5195" target="_blank"&gt;https://w.maroc-zawaj.com/5195&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ain asserdoune😍🥰.     Beni Mellal, Morocco🇲🇦 #ainassardoun #benimellal #azilal #khouribga #khnifra</title>
+    <published>2022-08-15T00:00:00+00:00</published>
+    <updated>2022-08-15T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ebT492p83rA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ebT492p83rA"/>
+    <author>
+      <name>Beni Mellal, Morocco🇲🇦</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ebT492p83rA"&gt;&lt;img src="https://img.youtube.com/vi/ebT492p83rA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">VR-Moments . Café Rihanna , Khouribga</title>
+    <published>2022-08-10T00:00:00+00:00</published>
+    <updated>2022-08-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=bW3KMplob5U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bW3KMplob5U"/>
+    <author>
+      <name>VR Moments</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=bW3KMplob5U"&gt;&lt;img src="https://img.youtube.com/vi/bW3KMplob5U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Zaim mhayah fi picine sghir khouribga</title>
+    <published>2022-08-10T00:00:00+00:00</published>
+    <updated>2022-08-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=SSeBOqpfg3Q</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=SSeBOqpfg3Q"/>
+    <author>
+      <name>Said Rhofri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=SSeBOqpfg3Q"&gt;&lt;img src="https://img.youtube.com/vi/SSeBOqpfg3Q/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Déplacement🚍ultras cap soleil💚A khouribga #capsoleil#ucs#gcs7m</title>
+    <published>2022-07-28T00:00:00+00:00</published>
+    <updated>2022-07-28T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=KQYbYzLkBac</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KQYbYzLkBac"/>
+    <author>
+      <name>AMBIANCE ULTRAS</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=KQYbYzLkBac"&gt;&lt;img src="https://img.youtube.com/vi/KQYbYzLkBac/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#zouhair_bahaoui #زهير_البهاوي #chichi #tiktok #crush #shorts #morocco #khouribga #casablanca #love</title>
+    <published>2022-07-24T00:00:00+00:00</published>
+    <updated>2022-07-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=cIJIfkVestc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=cIJIfkVestc"/>
+    <author>
+      <name>ISMAIL TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=cIJIfkVestc"&gt;&lt;img src="https://img.youtube.com/vi/cIJIfkVestc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Khouribga gopro hero9black</title>
+    <published>2022-07-18T00:00:00+00:00</published>
+    <updated>2022-07-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=6CGzGjRoWro</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=6CGzGjRoWro"/>
+    <author>
+      <name>POLPA rr</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=6CGzGjRoWro"&gt;&lt;img src="https://img.youtube.com/vi/6CGzGjRoWro/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">parfumerie UK BEAUTY Store khouribga Maroc.</title>
+    <published>2022-07-12T00:00:00+00:00</published>
+    <updated>2022-07-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zy2memFPaOc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zy2memFPaOc"/>
+    <author>
+      <name>Uk.beauty store</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zy2memFPaOc"&gt;&lt;img src="https://img.youtube.com/vi/zy2memFPaOc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم</title>
+    <published>2022-06-19T00:00:00+00:00</published>
+    <updated>2022-06-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=JpyDQLpgy_A</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=JpyDQLpgy_A"/>
+    <author>
+      <name>maroc annonce</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=JpyDQLpgy_A"&gt;&lt;img src="https://img.youtube.com/vi/JpyDQLpgy_A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;للمزيد من عروض بيم المغرب ندعوكم الى زيارة الموقع&lt;br /&gt;
+&lt;a href="https://bit.ly/3aFjZyH" target="_blank"&gt;https://bit.ly/3aFjZyH&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022&lt;br /&gt;
+منتوجات تستجيب لمتطلباتكم اليومية من مواد غذائية و منظفات صحية و منزلية، متواجدة عند بيم إبتداءً&lt;br /&gt;
+&lt;br /&gt;
+Rendez-vous Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 dans tous les magasins BIM&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://bit.ly/39zJqoH" target="_blank"&gt;https://bit.ly/39zJqoH&lt;/a&gt;&lt;br /&gt;
+&#13;&lt;br /&gt;
+&#13;&lt;br /&gt;
+Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+اكتشفوا في متاجركم bim,Catalogue,Hay,Juin,Khouribga,magasin,Riad,بيم,عروض Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم . &lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+تخفيضات وعروض bim,Catalogue,Hay,Juin,Khouribga,magasin,Riad,بيم,عروض لهذا الأسبوع Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+شكرا على المشاهدة لا تنسوا دعمنا بجيم للفيديو و الاشتراك في القناة و تفعيل الجرس لنستمر في العطاء&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;a href="https://www.youtube.com/hashtag/bim" target="_blank"&gt;#bim&lt;/a&gt;,Catalogue,Hay,Juin,Khouribga,magasin,Riad,بيم,عروض&lt;br /&gt;&#13;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%AA%D8%B1%D9%8A%D8%A7%D8%AA%D9%8A_%D9%85%D9%86_bim" target="_blank"&gt;#مشترياتي_من_bim&lt;/a&gt;,Catalogue,Hay,Juin,Khouribga,magasin,Riad,بيم,عروض&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم&lt;br /&gt;&#13;
+Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم&lt;br /&gt;&#13;
+Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم&lt;br /&gt;&#13;
+Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم&lt;br /&gt;&#13;
+Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم&lt;br /&gt;&#13;
+Catalogue Bim Magasin Hay Riad Khouribga du 17 au 21 juin 2022 عروض بيم</content>
   </entry>
 </feed>
