@@ -4,17 +4,6 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">piscine khouribga</title>
-    <published>2022-07-27T00:00:00+00:00</published>
-    <updated>2022-07-27T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=avd9EYxUdBI</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=avd9EYxUdBI"/>
-    <author>
-      <name>Basma Islam</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=avd9EYxUdBI"&gt;&lt;img src="https://img.youtube.com/vi/avd9EYxUdBI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">اروع اللوحات بابداعات حالمة بالخزانة الوسائطية OCP KHOURIBGA</title>
     <published>2022-06-06T00:00:00+00:00</published>
     <updated>2022-06-06T00:00:00+00:00</updated>
@@ -165,7 +154,7 @@ instagrame/ainetv_chaine &lt;br /&gt;
     <id>https://www.youtube.com/watch?v=_gdJi5V35vA</id>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_gdJi5V35vA"/>
     <author>
-      <name>Ninaz Vlog</name>
+      <name>Naima Vlog</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=_gdJi5V35vA"&gt;&lt;img src="https://img.youtube.com/vi/_gdJi5V35vA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;جولة فييالحي الفرنسي  بمدينة خريبكة فيلاج  ocp .&lt;br /&gt;
 مدينة خريبكة هي من المدن المغربية والتي تقع في منتصف المملكة المغربية،إقليم خريبكة الذي يتبع المنطقة الشاوية-رديغة، وأسست المدينة من سلطات الحماية الفرنسية عام 1923م عندما تم اكتشاف الفوسفات فيها، وفي تعداد أُجري عام 2007م يصل عدد سكان خريبكة إلى حوالي 360.000 نسمة، وتضم المدينة العديد من المدارس والمراكز الصحية بالإضافة إلى المستشفيات..تبعد مدينة خريبكة عن الدار البيضاء بحوالي 107 كيلومتراً، وتبعد عن العاصمة الرباط بحوالي 157 كيلومتراً، وتبعد عن مدينة مراكش بمئتي كيلومتر، كما أنّها ترتفع عن سطح البحر بما يقارب 820 متراً لكونها واقعة على هضبة الفوسفات&lt;br /&gt;
@@ -556,5 +545,16 @@ Règle de jeu:&lt;br /&gt;
       <name>Socialink TV</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=CVsSUGICaTg"&gt;&lt;img src="https://img.youtube.com/vi/CVsSUGICaTg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Colonies de vacances virtuelles OCP Khouribga 2021 - Kids art at home: Let's do it !</title>
+    <published>2021-08-18T00:00:00+00:00</published>
+    <updated>2021-08-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ZaTizS1lHvk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ZaTizS1lHvk"/>
+    <author>
+      <name>Socialink TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ZaTizS1lHvk"&gt;&lt;img src="https://img.youtube.com/vi/ZaTizS1lHvk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
