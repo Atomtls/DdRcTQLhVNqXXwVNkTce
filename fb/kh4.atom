@@ -4,10 +4,10 @@
   <icon>https://github.com/favicon.ico</icon>
   <logo>https://github.com/favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19254)</title>
-    <published>2022-09-19T23:03:19+00:00</published>
-    <updated>2022-09-19T23:03:19+00:00</updated>
-    <id>urn:sha1:1621c10b8b9e82d261fd4c8d26260fde0d8a80d9</id>
+    <title type="html">Bridge returned error 0! (19255)</title>
+    <published>2022-09-20T02:03:19+00:00</published>
+    <updated>2022-09-20T02:03:19+00:00</updated>
+    <id>urn:sha1:1535b719277faf7ff5bbad487e4434125509cc6b</id>
     <content type="html">&lt;section&gt;
     &lt;p class="exception-message"&gt;
         Uncaught Exception Error: Call to a member function children() on null at bridges/FacebookBridge.php line 576    &lt;/p&gt;
