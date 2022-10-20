@@ -1,51 +1,504 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "الشريف للفوسفاط" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19285)</title>
-    <published>2022-10-20T08:08:12+00:00</published>
-    <updated>2022-10-20T08:08:12+00:00</updated>
-    <id>http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s="الشريف+للفوسفاط"&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;الشريف+للفوسفاط&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">&lt;section&gt;
-    &lt;p class="exception-message"&gt;
-        Exception HttpException: cURL error Failed to connect to www.youtube.com port 443: Network is unreachable: 7 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81+%D9%84%D9%84%D9%81%D9%88%D8%B3%D9%81%D8%A7%D8%B7%22&amp;amp;sp=CAI%253D in lib/contents.php line 236    &lt;/p&gt;
-
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;br&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;br&gt;
-            #2 lib/RssBridge.php(64): DisplayAction-&amp;gt;execute()        &lt;br&gt;
-            #3 actions/DisplayAction.php(137): YoutubeBridge-&amp;gt;collectData()        &lt;br&gt;
-            #4 bridges/YoutubeBridge.php(398): YoutubeBridge-&amp;gt;ytGetSimpleHTMLDOM()        &lt;br&gt;
-            #5 bridges/YoutubeBridge.php(219): getSimpleHTMLDOM()        &lt;br&gt;
-            #6 lib/contents.php(296): getContents()        &lt;br&gt;
-            #7 lib/contents.php(104): _http_request()        &lt;br&gt;
-            #8 lib/contents.php(236)        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;p&gt;
-        Query string: action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;الشريف للفوسفاط&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/p&gt;
-    &lt;p&gt;
-        Version: dev.2022-06-14 (git.master.6ae4049)    &lt;/p&gt;
-    &lt;p&gt;
-        OS: Linux    &lt;/p&gt;
-    &lt;p&gt;
-        PHP version: 7.4.29    &lt;/p&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-        &lt;button&gt;Find similar bugs&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AException+HttpException%3A+cURL+error+Failed+to+connect+to+www.youtube.com+port+443%3A+Network+is+unreachable%3A+7+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522%25D8%25A7%25D9%2584%25D8%25B4%25D8%25B1%25D9%258A%25D9%2581%2B%25D9%2584%25D9%2584%25D9%2581%25D9%2588%25D8%25B3%25D9%2581%25D8%25A7%25D8%25B7%2522%26sp%3DCAI%25253D+in+lib%2Fcontents.php+line+236%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2864%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28137%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28398%29%3A+YoutubeBridge-%3EytGetSimpleHTMLDOM%28%29%0Abridges%2FYoutubeBridge.php%28219%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28296%29%3A+getContents%28%29%0Alib%2Fcontents.php%28104%29%3A+_http_request%28%29%0Alib%2Fcontents.php%28236%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81%2B%D9%84%D9%84%D9%81%D9%88%D8%B3%D9%81%D8%A7%D8%B7%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2022-06-14+%28git.master.6ae4049%29%0AOs%3A+Linux%0APHP+version%3A+7.4.29%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-        &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;p class="maintainer"&gt;
-        em92    &lt;/p&gt;
-&lt;/section&gt;
-
-</content>
+    <title type="html">نيجيريا.. مجموعة المكتب الشريف للفوسفاط تفتتح أول مصنع متطور لمزج الأسمدة بالقارة بكادونا‎‎</title>
+    <published>2022-10-20T00:00:00+00:00</published>
+    <updated>2022-10-20T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=HfCLAniYGaE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=HfCLAniYGaE"/>
+    <author>
+      <name>RIM Radio</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=HfCLAniYGaE"&gt;&lt;img src="https://img.youtube.com/vi/HfCLAniYGaE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬&lt;br /&gt;
+&lt;br /&gt;
+لمتابعتنا&lt;br /&gt;
+&lt;br /&gt;
+Instagram&lt;br /&gt;
+&lt;a href="https://instagram.com/rim.radio" target="_blank"&gt;https://instagram.com/rim.radio&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Facebook&lt;br /&gt;
+&lt;a href="https://www.facebook.com/RIMRADIOMAP/" target="_blank"&gt;https://www.facebook.com/RIMRADIOMAP/&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Twitter&lt;br /&gt;
+&lt;a href="https://twitter.com/RIMRADIO1" target="_blank"&gt;https://twitter.com/RIMRADIO1&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Site web&lt;br /&gt;
+&lt;a href="https://www.rimradio.ma/" target="_blank"&gt;https://www.rimradio.ma/&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+لتحميل التطبيق&lt;br /&gt;
+&lt;br /&gt;
+Android&lt;br /&gt;
+&lt;a href="https://play.google.com/store/apps/details?id=com.map.rimradioapp" target="_blank"&gt;https://play.google.com/store/apps/details?id=com.map.rimradioapp&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+iOS&lt;br /&gt;
+&lt;a href="https://apps.apple.com/us/app/rimradio/id1482110458" target="_blank"&gt;https://apps.apple.com/us/app/rimradio/id1482110458&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">فرصة عمل 🔥 شركة تابعة للمكتب الشريف للفوسفاط توظف 32 تقني كهربائي</title>
+    <published>2022-10-20T00:00:00+00:00</published>
+    <updated>2022-10-20T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=GWLTmAgmsj4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=GWLTmAgmsj4"/>
+    <author>
+      <name>أفكار بسيطة ومربحة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=GWLTmAgmsj4"&gt;&lt;img src="https://img.youtube.com/vi/GWLTmAgmsj4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;رابط الاعلان للتقديم&lt;br /&gt;
+&lt;a href="http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/802399/resultat_recherche" target="_blank"&gt;http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/802399/resultat_recherche&lt;/a&gt;&lt;br /&gt;
+للتسجيل في وكالة الانبيك&lt;br /&gt;
+&lt;a href="http://www.anapec.org/sigec-app-rv/chercheurs/inscription" target="_blank"&gt;http://www.anapec.org/sigec-app-rv/chercheurs/inscription&lt;/a&gt;&lt;br /&gt;
+👇للمزيد من المعلومات انظم الينا👇&lt;br /&gt;
+طلب نشر اعلان عمل في القناة &lt;br /&gt;
+أرسل تفاصيل الاعلان هنا&lt;br /&gt;
+artpc5822@gmail.com&lt;br /&gt;
+لدعم القناة حساب بايبل&lt;br /&gt;
+👉&lt;a href="https://paypal.me/moradelectro" target="_blank"&gt;https://paypal.me/moradelectro&lt;/a&gt;&lt;br /&gt;
+👉صفحة انستغرام&lt;br /&gt;
+&lt;a href="https://www.instagram.com/l9it_lik_khadma/" target="_blank"&gt;https://www.instagram.com/l9it_lik_khadma/&lt;/a&gt;&lt;br /&gt;
+👉صفحة فيسبوك&lt;br /&gt;
+&lt;a href="https://www.facebook.com/tawjihcom" target="_blank"&gt;https://www.facebook.com/tawjihcom&lt;/a&gt;&lt;br /&gt;
+👉قناة يوتوب&lt;br /&gt;
+&lt;a href="https://www.youtube.com/@forsajob" target="_blank"&gt;https://www.youtube.com/@forsajob&lt;/a&gt;&lt;br /&gt;
+***&lt;br /&gt;
+بخصوص عتبة الانتقاء و دراسة الملف مباراة الدرك الملكي&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B9%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%A1_%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D9%83_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A_2022" target="_blank"&gt;#عتبة_الانتقاء_التسجيل_مباراة_الدرك_الملكي_2022&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/seuil_gendarme_2022" target="_blank"&gt;#Seuil_Gendarme_2022&lt;/a&gt;&lt;br /&gt;
+التسجيل في ARM MAKNES 2022&lt;br /&gt;
+كل ما يتعلق بERSSM 2022&lt;br /&gt;
+جميع معلومات على ERN ERA 2022&lt;br /&gt;
+طريقة التسجيل الصحيحة في ARM 2022&lt;br /&gt;
+طريقة التسجيل في ERA 2022 &lt;br /&gt;
+طريقة التسجيل في ERSSM 2022&lt;br /&gt;
+شروط التسجيل في الدرك الملكي 2022&lt;br /&gt;
+كيفية التسجيل في الدرك الملكي 2022&lt;br /&gt;
+Inscription gendareme 2022&lt;br /&gt;
+التسجيل في الدرك الملكي &lt;br /&gt;
+طريقة التسجيل الصحية في الدرك الملكي &lt;br /&gt;
+الدرك الملكي 2022&lt;br /&gt;
+Inscription recrutement gr ma 2022&lt;br /&gt;
+recrutement.gr.ma&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B4%D8%B1%D8%B7_%D8%AA%D9%84%D9%82%D9%8A_%D8%AC%D8%B1%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D9%84%D9%82%D9%8A%D8%AD_%D9%81%D9%8A_%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9" target="_blank"&gt;#شرط_تلقي_جرعات_التلقيح_في_المباريات_العسكرية&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D9%83_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A_2022" target="_blank"&gt;#تسجيل_مباراة_الدرك_الملكي_2022&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B4%D8%B1%D9%88%D8%B7_%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D9%83_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A_2022" target="_blank"&gt;#شروط_مباراة_الدرك_الملكي_2022&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9" target="_blank"&gt;#مباراة_القوات_المساعدة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9" target="_blank"&gt;#مباراة_القوات_المسلحة_الملكية&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9_%D8%AA%D9%84%D8%A7%D9%85%D9%8A%D8%B0_%D8%A7%D9%84%D8%AF%D8%B1%D9%83_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A" target="_blank"&gt;#مباراة_تلاميذ_الدرك_الملكي&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D8%A7%D9%84%D8%AF%D8%B1%D9%83_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A_2022" target="_blank"&gt;#التسجيل_الدرك_الملكي_2022&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/la_gendarmerie_royale_2022" target="_blank"&gt;#La_Gendarmerie_Royale_2022&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A3%D9%81%D9%83%D8%A7%D8%B1_%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9_%D9%88%D9%85%D8%B1%D8%A8%D8%AD%D8%A9" target="_blank"&gt;#أفكار_بسيطة_ومربحة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AC%D9%8A_%D8%AA%D8%AE%D8%AF%D9%85" target="_blank"&gt;#أجي_تخدم&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA_%D8%AA%D9%88%D8%B8%D9%8A%D9%81" target="_blank"&gt;#اعلانات_توظيف&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%88%D8%B8%D8%A7%D8%A6%D9%81_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A" target="_blank"&gt;#وظائف_العالم_العربي&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/offre_d_emploi" target="_blank"&gt;#offre_d_emploi&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%81%D8%B1%D8%B5_%D8%B9%D9%85%D9%84_%D8%B3%D8%A7%D8%A6%D9%82%D9%8A%D9%86" target="_blank"&gt;#فرص_عمل_سائقين&lt;/a&gt; اليوم&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9_%D9%85%D8%B1%D8%A8%D8%AD%D8%A9" target="_blank"&gt;#مشاريع_مربحة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9_%D9%85%D8%B1%D8%A8%D8%AD%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#مشاريع_مربحة_في_المغرب&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%81%D9%83%D8%A7%D8%B1_%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9_%D9%88%D9%85%D8%B1%D8%A8%D8%AD%D8%A9" target="_blank"&gt;#افكار_بسيطة_ومربحة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B3%D9%87%D9%84_%D8%AE%D8%AF%D9%85%D8%A9" target="_blank"&gt;#اسهل_خدمة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D8%B5%D8%BA%D9%8A%D8%B1_%D9%88%D9%85%D8%B1%D8%A8%D8%AD" target="_blank"&gt;#مشروع_صغير_ومربح&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D9%86%D8%AA%D9%88%D8%AC_%D9%85%D8%B1%D8%A8%D8%AD_%D8%AC%D8%AF%D8%A7" target="_blank"&gt;#منتوج_مربح_جدا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D8%B5%D8%BA%D9%8A%D8%B1" target="_blank"&gt;#مشروع_صغير&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D9%85%D8%B1%D8%A8%D8%AD" target="_blank"&gt;#مشروع_مربح&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D8%B5%D8%BA%D9%8A%D8%B1_%D9%88%D9%85%D8%B1%D8%A8%D8%AD_2022" target="_blank"&gt;#مشروع_صغير_ومربح_2022&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9_%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A%D8%A9_%D9%88%D9%85%D8%B1%D8%A8%D8%AD%D8%A9_2021" target="_blank"&gt;#مشاريع_شبابية_ومربحة_2021&lt;/a&gt;&lt;br /&gt;
+CONCOURS MAROC&lt;br /&gt;
+AL WADIFA MAROC&lt;br /&gt;
+ONCOURS DE RECRUTEMENT&lt;br /&gt;
+مباريات التوظيف&lt;br /&gt;
+الوظيفة&lt;br /&gt;
+CONCOURS MAROC&lt;br /&gt;
+CONCOURS IRAT &lt;br /&gt;
+AL WADIFA MAROC&lt;br /&gt;
+ONCOURS DE RECRUTEMENT&lt;br /&gt;
+مباريات التوظيف&lt;br /&gt;
+الوظيفة&lt;br /&gt;
+عروض العمل&lt;br /&gt;
+ابحث عن عمل عبر الانترنت&lt;br /&gt;
+وظائف سائقين&lt;br /&gt;
+عمل&lt;br /&gt;
+مشاريع مربحة من البيت,&lt;br /&gt;
+9 مشاريع مربحة,&lt;br /&gt;
+مشروع مربح 15 مليون في الشهر,&lt;br /&gt;
+مشروع مربح 100 في 100,&lt;br /&gt;
+10 مشاريع مربحة,&lt;br /&gt;
+مشروع مربح 100,&lt;br /&gt;
+مشاريع مربحة 2022,&lt;br /&gt;
+مشاريع مربحة 2021,&lt;br /&gt;
+مشروع مربح 2021,&lt;br /&gt;
+مشاريع خياطة مربحة 2021,&lt;br /&gt;
+مشاريع مربحة بالمغرب 2021,&lt;br /&gt;
+مشاريع مربحة للنساء 2021,&lt;br /&gt;
+مشاريع صغيرة مربحة 2021,&lt;br /&gt;
+مشاريع خياطة مربحة 2022&lt;br /&gt;
+agence de recrutement Banque / Assurance Chauffeur commerce / achat / vente Communication / Publicité Conseil / Consulting Education / Enseignement / Formation Electricité / Electronique femme de menage Finance / Comptabilité / Gestion / Audit Fonction publique Hopital / Sante Industrie /cablage Informatique / Internet Ingenierie / Technicien Marketing maroc Métiers des centres d'appels offre d'emploi a l'etranger offre d'emploi anapec Production / Maintenance RH / Recrutement / Formation Secrétariat / Assistante / Administration Sécurité/Surveillance stage supermarche Télécoms / Réseaux Tourisme / Hôtellerie / restauration شروط&lt;br /&gt;
+موقع للبحث عن العمل,العمل بدون شواهد,حركية الموظفين,افضل مواقع البحث عن عمل في المغرب,فيزا البحث عن العمل ألمانيا,طريقة البحث عن عمل في المغرب,مواقع البحث عن العمل,فيزا البحث عن العمل إلى ألمانيا,فيزا البحث عن العمل ألمانيا 2021,البحث عن عمل,البحث عن العمل 2022,بحث عن العمل,مواقع للبحث عن عمل في المغرب,مواقع البحث عن عمل في المغرب بدون شهادة,موقع للبحث عن عمل في المغرب,البحث عن عمل في المغرب الدار البيضاء بدون شهادة,افضل مواقع البحث عن عمل&lt;br /&gt;
+اعلانات, المباريات, الامتحانات, نتائج المباريات, المهنية, الوظيفة, العمومية,مباريات التوظيف العمومية بالمغرب,مباريات التوظيف&lt;br /&gt;
+المباريات,المناصب العليا,مناصب المسؤولية,تشغيل الخبراء,حركية الموظفين,امتحانات الكفاءة المهنية,خدمات,إعلانات&lt;br /&gt;
+اعلان مميز,وظائف سياحة,وظائف المطاعم في المغرب وظائف وظائف,مكتب التوظيف&lt;br /&gt;
+cv,how to write a cv,cv advice,cv tips,cv writing,cv example,career services,universiteit utrecht,cv mistakes,resume mistakes,cv writing advice,cv writing tips,careers,careers advice,how to get a job,job search,jobs,resume writing,resume writing tips,winning cv,get the best jobs,&lt;a href="https://www.youtube.com/hashtag/job" target="_blank"&gt;#job&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/dubai" target="_blank"&gt;#dubai&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/jordan" target="_blank"&gt;#jordan&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/amman" target="_blank"&gt;#amman&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/cv" target="_blank"&gt;#cv&lt;/a&gt; #,curriculum vitae,c v,résumé,lettre de motivation,recrutement,emploi,maroc,casablanca,rabat,tanger,marrakech</content>
+  </entry>
+  <entry>
+    <title type="html">المكتب الشريف للفو سفاط يخرج ور قةالاسمدةفافر يقيا</title>
+    <published>2022-10-13T00:00:00+00:00</published>
+    <updated>2022-10-13T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=u_jJVW7h7NI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=u_jJVW7h7NI"/>
+    <author>
+      <name>zohour صوت القلب</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=u_jJVW7h7NI"&gt;&lt;img src="https://img.youtube.com/vi/u_jJVW7h7NI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;المكتب الشريف للفو سفاط يخرج ور قةالاسمدةفافر يقيا   &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/alg%C3%A9rie" target="_blank"&gt;#algérie&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#الصحراء_المغربية&lt;/a&gt; &lt;br /&gt;
+الصحراءالمغربية &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%A8%D9%88%D9%86" target="_blank"&gt;#تبون&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أية أدوار للمكتب الشريف للفوسفاط في دعم وتلبية احتياجات إفريقيا؟</title>
+    <published>2022-10-13T00:00:00+00:00</published>
+    <updated>2022-10-13T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Ll61Yrjjmu0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ll61Yrjjmu0"/>
+    <author>
+      <name>Medi1</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ll61Yrjjmu0"&gt;&lt;img src="https://img.youtube.com/vi/Ll61Yrjjmu0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;حول الأدوار التي يلعبها المكتب الشريف للفوسفاط علـى صعيد دعم وتلبية احتياجات إفريقيـا نتابع رأي محمد الشقندي، خبير الشؤون الإفريقية من الرباط تحدث إلـى يوسف النعماني.</content>
+  </entry>
+  <entry>
+    <title type="html">عاجل.. أستراليا تستأنف استيراد فوسفاط الصحراء المغربية</title>
+    <published>2022-10-13T00:00:00+00:00</published>
+    <updated>2022-10-13T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=I4gTDs8jE68</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=I4gTDs8jE68"/>
+    <author>
+      <name>7di rask</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=I4gTDs8jE68"&gt;&lt;img src="https://img.youtube.com/vi/I4gTDs8jE68/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مجموعة المكتب الشريف للفوسفاط OCP بشراكة مع شركة JESA تعلن حملة توظيف 61 منصب في العديد من التخصصات</title>
+    <published>2022-10-10T00:00:00+00:00</published>
+    <updated>2022-10-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=8gZ_1dkqrOg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8gZ_1dkqrOg"/>
+    <author>
+      <name>Bghit Khadma  بغيت خدمة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=8gZ_1dkqrOg"&gt;&lt;img src="https://img.youtube.com/vi/8gZ_1dkqrOg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;الروابط 👇👇👇 :&lt;br /&gt;
+Accounting Manager :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Accounting-Manager/752091902/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Accounting-Manager/752091902/&lt;/a&gt;&lt;br /&gt;
+Associate Cost Controller :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Associate-Cost-Controller/746909902/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Associate-Cost-Controller/746909902/&lt;/a&gt;&lt;br /&gt;
+Associate Electrical Engineer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Associate-Electrical-Engineer/755189702/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Associate-Electrical-Engineer/755189702/&lt;/a&gt;&lt;br /&gt;
+Associate Maintenance Engineer ( Sourcing) :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Associate-Maintenance-Engineer-(-Sourcing)/749939102/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Associate-Maintenance-Engineer-(-Sourcing)/749939102/&lt;/a&gt;&lt;br /&gt;
+Associate Mechanical Engineer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Associate-Mechanical-Engineer/755648002/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Associate-Mechanical-Engineer/755648002/&lt;/a&gt;&lt;br /&gt;
+Associate Piping Engineer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Associate-Piping-Engineer/755602702/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Associate-Piping-Engineer/755602702/&lt;/a&gt;&lt;br /&gt;
+Associate Project Buyer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Associate-Project-Buyer/746429202/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Associate-Project-Buyer/746429202/&lt;/a&gt;&lt;br /&gt;
+Associate Project Engineer:&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Associate-Project-Engineer/750342402/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Associate-Project-Engineer/750342402/&lt;/a&gt;&lt;br /&gt;
+Chief Engineering Manager:&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Chief-Engineering-Manager/755422202/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Chief-Engineering-Manager/755422202/&lt;/a&gt;&lt;br /&gt;
+Claim Manager :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Claim-Manager/756145902/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Claim-Manager/756145902/&lt;/a&gt;&lt;br /&gt;
+Construction Manager :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Construction-Manager/746707202/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Construction-Manager/746707202/&lt;/a&gt;&lt;br /&gt;
+Contract Administrator :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Contract-Administrator/736678402/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Contract-Administrator/736678402/&lt;/a&gt;&lt;br /&gt;
+Cost Controller :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Benguerir-Cost-Controller/745952302/" target="_blank"&gt;https://careers.jesagroup.com/job/Benguerir-Cost-Controller/745952302/&lt;/a&gt;&lt;br /&gt;
+Create Alert:&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/search/?q=&amp;locationsearch=morocco&amp;startrow=60" target="_blank"&gt;https://careers.jesagroup.com/search/?q=&amp;locationsearch=morocco&amp;startrow=60&lt;/a&gt;&lt;br /&gt;
+Data System Engineer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Data-System-Engineer/754514602/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Data-System-Engineer/754514602/&lt;/a&gt;&lt;br /&gt;
+Electrical Supervisor :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Khouribga-Electrical-Supervisor/746446102/" target="_blank"&gt;https://careers.jesagroup.com/job/Khouribga-Electrical-Supervisor/746446102/&lt;/a&gt;&lt;br /&gt;
+Environmental Engineer:&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Environmental-Engineer/751940502/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Environmental-Engineer/751940502/&lt;/a&gt;&lt;br /&gt;
+Estimating SME :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Estimating-SME/736050902/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Estimating-SME/736050902/&lt;/a&gt;&lt;br /&gt;
+Executive Assistant :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Senior-Administrative-Assistant/755229502/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Senior-Administrative-Assistant/755229502/&lt;/a&gt;&lt;br /&gt;
+Facilities Coordinator :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Laayoune-Facilities-Coordinator/754510002/" target="_blank"&gt;https://careers.jesagroup.com/job/Laayoune-Facilities-Coordinator/754510002/&lt;/a&gt;&lt;br /&gt;
+HR Systems Administrator :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/HR-Systems-Administrator/756174502/" target="_blank"&gt;https://careers.jesagroup.com/job/HR-Systems-Administrator/756174502/&lt;/a&gt;&lt;br /&gt;
+HSE Manager :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Safi-HSE-Manager/753340502/" target="_blank"&gt;https://careers.jesagroup.com/job/Safi-HSE-Manager/753340502/&lt;/a&gt;&lt;br /&gt;
+Industrial Construction Manager :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Benguerir-Construction-Manager/745935402/" target="_blank"&gt;https://careers.jesagroup.com/job/Benguerir-Construction-Manager/745935402/&lt;/a&gt;&lt;br /&gt;
+Maintenance Engineer (Sourcing) :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Maintenance-Engineer-(Sourcing)/749933402/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Maintenance-Engineer-(Sourcing)/749933402/&lt;/a&gt;&lt;br /&gt;
+Maintenance Manager (Sourcing) :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Maintenance-Manager-(Sourcing)/749686902/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Maintenance-Manager-(Sourcing)/749686902/&lt;/a&gt;&lt;br /&gt;
+Maintenance Supervisor (Sourcing) :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Maintenance-Supervisor-(Sourcing)/749685902/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Maintenance-Supervisor-(Sourcing)/749685902/&lt;/a&gt;&lt;br /&gt;
+Piping Designer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Piping-Designer/755647502/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Piping-Designer/755647502/&lt;/a&gt;&lt;br /&gt;
+Piping Engineer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Piping-Engineer/755603602/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Piping-Engineer/755603602/&lt;/a&gt;&lt;br /&gt;
+Principal Data &amp; Automation Engineer:&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Principal-Data-&amp;-Automation-Engineer/756181702/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Principal-Data-&amp;-Automation-Engineer/756181702/&lt;/a&gt;&lt;br /&gt;
+Principal Digital Projects Delivery Engineer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Principal-Digital-Projects-Delivery-Engineer/756182202/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Principal-Digital-Projects-Delivery-Engineer/756182202/&lt;/a&gt;&lt;br /&gt;
+Principal Process Designer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Principal-Process-Designer/745527102/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Principal-Process-Designer/745527102/&lt;/a&gt;&lt;br /&gt;
+Principal Quality Assurance Engineer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Principal-Quality-Assurance-Engineer/746447402/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Principal-Quality-Assurance-Engineer/746447402/&lt;/a&gt;&lt;br /&gt;
+Project Buyer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Project-Buyer/744068202/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Project-Buyer/744068202/&lt;/a&gt;&lt;br /&gt;
+Project Engineer :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Project-Engineer/749621002/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Project-Engineer/749621002/&lt;/a&gt;&lt;br /&gt;
+Project Engineer (Water) :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Casablanca-Project-Engineer/751609002/" target="_blank"&gt;https://careers.jesagroup.com/job/Casablanca-Project-Engineer/751609002/&lt;/a&gt;&lt;br /&gt;
+Project Expeditor :&lt;br /&gt;
+&lt;a href="https://careers.jesagroup.com/job/Jorf-Lasfar-Project-Expeditor/755040402/" target="_blank"&gt;https://careers.jesagroup.com/job/Jorf-Lasfar-Project-Expeditor/755040402/&lt;/a&gt;&lt;br /&gt;
+حسابي انستغرام :&lt;br /&gt;
+&lt;a href="https://www.instagram.com/bghit.khadma/?hl=fr" target="_blank"&gt;https://www.instagram.com/bghit.khadma/?hl=fr&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/ocp" target="_blank"&gt;#ocp&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/office_ch%C3%A9rifien_des_phosphates" target="_blank"&gt;#office_chérifien_des_phosphates&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/office_phosphate_maroc" target="_blank"&gt;#office_phosphate_maroc&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/jesa" target="_blank"&gt;#jesa&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/spas12" target="_blank"&gt;#spas12&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/jacob" target="_blank"&gt;#jacob&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/royal_air_maroc" target="_blank"&gt;#royal_air_maroc&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/office" target="_blank"&gt;#office&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/atlas" target="_blank"&gt;#atlas&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/aeronautics" target="_blank"&gt;#aeronautics&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/aeroporto" target="_blank"&gt;#aeroporto&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/airbus" target="_blank"&gt;#airbus&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/airbusa380" target="_blank"&gt;#airbusa380&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/boing" target="_blank"&gt;#boing&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/truckdriver" target="_blank"&gt;#truckdriver&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/trucking" target="_blank"&gt;#trucking&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/canada" target="_blank"&gt;#Canada&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/montr%C3%A9al" target="_blank"&gt;#Montréal&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/usa" target="_blank"&gt;#usa&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/immigration_to_canada" target="_blank"&gt;#Immigration_to_Canada&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/truck_driver_in_canada" target="_blank"&gt;#Truck_driver_in_Canada&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/quebec" target="_blank"&gt;#quebec&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/qu%C3%A9bec" target="_blank"&gt;#québec&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/morocco" target="_blank"&gt;#morocco&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/casa" target="_blank"&gt;#casa&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/marrakech" target="_blank"&gt;#marrakech&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/agadir" target="_blank"&gt;#agadir&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/tanger" target="_blank"&gt;#tanger&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/tetouan" target="_blank"&gt;#tetouan&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/egypt" target="_blank"&gt;#egypt&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/ukraine" target="_blank"&gt;#ukraine&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/russia" target="_blank"&gt;#russia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/russian" target="_blank"&gt;#russian&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/espanol" target="_blank"&gt;#espanol&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/italy" target="_blank"&gt;#italy&lt;/a&gt;   &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/germany" target="_blank"&gt;#germany&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/rabat" target="_blank"&gt;#rabat&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/tanger" target="_blank"&gt;#tanger&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/tetouan" target="_blank"&gt;#tetouan&lt;/a&gt; &lt;br /&gt;
+ &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D8%A7" target="_blank"&gt;#امريكا&lt;/a&gt; &lt;br /&gt;
+ &lt;a href="https://www.youtube.com/hashtag/%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%AC%D8%B1%D8%A9_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#هجرة_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B3%D9%81%D8%B1_%D8%A7%D9%84%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#السفر_الى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#الدراسة_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#اللجوء_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%83%D9%81%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D9%83%D9%86%D8%B3%D9%8A%D8%A9_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#الكفالة_الكنسية_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D9%86%D8%AD_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#المنح_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%88%D8%A7%D8%AA%D8%A8_%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#رواتب_العمل_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A9_%D8%A7%D9%84%D9%83%D9%86%D8%AF%D9%8A%D8%A9" target="_blank"&gt;#الجنسية_الكندية&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D8%AA_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#مقاطعات_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%AC%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D8%AA_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#هجرة_المقاطعات_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#الزواج_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%AC%D8%B1%D8%A9_%D9%83%D9%86%D8%AF%D8%A7_%D9%81%D9%89_2022" target="_blank"&gt;#هجرة_كندا_فى_2022&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9" target="_blank"&gt;#الهجرة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B3%D9%87%D9%84_%D8%A8%D9%84%D8%AF_%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9" target="_blank"&gt;#اسهل_بلد_للهجرة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9_%D8%A8%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B7" target="_blank"&gt;#الهجرة_بنظام_النقاط&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3_%D8%A7%D9%86%D8%AA%D8%B1%D9%89_%D8%A7%D9%84%D9%83%D9%86%D8%AF%D9%89" target="_blank"&gt;#الاكسبريس_انترى_الكندى&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#المعيشة_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B9%D9%8A%D9%88%D8%A8_%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9_%D9%81%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#عيوب_المعيشة_فى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B9%D9%8A%D9%88%D8%A8_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#عيوب_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9_%D8%A8%D8%AF%D9%88%D9%86_%D8%AD%D8%B3%D8%A7%D8%A8_%D8%A8%D9%86%D9%83%D9%89" target="_blank"&gt;#الهجرة_بدون_حساب_بنكى&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1" target="_blank"&gt;#الدار_البيضاء&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B3%D8%A7%D8%A6%D9%82" target="_blank"&gt;#سائق&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B4%D8%A7%D8%AD%D9%86%D9%87" target="_blank"&gt;#شاحنه&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9_%D8%A7%D9%84%D9%89_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#الهجرة_الى_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B3%D8%A7%D8%A6%D9%82_%D8%A7%D9%84%D8%B4%D8%A7%D8%AD%D9%86%D8%A9_%D9%81%D9%8A_%D9%83%D9%86%D8%AF%D8%A7" target="_blank"&gt;#سائق_الشاحنة_في_كندا&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1" target="_blank"&gt;#الدار_البيضاء&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D9%87_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D9%87" target="_blank"&gt;#الحرب_العالميه_الثالثه&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9_%D8%A7%D9%84%D8%A7%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9" target="_blank"&gt;#الحرب_الروسية_الاوكرانية&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%B7_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#الخطوط_الملكية_المغربية&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A_%D9%84%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA" target="_blank"&gt;#المكتب_الوطني_للمطارات&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">نزهة بالفضاءات الخضراء المتواجدة بحي البيوت و الحديقة المقابلة لإدارة المكتب الشريف للفوسفاط ...</title>
+    <published>2022-10-08T00:00:00+00:00</published>
+    <updated>2022-10-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=DkG7BDtsQ24</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DkG7BDtsQ24"/>
+    <author>
+      <name>جوّال خريبكَة - Jawal khouribga officiel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DkG7BDtsQ24"&gt;&lt;img src="https://img.youtube.com/vi/DkG7BDtsQ24/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الفوسفات المغربي... المكتب الشريف للفوسفاط يستحوذ على أكبر شركة أسمدة بإسبانيا تمهيدا السوق العالمية</title>
+    <published>2022-10-08T00:00:00+00:00</published>
+    <updated>2022-10-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=yVCEqsbRTmA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=yVCEqsbRTmA"/>
+    <author>
+      <name>Nana Post</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=yVCEqsbRTmA"&gt;&lt;img src="https://img.youtube.com/vi/yVCEqsbRTmA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;علاش المغرب سيطر على هاد الشركة الإسبانية بالذات وعلاش المكتب الشريف للفوسفاط هو لي دخل فهاد الصفقة</content>
+  </entry>
+  <entry>
+    <title type="html">احتجاج نقابيون ضد المكتب الشريف للفوسفاط  خريبكة</title>
+    <published>2022-10-03T00:00:00+00:00</published>
+    <updated>2022-10-03T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=qJaf3Hed2ws</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=qJaf3Hed2ws"/>
+    <author>
+      <name>Akhbar chaab أخبار الشعب</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=qJaf3Hed2ws"&gt;&lt;img src="https://img.youtube.com/vi/qJaf3Hed2ws/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;تصوير ومونطاج مصطفى بنان متابعة المصطفى شعب تنسيق سناء طيان زوروا موقعنا &lt;br /&gt;
+&lt;a href="http://akhbarchaab.ma/" target="_blank"&gt;http://akhbarchaab.ma/&lt;/a&gt;&lt;br /&gt;
+تابعونا على مواقع التواصل الإجتماعي&lt;br /&gt;
+فايسبوك :  &lt;a href="http://fb.com/akhbarchaab.ma" target="_blank"&gt;http://fb.com/akhbarchaab.ma&lt;/a&gt;&lt;br /&gt;
+انستاغرام :  &lt;a href="https://www.instagram.com/akhbarchaab/" target="_blank"&gt;https://www.instagram.com/akhbarchaab/&lt;/a&gt;&lt;br /&gt;
+تويتر :  &lt;a href="https://twitter.com/akhbarchaabma" target="_blank"&gt;https://twitter.com/akhbarchaabma&lt;/a&gt;&lt;br /&gt;
+بانتيريست : &lt;a href="https://www.pinterest.com/akhbarchaab/" target="_blank"&gt;https://www.pinterest.com/akhbarchaab/&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جديد المكتب الشريف للفوسفاط</title>
+    <published>2022-09-30T00:00:00+00:00</published>
+    <updated>2022-09-30T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=pfkVXtkMj4Y</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=pfkVXtkMj4Y"/>
+    <author>
+      <name>tik tok yas</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=pfkVXtkMj4Y"&gt;&lt;img src="https://img.youtube.com/vi/pfkVXtkMj4Y/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">في وقفة احتجاجية بخريبكة، نقابيون يرفعون شعارات قوية ضد المكتب الشريف للفوسفاط</title>
+    <published>2022-09-29T00:00:00+00:00</published>
+    <updated>2022-09-29T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=TJnpC9sag-o</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=TJnpC9sag-o"/>
+    <author>
+      <name>Akhbar chaab أخبار الشعب</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=TJnpC9sag-o"&gt;&lt;img src="https://img.youtube.com/vi/TJnpC9sag-o/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;تصوير ومونطاج مصطفى بنان متابعة المصطفى شعب تنسيق سناء طيان زوروا موقعنا &lt;br /&gt;
+&lt;a href="http://akhbarchaab.ma/" target="_blank"&gt;http://akhbarchaab.ma/&lt;/a&gt;&lt;br /&gt;
+تابعونا على مواقع التواصل الإجتماعي&lt;br /&gt;
+فايسبوك :  &lt;a href="http://fb.com/akhbarchaab.ma" target="_blank"&gt;http://fb.com/akhbarchaab.ma&lt;/a&gt;&lt;br /&gt;
+انستاغرام :  &lt;a href="https://www.instagram.com/akhbarchaab/" target="_blank"&gt;https://www.instagram.com/akhbarchaab/&lt;/a&gt;&lt;br /&gt;
+تويتر :  &lt;a href="https://twitter.com/akhbarchaabma" target="_blank"&gt;https://twitter.com/akhbarchaabma&lt;/a&gt;&lt;br /&gt;
+بانتيريست : &lt;a href="https://www.pinterest.com/akhbarchaab/" target="_blank"&gt;https://www.pinterest.com/akhbarchaab/&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">المتقاعدون الفوسفاطيون بالجديدة يشخصون أعطاب الأعمال الإجتماعية للمكتب الشريف للفوسفاط وهذه مطالبهم</title>
+    <published>2022-09-26T00:00:00+00:00</published>
+    <updated>2022-09-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=NWa1ces7fIU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NWa1ces7fIU"/>
+    <author>
+      <name>today wtv</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=NWa1ces7fIU"&gt;&lt;img src="https://img.youtube.com/vi/NWa1ces7fIU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;المتقاعدون الفوسفاطيون بالجديدة يشخصون أعطاب الأعمال الإجتماعية للمكتب الشريف للفوسفاط وهذه مطالبهم</content>
+  </entry>
+  <entry>
+    <title type="html">أهمية ارتفاع رقم معاملات المكتب الشريف للفوسفاط</title>
+    <published>2022-09-26T00:00:00+00:00</published>
+    <updated>2022-09-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=QRPONpkHtaY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QRPONpkHtaY"/>
+    <author>
+      <name>MEDI1 TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QRPONpkHtaY"&gt;&lt;img src="https://img.youtube.com/vi/QRPONpkHtaY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/%D9%85%D9%88%D8%B6%D9%88%D8%B9_%D8%A7%D9%84%D9%8A%D9%88%D9%85" target="_blank"&gt;#موضوع_اليوم&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">المكتب الشريف للفوسفاط حملة التوظيف في مختلف المدن</title>
+    <published>2022-08-24T00:00:00+00:00</published>
+    <updated>2022-08-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=hp6GvpHQSu0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hp6GvpHQSu0"/>
+    <author>
+      <name>قناتي المفضلة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hp6GvpHQSu0"&gt;&lt;img src="https://img.youtube.com/vi/hp6GvpHQSu0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">بعض الأنشطة بمركز الاصطياف للمكتب الشريف للفوسفاط  ببوزنيقة centre_d'estivage_ocp #bouznika</title>
+    <published>2022-08-22T00:00:00+00:00</published>
+    <updated>2022-08-22T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=3E_NFCy7S98</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3E_NFCy7S98"/>
+    <author>
+      <name>أم وعد</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=3E_NFCy7S98"&gt;&lt;img src="https://img.youtube.com/vi/3E_NFCy7S98/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/bouznika" target="_blank"&gt;#bouznika&lt;/a&gt;  &lt;a href="https://www.youtube.com/hashtag/ocp" target="_blank"&gt;#ocp&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">صرخة المتقاعد الفوسفاط بأسفي لازالت مستمرة و إدارة المجمع الشريف للفوسفاط تنهح سياسة الأذان الصماء</title>
+    <published>2022-08-17T00:00:00+00:00</published>
+    <updated>2022-08-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=WCk4kLD0wVY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=WCk4kLD0wVY"/>
+    <author>
+      <name>Qadia24</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=WCk4kLD0wVY"&gt;&lt;img src="https://img.youtube.com/vi/WCk4kLD0wVY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;صرخة المتقاعد الفوسفاط بأسفي لازالت مستمرة و إدارة المجمع الشريف للفوسفاط تنهح سياسة الأذان الصماء</content>
+  </entry>
+  <entry>
+    <title type="html">أقوى اللحظات بالإقامة الصيفية للمجمع الشريف للفوسفاط ببوزنيقا #ocp#vacance#</title>
+    <published>2022-08-14T00:00:00+00:00</published>
+    <updated>2022-08-14T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=D2VuTfHry2s</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=D2VuTfHry2s"/>
+    <author>
+      <name>Just for You fالابداعات والأفكار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=D2VuTfHry2s"&gt;&lt;img src="https://img.youtube.com/vi/D2VuTfHry2s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">السلطات الفرنسية ترفض منح التأشيرة لأطباء المغاربة .. وهذا تعليق بوريطة</title>
+    <published>2022-08-14T00:00:00+00:00</published>
+    <updated>2022-08-14T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=e175cVED4YM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=e175cVED4YM"/>
+    <author>
+      <name>أخبار ومعلومات يومية</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=e175cVED4YM"&gt;&lt;img src="https://img.youtube.com/vi/e175cVED4YM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مسابح المجمع الشريف للفوسفاط ocp بخريبكة على القناة الأولى</title>
+    <published>2022-08-12T00:00:00+00:00</published>
+    <updated>2022-08-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=c0PEoY12wEc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=c0PEoY12wEc"/>
+    <author>
+      <name>Mounir LA</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=c0PEoY12wEc"&gt;&lt;img src="https://img.youtube.com/vi/c0PEoY12wEc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ذكرى تأسيس المكتب الشريف للفوسفاط</title>
+    <published>2022-08-11T00:00:00+00:00</published>
+    <updated>2022-08-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=5-kJNWhGmEU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5-kJNWhGmEU"/>
+    <author>
+      <name>MAGHREB HISTORY  TV نهار و اخبار في تاريخ المغرب</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5-kJNWhGmEU"&gt;&lt;img src="https://img.youtube.com/vi/5-kJNWhGmEU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
