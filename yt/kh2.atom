@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">khouribga city 150 km/H</title>
+    <published>2022-11-27T00:00:00+00:00</published>
+    <updated>2022-11-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9c-IXzTfSZ8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9c-IXzTfSZ8"/>
+    <author>
+      <name>Ayoub</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9c-IXzTfSZ8"&gt;&lt;img src="https://img.youtube.com/vi/9c-IXzTfSZ8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">Khouribga city</title>
     <published>2022-11-26T00:00:00+00:00</published>
     <updated>2022-11-26T00:00:00+00:00</updated>
@@ -24,6 +35,17 @@
       <name>gaditano</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=11_v3XrpAMo"&gt;&lt;img src="https://img.youtube.com/vi/11_v3XrpAMo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">gaditano khouribga 0623999802</title>
+    <published>2022-11-22T00:00:00+00:00</published>
+    <updated>2022-11-22T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=6sDOEtYEFXk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=6sDOEtYEFXk"/>
+    <author>
+      <name>gaditano</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=6sDOEtYEFXk"&gt;&lt;img src="https://img.youtube.com/vi/6sDOEtYEFXk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">Session de recrutement à 1337 Khouribga avec la Société Générale</title>
@@ -482,27 +504,5 @@ liverpool ultras,</content>
       <name>Taoufik Bassiti</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=RpykO0XtnQg"&gt;&lt;img src="https://img.youtube.com/vi/RpykO0XtnQg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">gaditano khouribga 0623999802</title>
-    <published>2022-10-16T00:00:00+00:00</published>
-    <updated>2022-10-16T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=kbw6MHfhxto</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=kbw6MHfhxto"/>
-    <author>
-      <name>gaditano</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=kbw6MHfhxto"&gt;&lt;img src="https://img.youtube.com/vi/kbw6MHfhxto/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">gaditano khouribga 0623999802</title>
-    <published>2022-10-16T00:00:00+00:00</published>
-    <updated>2022-10-16T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=0JAOZhl4Sqc</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=0JAOZhl4Sqc"/>
-    <author>
-      <name>gaditano</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=0JAOZhl4Sqc"&gt;&lt;img src="https://img.youtube.com/vi/0JAOZhl4Sqc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
