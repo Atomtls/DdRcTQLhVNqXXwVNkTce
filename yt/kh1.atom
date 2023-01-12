@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Search: "خريبكة" - YouTube</title>
-  <icon>https://www.youtube.com//favicon.ico</icon>
-  <logo>https://www.youtube.com//favicon.ico</logo>
+  <title type="text"></title>
+  <icon>https://github.com/favicon.ico</icon>
+  <logo>https://github.com/favicon.ico</logo>
+  <entry>
+    <title type="html">Bridge returned error 0! (19369)</title>
+    <published>2023-01-12T14:00:05+00:00</published>
+    <updated>2023-01-12T14:00:05+00:00</updated>
+    <id>http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s="خريبكة"&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom</id>
+    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+    <content type="html">&lt;section&gt;
+    &lt;p class="exception-message"&gt;
+        Exception Error: Call to a member function find() on bool in bridges/YoutubeBridge.php line 91    &lt;/p&gt;
+
+            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;br&gt;
+            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;br&gt;
+            #2 lib/RssBridge.php(64): DisplayAction-&amp;gt;execute()        &lt;br&gt;
+            #3 actions/DisplayAction.php(137): YoutubeBridge-&amp;gt;collectData()        &lt;br&gt;
+            #4 bridges/YoutubeBridge.php(409): YoutubeBridge-&amp;gt;parseJSONListing()        &lt;br&gt;
+            #5 bridges/YoutubeBridge.php(309): YoutubeBridge-&amp;gt;ytBridgeQueryVideoInfo()        &lt;br&gt;
+            #6 bridges/YoutubeBridge.php(91)        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;p&gt;
+        Query string: action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/p&gt;
+    &lt;p&gt;
+        Version: dev.2022-06-14 (git.master.6ae4049)    &lt;/p&gt;
+    &lt;p&gt;
+        OS: Linux    &lt;/p&gt;
+    &lt;p&gt;
+        PHP version: 7.4.29    &lt;/p&gt;
+
+    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
+        &lt;button&gt;Find similar bugs&lt;/button&gt;
+    &lt;/a&gt;
+
+    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AException+Error%3A+Call+to+a+member+function+find%28%29+on+bool+in+bridges%2FYoutubeBridge.php+line+91%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2864%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28137%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28409%29%3A+YoutubeBridge-%3EparseJSONListing%28%29%0Abridges%2FYoutubeBridge.php%28309%29%3A+YoutubeBridge-%3EytBridgeQueryVideoInfo%28%29%0Abridges%2FYoutubeBridge.php%2891%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2022-06-14+%28git.master.6ae4049%29%0AOs%3A+Linux%0APHP+version%3A+7.4.29%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
+        &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+    &lt;/a&gt;
+
+    &lt;p class="maintainer"&gt;
+        em92    &lt;/p&gt;
+&lt;/section&gt;
+
+</content>
+  </entry>
 </feed>
