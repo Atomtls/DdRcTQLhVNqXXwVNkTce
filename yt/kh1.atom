@@ -1,49 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19369)</title>
-    <published>2023-01-12T20:00:06+00:00</published>
-    <updated>2023-01-12T20:00:06+00:00</updated>
-    <id>http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s="خريبكة"&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">&lt;section&gt;
-    &lt;p class="exception-message"&gt;
-        Exception Error: Call to a member function find() on bool in bridges/YoutubeBridge.php line 91    &lt;/p&gt;
-
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;br&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;br&gt;
-            #2 lib/RssBridge.php(64): DisplayAction-&amp;gt;execute()        &lt;br&gt;
-            #3 actions/DisplayAction.php(137): YoutubeBridge-&amp;gt;collectData()        &lt;br&gt;
-            #4 bridges/YoutubeBridge.php(409): YoutubeBridge-&amp;gt;parseJSONListing()        &lt;br&gt;
-            #5 bridges/YoutubeBridge.php(309): YoutubeBridge-&amp;gt;ytBridgeQueryVideoInfo()        &lt;br&gt;
-            #6 bridges/YoutubeBridge.php(91)        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;p&gt;
-        Query string: action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/p&gt;
-    &lt;p&gt;
-        Version: dev.2022-06-14 (git.master.6ae4049)    &lt;/p&gt;
-    &lt;p&gt;
-        OS: Linux    &lt;/p&gt;
-    &lt;p&gt;
-        PHP version: 7.4.29    &lt;/p&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-        &lt;button&gt;Find similar bugs&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AException+Error%3A+Call+to+a+member+function+find%28%29+on+bool+in+bridges%2FYoutubeBridge.php+line+91%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2864%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28137%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28409%29%3A+YoutubeBridge-%3EparseJSONListing%28%29%0Abridges%2FYoutubeBridge.php%28309%29%3A+YoutubeBridge-%3EytBridgeQueryVideoInfo%28%29%0Abridges%2FYoutubeBridge.php%2891%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2022-06-14+%28git.master.6ae4049%29%0AOs%3A+Linux%0APHP+version%3A+7.4.29%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-        &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-    &lt;/a&gt;
-
-    &lt;p class="maintainer"&gt;
-        em92    &lt;/p&gt;
-&lt;/section&gt;
-
-</content>
+    <title type="html">مجموعة رموز الخير محيحين مع ناس خريبكة 💃🕺</title>
+    <published>2023-01-12T00:00:00+00:00</published>
+    <updated>2023-01-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=h37JcI_hY2U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=h37JcI_hY2U"/>
+    <author>
+      <name>مجموعة عبيدات الرمى رموز الخير خريبكة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=h37JcI_hY2U"&gt;&lt;img src="https://img.youtube.com/vi/h37JcI_hY2U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مجموعة رموز الخير محيحين مع ناس خريبكة 💃🕺</content>
+  </entry>
+  <entry>
+    <title type="html">#طريق موت ... الرعب😱😱😱 بمدينة خريبكة عاصمة الفوسفاط</title>
+    <published>2023-01-12T00:00:00+00:00</published>
+    <updated>2023-01-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=3GC86CO7Hqo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3GC86CO7Hqo"/>
+    <author>
+      <name>SAIF ED-DINE MAHBOUB MAROCAINE</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=3GC86CO7Hqo"&gt;&lt;img src="https://img.youtube.com/vi/3GC86CO7Hqo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ملعب أولمبيك خريبكة الجديد تحفة فنية رائعة ومشروع من أجمل ملاعب المغرب في المستقبل</title>
+    <published>2023-01-12T00:00:00+00:00</published>
+    <updated>2023-01-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2WORoDSCAUs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2WORoDSCAUs"/>
+    <author>
+      <name>ألاخبار 41</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2WORoDSCAUs"&gt;&lt;img src="https://img.youtube.com/vi/2WORoDSCAUs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;ملعب الفوسفاط الجديد&lt;br /&gt;
+ملعب أولمبيك خريبكة الجديد&lt;br /&gt;
+ملعب أولمبيك خريبكة اليوم&lt;br /&gt;
+ملعب أولمبيك خريبكة 2023&lt;br /&gt;
+جديد ملعب أولمبيك خريبكة&lt;br /&gt;
+اولمبيك خريبكة&lt;br /&gt;
+فريق أولمبيك خريبكة&lt;br /&gt;
+أخبار ملعب أولمبيك خريبكة&lt;br /&gt;
+اشغال ملعب أولمبيك خريبكة&lt;br /&gt;
+جديد مدينة خريبكة&lt;br /&gt;
+خريبكة, سياقة في خريبكة, جولة بالسيارة, شوارع خريبكة, خريبكة المغربية, المغرب, بلاد الفوسفاط, أرض الفوسفاط, Phosphate land, khouribga city, khouribga streets, city of phosphate, car ride in khouribga, car ride in morocco, khouribga in spring, خريبكة في فصل الؤبيع, avenues de khouribga, les rues de khouribga, circulation à khouribga, ملعب الفوسفاط, phosphate stadium, khouribga info, ensa khouribga, khouribga 2020, khouribga rap, khouribga 24, khouribga (city/town/village), khouribga, &lt;a href="https://www.youtube.com/hashtag/khouribga" target="_blank"&gt;#khouribga&lt;/a&gt;, bus khouribga, khouribga tv, bent khouribga, khouribga film, film khouribga, khouribga byout, khouribga music, khouribga skills, khouribga chaabi, khouribga akhbar, fosfat khouribga, chikhat khouribga, khouribga mr crazy, khouribga morocco, khouribga hespress, فيضانات خريبكة 2021, KHOURIBGA, MOROCCO, KHOURIBGA CITY MOROCCO, جولة في خريبكة, شوارع مدينة خريبكة, جولة في مدينة خريبكة, جولة في شوارع مدينة خريبكة, مدينة خريبكة&lt;br /&gt;
+خريبكة اليوم&lt;br /&gt;
+ملعب ابن بطوطة, Moroco, العالم, كاس, الاندية, ملعب طنجة, ملعب ابن بطوطة طنجة, stade de tanger, ملعب الحسيمة الجديد, ملاعب المغرب, stade tanger, ملعب طنجة الكبير, ملعب طنجة اليوم, stade hoceima 2022, زهير بهاوي, ملاعب المغرب الجديدة 2022, ملعب مراكش, الملاعب المغربية الجديدة, ملعب طنجة الكبير 2022, ملعب طنجة الجديد 2022, ملعب ادرار اكادير, ملعب ادرار, ملعب طنجة 2022, ملعب طنجة الكبير 2023, الشكل النهائي لملعب طنجة, المغرب, مركب طنجة الكبير, مستجدات ملعب طنجة, ملعب الرباط اليوم, ملعب طنجة الجديدملعب الحسيمة, ملعب الحسيمة الجديد, ملعب الحسيمة الجديد 2022, ملعب ايت قمرة, اشغال ملعب الحسيمة, stade Al Hoceima, جديد ملعب طنجة, اشغال ملعب طنجة, اشغال ملعب القنيطرة, ملعب تطوان الجديد 2022, جديد ملعب القنيطرة, grand stade Tétouan, travaux stade Tanger, travaux stade de knetra, اشغال ملعب وادي زم, جديد ملعب وادي زم, المغرب, الكرة, القرية, الأولمبي, السيارات, المملكة, المسبح, الرياضة, الملعب, الحسيمةhelala boys, البطولة, Elbotola.com, elbotola, el botola, elbotolatv, winners, المنتخب المغربي, القنيطرة, البلدي, الملعب, الرياضة, الكرة, المملكة, ملاعب, القدم, المغرب, المغربية, غطاء, تغطية, الكبير, الملكية, الجامعة, رياضية, منشآت, مشاريع, السادس, محمد, فريق, stade, الكبرى, equipe, kac, maroc, football, morocco, al baladi, royal, الوطنية, kingdom, قاعات, مسبح, قاعة, olympic, أولمبية, مسابح, أولمبي, طنجة, qenitra, kenitra, الحسيمة, كورة, البطولة المغربيةملعب الدار البيضاء الكبير 2022, ملعب الدار البيضاء الجديد 2022, ملعب الدار البيضاء, ملعب الجوهرة يالدار البيضاء, جديد أشغال ملعب طنجة, الرجاء البيضاوي, ملعب طنجة 2022, ملعب طنجة الكبير, ملاعب المغرب الجديدة, الوداد البيضاوي, أشغال ملعب الدار البيضاء الكبير, اشغال ملعب الدار البيضاء الجديد, تصميم ملعب الدار البيضاء الجديد, Grand stade de Casablanca, botola, تمويل بناء</content>
+  </entry>
+  <entry>
+    <title type="html">ولد خريبكة مسكين عندو 4 بنات 😔تيتطلب  مساعدة من ولاد بلادو ميتخلاوش عليه☝🏻06.68.44.60.78</title>
+    <published>2023-01-12T00:00:00+00:00</published>
+    <updated>2023-01-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=aVoAAJZuz_w</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=aVoAAJZuz_w"/>
+    <author>
+      <name>sawab fans</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=aVoAAJZuz_w"&gt;&lt;img src="https://img.youtube.com/vi/aVoAAJZuz_w/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;للمساعدة&lt;br /&gt;
+06.68.44.60.78</content>
+  </entry>
+  <entry>
+    <title type="html">جماعة "كواوش" ضواحي  خريبكة  تعاني كارثه بيئية</title>
+    <published>2023-01-12T00:00:00+00:00</published>
+    <updated>2023-01-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=QNFjCfmcDuY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QNFjCfmcDuY"/>
+    <author>
+      <name>أخبار اليوم 24</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QNFjCfmcDuY"&gt;&lt;img src="https://img.youtube.com/vi/QNFjCfmcDuY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">سوق الأربعاء جماعة لكَفاف إقليم خريبكة</title>
+    <published>2023-01-12T00:00:00+00:00</published>
+    <updated>2023-01-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=uLLlGbDoueM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uLLlGbDoueM"/>
+    <author>
+      <name>abdelkrim laagad</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=uLLlGbDoueM"&gt;&lt;img src="https://img.youtube.com/vi/uLLlGbDoueM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🍊خريبكة 🍊</title>
+    <published>2023-01-11T00:00:00+00:00</published>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=51vW-gVczzg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=51vW-gVczzg"/>
+    <author>
+      <name>Cuisine &amp;amp; vlog  اسماء متنوعة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=51vW-gVczzg"&gt;&lt;img src="https://img.youtube.com/vi/51vW-gVczzg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">من خريبكة .اول خروج اعلامي للممثل.جواد السايح حول عرضه مسرحية الطفل .في المدينة</title>
+    <published>2023-01-11T00:00:00+00:00</published>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=USlwoR7kEC8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=USlwoR7kEC8"/>
+    <author>
+      <name>flach 24 فلاش</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=USlwoR7kEC8"&gt;&lt;img src="https://img.youtube.com/vi/USlwoR7kEC8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الدوري المغربي إينوي 2023'الدفاع الجديدي2-1أولمبيك خريبكة'تعليقي لقناة الرياضية/صوت:عبد السلام معيدن</title>
+    <published>2023-01-11T00:00:00+00:00</published>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_pZU8YOq00Y</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_pZU8YOq00Y"/>
+    <author>
+      <name>Abdeslam Maiden</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_pZU8YOq00Y"&gt;&lt;img src="https://img.youtube.com/vi/_pZU8YOq00Y/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">استقبال ملكي للعروسة والعريس الله اكمل بالخير مجموعة نجوم السلطان #خريبكة #maroc  #casablanca</title>
+    <published>2023-01-11T00:00:00+00:00</published>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=z7brhPKIrkQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=z7brhPKIrkQ"/>
+    <author>
+      <name>مجموعة نجوم السلطان</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=z7brhPKIrkQ"&gt;&lt;img src="https://img.youtube.com/vi/z7brhPKIrkQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مجموعة نجوم السلطان #خريبكة #khouribga #maroc #casablanca #rabat #بني_ملال #مراكش</title>
+    <published>2023-01-11T00:00:00+00:00</published>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=XOl8oA73SOQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=XOl8oA73SOQ"/>
+    <author>
+      <name>مجموعة نجوم السلطان</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=XOl8oA73SOQ"&gt;&lt;img src="https://img.youtube.com/vi/XOl8oA73SOQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">شوفو على منظر ملي  طاحت شتاء#طريق#الدار_البيضاء#خريبكة</title>
+    <published>2023-01-11T00:00:00+00:00</published>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=dUubIsmk4kI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=dUubIsmk4kI"/>
+    <author>
+      <name>قناة ياتي للطبخ والترفيه</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=dUubIsmk4kI"&gt;&lt;img src="https://img.youtube.com/vi/dUubIsmk4kI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الدوري المغربي إينوي 2023'الدفاع الجديدي2-1أولمبيك خريبكة'تعليقي لقناة الرياضية صوت عبد السلام معيدن</title>
+    <published>2023-01-11T00:00:00+00:00</published>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ic08NJSV5Qc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ic08NJSV5Qc"/>
+    <author>
+      <name>Abdeslam Maiden</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ic08NJSV5Qc"&gt;&lt;img src="https://img.youtube.com/vi/ic08NJSV5Qc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عاجل ومباشرة من خريبكة: ياربي السلامة.. سيدة تحرق ليها لكراج لي كانت ساكنة فيه ومشا ليها كولشي</title>
+    <published>2023-01-11T00:00:00+00:00</published>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=waFsX887RYw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=waFsX887RYw"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=waFsX887RYw"&gt;&lt;img src="https://img.youtube.com/vi/waFsX887RYw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عاجل ومباشرة من خريبكة: ياربي السلامة.. سيدة تحرق ليها لكراج لي كانت ساكنة فيه ومشا ليها كولشي: "راجلي تحرق من يديه وحنا حاليا مهددين بالتشرد"&lt;br /&gt;
+للمساعدة: 0609274399</content>
+  </entry>
+  <entry>
+    <title type="html">الدوري المغربي إينوي 2023'الدفاع الجديدي 2-1 أولمبيك خريبكة'تعليقي على هدف الجديدة/عبد السلام معيدن</title>
+    <published>2023-01-10T00:00:00+00:00</published>
+    <updated>2023-01-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=yO8pyZ82MvI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=yO8pyZ82MvI"/>
+    <author>
+      <name>Abdeslam Maiden</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=yO8pyZ82MvI"&gt;&lt;img src="https://img.youtube.com/vi/yO8pyZ82MvI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الجامعة تعاقب الوداد الرياضي .الماط ..خريبكة وأندية أخرى</title>
+    <published>2023-01-10T00:00:00+00:00</published>
+    <updated>2023-01-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=TQV1a1hJSsg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=TQV1a1hJSsg"/>
+    <author>
+      <name>راديو سبور ماروك</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=TQV1a1hJSsg"&gt;&lt;img src="https://img.youtube.com/vi/TQV1a1hJSsg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عزيز البدراوي,فهمي,المنتخب المغربي,اللجنة التقنية للرجاء,كأس إفريقيا للأمم,فوزي البنزرتي,ابو شروان,هلالدردشة رياضية ..تغييرات كبيرة بالرجاء ..خرجة الناصيري والبدراوي الطير,المنتخب,منذر الكبير,اخر اخبار المغرب,منذر الكبير مدرب للرجاء المغربي خلفا لفوزي البنزرتي,اخر اخبار المنتخب الوطني المغربي,WYDAD,لائحة المنتخب المغربي,أخبار المنتخب المغربي,تشكيلة المنتخب المغربي,لائحة المنتخب المغربي اليوم,المغرب,المنتخب الوطني المغربي,المنتخب المغربي داخل القاعة,الركراكي,أخبار الرجاء الرياضي,الرجاء الرياضي,كلام منذر لكبيرجدل رحيل البنزرتي وقدوم لكبير..عموتة يؤكد..متفرقات ..اتصالات المشاهدين&lt;br /&gt;
+جدل رحيل البنزرتي وقدوم لكبير..عموتة يؤكد..متفرقات ..اتصالات المشاهدين&lt;br /&gt;
+جدل رحيل البنزرتي وقدوم لكبير..عموتة يؤكد..متفرقات ..اتصالات المشاهدين&lt;br /&gt;
+دردشة رياضية ..تغييرات كبيرة بالرجاء ..خرجة الناصيري والبدراوي&lt;br /&gt;
+    الوداد..الرجاء يحسم صفقة جديدة الودادالرجاء يحسم صفقة جديدة,raja,champions league,المنتخب المغربي,مدرب المنتخب المغربي المحلي,اخر اخبار المنتخب الوطني المغربي,تتويج الوداد,عزيز البدراوي الرجاء,عزيز البدراوي,ayoub bayoud,تحليل المباريات,أهداف المباريات,آخر أخبار الرجاء البيضاوي اليوم,آخر مستجدات الرجاء الرياضي,football,caf,wydad,اكسيل مايي,عزيز البدراوي bein sport,عزيز البدراوي شوف تيفي,اخر اخبار المغرب,لائحة وحيد خليلوزيتش,لائحة المنتخب المغربيلمنتخب الوطني اقالة المدرب,عبد الزراق حمد الله,المنتخب المغربي مع وليد الركراكي,اخر اخبار المنتخب الوطني المغربي,آخر أخبار الرجاء,اخبار الرجاء البيضاوي الاخيرة اليوم,أخبار الرجاء البيضاوي اليوم,قرار الجامعة الملكية المغربية لكرة القدم,لائحة المنتخب الوطني المغربي,walid regragui,لائحة المنتخب المغربي 2022,المغرب اليوم,اخر أخبار الرجاء البيضاوي,البدراوي,الجامعة الملكية المغربية لكرة القدم,تشكيلة المنتخب المغربي 2022,akhbar . maghribiya,خليلوزيتش,تشكيلة المغربالمغربي,morocco,المنتخب,كأس العالم,qatar 2022,تشكيلة المنتخب المغربي,لائحة المنتخب المغربي اليوم,المغرب,الركراكي,أخبار الرجاء الرياضي,الرجاء الرياضي,المباريات القادمة للمنتخب,كأس العرب,hakim,fan,ريال مدريد,real madrid,qatar,world cup 2022,أخبار المنتخب المغربي اليوم,اخبار اليوم,نهائي دوري أبطال أوروبا,قطر 2022,نهضة بركان,كأس الكاف,كأس أفريقيا,دوري الابطال,القدم,رياضة,الرجاء,اخبار اليوم كاملة حقيقة تعاقد الرجاء الرياضي مع منذ لكبير  عزيز البدراوي,المنتخب المغربي,اللجنة التقنية للرجاء,فوزي البنزرتي,ابو شروان,المنتخب,منذر الكبير,منذر الكبير مدرب للرجاء المغربي خلفا لفوزي البنزرتي,اخر اخبار المنتخب الوطني المغربي,لائحة المنتخب المغربي,تشكيلة المنتخب المغربي,لائحة المنتخب المغربي اليوم,المغرب,المنتخب الوطني المغربي,الركراكي,أخبار الرجاء الرياضي,الرجاء الرياضي,benzarti,المباريات القادمة للمنتخب,كأس العرب,qatar 2022,كأس العالم,morocco,hakim,madrid,fan,ريال مدريد,real madridعزيز البدراوي,منذر الكبير مدرب للرجاء المغربي خلفا لفوزي البنزرتي,فهمي,فوزي البنزرتي,اللجنة التقنية للرجاء,كأس إفريقيا للأمم,ابو شروان,هلال الطير,منذر الكبير,أخبار الرجاء الرياضي,اخر اخبار المنتخب الوطني المغربي,WYDAD,لائحة المنتخب المغربي,أخبار المنتخب المغربي,تشكيلة المنتخب المغربي,لائحة المنتخب المغربي اليوم,المغرب,المنتخب الوطني المغربي,المنتخب المغربي داخل عزيز البدراوي,المنتخب المغربي,اللجنة التقنية للرجاء,فوزي البنزرتي,ابو شروان,هلال الطير,المنتخب,منذر الكبير,منذر الكبير مدرب للرجاء المغربي خلفا لفوزي البنزرتي,اخر اخبار المنتخب الوطني المغربي,WYDAd,لائحة المنتخب المغربي,أخبار المنتخب المغربي,تشكيلة المنتخب المغربي,لائحة المنتخب المغربي اليوم,المغرب,المنتخب الوطني المغربي,المنتخب المغربي داخل القاعة,الركراكي,أخبار الرجاء الرياضي,الرجاء الرياضي,benzartiالقاعة,الركراكي,المنتخب المغربي,الرجاء الرياضي,اخر اخبار  المغرب,المنتخب,كلام منذر لكب آخر مستجدات   الرجاء   الرياضي اكسيل مايي الوداد..الرجاء يحسم صفقة جديدة الودادالرجاء يحسم صفقة جديد حمزة خابجدل           رحيل البنزرتيوقدوم لكبير..عموتة يؤكد..متفرقات ..اتصالات المشاهدين عزيز البدراوي الوداد</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة من خريبكة: قمة المأساة.. أم كتعيش ظروف مزرية مع ولدها المريض نفسيا.. والفقر منعها باش تعالجو:</title>
+    <published>2023-01-10T00:00:00+00:00</published>
+    <updated>2023-01-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Oo9f7BK2D9Y</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Oo9f7BK2D9Y"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Oo9f7BK2D9Y"&gt;&lt;img src="https://img.youtube.com/vi/Oo9f7BK2D9Y/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من خريبكة: قمة المأساة.. أم كتعيش ظروف مزرية مع ولدها المريض نفسيا.. والفقر منعها باش تعالجو: "أنا مريضة بالقلب والسكري ومعنديش باش نعالج راسي وولدي"&lt;br /&gt;
+للمساعدة: 0714543356&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftv_live" target="_blank"&gt;#chouftv_live&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftvlive" target="_blank"&gt;#chouftvlive&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma/&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;https://www.tiktok.com/@chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/ ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">فضيحة المسؤولين عن مدينة خريبكة..فضاء رياضي فحالة كارثية بسبب الإهمال</title>
+    <published>2023-01-10T00:00:00+00:00</published>
+    <updated>2023-01-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=VdHqacRM-AI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=VdHqacRM-AI"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=VdHqacRM-AI"&gt;&lt;img src="https://img.youtube.com/vi/VdHqacRM-AI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عاينت شوف تيفي الحالة الكارثية التي عليها فضاء رياضي بخريبكة &lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;https://www.youtube.com/c/ChoufTVLiveMaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma/&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;https://www.tiktok.com/@chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/ ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مشينا نحرتو حدا خريبكة صباح بكري وناس ديال الدوار جابو لينا لفطور الله  يخلف ليهم وتحيةلناس خريبكة</title>
+    <published>2023-01-10T00:00:00+00:00</published>
+    <updated>2023-01-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=g3briPf78nI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=g3briPf78nI"/>
+    <author>
+      <name>فلاحة تفي   fellaha tv</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=g3briPf78nI"&gt;&lt;img src="https://img.youtube.com/vi/g3briPf78nI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة من خريبكة: شوفو الإقبال الكبير لي كاين على أشهر بائع السمك المقلي بالمدينة</title>
+    <published>2023-01-10T00:00:00+00:00</published>
+    <updated>2023-01-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=F4i80nW0swo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=F4i80nW0swo"/>
+    <author>
+      <name>Chouf Almaraa</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=F4i80nW0swo"&gt;&lt;img src="https://img.youtube.com/vi/F4i80nW0swo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من خريبكة: شوفو الإقبال الكبير لي كاين على أشهر بائع السمك المقلي بالمدينة&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma/&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;https://www.tiktok.com/@chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/ ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
   </entry>
 </feed>
