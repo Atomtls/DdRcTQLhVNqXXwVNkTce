@@ -37,17 +37,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=XFscXilJApo"&gt;&lt;img src="https://img.youtube.com/vi/XFscXilJApo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">احتجاج طلبة بالمحمدية بسبب عدم منحهم بطاقة "المنحة"</title>
-    <published>2023-03-02T00:00:00+00:00</published>
-    <updated>2023-03-02T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=1-ChuAJ-PX0</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1-ChuAJ-PX0"/>
-    <author>
-      <name>Chouftv - شوف تيفي</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1-ChuAJ-PX0"&gt;&lt;img src="https://img.youtube.com/vi/1-ChuAJ-PX0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">الطلبة المسجلين في مسلك التربية يلتحقون بالمدارس بالرباط من أجل "تكون أساتذة المستقبل"</title>
     <published>2023-03-02T00:00:00+00:00</published>
     <updated>2023-03-02T00:00:00+00:00</updated>
@@ -246,5 +235,16 @@ Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;h
       <name>Chouftv - شوف تيفي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=RsyTUGacKYg"&gt;&lt;img src="https://img.youtube.com/vi/RsyTUGacKYg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">فرحة هستيرية لأب الطالب ابراهيم سعدون بقلب مطار محمد الخامس بعد عودة ابنه من الموت بروسيا</title>
+    <published>2022-09-24T00:00:00+00:00</published>
+    <updated>2022-09-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=mHKpy3yCcyo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=mHKpy3yCcyo"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=mHKpy3yCcyo"&gt;&lt;img src="https://img.youtube.com/vi/mHKpy3yCcyo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
