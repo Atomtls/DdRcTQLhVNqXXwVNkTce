@@ -1,101 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "hespress" الطلبة - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19428)</title>
-    <published>2023-03-12T11:09:28+00:00</published>
-    <updated>2023-03-12T11:09:28+00:00</updated>
-    <id>urn:sha1:99eeb07b4c55c6ac2549da08d6dc6d0bc39baddf</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;hespress&quot;+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-    &lt;h1&gt;Application Error&lt;/h1&gt;
-
-    &lt;p&gt;The application could not run because of the following error:&lt;/p&gt;
-
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22hespress%22+%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/contents.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 308        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(394): YoutubeBridge-&amp;gt;ytGetSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(219): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/contents.php(368): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(147): _http_request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(308)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;hespress&amp;quot; الطلبة&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2022-06-14 (git.master.dc9530b)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522hespress%2522%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2584%25D8%25A8%25D8%25A9%26sp%3DCAI%25253D+in+lib%2Fcontents.php+line+308%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28394%29%3A+YoutubeBridge-%3EytGetSimpleHTMLDOM%28%29%0Abridges%2FYoutubeBridge.php%28219%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28368%29%3A+getContents%28%29%0Alib%2Fcontents.php%28147%29%3A+_http_request%28%29%0Alib%2Fcontents.php%28308%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22hespress%22%2B%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2022-06-14+%28git.master.dc9530b%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">هذه آخر تطورات ملف امتحان المحاماة بعد اجتماع تنسيقية الطلبة الراسبون مع وزارة العدل</title>
+    <published>2023-03-10T00:00:00+00:00</published>
+    <updated>2023-03-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=8Kog-8oEHBE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8Kog-8oEHBE"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=8Kog-8oEHBE"&gt;&lt;img src="https://img.youtube.com/vi/8Kog-8oEHBE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">تنسيقية الطلبة الراسبون في إمتحان المحاماة بالبيضاء يستنكرون إقصائهم من الحوار مع وزارة العدل</title>
+    <published>2023-03-10T00:00:00+00:00</published>
+    <updated>2023-03-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9f19OV7eRMo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9f19OV7eRMo"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9f19OV7eRMo"&gt;&lt;img src="https://img.youtube.com/vi/9f19OV7eRMo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ممرضون يحتجون ضد مخطط التعاقد في القطاع الصحي ويرفضون إدماج طلبة المعاهد الصحية الخاصة</title>
+    <published>2023-03-04T00:00:00+00:00</published>
+    <updated>2023-03-04T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=QbHUkgpgEVE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QbHUkgpgEVE"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QbHUkgpgEVE"&gt;&lt;img src="https://img.youtube.com/vi/QbHUkgpgEVE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">وهبي يرد على الطالب الذي قال أنه اجتاز الامتحان ونجح طالب آخر مكانه: سنحيلك على النيابة العامة</title>
+    <published>2023-01-24T00:00:00+00:00</published>
+    <updated>2023-01-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=OkPox3qQs2E</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OkPox3qQs2E"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=OkPox3qQs2E"&gt;&lt;img src="https://img.youtube.com/vi/OkPox3qQs2E/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اعتبرها طلبة في المستوى.. أجواء اليوم الأول في الامتحانات الجامعية بكلية الحقوق في سلا</title>
+    <published>2022-12-26T00:00:00+00:00</published>
+    <updated>2022-12-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=OTo1tRVUG0k</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OTo1tRVUG0k"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=OTo1tRVUG0k"&gt;&lt;img src="https://img.youtube.com/vi/OTo1tRVUG0k/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">احتجاج طلبة أمام قنصلية ألمانيا بسبب تأخر مواعيد الفيزا</title>
+    <published>2022-12-12T00:00:00+00:00</published>
+    <updated>2022-12-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=L9RsrMo3eZk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=L9RsrMo3eZk"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=L9RsrMo3eZk"&gt;&lt;img src="https://img.youtube.com/vi/L9RsrMo3eZk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مستوى ضعيف".. تصريحات الوزير ميراوي تخرج أولياء طلبة أوكرانيا إلى الشارع "</title>
+    <published>2022-10-27T00:00:00+00:00</published>
+    <updated>2022-10-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=RNGkOy1o1z0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RNGkOy1o1z0"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=RNGkOy1o1z0"&gt;&lt;img src="https://img.youtube.com/vi/RNGkOy1o1z0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اتفاقية شراكة تدعم الطلبة المعوزين بوجدة</title>
+    <published>2022-10-26T00:00:00+00:00</published>
+    <updated>2022-10-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=LOnqIM6jbOU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=LOnqIM6jbOU"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=LOnqIM6jbOU"&gt;&lt;img src="https://img.youtube.com/vi/LOnqIM6jbOU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة طب الأسنان يحتجون بالرباط ضد "الاكتضاد وغياب كراسي العلاج" ويطالبون بتحسين جودة التكوين</title>
+    <published>2022-10-12T00:00:00+00:00</published>
+    <updated>2022-10-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=CmAZwPLFsRk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=CmAZwPLFsRk"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=CmAZwPLFsRk"&gt;&lt;img src="https://img.youtube.com/vi/CmAZwPLFsRk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">رفضا لإدماج طلبة أوكرانيا .. الطلبة المهندسين يحتجون أمام البرلمان</title>
+    <published>2022-10-01T00:00:00+00:00</published>
+    <updated>2022-10-01T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zhqAbtUPMQU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zhqAbtUPMQU"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zhqAbtUPMQU"&gt;&lt;img src="https://img.youtube.com/vi/zhqAbtUPMQU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة المدرسة الوطنية للعلوم التطبيقية بفاس يحتجون ضد قرار إدماج مغاربة أوكرانيا العائدين</title>
+    <published>2022-09-27T00:00:00+00:00</published>
+    <updated>2022-09-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=j7pgM4vBczU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=j7pgM4vBczU"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=j7pgM4vBczU"&gt;&lt;img src="https://img.youtube.com/vi/j7pgM4vBczU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">احتجاج طلبة مهندسين في أكادير ضد إدماج الطلبة العائدين من أوكرانيا</title>
+    <published>2022-09-27T00:00:00+00:00</published>
+    <updated>2022-09-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=H6os3ne6jCA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=H6os3ne6jCA"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=H6os3ne6jCA"&gt;&lt;img src="https://img.youtube.com/vi/H6os3ne6jCA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الطالب إبراهيم سعدون يصل إلى حضن عائلته بالدار البيضاء</title>
+    <published>2022-09-24T00:00:00+00:00</published>
+    <updated>2022-09-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=cGsjOfHAAlM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=cGsjOfHAAlM"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=cGsjOfHAAlM"&gt;&lt;img src="https://img.youtube.com/vi/cGsjOfHAAlM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اقبال الطلبة على تخصصات الطاقات المتجددة والنجاعة الطاقية بطنجة</title>
+    <published>2022-09-24T00:00:00+00:00</published>
+    <updated>2022-09-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=A0CmuiNhlT8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=A0CmuiNhlT8"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=A0CmuiNhlT8"&gt;&lt;img src="https://img.youtube.com/vi/A0CmuiNhlT8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ميراوي: هذا اقتراحنا على طلبة أوكرانيا ولا وجود لحل يرضي الجميع</title>
+    <published>2022-09-20T00:00:00+00:00</published>
+    <updated>2022-09-20T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=X4Ldb1QfmaU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=X4Ldb1QfmaU"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=X4Ldb1QfmaU"&gt;&lt;img src="https://img.youtube.com/vi/X4Ldb1QfmaU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">‪الطلبة المهندسون يرفضون قرار دمج مغاربة أوكرانيا .. والعالم يودع الملكة إليزابيث في جنازة مهيبة</title>
+    <published>2022-09-19T00:00:00+00:00</published>
+    <updated>2022-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=X9xyKTi_5dI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=X9xyKTi_5dI"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=X9xyKTi_5dI"&gt;&lt;img src="https://img.youtube.com/vi/X9xyKTi_5dI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة أوكرانيا يحتجون أمام البرلمان.. يطالبون بالادماج في الجامعات العمومية</title>
+    <published>2022-09-08T00:00:00+00:00</published>
+    <updated>2022-09-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=BLckMd9oMhA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=BLckMd9oMhA"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=BLckMd9oMhA"&gt;&lt;img src="https://img.youtube.com/vi/BLckMd9oMhA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;طلبة أوكرانيا يحتجون أمام البرلمان.. يطالبون بالادماج في الجامعات العمومية &lt;br /&gt;
+&lt;br /&gt;
+...&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com/&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com/&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#Maroc&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/morocco" target="_blank"&gt;#Morocco&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/news" target="_blank"&gt;#News&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1" target="_blank"&gt;#أخبار&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الصحراء المغربية وتمويل "البراق" ومواجهة الجفاف وعودة الطلبة.. السفير الصيني في حوار حصري مع هسبريس</title>
+    <published>2022-08-21T00:00:00+00:00</published>
+    <updated>2022-08-21T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=-12jhOjr4Ac</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-12jhOjr4Ac"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-12jhOjr4Ac"&gt;&lt;img src="https://img.youtube.com/vi/-12jhOjr4Ac/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولياء الطلبة المغاربة في أوكرانيا يصعدون ضد الحكومة</title>
+    <published>2022-06-28T00:00:00+00:00</published>
+    <updated>2022-06-28T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=PeIExW-JRQ0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=PeIExW-JRQ0"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=PeIExW-JRQ0"&gt;&lt;img src="https://img.youtube.com/vi/PeIExW-JRQ0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">رواق جامعة محمد الخامس بمعرض الكتاب يستقبل الطلبة السجناء</title>
+    <published>2022-06-09T00:00:00+00:00</published>
+    <updated>2022-06-09T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=h4Fnrxu7KzI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=h4Fnrxu7KzI"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=h4Fnrxu7KzI"&gt;&lt;img src="https://img.youtube.com/vi/h4Fnrxu7KzI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>

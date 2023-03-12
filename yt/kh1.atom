@@ -1,101 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19428)</title>
-    <published>2023-03-12T11:00:41+00:00</published>
-    <updated>2023-03-12T11:00:41+00:00</updated>
-    <id>urn:sha1:99eeb07b4c55c6ac2549da08d6dc6d0bc39baddf</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-    &lt;h1&gt;Application Error&lt;/h1&gt;
-
-    &lt;p&gt;The application could not run because of the following error:&lt;/p&gt;
-
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/contents.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 308        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(394): YoutubeBridge-&amp;gt;ytGetSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(219): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/contents.php(368): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(147): _http_request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(308)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2022-06-14 (git.master.dc9530b)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26sp%3DCAI%25253D+in+lib%2Fcontents.php+line+308%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28394%29%3A+YoutubeBridge-%3EytGetSimpleHTMLDOM%28%29%0Abridges%2FYoutubeBridge.php%28219%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28368%29%3A+getContents%28%29%0Alib%2Fcontents.php%28147%29%3A+_http_request%28%29%0Alib%2Fcontents.php%28308%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2022-06-14+%28git.master.dc9530b%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">في خريبكة</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=kWT6SoM4w48</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=kWT6SoM4w48"/>
+    <author>
+      <name>Mohammed Fdaili</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=kWT6SoM4w48"&gt;&lt;img src="https://img.youtube.com/vi/kWT6SoM4w48/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خريبكة.. لقاء تواصلي حول المشاريع المبرمجة وفي طور الإنجاز بالإقليم</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=wOVIitM2oyA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=wOVIitM2oyA"/>
+    <author>
+      <name>M24TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=wOVIitM2oyA"&gt;&lt;img src="https://img.youtube.com/vi/wOVIitM2oyA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جمعية الإبداعات للتأطير التربوي فرع خريبكة</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=TR2JufDWSwM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=TR2JufDWSwM"/>
+    <author>
+      <name>جمعية الإبداعات للتأطير التربوي ACEECDS</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=TR2JufDWSwM"&gt;&lt;img src="https://img.youtube.com/vi/TR2JufDWSwM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">من خريبكة:أجيو معنا فجولة بالسوق الأسبوعي تشوفو شحال وصلات أثمنة اللوز والكركاع والقطاني قبل رمضان</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=WVnG9Ua0KHA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=WVnG9Ua0KHA"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=WVnG9Ua0KHA"&gt;&lt;img src="https://img.youtube.com/vi/WVnG9Ua0KHA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من خريبكة:أجيو معنا فجولة بالسوق الأسبوعي تشوفو شحال وصلات أثمنة اللوز والكركاع والقطاني قبل رمضان&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftv_live" target="_blank"&gt;#chouftv_live&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftvlive" target="_blank"&gt;#chouftvlive&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma/&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;https://facebook.com/ChoufTV.Maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;https://www.tiktok.com/@chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;https://www.instagram.com/chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;https://twitter.com/ChoufTVMa&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/ ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;https://youtube.com/ChoufMedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#مباشرة من خريبكة خطير رئيس ودادية الزهور يكشف المستور عن تواطؤ الخبرة ويزعم إختلاس مايقارب...</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=EOeyhNa1jxg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EOeyhNa1jxg"/>
+    <author>
+      <name>SAIF ED-DINE MAHBOUB KHAYR</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=EOeyhNa1jxg"&gt;&lt;img src="https://img.youtube.com/vi/EOeyhNa1jxg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">هدف أيوب نناح على أولمبيك خريبكة ⚽️</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=hgO8kNOk3cM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hgO8kNOk3cM"/>
+    <author>
+      <name>El Fath News</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hgO8kNOk3cM"&gt;&lt;img src="https://img.youtube.com/vi/hgO8kNOk3cM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">حماس فالديربي بين نجم خريبكة و أطلس خريبكة برسم الجولة 11من البطولة الجهوية للقسم الشرفي الثاني هواة</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=fIApV00WrTI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=fIApV00WrTI"/>
+    <author>
+      <name>Chouf Sport</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=fIApV00WrTI"&gt;&lt;img src="https://img.youtube.com/vi/fIApV00WrTI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">12 مارس 2023  سوق لحد.ولاد عبدون خريبكة شوف اتمنة اللحوم شحال واصل اليوم</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=DP_vGmNtKi8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DP_vGmNtKi8"/>
+    <author>
+      <name>Sa3id lbadawi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DP_vGmNtKi8"&gt;&lt;img src="https://img.youtube.com/vi/DP_vGmNtKi8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;حرره VideoGuru:&lt;a href="https://videoguru.page.link/Best" target="_blank"&gt;https://videoguru.page.link/Best&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">12 مارس 2023  سوق لحد ولاد عبدون خريبكة شوف ااتمنة الخروف اليوم</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=J-7444w0j6k</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=J-7444w0j6k"/>
+    <author>
+      <name>Sa3id lbadawi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=J-7444w0j6k"&gt;&lt;img src="https://img.youtube.com/vi/J-7444w0j6k/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">12 مارس 2023  سوق لحد ولاد عبدون خريبكة شوف اتمنة اليوم</title>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ubgcKLP7JDo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ubgcKLP7JDo"/>
+    <author>
+      <name>Sa3id lbadawi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ubgcKLP7JDo"&gt;&lt;img src="https://img.youtube.com/vi/ubgcKLP7JDo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مدرب خريبكة يكشف سبب تضييع اللاعبين فرص سهلة للتسجيل</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ebTDDtWHqSU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ebTDDtWHqSU"/>
+    <author>
+      <name>ALDAR PLUS</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ebTDDtWHqSU"&gt;&lt;img src="https://img.youtube.com/vi/ebTDDtWHqSU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">يوسف البوعبيدي ممثل خريبكة stand up 2023 prime 7 ستاند اب نصف النهائي</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=bBQwXuk0ufY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bBQwXuk0ufY"/>
+    <author>
+      <name>Koora Gooal</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=bBQwXuk0ufY"&gt;&lt;img src="https://img.youtube.com/vi/bBQwXuk0ufY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الفتح الرياضي - أولمبيك خريبكة</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ItvJacadnww</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ItvJacadnww"/>
+    <author>
+      <name>EQUIPE RAJA FOOT</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ItvJacadnww"&gt;&lt;img src="https://img.youtube.com/vi/ItvJacadnww/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;الفتح الرياضي - أولمبيك خريبكة</content>
+  </entry>
+  <entry>
+    <title type="html">زياره عند الاخ ايوب  من مدينة خريبكة لكي نشتري البيض مخصب براهما وسلالات اخرة</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=krecxf0RUuM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=krecxf0RUuM"/>
+    <author>
+      <name>فقاسات عبدو</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=krecxf0RUuM"&gt;&lt;img src="https://img.youtube.com/vi/krecxf0RUuM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ملخص مباراة الفتح ضد أولمبيك خريبكة 1-1</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ApJfFqocirw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ApJfFqocirw"/>
+    <author>
+      <name>Youssef Hamdani</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ApJfFqocirw"&gt;&lt;img src="https://img.youtube.com/vi/ApJfFqocirw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مدرب خريبكة يكشف سبب تضييع اللاعبين فرص سهلة للتسجيل</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=mnsNC-DfySU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=mnsNC-DfySU"/>
+    <author>
+      <name>Aldar.ma الدار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=mnsNC-DfySU"&gt;&lt;img src="https://img.youtube.com/vi/mnsNC-DfySU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">تعادل بطعم الإنتصار .. مباراة الفتح ضد خريبكة تنتهي بعناق المدربين وحسرة اللاعبين</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=8rhv7YuTNQw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8rhv7YuTNQw"/>
+    <author>
+      <name>ALDAR PLUS</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=8rhv7YuTNQw"&gt;&lt;img src="https://img.youtube.com/vi/8rhv7YuTNQw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">تعادل بطعم الإنتصار .. مباراة الفتح ضد خريبكة تنتهي بعناق المدربين وحسرة اللاعبين</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=MQ1mGMws_18</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=MQ1mGMws_18"/>
+    <author>
+      <name>Aldar.ma الدار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=MQ1mGMws_18"&gt;&lt;img src="https://img.youtube.com/vi/MQ1mGMws_18/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الفتح الرباطي ضد أولمبيك خريبكة هدف نجيب المعتني في مرمى الفتح</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9Ju9RQJw93s</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9Ju9RQJw93s"/>
+    <author>
+      <name>أخبار الرياضة المغربية</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9Ju9RQJw93s"&gt;&lt;img src="https://img.youtube.com/vi/9Ju9RQJw93s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">روبورتاج | خريبكة | سباق على الطريق للدرجات الهوائية</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=KNRRF4zF_70</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KNRRF4zF_70"/>
+    <author>
+      <name>Arryadia TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=KNRRF4zF_70"&gt;&lt;img src="https://img.youtube.com/vi/KNRRF4zF_70/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
