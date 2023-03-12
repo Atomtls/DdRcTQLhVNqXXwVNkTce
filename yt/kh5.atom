@@ -70,17 +70,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=fgxqU0kZGQE"&gt;&lt;img src="https://img.youtube.com/vi/fgxqU0kZGQE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">نصف الطلبة المغاربة يغادرون الجامعة بلا دبلوم</title>
-    <published>2023-01-12T00:00:00+00:00</published>
-    <updated>2023-01-12T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=5XzbcGeEYGE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5XzbcGeEYGE"/>
-    <author>
-      <name>Chouftv - شوف تيفي</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5XzbcGeEYGE"&gt;&lt;img src="https://img.youtube.com/vi/5XzbcGeEYGE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">طلبة القانون ينظمون وقفة احتجاجية بطنجة بعد ضجة امتحان المحاماة</title>
     <published>2023-01-09T00:00:00+00:00</published>
     <updated>2023-01-09T00:00:00+00:00</updated>
@@ -222,5 +211,16 @@
       <name>Chouftv - شوف تيفي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=6mKe0PtzuCk"&gt;&lt;img src="https://img.youtube.com/vi/6mKe0PtzuCk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">نايضة لحظة وصول الطالب المغربي ’’ابراهيم سعدون’’ لي نجا من إعدام محقق بروسيا..شوفو شنو واقع</title>
+    <published>2022-09-24T00:00:00+00:00</published>
+    <updated>2022-09-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_cqfxeZ0oMc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_cqfxeZ0oMc"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_cqfxeZ0oMc"&gt;&lt;img src="https://img.youtube.com/vi/_cqfxeZ0oMc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
