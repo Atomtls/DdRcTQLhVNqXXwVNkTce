@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">شاهدومعنا(تشويرة أو تحية) ديال سربات 9 المشاركة في المبارة الجهوية(خريبكة-فقيه بن صالح)</title>
+    <published>2023-03-14T00:00:00+00:00</published>
+    <updated>2023-03-14T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=R6qUm3T2O-k</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=R6qUm3T2O-k"/>
+    <author>
+      <name>عثمان بالخدير</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=R6qUm3T2O-k"&gt;&lt;img src="https://img.youtube.com/vi/R6qUm3T2O-k/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">شقق ومحلات تجارية محفظة للبيع قرب المحطتين محطة الحافلات ومحطة القطار خريبكة</title>
     <published>2023-03-14T00:00:00+00:00</published>
     <updated>2023-03-14T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>قناة التاج</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=H4JYXumKy1c"&gt;&lt;img src="https://img.youtube.com/vi/H4JYXumKy1c/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">الاقصائيات الجهوية للتبوريدة التقليدية: بني ملال خنيفرة- الفقيه بن صالح خريبكة 2023</title>
-    <published>2023-03-14T00:00:00+00:00</published>
-    <updated>2023-03-14T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=S-00e3KIfTk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=S-00e3KIfTk"/>
-    <author>
-      <name>قناة التاج</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=S-00e3KIfTk"&gt;&lt;img src="https://img.youtube.com/vi/S-00e3KIfTk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
