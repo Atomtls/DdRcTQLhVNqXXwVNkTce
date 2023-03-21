@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">خريبكة:يوم دراسي تحت شعار صناعة الثقة في المنتوج المغربي، تنظيم جمعية حماية وتوعية وتوجيه المستهلك.</title>
+    <published>2023-03-20T00:00:00+00:00</published>
+    <updated>2023-03-20T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=p-o9aXbEiZU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=p-o9aXbEiZU"/>
+    <author>
+      <name>المغربية للأخبار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=p-o9aXbEiZU"&gt;&lt;img src="https://img.youtube.com/vi/p-o9aXbEiZU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">حكاية منال مع النصاب ولد خريبكة</title>
     <published>2023-03-20T00:00:00+00:00</published>
     <updated>2023-03-20T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Sa3id lbadawi</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=jCb4sQdhSx0"&gt;&lt;img src="https://img.youtube.com/vi/jCb4sQdhSx0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">19 مارس 2023  سوق لحد لولاد عبدون خريبكة شوف اتمنة الحولي اصردي شحال اليوم</title>
-    <published>2023-03-19T00:00:00+00:00</published>
-    <updated>2023-03-19T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=DlpDylWTz6E</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DlpDylWTz6E"/>
-    <author>
-      <name>Sa3id lbadawi</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DlpDylWTz6E"&gt;&lt;img src="https://img.youtube.com/vi/DlpDylWTz6E/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
