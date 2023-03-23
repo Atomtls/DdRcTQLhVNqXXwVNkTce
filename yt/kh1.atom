@@ -4,6 +4,28 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">رحلة ممتعة من مدينة الداربيضاء خريبكة إلى مدينة خنيفرة</title>
+    <published>2023-03-23T00:00:00+00:00</published>
+    <updated>2023-03-23T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Skkh3NpZggQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Skkh3NpZggQ"/>
+    <author>
+      <name>SAID TIGNO</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Skkh3NpZggQ"&gt;&lt;img src="https://img.youtube.com/vi/Skkh3NpZggQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جولة في نواحي خريبكة</title>
+    <published>2023-03-23T00:00:00+00:00</published>
+    <updated>2023-03-23T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=0AbJQH9Fyfs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=0AbJQH9Fyfs"/>
+    <author>
+      <name>Mehdi Abawasi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=0AbJQH9Fyfs"&gt;&lt;img src="https://img.youtube.com/vi/0AbJQH9Fyfs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">مجموعة رموز الخير خريبكة زاهية من دار شباب بي مدينة خريبكة 2023</title>
     <published>2023-03-22T00:00:00+00:00</published>
     <updated>2023-03-22T00:00:00+00:00</updated>
@@ -200,27 +222,5 @@
       <name>حكايات وقصص واقعية histoire Bent cha3b 33</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=MV3E2C6cdpk"&gt;&lt;img src="https://img.youtube.com/vi/MV3E2C6cdpk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">الطبيعة في مدينه خريبكة</title>
-    <published>2023-03-20T00:00:00+00:00</published>
-    <updated>2023-03-20T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=Xm900qSMWFk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Xm900qSMWFk"/>
-    <author>
-      <name>عالم أم اروى</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Xm900qSMWFk"&gt;&lt;img src="https://img.youtube.com/vi/Xm900qSMWFk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">من إيطاليا لمدينتي خريبكة🥰🥰</title>
-    <published>2023-03-20T00:00:00+00:00</published>
-    <updated>2023-03-20T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=H5V5ET0Aovs</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=H5V5ET0Aovs"/>
-    <author>
-      <name>النقاشة وجدان الخريبگية</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=H5V5ET0Aovs"&gt;&lt;img src="https://img.youtube.com/vi/H5V5ET0Aovs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
