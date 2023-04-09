@@ -4,17 +4,6 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">رسالة التيكتوكر ماجدولين نزيه للناس ديال "كبسوا" فتيكتوك… هاديك سميتها "طلبة"!</title>
-    <published>2023-04-06T00:00:00+00:00</published>
-    <updated>2023-04-06T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=KVOVco-Ytlk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KVOVco-Ytlk"/>
-    <author>
-      <name>ChoufTV Influence</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=KVOVco-Ytlk"&gt;&lt;img src="https://img.youtube.com/vi/KVOVco-Ytlk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">طلبة التكوين المهني مشدوش لمنحة ديالهم لمدة 7 أشهر وحالتهم صعيبة بزاف:</title>
     <published>2023-04-04T00:00:00+00:00</published>
     <updated>2023-04-04T00:00:00+00:00</updated>
@@ -35,17 +24,6 @@
       <name>Chouftv - شوف تيفي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=Y6kT_OVSAow"&gt;&lt;img src="https://img.youtube.com/vi/Y6kT_OVSAow/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">شوف بالفيديو لحظة احتراق الحي الجامعي بوجدة اليوم و إغماءات في صفوف الطلبة 😥  في المغرب اليوم</title>
-    <published>2023-03-21T00:00:00+00:00</published>
-    <updated>2023-03-21T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=hSa0Q-OqY4M</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hSa0Q-OqY4M"/>
-    <author>
-      <name>Arabic Journal</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hSa0Q-OqY4M"&gt;&lt;img src="https://img.youtube.com/vi/hSa0Q-OqY4M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">خالد أيت الطالب وزير الصحة يشرف على تدشين مراكز صحية بجهة الشرق لإصلاح المنظومة الصحية بالجهة</title>
@@ -222,5 +200,27 @@
       <name>Chouftv - شوف تيفي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=dRZ1bRPy0z8"&gt;&lt;img src="https://img.youtube.com/vi/dRZ1bRPy0z8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">حقوقي بالرشيدية يكشف للوزير الوضع الكارثي لقطاع الصحة..شوفو ردة فعل أيت الطالب</title>
+    <published>2022-10-07T00:00:00+00:00</published>
+    <updated>2022-10-07T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=MoR2davBCiA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=MoR2davBCiA"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=MoR2davBCiA"&gt;&lt;img src="https://img.youtube.com/vi/MoR2davBCiA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">من البداية إلى النهاية لقصة 'العودة من الموت'..التفاصيل الكاملة لعودة الطالب إبراهيم سعدون للمغرب</title>
+    <published>2022-09-25T00:00:00+00:00</published>
+    <updated>2022-09-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=0i3TK86EWtk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=0i3TK86EWtk"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=0i3TK86EWtk"&gt;&lt;img src="https://img.youtube.com/vi/0i3TK86EWtk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
