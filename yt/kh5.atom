@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">رسالة التيكتوكر ماجدولين نزيه للناس ديال "كبسوا" فتيكتوك… هاديك سميتها "طلبة"!</title>
+    <published>2023-04-06T00:00:00+00:00</published>
+    <updated>2023-04-06T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=KVOVco-Ytlk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KVOVco-Ytlk"/>
+    <author>
+      <name>ChoufTV Influence</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=KVOVco-Ytlk"&gt;&lt;img src="https://img.youtube.com/vi/KVOVco-Ytlk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">طلبة التكوين المهني مشدوش لمنحة ديالهم لمدة 7 أشهر وحالتهم صعيبة بزاف:</title>
     <published>2023-04-04T00:00:00+00:00</published>
     <updated>2023-04-04T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Chouftv - شوف تيفي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=MoR2davBCiA"&gt;&lt;img src="https://img.youtube.com/vi/MoR2davBCiA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">من البداية إلى النهاية لقصة 'العودة من الموت'..التفاصيل الكاملة لعودة الطالب إبراهيم سعدون للمغرب</title>
-    <published>2022-09-25T00:00:00+00:00</published>
-    <updated>2022-09-25T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=0i3TK86EWtk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=0i3TK86EWtk"/>
-    <author>
-      <name>Chouftv - شوف تيفي</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=0i3TK86EWtk"&gt;&lt;img src="https://img.youtube.com/vi/0i3TK86EWtk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
