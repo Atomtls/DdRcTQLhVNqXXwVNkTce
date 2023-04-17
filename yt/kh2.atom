@@ -1,101 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "khouribga" -"خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19464)</title>
-    <published>2023-04-17T15:04:42+00:00</published>
-    <updated>2023-04-17T15:04:42+00:00</updated>
-    <id>urn:sha1:ba4af3105d38f9a7ba6031766ea3b9d155dcd220</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;khouribga&quot;+-&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-    &lt;h1&gt;Application Error&lt;/h1&gt;
-
-    &lt;p&gt;The application could not run because of the following error:&lt;/p&gt;
-
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Failed to connect to www.youtube.com port 443: Network is unreachable: 7 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22khouribga%22+-%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/contents.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 308        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(394): YoutubeBridge-&amp;gt;ytGetSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(219): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/contents.php(368): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(147): _http_request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(308)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;khouribga&amp;quot; -&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2022-06-14 (git.master.dc9530b)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Failed+to+connect+to+www.youtube.com+port+443%3A+Network+is+unreachable%3A+7+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522khouribga%2522%2B-%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26sp%3DCAI%25253D+in+lib%2Fcontents.php+line+308%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28394%29%3A+YoutubeBridge-%3EytGetSimpleHTMLDOM%28%29%0Abridges%2FYoutubeBridge.php%28219%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28368%29%3A+getContents%28%29%0Alib%2Fcontents.php%28147%29%3A+_http_request%28%29%0Alib%2Fcontents.php%28308%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22khouribga%22%2B-%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2022-06-14+%28git.master.dc9530b%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">1337 khouribga  vs benguerir 1337</title>
+    <published>2023-04-16T00:00:00+00:00</published>
+    <updated>2023-04-16T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=H6VgTsCTe88</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=H6VgTsCTe88"/>
+    <author>
+      <name>Khalid 59</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=H6VgTsCTe88"&gt;&lt;img src="https://img.youtube.com/vi/H6VgTsCTe88/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">chape fibree pour klinker abatoird khouribga</title>
+    <published>2023-04-15T00:00:00+00:00</published>
+    <updated>2023-04-15T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=G3uik1rfuEU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=G3uik1rfuEU"/>
+    <author>
+      <name>Isol ecologique iegm</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=G3uik1rfuEU"&gt;&lt;img src="https://img.youtube.com/vi/G3uik1rfuEU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#explore #nature #البادية_المغربية #khouribga #driving #سياقة #المغرب</title>
+    <published>2023-04-11T00:00:00+00:00</published>
+    <updated>2023-04-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ianNkgXBhas</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ianNkgXBhas"/>
+    <author>
+      <name>Abdelhadi El Machbouh عبدالهادي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ianNkgXBhas"&gt;&lt;img src="https://img.youtube.com/vi/ianNkgXBhas/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#explore #khouribga #البادية_المغربية</title>
+    <published>2023-04-11T00:00:00+00:00</published>
+    <updated>2023-04-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=K1OUEGMB6MY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=K1OUEGMB6MY"/>
+    <author>
+      <name>Abdelhadi El Machbouh عبدالهادي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=K1OUEGMB6MY"&gt;&lt;img src="https://img.youtube.com/vi/K1OUEGMB6MY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">kick boxing khouribga</title>
+    <published>2023-04-10T00:00:00+00:00</published>
+    <updated>2023-04-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Kyjkb4Ur40g</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Kyjkb4Ur40g"/>
+    <author>
+      <name>kick boxing Maroc</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Kyjkb4Ur40g"&gt;&lt;img src="https://img.youtube.com/vi/Kyjkb4Ur40g/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">04.04.23 | OC KHOURIBGA - Maghreb Fes</title>
+    <published>2023-04-05T00:00:00+00:00</published>
+    <updated>2023-04-05T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=b9aUQ2k8SHI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=b9aUQ2k8SHI"/>
+    <author>
+      <name>aroundTHEground</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=b9aUQ2k8SHI"&gt;&lt;img src="https://img.youtube.com/vi/b9aUQ2k8SHI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ANWAR KEBBASS [97] OLYMPIQUE KHOURIBGA SEASON 2022/23</title>
+    <published>2023-04-01T00:00:00+00:00</published>
+    <updated>2023-04-01T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=kYmLr4FmSl4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=kYmLr4FmSl4"/>
+    <author>
+      <name>B13 ANALYTIC FOOTBALL</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=kYmLr4FmSl4"&gt;&lt;img src="https://img.youtube.com/vi/kYmLr4FmSl4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🔴⚪️🥁🎺🎧..📸🖋️Wydad Casablanca at home to Khouribga last night.🤩🇲🇦</title>
+    <published>2023-03-26T00:00:00+00:00</published>
+    <updated>2023-03-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=d_KXfnpiArQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=d_KXfnpiArQ"/>
+    <author>
+      <name>Khalidasrir96</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=d_KXfnpiArQ"&gt;&lt;img src="https://img.youtube.com/vi/d_KXfnpiArQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">jardat el firdaws (khouribga)</title>
+    <published>2023-03-25T00:00:00+00:00</published>
+    <updated>2023-03-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IilMhCmwJcc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IilMhCmwJcc"/>
+    <author>
+      <name>fox rami</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IilMhCmwJcc"&gt;&lt;img src="https://img.youtube.com/vi/IilMhCmwJcc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">statu whatsap caffe (khouribga)</title>
+    <published>2023-03-25T00:00:00+00:00</published>
+    <updated>2023-03-25T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=hJOq4AksHpw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hJOq4AksHpw"/>
+    <author>
+      <name>fox rami</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hJOq4AksHpw"&gt;&lt;img src="https://img.youtube.com/vi/hJOq4AksHpw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#khouribga #اكسبلور</title>
+    <published>2023-03-24T00:00:00+00:00</published>
+    <updated>2023-03-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=000-bTTwHfE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=000-bTTwHfE"/>
+    <author>
+      <name>Adil top</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=000-bTTwHfE"&gt;&lt;img src="https://img.youtube.com/vi/000-bTTwHfE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Marjane khouribga</title>
+    <published>2023-03-18T00:00:00+00:00</published>
+    <updated>2023-03-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=-sS4mMR6WM0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-sS4mMR6WM0"/>
+    <author>
+      <name>Zain events</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-sS4mMR6WM0"&gt;&lt;img src="https://img.youtube.com/vi/-sS4mMR6WM0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Live Marjane khouribga avec Zain events animation organisation</title>
+    <published>2023-03-17T00:00:00+00:00</published>
+    <updated>2023-03-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=yw_50X1DVzI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=yw_50X1DVzI"/>
+    <author>
+      <name>Zain events</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=yw_50X1DVzI"&gt;&lt;img src="https://img.youtube.com/vi/yw_50X1DVzI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">espace anniversaire khouribga</title>
+    <published>2023-03-11T00:00:00+00:00</published>
+    <updated>2023-03-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=RdzYC2IxOR4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RdzYC2IxOR4"/>
+    <author>
+      <name>cuisine facile هادي نادية</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=RdzYC2IxOR4"&gt;&lt;img src="https://img.youtube.com/vi/RdzYC2IxOR4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">bnat ouedzem u khouribga sekrenin #banat #maghrib #chaabi #maghribiya #maroc</title>
+    <published>2023-03-10T00:00:00+00:00</published>
+    <updated>2023-03-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=jCdQ-6YusDA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jCdQ-6YusDA"/>
+    <author>
+      <name>BANAT ALMAGHRIB</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=jCdQ-6YusDA"&gt;&lt;img src="https://img.youtube.com/vi/jCdQ-6YusDA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Live Marjane khouribga           Zain events animation organisation</title>
+    <published>2023-03-09T00:00:00+00:00</published>
+    <updated>2023-03-09T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=c30JDg2mJT8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=c30JDg2mJT8"/>
+    <author>
+      <name>Zain events</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=c30JDg2mJT8"&gt;&lt;img src="https://img.youtube.com/vi/c30JDg2mJT8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Méthode d'élimination des sédiments non phosphatés de la mine de Khouribga</title>
+    <published>2023-03-09T00:00:00+00:00</published>
+    <updated>2023-03-09T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=rycVh4z9D0k</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=rycVh4z9D0k"/>
+    <author>
+      <name>simo_oficiele.1</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=rycVh4z9D0k"&gt;&lt;img src="https://img.youtube.com/vi/rycVh4z9D0k/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">gaditano khouribga</title>
+    <published>2023-03-07T00:00:00+00:00</published>
+    <updated>2023-03-07T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=dC2mAtD8gdI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=dC2mAtD8gdI"/>
+    <author>
+      <name>gaditano khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=dC2mAtD8gdI"&gt;&lt;img src="https://img.youtube.com/vi/dC2mAtD8gdI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">gaditano khouribga 0623999802</title>
+    <published>2023-03-07T00:00:00+00:00</published>
+    <updated>2023-03-07T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=a_LNKlKL1GI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=a_LNKlKL1GI"/>
+    <author>
+      <name>gaditano khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=a_LNKlKL1GI"&gt;&lt;img src="https://img.youtube.com/vi/a_LNKlKL1GI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Discover an Escape at Khouribga, Morocco</title>
+    <published>2023-03-05T00:00:00+00:00</published>
+    <updated>2023-03-05T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=YyuU2p3jSfY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=YyuU2p3jSfY"/>
+    <author>
+      <name>Simply Likez</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=YyuU2p3jSfY"&gt;&lt;img src="https://img.youtube.com/vi/YyuU2p3jSfY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
