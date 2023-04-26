@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">سطات.. الطلبة الأفارقة من جنوب الصحراء و المغاربة كيتقاسمو الحلوى و التهاني بعدما صلاو صلاة العيد</title>
+    <published>2023-04-23T00:00:00+00:00</published>
+    <updated>2023-04-23T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=5Zjb_oe3ytg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5Zjb_oe3ytg"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5Zjb_oe3ytg"&gt;&lt;img src="https://img.youtube.com/vi/5Zjb_oe3ytg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">بلد التعايش والأمن..طلبة نيجيريون مقيمون بالمغرب صلاو عيد الفطر بمكناس وقدموا التهاني للمغاربة</title>
     <published>2023-04-22T00:00:00+00:00</published>
     <updated>2023-04-22T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Chouftv - شوف تيفي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=7TJUs-nFR4U"&gt;&lt;img src="https://img.youtube.com/vi/7TJUs-nFR4U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">أمام تكوين بولو ..احتجاج طلبة السنة الماضية خداو النتائج بلي ناجحين وصدموهم وقالو ليهم ساقطين</title>
-    <published>2022-12-26T00:00:00+00:00</published>
-    <updated>2022-12-26T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=gpQlXt1p41g</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=gpQlXt1p41g"/>
-    <author>
-      <name>ChoufTV Live</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=gpQlXt1p41g"&gt;&lt;img src="https://img.youtube.com/vi/gpQlXt1p41g/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
