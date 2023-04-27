@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">خريجة مع العائلة لحديقة الفردوس بمدينة خريبكة راحة نفسية مع طعم مختلف khouribga</title>
+    <published>2023-04-27T00:00:00+00:00</published>
+    <updated>2023-04-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=BgzwpgbJEnU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=BgzwpgbJEnU"/>
+    <author>
+      <name>طعم مختلف</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=BgzwpgbJEnU"&gt;&lt;img src="https://img.youtube.com/vi/BgzwpgbJEnU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">مباراة مشتعلة بين الجمعية الرياضيةمرتيل وشباب خريبكة ضمن منافسات البطولة الوطنية الاحترافية للفوتصال</title>
     <published>2023-04-27T00:00:00+00:00</published>
     <updated>2023-04-27T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>SAIF ED-DINE MAHBOUB KHAYR</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=yjYreHxiF4Y"&gt;&lt;img src="https://img.youtube.com/vi/yjYreHxiF4Y/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">خريبكة مهرجان ليالي الجوهرة.. تحت شعار"المديح النبوي سمو بالروح و رقي بالنفس"</title>
-    <published>2023-04-24T00:00:00+00:00</published>
-    <updated>2023-04-24T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=xBKJHte3lEk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=xBKJHte3lEk"/>
-    <author>
-      <name>الروبوت الإخباري</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=xBKJHte3lEk"&gt;&lt;img src="https://img.youtube.com/vi/xBKJHte3lEk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
