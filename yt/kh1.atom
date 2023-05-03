@@ -37,6 +37,17 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=NEqR9RGPcuU"&gt;&lt;img src="https://img.youtube.com/vi/NEqR9RGPcuU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
+    <title type="html">❤️حديقة مدينة خريبكة ❤️</title>
+    <published>2023-05-02T00:00:00+00:00</published>
+    <updated>2023-05-02T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ZplQwRINzXY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ZplQwRINzXY"/>
+    <author>
+      <name>قناة العائلة صغيرة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ZplQwRINzXY"&gt;&lt;img src="https://img.youtube.com/vi/ZplQwRINzXY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">جولة في شوارع مدينة خريبكة</title>
     <published>2023-05-02T00:00:00+00:00</published>
     <updated>2023-05-02T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>yawmiyat zineb-assia</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=qB7iJbbWQ3A"&gt;&lt;img src="https://img.youtube.com/vi/qB7iJbbWQ3A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">مونوكوش ترافيرتينو مونوكابا فصاد واجهات منازل مدينة خريبكة</title>
-    <published>2023-04-30T00:00:00+00:00</published>
-    <updated>2023-04-30T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=DJq-Bu7rv4s</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DJq-Bu7rv4s"/>
-    <author>
-      <name>واجهات المحترف/wajihat almohtarif</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DJq-Bu7rv4s"&gt;&lt;img src="https://img.youtube.com/vi/DJq-Bu7rv4s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
