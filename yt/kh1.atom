@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">سوق الحد خريبكة</title>
+    <published>2023-05-10T00:00:00+00:00</published>
+    <updated>2023-05-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=E425kSE6SK0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=E425kSE6SK0"/>
+    <author>
+      <name>عزيزة ام ياسين</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=E425kSE6SK0"&gt;&lt;img src="https://img.youtube.com/vi/E425kSE6SK0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">جولة بمدينة خريبكة مساءً يوم : 10/05/2023 Khouribga le :</title>
     <published>2023-05-10T00:00:00+00:00</published>
     <updated>2023-05-10T00:00:00+00:00</updated>
@@ -79,17 +90,6 @@
       <name>Walid abidat rma</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=9W095ABLvdM"&gt;&lt;img src="https://img.youtube.com/vi/9W095ABLvdM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">مباشرة من خريبكة:معاناة سيدة فعمرها 49 سنة وراجلها من دوي إحتياجات الخاصة كانت كتخدم عليه فالديور...</title>
-    <published>2023-05-09T00:00:00+00:00</published>
-    <updated>2023-05-09T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=nWqpOXu5kpU</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=nWqpOXu5kpU"/>
-    <author>
-      <name>SAIF ED-DINE MAHBOUB KHAYR</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=nWqpOXu5kpU"&gt;&lt;img src="https://img.youtube.com/vi/nWqpOXu5kpU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">عرس مغربي تقليدي 2023 للسيدة الحرة من خريبكة في محاكاة لاحتفالية عريقة</title>
@@ -180,6 +180,17 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=xr0MCfLyisc"&gt;&lt;img src="https://img.youtube.com/vi/xr0MCfLyisc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
+    <title type="html">المخرجة المصرية عزة الحسيني تتحدث من خريبكة عن المهرجان السينمائي</title>
+    <published>2023-05-09T00:00:00+00:00</published>
+    <updated>2023-05-09T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=x0vNY21RJjw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=x0vNY21RJjw"/>
+    <author>
+      <name>Anwar Press | أنوار بريس</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=x0vNY21RJjw"&gt;&lt;img src="https://img.youtube.com/vi/x0vNY21RJjw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">بجماعة المفاسيس إقليم خريبكة أجمل تبوريدة 2023🐎</title>
     <published>2023-05-09T00:00:00+00:00</published>
     <updated>2023-05-09T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Chouftv - شوف تيفي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=26dri_6TwR8"&gt;&lt;img src="https://img.youtube.com/vi/26dri_6TwR8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">الرجاء الرياضي ضد أولمبيك خريبكة</title>
-    <published>2023-05-08T00:00:00+00:00</published>
-    <updated>2023-05-08T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=ZvzUO0FyFzM</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ZvzUO0FyFzM"/>
-    <author>
-      <name>A7LA KOORA</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ZvzUO0FyFzM"&gt;&lt;img src="https://img.youtube.com/vi/ZvzUO0FyFzM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
