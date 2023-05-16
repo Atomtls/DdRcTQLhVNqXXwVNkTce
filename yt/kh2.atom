@@ -4,7 +4,7 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">H-one  rap Khouribga</title>
+    <title type="html">za3im Moro clach lik</title>
     <published>2023-05-13T00:00:00+00:00</published>
     <updated>2023-05-13T00:00:00+00:00</updated>
     <id>https://www.youtube.com/watch?v=9bShLy5D5Sg</id>
@@ -169,6 +169,17 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=ianNkgXBhas"&gt;&lt;img src="https://img.youtube.com/vi/ianNkgXBhas/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
+    <title type="html">#explore #khouribga #البادية_المغربية</title>
+    <published>2023-04-11T00:00:00+00:00</published>
+    <updated>2023-04-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=K1OUEGMB6MY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=K1OUEGMB6MY"/>
+    <author>
+      <name>Abdelhadi El Machbouh عبدالهادي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=K1OUEGMB6MY"&gt;&lt;img src="https://img.youtube.com/vi/K1OUEGMB6MY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">kick boxing khouribga</title>
     <published>2023-04-10T00:00:00+00:00</published>
     <updated>2023-04-10T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>fox rami</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=hJOq4AksHpw"&gt;&lt;img src="https://img.youtube.com/vi/hJOq4AksHpw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#khouribga #اكسبلور</title>
-    <published>2023-03-24T00:00:00+00:00</published>
-    <updated>2023-03-24T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=000-bTTwHfE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=000-bTTwHfE"/>
-    <author>
-      <name>Adil top</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=000-bTTwHfE"&gt;&lt;img src="https://img.youtube.com/vi/000-bTTwHfE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
