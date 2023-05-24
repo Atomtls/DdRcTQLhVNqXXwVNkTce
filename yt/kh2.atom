@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">Une très belle visite dans les rues de Khouribga, dans une soirée très calme et merveilleuse👍</title>
+    <published>2023-05-14T00:00:00+00:00</published>
+    <updated>2023-05-14T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=hqXCYvihTPA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hqXCYvihTPA"/>
+    <author>
+      <name>منوعات وطبخ خديجة khadija@</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hqXCYvihTPA"&gt;&lt;img src="https://img.youtube.com/vi/hqXCYvihTPA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">Khouribga by night | yamaha vstar 950</title>
     <published>2023-05-23T00:00:00+00:00</published>
     <updated>2023-05-23T00:00:00+00:00</updated>
@@ -57,17 +68,6 @@
       <name>Tanwer - تنوير</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=WN1BZ09YFfY"&gt;&lt;img src="https://img.youtube.com/vi/WN1BZ09YFfY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Une très belle visite dans les rues de Khouribga, dans une soirée très calme et merveilleuse👍</title>
-    <published>2023-05-14T00:00:00+00:00</published>
-    <updated>2023-05-14T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=hqXCYvihTPA</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hqXCYvihTPA"/>
-    <author>
-      <name>منوعات وطبخ خديجة khadija@</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hqXCYvihTPA"&gt;&lt;img src="https://img.youtube.com/vi/hqXCYvihTPA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">E-1357-Le train de phosphate passe de la gare Oasis, en provenance du port de Casa vers Khouribga</title>
@@ -147,6 +147,17 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=rngP1VKUh7o"&gt;&lt;img src="https://img.youtube.com/vi/rngP1VKUh7o/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
+    <title type="html">Khouribga city driving tour أجمل جولة في شوارع مدينة خريبكة</title>
+    <published>2023-05-02T00:00:00+00:00</published>
+    <updated>2023-05-02T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=BZv-_-GoNwk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=BZv-_-GoNwk"/>
+    <author>
+      <name>تسافرة Tsafira</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=BZv-_-GoNwk"&gt;&lt;img src="https://img.youtube.com/vi/BZv-_-GoNwk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">glitsh Khouribga Maroc #rabbit #rap</title>
     <published>2023-04-28T00:00:00+00:00</published>
     <updated>2023-04-28T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Abdelhadi El Machbouh عبدالهادي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=ianNkgXBhas"&gt;&lt;img src="https://img.youtube.com/vi/ianNkgXBhas/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#explore #khouribga #البادية_المغربية</title>
-    <published>2023-04-11T00:00:00+00:00</published>
-    <updated>2023-04-11T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=K1OUEGMB6MY</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=K1OUEGMB6MY"/>
-    <author>
-      <name>Abdelhadi El Machbouh عبدالهادي</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=K1OUEGMB6MY"&gt;&lt;img src="https://img.youtube.com/vi/K1OUEGMB6MY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
