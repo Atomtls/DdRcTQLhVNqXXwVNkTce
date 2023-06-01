@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">دبيحة الباشاحمو اليوم خريبكة الشريفة الخريبكية 0626097040</title>
+    <published>2023-06-01T00:00:00+00:00</published>
+    <updated>2023-06-01T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Hlt2Xp9zCCc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Hlt2Xp9zCCc"/>
+    <author>
+      <name>الشريفة الخريبكية officiel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Hlt2Xp9zCCc"&gt;&lt;img src="https://img.youtube.com/vi/Hlt2Xp9zCCc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">مباشرة من جماعة الݣفاف إقليم خريبكة..اجيو تشوفو تمن الحولي اليوم</title>
     <published>2023-05-31T00:00:00+00:00</published>
     <updated>2023-05-31T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>حولي صردي المذاكرة</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=vTB_K1nXElM"&gt;&lt;img src="https://img.youtube.com/vi/vTB_K1nXElM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">خريبكة ندوة بخصوص مدونة الاسرة</title>
-    <published>2023-05-29T00:00:00+00:00</published>
-    <updated>2023-05-29T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=olAqyEFz1Dc</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=olAqyEFz1Dc"/>
-    <author>
-      <name>الروبوت الإخباري</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=olAqyEFz1Dc"&gt;&lt;img src="https://img.youtube.com/vi/olAqyEFz1Dc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
