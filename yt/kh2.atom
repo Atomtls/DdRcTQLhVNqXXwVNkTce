@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">Vlog in the French city Khouribga in Morocco</title>
+    <published>2023-06-08T00:00:00+00:00</published>
+    <updated>2023-06-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=axRSoTpCcpE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=axRSoTpCcpE"/>
+    <author>
+      <name>تيما تيفي tima tv</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=axRSoTpCcpE"&gt;&lt;img src="https://img.youtube.com/vi/axRSoTpCcpE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">gaditano khouribga 0623999802</title>
     <published>2023-06-07T00:00:00+00:00</published>
     <updated>2023-06-07T00:00:00+00:00</updated>
@@ -70,17 +81,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=tFfGmkbpZZ4"&gt;&lt;img src="https://img.youtube.com/vi/tFfGmkbpZZ4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">Finale du championnat national de gymnastique à khouribga</title>
-    <published>2023-06-05T00:00:00+00:00</published>
-    <updated>2023-06-05T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=D9UOOtulZdc</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=D9UOOtulZdc"/>
-    <author>
-      <name>Hamid Belmadani</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=D9UOOtulZdc"&gt;&lt;img src="https://img.youtube.com/vi/D9UOOtulZdc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">rap Khouribga H-one clach 2007/2017</title>
     <published>2023-06-04T00:00:00+00:00</published>
     <updated>2023-06-04T00:00:00+00:00</updated>
@@ -101,17 +101,6 @@
       <name>Apitech - Logiciels et services</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=b7_UK0LzaqM"&gt;&lt;img src="https://img.youtube.com/vi/b7_UK0LzaqM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">TRASFORMATION DIGITAL USING AZURE CLOUD SERVICES École 1337 -Khouribga</title>
-    <published>2023-05-30T00:00:00+00:00</published>
-    <updated>2023-05-30T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=jaVB5-ahDFI</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jaVB5-ahDFI"/>
-    <author>
-      <name>Morocco microsoft community</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=jaVB5-ahDFI"&gt;&lt;img src="https://img.youtube.com/vi/jaVB5-ahDFI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">ancien joueur Marzouki Mohamed Olympique Club de Khouribga</title>
@@ -200,6 +189,17 @@
       <name>Medi1TV Afrique</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=y89KiwAJNH8"&gt;&lt;img src="https://img.youtube.com/vi/y89KiwAJNH8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Khouribga-cinéma : la 23ème édition du Ficak se poursuit</title>
+    <published>2023-05-08T00:00:00+00:00</published>
+    <updated>2023-05-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=7t8_RLp0sts</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7t8_RLp0sts"/>
+    <author>
+      <name>Medi1TV Afrique</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=7t8_RLp0sts"&gt;&lt;img src="https://img.youtube.com/vi/7t8_RLp0sts/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">hotèl 4chemins khouribga</title>
