@@ -169,6 +169,17 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=ndX1rQVLExU"&gt;&lt;img src="https://img.youtube.com/vi/ndX1rQVLExU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
+    <title type="html">De Casablanca, le port à Khouribga, il passe par la gare Oasis</title>
+    <published>2023-06-13T00:00:00+00:00</published>
+    <updated>2023-06-13T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=r7BdXyqE3pI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=r7BdXyqE3pI"/>
+    <author>
+      <name>ahmed soundy</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=r7BdXyqE3pI"&gt;&lt;img src="https://img.youtube.com/vi/r7BdXyqE3pI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">timelaps 1337 khouribga</title>
     <published>2023-06-09T00:00:00+00:00</published>
     <updated>2023-06-09T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>gaditano khouribga</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=smwVd8ro_Gk"&gt;&lt;img src="https://img.youtube.com/vi/smwVd8ro_Gk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Maroc Khouribga  le cinéma Camerounais à l´honneur du festival. Narcisse WANDJI en Interview.</title>
-    <published>2023-06-06T00:00:00+00:00</published>
-    <updated>2023-06-06T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=_PDkhV1_EQU</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_PDkhV1_EQU"/>
-    <author>
-      <name>PATOU FILMS TV</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_PDkhV1_EQU"&gt;&lt;img src="https://img.youtube.com/vi/_PDkhV1_EQU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
