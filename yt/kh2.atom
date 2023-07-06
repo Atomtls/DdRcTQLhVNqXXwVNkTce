@@ -1,99 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "khouribga" -"خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 500! (19544)</title>
-    <published>2023-07-06T02:01:14+00:00</published>
-    <updated>2023-07-06T02:01:14+00:00</updated>
-    <id>urn:sha1:712621964b8598cd859f02e0fe9dd612f01ea7e0</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;khouribga&quot;+-&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-            
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; Exception        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 500        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; Could not find videoSecondaryInfoRenderer. Error at: HYa-Meu9Vgk        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/error.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 26        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(408): YoutubeBridge-&amp;gt;parseJSONListing()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(308): YoutubeBridge-&amp;gt;ytBridgeQueryVideoInfo()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(115): returnServerError()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/error.php(46): returnError()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/error.php(26)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;khouribga&amp;quot; -&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2023-03-22 (git.master.212c56f)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+500&amp;body=%60%60%60%0AException%3A+Could+not+find+videoSecondaryInfoRenderer.+Error+at%3A+HYa-Meu9Vgk+in+lib%2Ferror.php+line+26%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28408%29%3A+YoutubeBridge-%3EparseJSONListing%28%29%0Abridges%2FYoutubeBridge.php%28308%29%3A+YoutubeBridge-%3EytBridgeQueryVideoInfo%28%29%0Abridges%2FYoutubeBridge.php%28115%29%3A+returnServerError%28%29%0Alib%2Ferror.php%2846%29%3A+returnError%28%29%0Alib%2Ferror.php%2826%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22khouribga%22%2B-%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2023-03-22+%28git.master.212c56f%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">station telat ouled azzouz. khouribga morocco. july 2023.</title>
+    <published>2023-07-05T00:00:00+00:00</published>
+    <updated>2023-07-05T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=jHt1iy2PC60</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jHt1iy2PC60"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=jHt1iy2PC60"&gt;&lt;img src="https://img.youtube.com/vi/jHt1iy2PC60/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">walk in khouribga. july 2023.</title>
+    <published>2023-07-05T00:00:00+00:00</published>
+    <updated>2023-07-05T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=S6IK9558Hf0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=S6IK9558Hf0"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=S6IK9558Hf0"&gt;&lt;img src="https://img.youtube.com/vi/S6IK9558Hf0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">walk in khouribga morocco. evening. june 2023.  rue choufoni.</title>
+    <published>2023-07-05T00:00:00+00:00</published>
+    <updated>2023-07-05T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=PlamqBCtDJ0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=PlamqBCtDJ0"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=PlamqBCtDJ0"&gt;&lt;img src="https://img.youtube.com/vi/PlamqBCtDJ0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">walk in khouribga morocco. rue choufouni. june 2023.</title>
+    <published>2023-07-04T00:00:00+00:00</published>
+    <updated>2023-07-04T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=EkACHfZxLEg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EkACHfZxLEg"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=EkACHfZxLEg"&gt;&lt;img src="https://img.youtube.com/vi/EkACHfZxLEg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">walk in khouribga morocco. centre ville. june 2023.</title>
+    <published>2023-07-04T00:00:00+00:00</published>
+    <updated>2023-07-04T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=A9FhJK2haVc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=A9FhJK2haVc"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=A9FhJK2haVc"&gt;&lt;img src="https://img.youtube.com/vi/A9FhJK2haVc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">khouribga morocco. lakhwadria from window. june 2023.</title>
+    <published>2023-07-04T00:00:00+00:00</published>
+    <updated>2023-07-04T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=93d2PISdcyU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=93d2PISdcyU"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=93d2PISdcyU"&gt;&lt;img src="https://img.youtube.com/vi/93d2PISdcyU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">walking in khouribga morocco. centre ville. juin 2023.</title>
+    <published>2023-07-04T00:00:00+00:00</published>
+    <updated>2023-07-04T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=AX9WC0hayMw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AX9WC0hayMw"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=AX9WC0hayMw"&gt;&lt;img src="https://img.youtube.com/vi/AX9WC0hayMw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">hattane. walk in khouribga morocco. juin 2023.</title>
+    <published>2023-07-03T00:00:00+00:00</published>
+    <updated>2023-07-03T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=cNQERgPFhV0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=cNQERgPFhV0"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=cNQERgPFhV0"&gt;&lt;img src="https://img.youtube.com/vi/cNQERgPFhV0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Khouribga</title>
+    <published>2023-06-28T00:00:00+00:00</published>
+    <updated>2023-06-28T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IMEj6qBvsMs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IMEj6qBvsMs"/>
+    <author>
+      <name>Nouha Top</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IMEj6qBvsMs"&gt;&lt;img src="https://img.youtube.com/vi/IMEj6qBvsMs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">walk in ouled azzouz. khouribga. 2023.</title>
+    <published>2023-06-24T00:00:00+00:00</published>
+    <updated>2023-06-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=1GmVTJ_1-Ts</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1GmVTJ_1-Ts"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1GmVTJ_1-Ts"&gt;&lt;img src="https://img.youtube.com/vi/1GmVTJ_1-Ts/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Hattane khouribga.</title>
+    <published>2023-06-24T00:00:00+00:00</published>
+    <updated>2023-06-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=HMPb9AftqR0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=HMPb9AftqR0"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=HMPb9AftqR0"&gt;&lt;img src="https://img.youtube.com/vi/HMPb9AftqR0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">khouribga</title>
+    <published>2023-06-24T00:00:00+00:00</published>
+    <updated>2023-06-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=M6G18l0b5yc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=M6G18l0b5yc"/>
+    <author>
+      <name>Abderrahim Ettouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=M6G18l0b5yc"&gt;&lt;img src="https://img.youtube.com/vi/M6G18l0b5yc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولمبيك خريبكة يفوز على حساب ضيفه الإتحاد الرياضي التوركي</title>
+    <published>2023-06-23T00:00:00+00:00</published>
+    <updated>2023-06-23T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=1YPI7OAh3Gw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1YPI7OAh3Gw"/>
+    <author>
+      <name>Arryadia TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1YPI7OAh3Gw"&gt;&lt;img src="https://img.youtube.com/vi/1YPI7OAh3Gw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Le Difaa El Jadida et l'Olympique Khouribga chutent en deuxième division</title>
+    <published>2023-06-21T00:00:00+00:00</published>
+    <updated>2023-06-21T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=QEMEy_Be85o</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QEMEy_Be85o"/>
+    <author>
+      <name>Info Plus</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QEMEy_Be85o"&gt;&lt;img src="https://img.youtube.com/vi/QEMEy_Be85o/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Timelapse 2 jours 1337 Khouribga</title>
+    <published>2023-06-21T00:00:00+00:00</published>
+    <updated>2023-06-21T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=UBRVcGy0JLY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=UBRVcGy0JLY"/>
+    <author>
+      <name>1337 Future Is Loading</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=UBRVcGy0JLY"&gt;&lt;img src="https://img.youtube.com/vi/UBRVcGy0JLY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Visite de TARIK EL MLIH Coach &amp; Formateur, a 1337 Khouribga</title>
+    <published>2023-06-19T00:00:00+00:00</published>
+    <updated>2023-06-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=1AnK63w-XQ8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1AnK63w-XQ8"/>
+    <author>
+      <name>1337 Future Is Loading</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1AnK63w-XQ8"&gt;&lt;img src="https://img.youtube.com/vi/1AnK63w-XQ8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Ensa Khouribga : Développez vos compétences avec la formation continue en licence et master</title>
+    <published>2023-06-18T00:00:00+00:00</published>
+    <updated>2023-06-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=vj96XlM9kS8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=vj96XlM9kS8"/>
+    <author>
+      <name>Hey Abo</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=vj96XlM9kS8"&gt;&lt;img src="https://img.youtube.com/vi/vj96XlM9kS8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Master Système D'information "formation continue ENSA Khouribga"</title>
+    <published>2023-06-17T00:00:00+00:00</published>
+    <updated>2023-06-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=J5GFu0P6vA0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=J5GFu0P6vA0"/>
+    <author>
+      <name>Hey Abo</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=J5GFu0P6vA0"&gt;&lt;img src="https://img.youtube.com/vi/J5GFu0P6vA0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Ingénierie Logiciel en Web et Mobile "formation continue ENSA Khouribga"</title>
+    <published>2023-06-17T00:00:00+00:00</published>
+    <updated>2023-06-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=7NHO7dAw83Q</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7NHO7dAw83Q"/>
+    <author>
+      <name>Hey Abo</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=7NHO7dAw83Q"&gt;&lt;img src="https://img.youtube.com/vi/7NHO7dAw83Q/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Ingénierie industrielle et logistique "formation continue ENSA Khouribga"</title>
+    <published>2023-06-17T00:00:00+00:00</published>
+    <updated>2023-06-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=7GzlZBZ2Jww</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7GzlZBZ2Jww"/>
+    <author>
+      <name>Hey Abo</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=7GzlZBZ2Jww"&gt;&lt;img src="https://img.youtube.com/vi/7GzlZBZ2Jww/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
