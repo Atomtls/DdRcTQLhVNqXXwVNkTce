@@ -202,17 +202,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=X9xyKTi_5dI"&gt;&lt;img src="https://img.youtube.com/vi/X9xyKTi_5dI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">طلبة أوكرانيا يحتجون أمام البرلمان.. يطالبون بالادماج في الجامعات العمومية</title>
-    <published>2022-09-08T00:00:00+00:00</published>
-    <updated>2022-09-08T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=BLckMd9oMhA</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=BLckMd9oMhA"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=BLckMd9oMhA"&gt;&lt;img src="https://img.youtube.com/vi/BLckMd9oMhA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">الصحراء المغربية وتمويل "البراق" ومواجهة الجفاف وعودة الطلبة.. السفير الصيني في حوار حصري مع هسبريس</title>
     <published>2022-08-21T00:00:00+00:00</published>
     <updated>2022-08-21T00:00:00+00:00</updated>
@@ -222,5 +211,16 @@
       <name>Hespress</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=-12jhOjr4Ac"&gt;&lt;img src="https://img.youtube.com/vi/-12jhOjr4Ac/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أولياء الطلبة المغاربة في أوكرانيا يصعدون ضد الحكومة</title>
+    <published>2022-06-28T00:00:00+00:00</published>
+    <updated>2022-06-28T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=PeIExW-JRQ0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=PeIExW-JRQ0"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=PeIExW-JRQ0"&gt;&lt;img src="https://img.youtube.com/vi/PeIExW-JRQ0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
