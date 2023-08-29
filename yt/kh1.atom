@@ -48,17 +48,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=bjLtIvHS8CI"&gt;&lt;img src="https://img.youtube.com/vi/bjLtIvHS8CI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">فيديو جديد #زوين في مدينة خريبكة #</title>
-    <published>2023-08-28T00:00:00+00:00</published>
-    <updated>2023-08-28T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=QT2Ip8cF_Rc</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QT2Ip8cF_Rc"/>
-    <author>
-      <name>عالم ياسمين المتنوع</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QT2Ip8cF_Rc"&gt;&lt;img src="https://img.youtube.com/vi/QT2Ip8cF_Rc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">جولة في منتزه خريبكة</title>
     <published>2023-08-28T00:00:00+00:00</published>
     <updated>2023-08-28T00:00:00+00:00</updated>
@@ -222,5 +211,16 @@
       <name>stars beni mellal khenifra</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=R3NxMY0B_YY"&gt;&lt;img src="https://img.youtube.com/vi/R3NxMY0B_YY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عراسية نايضة مع نجيب الملالي خريبكة</title>
+    <published>2023-08-26T00:00:00+00:00</published>
+    <updated>2023-08-26T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=unRRny3rOFw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=unRRny3rOFw"/>
+    <author>
+      <name>najib mellali najib beni mellal</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=unRRny3rOFw"&gt;&lt;img src="https://img.youtube.com/vi/unRRny3rOFw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
