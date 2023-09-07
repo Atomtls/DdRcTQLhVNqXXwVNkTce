@@ -191,6 +191,17 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=nAOOb_KIwKU"&gt;&lt;img src="https://img.youtube.com/vi/nAOOb_KIwKU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
+    <title type="html">Centré khouribga</title>
+    <published>2023-08-03T00:00:00+00:00</published>
+    <updated>2023-08-03T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9QTe-OBEd0M</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9QTe-OBEd0M"/>
+    <author>
+      <name>Abderrahim Riadi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9QTe-OBEd0M"&gt;&lt;img src="https://img.youtube.com/vi/9QTe-OBEd0M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">POWER GYM KHOURIBGA</title>
     <published>2023-07-30T00:00:00+00:00</published>
     <updated>2023-07-30T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Khairi 57</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=Upf6YbsurZM"&gt;&lt;img src="https://img.youtube.com/vi/Upf6YbsurZM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Alsa Khouribga</title>
-    <published>2023-07-27T00:00:00+00:00</published>
-    <updated>2023-07-27T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=w4pt6aWkfhI</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=w4pt6aWkfhI"/>
-    <author>
-      <name>saadi walid</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=w4pt6aWkfhI"&gt;&lt;img src="https://img.youtube.com/vi/w4pt6aWkfhI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
