@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">بسبب سوء التنظيم.. حالات إغماء ومشادات بين الطلبة  في يوم التسجيل  بكلية العلوم الرباط</title>
+    <published>2023-09-08T00:00:00+00:00</published>
+    <updated>2023-09-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=tPTvAbza1Rk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=tPTvAbza1Rk"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=tPTvAbza1Rk"&gt;&lt;img src="https://img.youtube.com/vi/tPTvAbza1Rk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">إغلاق الأحياء الجامعية بالرباط في الصيف يعمّق محنة الطلبة الباحثين عن الكراء</title>
     <published>2023-08-02T00:00:00+00:00</published>
     <updated>2023-08-02T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Hespress</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=cVFj_ROIYAg"&gt;&lt;img src="https://img.youtube.com/vi/cVFj_ROIYAg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">عائلات الطلبة العائدين من أوكرانيا تحتج ضد اعتماد المباراة وترفض مقترح الدراسة في دول بديلة</title>
-    <published>2022-05-21T00:00:00+00:00</published>
-    <updated>2022-05-21T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=Bkv-Gdoz8ds</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Bkv-Gdoz8ds"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Bkv-Gdoz8ds"&gt;&lt;img src="https://img.youtube.com/vi/Bkv-Gdoz8ds/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
