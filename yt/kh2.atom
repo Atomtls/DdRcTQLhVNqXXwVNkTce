@@ -202,6 +202,17 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=IdiQUP-pQrM"&gt;&lt;img src="https://img.youtube.com/vi/IdiQUP-pQrM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
+    <title type="html">#explore#khouribga</title>
+    <published>2023-07-16T00:00:00+00:00</published>
+    <updated>2023-07-16T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=a0IH6FJ52YQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=a0IH6FJ52YQ"/>
+    <author>
+      <name>Rachid Adil</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=a0IH6FJ52YQ"&gt;&lt;img src="https://img.youtube.com/vi/a0IH6FJ52YQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">image de Khouribga صورة اخريبكة</title>
     <published>2023-07-08T00:00:00+00:00</published>
     <updated>2023-07-08T00:00:00+00:00</updated>
@@ -211,16 +222,5 @@
       <name>MOURAD BITIL</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=-Egb3JxBctQ"&gt;&lt;img src="https://img.youtube.com/vi/-Egb3JxBctQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">virtual walk in khouribga. juin 2023.</title>
-    <published>2023-06-24T00:00:00+00:00</published>
-    <updated>2023-06-24T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=Pdh-vWlB_o0</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Pdh-vWlB_o0"/>
-    <author>
-      <name>A. Torytours</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Pdh-vWlB_o0"&gt;&lt;img src="https://img.youtube.com/vi/Pdh-vWlB_o0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
