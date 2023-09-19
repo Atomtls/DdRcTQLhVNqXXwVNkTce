@@ -1,101 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19619)</title>
-    <published>2023-09-19T11:00:01+00:00</published>
-    <updated>2023-09-19T11:00:01+00:00</updated>
-    <id>urn:sha1:9cc0e86390b2924f8c8f3d97aad9b1f5b5f6ed6b</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/contents.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 307        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(397): YoutubeBridge-&amp;gt;ytGetSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(222): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/contents.php(367): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(147): _http_request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(307)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2023-03-22 (git.master.212c56f)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26sp%3DCAI%25253D+in+lib%2Fcontents.php+line+307%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28397%29%3A+YoutubeBridge-%3EytGetSimpleHTMLDOM%28%29%0Abridges%2FYoutubeBridge.php%28222%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28367%29%3A+getContents%28%29%0Alib%2Fcontents.php%28147%29%3A+_http_request%28%29%0Alib%2Fcontents.php%28307%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2023-03-22+%28git.master.212c56f%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">مباشرة مع نادية رفقة قافلة  تجار ومهنيي خريبكة جينا لدوار  "تامجاجت "جماعة تاويالت تارودانت فيه ...</title>
+    <published>2023-09-20T00:00:00+00:00</published>
+    <updated>2023-09-20T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2sVImdyCdpM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2sVImdyCdpM"/>
+    <author>
+      <name>MAROCAINS DU MONDE مغاربة العالم</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2sVImdyCdpM"&gt;&lt;img src="https://img.youtube.com/vi/2sVImdyCdpM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة مع نادية : قافلة تجار ومهنيي خريبكة حطات الرحال بتارودانت.. أجيو معانا نقلبو على الدواوير...</title>
+    <published>2023-09-20T00:00:00+00:00</published>
+    <updated>2023-09-20T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=lX6Vh3xTFSY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lX6Vh3xTFSY"/>
+    <author>
+      <name>MAROCAINS DU MONDE مغاربة العالم</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=lX6Vh3xTFSY"&gt;&lt;img src="https://img.youtube.com/vi/lX6Vh3xTFSY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الطريق الرابطة بين الكارة ومدينة خريبكة على الدراجة🚴‍♂️🚴@</title>
+    <published>2023-09-20T00:00:00+00:00</published>
+    <updated>2023-09-20T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=haot69OarvE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=haot69OarvE"/>
+    <author>
+      <name>جمال الحداد  Jamal Ferayour</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=haot69OarvE"&gt;&lt;img src="https://img.youtube.com/vi/haot69OarvE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#بني_ملال #فقيه_بن_صالح #افورار #القصبة #تابعوني #خريبكة #الدار_البيضاء #الرباط #ملالي_سبئية</title>
+    <published>2023-09-19T00:00:00+00:00</published>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=L3LeVL15BEs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=L3LeVL15BEs"/>
+    <author>
+      <name>Abdo Italiano</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=L3LeVL15BEs"&gt;&lt;img src="https://img.youtube.com/vi/L3LeVL15BEs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">نايضة مع شيوخ رشيد الخريبكي وعبد الواحد فاطن  قصارة في مدينة خريبكة</title>
+    <published>2023-09-19T00:00:00+00:00</published>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=5kJKImnneEk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5kJKImnneEk"/>
+    <author>
+      <name>Rachid elkhouribguii رشيد الخريبكي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5kJKImnneEk"&gt;&lt;img src="https://img.youtube.com/vi/5kJKImnneEk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">قضية الدرك الملكي مقتل محامي وجثة لقوها متحللة في مدينة خريبكة وتحريات تكشف عن ماهو صادم،قصص بوليسية</title>
+    <published>2023-09-19T00:00:00+00:00</published>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=F_lOVXKjdeE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=F_lOVXKjdeE"/>
+    <author>
+      <name>كيفاش وقع</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=F_lOVXKjdeE"&gt;&lt;img src="https://img.youtube.com/vi/F_lOVXKjdeE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جديد عبيدات الرمى خريبكة #عبيدات_الرمى#عيساوة#كناوة#شعبي#شعبي_نايضة#الغيطة#عروس#عراس#المغرب#الجزائر</title>
+    <published>2023-09-19T00:00:00+00:00</published>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=7KpAAJUCx2o</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7KpAAJUCx2o"/>
+    <author>
+      <name>Simo khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=7KpAAJUCx2o"&gt;&lt;img src="https://img.youtube.com/vi/7KpAAJUCx2o/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مجموعة رموز الخير خريبكة - دقة المراكشية - بولا بولا.</title>
+    <published>2023-09-19T00:00:00+00:00</published>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=3akr0wKwrtQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3akr0wKwrtQ"/>
+    <author>
+      <name>صلاح الدين بدري</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=3akr0wKwrtQ"&gt;&lt;img src="https://img.youtube.com/vi/3akr0wKwrtQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مرحبا بكم #خريبكة   0627121923# أسماك دنار 💯❤🐚🐙🐟🐚🦑🗨🦞🐟🦈🦈🤙</title>
+    <published>2023-09-19T00:00:00+00:00</published>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=rKlquEFHw3U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=rKlquEFHw3U"/>
+    <author>
+      <name>المهدي. أبو أميرة 💕</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=rKlquEFHw3U"&gt;&lt;img src="https://img.youtube.com/vi/rKlquEFHw3U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مهرجان أولاد عبدون خريبكة 2023</title>
+    <published>2023-09-19T00:00:00+00:00</published>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=EI0zInWOgwQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EI0zInWOgwQ"/>
+    <author>
+      <name>lasyan tbourida</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=EI0zInWOgwQ"&gt;&lt;img src="https://img.youtube.com/vi/EI0zInWOgwQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عاجل.. أولمبيك خريبكة يتخلص من منع انتداباته تفاصيل أخبار المنتخب المغربي في أخبار الرياضة المغربية</title>
+    <published>2023-09-19T00:00:00+00:00</published>
+    <updated>2023-09-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=lHZd8C8FnlM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lHZd8C8FnlM"/>
+    <author>
+      <name>MA Trending Sport</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=lHZd8C8FnlM"&gt;&lt;img src="https://img.youtube.com/vi/lHZd8C8FnlM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">محبوب الجماهير المقدم عزيز الفاتحي جغو من مهرجان بني يخلف خريبكة</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=sa-vgh27jOM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=sa-vgh27jOM"/>
+    <author>
+      <name>mustapha EL officiel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=sa-vgh27jOM"&gt;&lt;img src="https://img.youtube.com/vi/sa-vgh27jOM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">وليد الرحماني في عرس مغربي مدينة خريبكة #وليد_الرحماني#شعبي#شعبي_نايضة#المغرب#الجزائر#شيخات#طنجة#سلا</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Ud2sM-VJn3Y</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ud2sM-VJn3Y"/>
+    <author>
+      <name>Simo khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ud2sM-VJn3Y"&gt;&lt;img src="https://img.youtube.com/vi/Ud2sM-VJn3Y/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">فنان لبناني على ألة العود مع نجوم السلطان خريبكة#المغرب#لبنان#الرباط#مصر#ليبيا#السعودية#قطر#الكويت</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=fiZuvNCeyPo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=fiZuvNCeyPo"/>
+    <author>
+      <name>Simo khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=fiZuvNCeyPo"&gt;&lt;img src="https://img.youtube.com/vi/fiZuvNCeyPo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مهرجان أولاد عبدون خريبكة 2023.بجودة عالية</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Ygijpjh20_c</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ygijpjh20_c"/>
+    <author>
+      <name>lasyan tbourida</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ygijpjh20_c"&gt;&lt;img src="https://img.youtube.com/vi/Ygijpjh20_c/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة من سوق السيارات خريبكة</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ZhH7KR1xNo8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ZhH7KR1xNo8"/>
+    <author>
+      <name>Auto omar اوطو عمر</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ZhH7KR1xNo8"&gt;&lt;img src="https://img.youtube.com/vi/ZhH7KR1xNo8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اجيو تشوفو الحديد اللي داخل لسوق السيارات خريبكة</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2FsdERat6_0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2FsdERat6_0"/>
+    <author>
+      <name>Auto omar اوطو عمر</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2FsdERat6_0"&gt;&lt;img src="https://img.youtube.com/vi/2FsdERat6_0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اجيو تشوفو الحديد اللي داخل لسوق السيارات خريبكة</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ZUu0E-cSi2Q</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ZUu0E-cSi2Q"/>
+    <author>
+      <name>Auto omar اوطو عمر</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ZUu0E-cSi2Q"&gt;&lt;img src="https://img.youtube.com/vi/ZUu0E-cSi2Q/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#fypシ#casablanca #khouribga #maroc #خريبكة #foryou #vairal #vairalvideo # #عبيدات_الرمى #عبيدات #</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=cHoFlhRFyIU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=cHoFlhRFyIU"/>
+    <author>
+      <name>عبيدات الرمى فال الخير بوجنيبة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=cHoFlhRFyIU"&gt;&lt;img src="https://img.youtube.com/vi/cHoFlhRFyIU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">امطر الخير اليوم في مدينة خريبكة</title>
+    <published>2023-09-18T00:00:00+00:00</published>
+    <updated>2023-09-18T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=5t9-s5vWvm8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5t9-s5vWvm8"/>
+    <author>
+      <name>ام إشراق 🥰ou ichraa</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5t9-s5vWvm8"&gt;&lt;img src="https://img.youtube.com/vi/5t9-s5vWvm8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
