@@ -1,226 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Search: "hespress" الطلبة - YouTube</title>
-  <icon>https://www.youtube.com//favicon.ico</icon>
-  <logo>https://www.youtube.com//favicon.ico</logo>
+  <title type="text"></title>
+  <icon>https://github.com/favicon.ico</icon>
+  <logo>https://github.com/favicon.ico</logo>
   <entry>
-    <title type="html">بسبب سوء التنظيم.. حالات إغماء ومشادات بين الطلبة  في يوم التسجيل  بكلية العلوم الرباط</title>
-    <published>2023-09-08T00:00:00+00:00</published>
-    <updated>2023-09-08T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=tPTvAbza1Rk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=tPTvAbza1Rk"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=tPTvAbza1Rk"&gt;&lt;img src="https://img.youtube.com/vi/tPTvAbza1Rk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">أجواء الدخول الجامعي للطلبة الجدد في جامعة  القاضي عياض بمراكش</title>
-    <published>2023-09-04T00:00:00+00:00</published>
-    <updated>2023-09-04T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=SPvecknpmmI</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=SPvecknpmmI"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=SPvecknpmmI"&gt;&lt;img src="https://img.youtube.com/vi/SPvecknpmmI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">إغلاق الأحياء الجامعية بالرباط في الصيف يعمّق محنة الطلبة الباحثين عن الكراء</title>
-    <published>2023-08-02T00:00:00+00:00</published>
-    <updated>2023-08-02T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=aMh-RBg4MUA</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=aMh-RBg4MUA"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=aMh-RBg4MUA"&gt;&lt;img src="https://img.youtube.com/vi/aMh-RBg4MUA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">الأدوار الدستورية للمعارضة.. شهيد يحاضر أمام طلبة كلية العلوم القانونية والاجتماعية</title>
-    <published>2023-06-22T00:00:00+00:00</published>
-    <updated>2023-06-22T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=SeHW3nrYR1w</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=SeHW3nrYR1w"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=SeHW3nrYR1w"&gt;&lt;img src="https://img.youtube.com/vi/SeHW3nrYR1w/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">طلبة جامعة ابن طفيل يشتكون من غلاء وقلة أسطول حافلات النقل الجامعي بالقنيطرة</title>
-    <published>2023-05-15T00:00:00+00:00</published>
-    <updated>2023-05-15T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=-ZfA4k9mh3M</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-ZfA4k9mh3M"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-ZfA4k9mh3M"&gt;&lt;img src="https://img.youtube.com/vi/-ZfA4k9mh3M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">خطير.. تسمم غدائي ينقل أزيد من 400 طالب(ة)  بالحي الجامعي الجديدة إلى المستشفى</title>
-    <published>2023-05-12T00:00:00+00:00</published>
-    <updated>2023-05-12T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=Bey7G-68Dsg</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Bey7G-68Dsg"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Bey7G-68Dsg"&gt;&lt;img src="https://img.youtube.com/vi/Bey7G-68Dsg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">وليد الركراكي يشعل حماس طلبة المدرسة المحمدية للمهندسين</title>
-    <published>2023-05-11T00:00:00+00:00</published>
-    <updated>2023-05-11T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=29ZDdeiFKU4</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=29ZDdeiFKU4"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=29ZDdeiFKU4"&gt;&lt;img src="https://img.youtube.com/vi/29ZDdeiFKU4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">كلية الحقوق" بالجديدة تلاقي الطلاب بالمقاولات في منتدى التشغيل المهني"</title>
-    <published>2023-05-11T00:00:00+00:00</published>
-    <updated>2023-05-11T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=YN_DwBMkTls</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=YN_DwBMkTls"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=YN_DwBMkTls"&gt;&lt;img src="https://img.youtube.com/vi/YN_DwBMkTls/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">"بعض المرات كنسالي بكري بعض المرات كيأذن عليا المغرب".. مهن شاقة | طالبة وبائعة فطائر</title>
-    <published>2023-04-18T00:00:00+00:00</published>
-    <updated>2023-04-18T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=SrwytOpAee0</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=SrwytOpAee0"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=SrwytOpAee0"&gt;&lt;img src="https://img.youtube.com/vi/SrwytOpAee0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">طلبة "ليزاداك" يقدمون عرض "روميو وجولييت" في نسخته المغربية بالرباط</title>
-    <published>2023-04-17T00:00:00+00:00</published>
-    <updated>2023-04-17T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=RB8IZAvlQhk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RB8IZAvlQhk"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=RB8IZAvlQhk"&gt;&lt;img src="https://img.youtube.com/vi/RB8IZAvlQhk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">رفضا لمخطط التعاقد في القطاع الصحي.. احتجاج تنسيقية طلبة وخريجي معهد التمريض بفاس</title>
-    <published>2023-04-12T00:00:00+00:00</published>
-    <updated>2023-04-12T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=k9A-P3K5EWE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=k9A-P3K5EWE"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=k9A-P3K5EWE"&gt;&lt;img src="https://img.youtube.com/vi/k9A-P3K5EWE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">خطير.. طلبة المدرسة العليا للتكنولوجيا بأكادير يحتجون على رداءة الوجبات المقدمة لهم في رمضان</title>
-    <published>2023-03-28T00:00:00+00:00</published>
-    <updated>2023-03-28T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=XYqu8xcPOnE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=XYqu8xcPOnE"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=XYqu8xcPOnE"&gt;&lt;img src="https://img.youtube.com/vi/XYqu8xcPOnE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">إضراب طلبة في جامعة ابن طفيل.. حي جامعي مغلق وتردي خدمات النقل تغضب طلبة القنيطرة</title>
-    <published>2023-03-18T00:00:00+00:00</published>
-    <updated>2023-03-18T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=V5s-haZNoDI</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=V5s-haZNoDI"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=V5s-haZNoDI"&gt;&lt;img src="https://img.youtube.com/vi/V5s-haZNoDI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">حفل التميز.. تتويج طلبة متفوقين بكلية العلوم القانونية والإقتصادية بسلا</title>
-    <published>2023-03-15T00:00:00+00:00</published>
-    <updated>2023-03-15T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=9KwVE-12ytk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9KwVE-12ytk"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9KwVE-12ytk"&gt;&lt;img src="https://img.youtube.com/vi/9KwVE-12ytk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">هذه آخر تطورات ملف امتحان المحاماة بعد اجتماع تنسيقية الطلبة الراسبين مع وزارة العدل</title>
-    <published>2023-03-10T00:00:00+00:00</published>
-    <updated>2023-03-10T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=8Kog-8oEHBE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8Kog-8oEHBE"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=8Kog-8oEHBE"&gt;&lt;img src="https://img.youtube.com/vi/8Kog-8oEHBE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">وهبي يرد على الطالب الذي قال أنه اجتاز الامتحان ونجح طالب آخر مكانه: سنحيلك على النيابة العامة</title>
-    <published>2023-01-24T00:00:00+00:00</published>
-    <updated>2023-01-24T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=OkPox3qQs2E</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OkPox3qQs2E"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=OkPox3qQs2E"&gt;&lt;img src="https://img.youtube.com/vi/OkPox3qQs2E/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">احتجاج طلبة أمام قنصلية ألمانيا بسبب تأخر مواعيد الفيزا</title>
-    <published>2022-12-12T00:00:00+00:00</published>
-    <updated>2022-12-12T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=L9RsrMo3eZk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=L9RsrMo3eZk"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=L9RsrMo3eZk"&gt;&lt;img src="https://img.youtube.com/vi/L9RsrMo3eZk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">مستوى ضعيف".. تصريحات الوزير ميراوي تخرج أولياء طلبة أوكرانيا إلى الشارع "</title>
-    <published>2022-10-27T00:00:00+00:00</published>
-    <updated>2022-10-27T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=RNGkOy1o1z0</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RNGkOy1o1z0"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=RNGkOy1o1z0"&gt;&lt;img src="https://img.youtube.com/vi/RNGkOy1o1z0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">اتفاقية شراكة تدعم الطلبة المعوزين بوجدة</title>
-    <published>2022-10-26T00:00:00+00:00</published>
-    <updated>2022-10-26T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=LOnqIM6jbOU</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=LOnqIM6jbOU"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=LOnqIM6jbOU"&gt;&lt;img src="https://img.youtube.com/vi/LOnqIM6jbOU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">رفضا لإدماج طلبة أوكرانيا .. الطلبة المهندسين يحتجون أمام البرلمان</title>
-    <published>2022-10-01T00:00:00+00:00</published>
-    <updated>2022-10-01T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=zhqAbtUPMQU</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zhqAbtUPMQU"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zhqAbtUPMQU"&gt;&lt;img src="https://img.youtube.com/vi/zhqAbtUPMQU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+    <title type="html">Bridge returned error 0! (19619)</title>
+    <published>2023-09-19T05:05:28+00:00</published>
+    <updated>2023-09-19T05:05:28+00:00</updated>
+    <id>urn:sha1:9cc0e86390b2924f8c8f3d97aad9b1f5b5f6ed6b</id>
+    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;hespress&quot;+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+    <content type="html">
+&lt;div class="error"&gt;
+
+            
+        
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22hespress%22+%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9&amp;amp;sp=CAI%253D        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/contents.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 307        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 bridges/YoutubeBridge.php(397): YoutubeBridge-&amp;gt;ytGetSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 bridges/YoutubeBridge.php(222): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 lib/contents.php(367): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 lib/contents.php(147): _http_request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/contents.php(307)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;hespress&amp;quot; الطلبة&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; dev.2023-03-22 (git.master.212c56f)    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522hespress%2522%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2584%25D8%25A8%25D8%25A9%26sp%3DCAI%25253D+in+lib%2Fcontents.php+line+307%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28397%29%3A+YoutubeBridge-%3EytGetSimpleHTMLDOM%28%29%0Abridges%2FYoutubeBridge.php%28222%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28367%29%3A+getContents%28%29%0Alib%2Fcontents.php%28147%29%3A+_http_request%28%29%0Alib%2Fcontents.php%28307%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22hespress%22%2B%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2023-03-22+%28git.master.212c56f%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    em92&lt;/p&gt;</content>
   </entry>
 </feed>
