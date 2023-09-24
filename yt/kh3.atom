@@ -1,101 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: ocp khouribga - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19624)</title>
-    <published>2023-09-24T08:02:12+00:00</published>
-    <updated>2023-09-24T08:02:12+00:00</updated>
-    <id>urn:sha1:e86db5d7e40d1ac05ea47affeaff5b2eadc41bc5</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=ocp+khouribga&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=ocp+khouribga&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/contents.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 307        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(397): YoutubeBridge-&amp;gt;ytGetSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(222): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/contents.php(367): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(147): _http_request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(307)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=ocp khouribga&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2023-03-22 (git.master.212c56f)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3Docp%2Bkhouribga%26sp%3DCAI%25253D+in+lib%2Fcontents.php+line+307%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28397%29%3A+YoutubeBridge-%3EytGetSimpleHTMLDOM%28%29%0Abridges%2FYoutubeBridge.php%28222%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28367%29%3A+getContents%28%29%0Alib%2Fcontents.php%28147%29%3A+_http_request%28%29%0Alib%2Fcontents.php%28307%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3Docp%2Bkhouribga%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2023-03-22+%28git.master.212c56f%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">MAROC : Leader Mondial en Phosphates à Travers Le Groupe OCP .. Une Entreprise Nationale Modèle !!</title>
+    <published>2023-08-08T00:00:00+00:00</published>
+    <updated>2023-08-08T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=D1dYGYKdKm8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=D1dYGYKdKm8"/>
+    <author>
+      <name>Grand Maghreb News</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=D1dYGYKdKm8"&gt;&lt;img src="https://img.youtube.com/vi/D1dYGYKdKm8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#flame #ock #youtubeshorts #shortvideo #instagram #khouribga #خريبكة #احتفال #احتفالات #ocp</title>
+    <published>2023-06-13T00:00:00+00:00</published>
+    <updated>2023-06-13T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=lUctBuAvfPk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lUctBuAvfPk"/>
+    <author>
+      <name>maryem sulaiman مريم سليمان</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=lUctBuAvfPk"&gt;&lt;img src="https://img.youtube.com/vi/lUctBuAvfPk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">La préservation des ressources hydriques au cœur des préoccupations du Groupe OCP</title>
+    <published>2023-04-06T00:00:00+00:00</published>
+    <updated>2023-04-06T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ULVH243mR0E</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ULVH243mR0E"/>
+    <author>
+      <name>LeSiteinfo</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ULVH243mR0E"&gt;&lt;img src="https://img.youtube.com/vi/ULVH243mR0E/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Laverie Beni Amir (OCP)</title>
+    <published>2023-02-09T00:00:00+00:00</published>
+    <updated>2023-02-09T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=m8Hx21jOxy4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=m8Hx21jOxy4"/>
+    <author>
+      <name>Create Videos</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=m8Hx21jOxy4"&gt;&lt;img src="https://img.youtube.com/vi/m8Hx21jOxy4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Visite des équipes opérationnelles des sites OCP à Mafoder le 19/01/2023</title>
+    <published>2023-01-31T00:00:00+00:00</published>
+    <updated>2023-01-31T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IKEEF6wtrQc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IKEEF6wtrQc"/>
+    <author>
+      <name>MAFODER GROUP</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IKEEF6wtrQc"&gt;&lt;img src="https://img.youtube.com/vi/IKEEF6wtrQc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">كيفية العمل مع شركة ocp بالمغرب</title>
+    <published>2022-12-23T00:00:00+00:00</published>
+    <updated>2022-12-23T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ItwWbv3X5S8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ItwWbv3X5S8"/>
+    <author>
+      <name>ijob</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ItwWbv3X5S8"&gt;&lt;img src="https://img.youtube.com/vi/ItwWbv3X5S8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Présentation du programme d'investissement de OCP Group</title>
+    <published>2022-12-07T00:00:00+00:00</published>
+    <updated>2022-12-07T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=bqMdkAQNPNc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bqMdkAQNPNc"/>
+    <author>
+      <name>FIMME</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=bqMdkAQNPNc"&gt;&lt;img src="https://img.youtube.com/vi/bqMdkAQNPNc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#qatar #live #explorepage #coaching #football #khouribga #ocp #cardio #performance#nabilfitcross</title>
+    <published>2022-11-20T00:00:00+00:00</published>
+    <updated>2022-11-20T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=wSCdJKa0VGA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=wSCdJKa0VGA"/>
+    <author>
+      <name>Nabil Fitcross</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=wSCdJKa0VGA"&gt;&lt;img src="https://img.youtube.com/vi/wSCdJKa0VGA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Traitement des eaux usées: à la station d'épuration du Groupe OCP à Khouribga, rien ne se perd</title>
+    <published>2022-11-19T00:00:00+00:00</published>
+    <updated>2022-11-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=OMBdJ9dnJLY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OMBdJ9dnJLY"/>
+    <author>
+      <name>Le360</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=OMBdJ9dnJLY"&gt;&lt;img src="https://img.youtube.com/vi/OMBdJ9dnJLY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Le "programme eau" de l'OCP se renforce par quatre nouveaux projets</title>
+    <published>2022-11-17T00:00:00+00:00</published>
+    <updated>2022-11-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=-GNQrdo-LTs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-GNQrdo-LTs"/>
+    <author>
+      <name>Le360</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-GNQrdo-LTs"&gt;&lt;img src="https://img.youtube.com/vi/-GNQrdo-LTs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">شركة Jacobs Engineering OCP تعلن عن توظيفات مهمة لحاملي الدبلومات و الشواهد  في العديد من التخصصات</title>
+    <published>2022-11-06T00:00:00+00:00</published>
+    <updated>2022-11-06T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9LcOaIaN83g</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9LcOaIaN83g"/>
+    <author>
+      <name>Bghit Khadma  بغيت خدمة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9LcOaIaN83g"&gt;&lt;img src="https://img.youtube.com/vi/9LcOaIaN83g/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">piscine khouribga</title>
+    <published>2022-07-27T00:00:00+00:00</published>
+    <updated>2022-07-27T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=avd9EYxUdBI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=avd9EYxUdBI"/>
+    <author>
+      <name>Basma Islam</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=avd9EYxUdBI"&gt;&lt;img src="https://img.youtube.com/vi/avd9EYxUdBI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اروع اللوحات بابداعات حالمة بالخزانة الوسائطية OCP KHOURIBGA</title>
+    <published>2022-06-06T00:00:00+00:00</published>
+    <updated>2022-06-06T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=kJEqa8L-08w</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=kJEqa8L-08w"/>
+    <author>
+      <name>العين تيفيAINE TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=kJEqa8L-08w"&gt;&lt;img src="https://img.youtube.com/vi/kJEqa8L-08w/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">😍 فيلا ديال بحي الفيلاج، ديال العشاقة / Villa à vendre à khouribga</title>
+    <published>2022-05-11T00:00:00+00:00</published>
+    <updated>2022-05-11T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=dgfDGGklG9M</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=dgfDGGklG9M"/>
+    <author>
+      <name>Offre Immobilier - Khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=dgfDGGklG9M"&gt;&lt;img src="https://img.youtube.com/vi/dgfDGGklG9M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Carnaval école Ben jelloul OCP Khouribga</title>
+    <published>2022-04-09T00:00:00+00:00</published>
+    <updated>2022-04-09T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=mCfXWpMGIXg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=mCfXWpMGIXg"/>
+    <author>
+      <name>Marco live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=mCfXWpMGIXg"&gt;&lt;img src="https://img.youtube.com/vi/mCfXWpMGIXg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#khouribganapoli #khouribga #ock #ocp</title>
+    <published>2022-03-31T00:00:00+00:00</published>
+    <updated>2022-03-31T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=wkKrf2gDQwM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=wkKrf2gDQwM"/>
+    <author>
+      <name>youssef ORo</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=wkKrf2gDQwM"&gt;&lt;img src="https://img.youtube.com/vi/wkKrf2gDQwM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جولة رائعة من الزمن الذهبي بشوارع خريبكة الجميلة سنة 1980 KHOURIBGA Maroc 1980 OCP</title>
+    <published>2022-02-24T00:00:00+00:00</published>
+    <updated>2022-02-24T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zoWnXOj1meU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zoWnXOj1meU"/>
+    <author>
+      <name>جوّال خريبكَة - Jawal khouribga officiel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zoWnXOj1meU"&gt;&lt;img src="https://img.youtube.com/vi/zoWnXOj1meU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جولة في الحي الفرنسي بمدينة خريبكة - Khouribga Village OCP</title>
+    <published>2022-02-17T00:00:00+00:00</published>
+    <updated>2022-02-17T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_gdJi5V35vA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_gdJi5V35vA"/>
+    <author>
+      <name>Naima Vlogs</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_gdJi5V35vA"&gt;&lt;img src="https://img.youtube.com/vi/_gdJi5V35vA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">piscine de khouribga 2010 مسبح مدينة خريبكة فاش كان تحت مسؤولية م.ش.ف OCP</title>
+    <published>2021-12-30T00:00:00+00:00</published>
+    <updated>2021-12-30T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=gSjdtDwh0PA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=gSjdtDwh0PA"/>
+    <author>
+      <name>mollér mounir</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=gSjdtDwh0PA"&gt;&lt;img src="https://img.youtube.com/vi/gSjdtDwh0PA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">شاهدوا المركب الفوسفاتي الضخم سيدي شنان بمدينة خريبكة</title>
+    <published>2021-12-19T00:00:00+00:00</published>
+    <updated>2021-12-19T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=THf5Omp2lUc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=THf5Omp2lUc"/>
+    <author>
+      <name>Rue20 Officiel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=THf5Omp2lUc"&gt;&lt;img src="https://img.youtube.com/vi/THf5Omp2lUc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
