@@ -103,17 +103,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=g8CLPU2Dhrs"&gt;&lt;img src="https://img.youtube.com/vi/g8CLPU2Dhrs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">Tour in khouribga  Medina</title>
-    <published>2023-08-12T00:00:00+00:00</published>
-    <updated>2023-08-12T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=Ol2GyuyTTMo</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ol2GyuyTTMo"/>
-    <author>
-      <name>Moroccan Instructor</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ol2GyuyTTMo"&gt;&lt;img src="https://img.youtube.com/vi/Ol2GyuyTTMo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">أحياء مدينة خريبكة تتنفس تحت الماء أقل من14دقيق من الامطار تكشف عيوب البنية التحتية</title>
     <published>2023-08-11T00:00:00+00:00</published>
     <updated>2023-08-11T00:00:00+00:00</updated>
@@ -222,5 +211,16 @@
       <name>ACHRAF HOURRI</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=IdiQUP-pQrM"&gt;&lt;img src="https://img.youtube.com/vi/IdiQUP-pQrM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#explore#khouribga</title>
+    <published>2023-07-16T00:00:00+00:00</published>
+    <updated>2023-07-16T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=a0IH6FJ52YQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=a0IH6FJ52YQ"/>
+    <author>
+      <name>Rachid Adil</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=a0IH6FJ52YQ"&gt;&lt;img src="https://img.youtube.com/vi/a0IH6FJ52YQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
