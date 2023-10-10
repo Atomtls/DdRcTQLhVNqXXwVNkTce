@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">a tour in khouribga. morocco oct. 2023.</title>
+    <published>2023-10-10T00:00:00+00:00</published>
+    <updated>2023-10-10T00:00:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=AIK3Q5XOIgA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AIK3Q5XOIgA"/>
+    <author>
+      <name>A. Torytours</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=AIK3Q5XOIgA"&gt;&lt;img src="https://img.youtube.com/vi/AIK3Q5XOIgA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">#agadir #casablanca #errachidia #marrakech #meknès #khouribga #fès #kenitra #rabat #beni</title>
     <published>2023-10-09T00:00:00+00:00</published>
     <updated>2023-10-09T00:00:00+00:00</updated>
@@ -170,8 +181,8 @@
   </entry>
   <entry>
     <title type="html">Khouribga morocco.sept 2023.</title>
-    <published>2023-10-08T00:00:00+00:00</published>
-    <updated>2023-10-08T00:00:00+00:00</updated>
+    <published>2023-10-08T11:37:55+00:00</published>
+    <updated>2023-10-08T11:37:55+00:00</updated>
     <id>https://www.youtube.com/watch?v=x2NnMQWRkuE</id>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=x2NnMQWRkuE"/>
     <author>
@@ -203,24 +214,13 @@
   </entry>
   <entry>
     <title type="html">Mercedes SL #agadir #casablanca #errachidia #marrakech #meknès #khouribga #fès #kenitra #dubai</title>
-    <published>2023-10-07T00:00:00+00:00</published>
-    <updated>2023-10-07T00:00:00+00:00</updated>
+    <published>2023-10-07T13:41:17+00:00</published>
+    <updated>2023-10-07T13:41:17+00:00</updated>
     <id>https://www.youtube.com/watch?v=8F0MohZhMIg</id>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8F0MohZhMIg"/>
     <author>
       <name>Prestigerideauto</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=8F0MohZhMIg"&gt;&lt;img src="https://img.youtube.com/vi/8F0MohZhMIg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Facel vega roi hassan 2 #agadir #casablanca #errachidia #marrakech #meknès #khouribga #fès #kenitra</title>
-    <published>2023-10-07T03:01:35+00:00</published>
-    <updated>2023-10-07T03:01:35+00:00</updated>
-    <id>https://www.youtube.com/watch?v=DkR2wUs-pBE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DkR2wUs-pBE"/>
-    <author>
-      <name>Prestigerideauto</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DkR2wUs-pBE"&gt;&lt;img src="https://img.youtube.com/vi/DkR2wUs-pBE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
