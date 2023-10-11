@@ -4,6 +4,28 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">شاركت معاكم جولة صغيرة في مدينة# خريبكة</title>
+    <published>2023-10-10T21:32:51+00:00</published>
+    <updated>2023-10-10T21:32:51+00:00</updated>
+    <id>https://www.youtube.com/watch?v=vL_xHXd9CuA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=vL_xHXd9CuA"/>
+    <author>
+      <name>lamasat rokaya لمسات روقية</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=vL_xHXd9CuA"&gt;&lt;img src="https://img.youtube.com/vi/vL_xHXd9CuA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">حديقة بمدينة خريبكة</title>
+    <published>2023-10-07T04:08:06+00:00</published>
+    <updated>2023-10-07T04:08:06+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_5ox9wXe1aA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_5ox9wXe1aA"/>
+    <author>
+      <name>Malika market</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_5ox9wXe1aA"&gt;&lt;img src="https://img.youtube.com/vi/_5ox9wXe1aA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">على الطريق السيار بين بني ملال و خريبكة.</title>
     <published>2023-10-10T00:00:00+00:00</published>
     <updated>2023-10-10T00:00:00+00:00</updated>
@@ -200,27 +222,5 @@
       <name>Zitouni الزيتوني Morjan مرجان</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=VYjfbnRx160"&gt;&lt;img src="https://img.youtube.com/vi/VYjfbnRx160/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">بطل خريبكة الخليفي ضد هشام بطل كازا</title>
-    <published>2023-10-07T00:00:00+00:00</published>
-    <updated>2023-10-07T00:00:00+00:00</updated>
-    <id>https://www.youtube.com/watch?v=1eE_bLBolYk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1eE_bLBolYk"/>
-    <author>
-      <name>JUEGO DAMAS</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1eE_bLBolYk"&gt;&lt;img src="https://img.youtube.com/vi/1eE_bLBolYk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">حديقة بمدينة خريبكة</title>
-    <published>2023-10-07T04:08:06+00:00</published>
-    <updated>2023-10-07T04:08:06+00:00</updated>
-    <id>https://www.youtube.com/watch?v=_5ox9wXe1aA</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_5ox9wXe1aA"/>
-    <author>
-      <name>Malika market</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_5ox9wXe1aA"&gt;&lt;img src="https://img.youtube.com/vi/_5ox9wXe1aA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
