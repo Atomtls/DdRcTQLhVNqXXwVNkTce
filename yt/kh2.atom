@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">khouribga morocco 2023. virtual tour Oct 2023.</title>
+    <published>2023-10-12T10:36:42+00:00</published>
+    <updated>2023-10-12T10:36:42+00:00</updated>
+    <id>https://www.youtube.com/watch?v=PwyU0PTm9nw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=PwyU0PTm9nw"/>
+    <author>
+      <name>A. Torytours</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=PwyU0PTm9nw"&gt;&lt;img src="https://img.youtube.com/vi/PwyU0PTm9nw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">#explore #khouribga#وليد رحماني</title>
     <published>2023-10-12T04:20:41+00:00</published>
     <updated>2023-10-12T04:20:41+00:00</updated>
@@ -211,16 +222,5 @@
       <name>ACHRAF AUBA</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=l52Hmlc2dLk"&gt;&lt;img src="https://img.youtube.com/vi/l52Hmlc2dLk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#surflife  #mercedesamg #mercedes #amg #asmr #morroco #ouladyoussef #khouribga #fkihbensaleh</title>
-    <published>2023-09-09T18:41:30+00:00</published>
-    <updated>2023-09-09T18:41:30+00:00</updated>
-    <id>https://www.youtube.com/watch?v=lVhibWDuL5A</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lVhibWDuL5A"/>
-    <author>
-      <name>HBIHEM JAMALEDDINE</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=lVhibWDuL5A"&gt;&lt;img src="https://img.youtube.com/vi/lVhibWDuL5A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
