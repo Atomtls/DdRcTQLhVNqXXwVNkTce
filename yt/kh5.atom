@@ -1,96 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: شوف تيفي الطلبة - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 500! (19649)</title>
-    <published>2023-10-19T02:04:57+00:00</published>
-    <updated>2023-10-19T02:04:57+00:00</updated>
-    <id>urn:sha1:da066f1340b3a3eb89168ab16bad0023e7090eb9</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=شوف+تيفي+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-            
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; Exception        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 500        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; Could not find ytInitialData        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/error.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 26        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(399): YoutubeBridge-&amp;gt;getJSONData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(237): returnServerError()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/error.php(46): returnError()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/error.php(26)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=شوف تيفي الطلبة&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2023-03-22 (git.master.212c56f)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+500&amp;body=%60%60%60%0AException%3A+Could+not+find+ytInitialData+in+lib%2Ferror.php+line+26%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28399%29%3A+YoutubeBridge-%3EgetJSONData%28%29%0Abridges%2FYoutubeBridge.php%28237%29%3A+returnServerError%28%29%0Alib%2Ferror.php%2846%29%3A+returnError%28%29%0Alib%2Ferror.php%2826%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%D8%B4%D9%88%D9%81%2B%D8%AA%D9%8A%D9%81%D9%8A%2B%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2023-03-22+%28git.master.212c56f%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">طلبة التكوين المهني طالع ليهم الدم ديال بصح بعدما زادو ليهم 6 أشهر فوق العامين ديالهم العادية</title>
+    <published>2023-10-02T11:00:44+00:00</published>
+    <updated>2023-10-02T11:00:44+00:00</updated>
+    <id>https://www.youtube.com/watch?v=HbFM5Ajnk6Y</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=HbFM5Ajnk6Y"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=HbFM5Ajnk6Y"&gt;&lt;img src="https://img.youtube.com/vi/HbFM5Ajnk6Y/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة التكوين المهني بوجدة يحتجون:بغينا الدبلومات ديالنا ولا غادي ننقاطعو عن الدراسة حتى يديرو الحل</title>
+    <published>2023-09-25T20:17:15+00:00</published>
+    <updated>2023-09-25T20:17:15+00:00</updated>
+    <id>https://www.youtube.com/watch?v=-60r2wYK_l0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-60r2wYK_l0"/>
+    <author>
+      <name>Chouf Almaraa</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-60r2wYK_l0"&gt;&lt;img src="https://img.youtube.com/vi/-60r2wYK_l0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الشيخة الطراكس دارت روينة في جماعة سوق الطلبة ورئيس الجماعة يكشف تفاصيل خطيرة ويرد على اتهامات نائبه</title>
+    <published>2023-08-31T20:10:25+00:00</published>
+    <updated>2023-08-31T20:10:25+00:00</updated>
+    <id>https://www.youtube.com/watch?v=1SwVXLAMA1I</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1SwVXLAMA1I"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1SwVXLAMA1I"&gt;&lt;img src="https://img.youtube.com/vi/1SwVXLAMA1I/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">قضية جاب الشيخة الطراكس لسوق الطلبة غاديا و كتبكر و رئيس الجماعة  اللي جابها يخرج عن صمته</title>
+    <published>2023-08-31T13:55:58+00:00</published>
+    <updated>2023-08-31T13:55:58+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Zl7H7m1hJ84</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Zl7H7m1hJ84"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Zl7H7m1hJ84"&gt;&lt;img src="https://img.youtube.com/vi/Zl7H7m1hJ84/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">روينة هادي... طلبة كيقراو في إسبانيا و عندهم الدخول المدرسي في شهر 9 و مواعيد هاد الشهر كلها عامرة</title>
+    <published>2023-07-31T09:35:39+00:00</published>
+    <updated>2023-07-31T09:35:39+00:00</updated>
+    <id>https://www.youtube.com/watch?v=xCC0DEDH7qE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=xCC0DEDH7qE"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=xCC0DEDH7qE"&gt;&lt;img src="https://img.youtube.com/vi/xCC0DEDH7qE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة القانون بكلية العلوم القانونية و الاقتصادية عين الشق كيحتجو على أحد الأساتذة و كيتاهموه بالشطط</title>
+    <published>2023-07-20T10:24:54+00:00</published>
+    <updated>2023-07-20T10:24:54+00:00</updated>
+    <id>https://www.youtube.com/watch?v=arhwY54ERS4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=arhwY54ERS4"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=arhwY54ERS4"&gt;&lt;img src="https://img.youtube.com/vi/arhwY54ERS4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة مغاربة جاو ياخذو موعد ديال الفيزا لإيطاليا يقراو وتعرضو لأكبر صدمة فحياتهم والعام غايمشي ليهم</title>
+    <published>2023-07-17T11:59:22+00:00</published>
+    <updated>2023-07-17T11:59:22+00:00</updated>
+    <id>https://www.youtube.com/watch?v=F0IjkAJA_hc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=F0IjkAJA_hc"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=F0IjkAJA_hc"&gt;&lt;img src="https://img.youtube.com/vi/F0IjkAJA_hc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">من البيضاء:الطلبة المغاربة واحلين فالفيزا الإيطالية والروينة نايضة أمام القنصلية..شوفو شنو واقع</title>
+    <published>2023-07-04T09:35:22+00:00</published>
+    <updated>2023-07-04T09:35:22+00:00</updated>
+    <id>https://www.youtube.com/watch?v=PmBuMWoFoF4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=PmBuMWoFoF4"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=PmBuMWoFoF4"&gt;&lt;img src="https://img.youtube.com/vi/PmBuMWoFoF4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">فرحة خريجات طلبة الطبخ والحلويات بمدينة اليوسفية</title>
+    <published>2023-06-21T15:15:03+00:00</published>
+    <updated>2023-06-21T15:15:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=QwSI-hj2mu0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QwSI-hj2mu0"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QwSI-hj2mu0"&gt;&lt;img src="https://img.youtube.com/vi/QwSI-hj2mu0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة مدرسة التمريض تعرضو للنصب من طرف المدرسة ووهماتهم بلي ديبلوم التكوين ديال الدولة ومعتمد</title>
+    <published>2023-06-13T02:06:40+00:00</published>
+    <updated>2023-06-13T02:06:40+00:00</updated>
+    <id>https://www.youtube.com/watch?v=gQ-aIOUnkMg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=gQ-aIOUnkMg"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=gQ-aIOUnkMg"&gt;&lt;img src="https://img.youtube.com/vi/gQ-aIOUnkMg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة من الدار البيضاء: خدعة العمر ! طلبة مدرسة التمريض تعرضو للنصب والاحتيال من طرف المدرسة</title>
+    <published>2023-06-12T13:00:17+00:00</published>
+    <updated>2023-06-12T13:00:17+00:00</updated>
+    <id>https://www.youtube.com/watch?v=CnE3wm78nUU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=CnE3wm78nUU"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=CnE3wm78nUU"&gt;&lt;img src="https://img.youtube.com/vi/CnE3wm78nUU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">واش هادشي معقول؟اتهام أستاذة بمؤسسة تعليمية عمومية بكازا بالسب في حق الطلبة</title>
+    <published>2023-05-31T09:53:40+00:00</published>
+    <updated>2023-05-31T09:53:40+00:00</updated>
+    <id>https://www.youtube.com/watch?v=dfm8l7MT_jM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=dfm8l7MT_jM"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=dfm8l7MT_jM"&gt;&lt;img src="https://img.youtube.com/vi/dfm8l7MT_jM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة كلية العلوم السملالية بمراكش يطالبون رئاسة جامعة القاضي عياض بتأجيل الإمتحانات</title>
+    <published>2023-05-20T00:40:19+00:00</published>
+    <updated>2023-05-20T00:40:19+00:00</updated>
+    <id>https://www.youtube.com/watch?v=CroEFqOrucw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=CroEFqOrucw"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=CroEFqOrucw"&gt;&lt;img src="https://img.youtube.com/vi/CroEFqOrucw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة جامعة الحسن الأول رافضين يديرو الامتحانات ودايرين وقفة احتجاجية بسبب عدم توصلهم بالاستدعاءات</title>
+    <published>2023-05-12T20:51:52+00:00</published>
+    <updated>2023-05-12T20:51:52+00:00</updated>
+    <id>https://www.youtube.com/watch?v=7N_wxe00Zjw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7N_wxe00Zjw"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=7N_wxe00Zjw"&gt;&lt;img src="https://img.youtube.com/vi/7N_wxe00Zjw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الجديدة.. تسمم أكثر من 60 طالب بالحي الجامعي: عطاونا ماكلا قديمة بزاف.. واش هادشي فراس  الميراوي؟</title>
+    <published>2023-05-12T10:56:57+00:00</published>
+    <updated>2023-05-12T10:56:57+00:00</updated>
+    <id>https://www.youtube.com/watch?v=elujT00zg5A</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=elujT00zg5A"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=elujT00zg5A"&gt;&lt;img src="https://img.youtube.com/vi/elujT00zg5A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة من الدار البيضاء:طلبة المعهد الخاص للتمريض يحتجون ويطالبون بالديبلومات ديالهم</title>
+    <published>2023-03-15T10:03:26+00:00</published>
+    <updated>2023-03-15T10:03:26+00:00</updated>
+    <id>https://www.youtube.com/watch?v=adAiXYCvfTI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=adAiXYCvfTI"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=adAiXYCvfTI"&gt;&lt;img src="https://img.youtube.com/vi/adAiXYCvfTI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">احتجاج طلبة كلية الآداب والعلوم الإنسانية عين الشق بالبيضاء بسبب تأجيل الامتحان</title>
+    <published>2022-12-28T18:14:19+00:00</published>
+    <updated>2022-12-28T18:14:19+00:00</updated>
+    <id>https://www.youtube.com/watch?v=sQURslrm-Yg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=sQURslrm-Yg"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=sQURslrm-Yg"&gt;&lt;img src="https://img.youtube.com/vi/sQURslrm-Yg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">وقفة احتجاجية لتنسيقية الطلبة المهندسين بوجدة بسبب إدماج الطلبة العائدين من أوكرانيا‎‎</title>
+    <published>2022-09-27T21:08:38+00:00</published>
+    <updated>2022-09-27T21:08:38+00:00</updated>
+    <id>https://www.youtube.com/watch?v=BQQwXczbyT8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=BQQwXczbyT8"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=BQQwXczbyT8"&gt;&lt;img src="https://img.youtube.com/vi/BQQwXczbyT8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">كواليس تخرج طلبة الفوج 24 من كلية العلوم والتقنيات بسطات</title>
+    <published>2022-07-29T09:15:13+00:00</published>
+    <updated>2022-07-29T09:15:13+00:00</updated>
+    <id>https://www.youtube.com/watch?v=xQA3raipYqU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=xQA3raipYqU"/>
+    <author>
+      <name>Chouf Almaraa</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=xQA3raipYqU"&gt;&lt;img src="https://img.youtube.com/vi/xQA3raipYqU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الزغاريدوالدقة المراكشية فكلية العلوم القانونيةوالاقتصادية عين الشق خلال حفل تخرج طلبة القانون الخاص</title>
+    <published>2022-07-26T23:44:26+00:00</published>
+    <updated>2022-07-26T23:44:26+00:00</updated>
+    <id>https://www.youtube.com/watch?v=E6AmRMeVbfs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=E6AmRMeVbfs"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=E6AmRMeVbfs"&gt;&lt;img src="https://img.youtube.com/vi/E6AmRMeVbfs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
