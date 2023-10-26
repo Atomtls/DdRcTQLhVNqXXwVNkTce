@@ -5,6 +5,17 @@
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
     <title type="html">Basketball. NBA Africa et le Groupe OCP lancent la ligue Jr NBA à Benguerir à Khouribga</title>
+    <published>2023-10-26T17:50:57+00:00</published>
+    <updated>2023-10-26T17:50:57+00:00</updated>
+    <id>https://www.youtube.com/watch?v=fzLgH7NVNOg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=fzLgH7NVNOg"/>
+    <author>
+      <name>L&amp;#39;Observateur du Maroc et d&amp;#39;Afrique</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=fzLgH7NVNOg"&gt;&lt;img src="https://img.youtube.com/vi/fzLgH7NVNOg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Basketball. NBA Africa et le Groupe OCP lancent la ligue Jr NBA à Benguerir à Khouribga</title>
     <published>2023-10-24T18:05:23+00:00</published>
     <updated>2023-10-24T18:05:23+00:00</updated>
     <id>https://www.youtube.com/watch?v=OM5uADG85cM</id>
@@ -211,16 +222,5 @@
       <name>جوّال خريبكَة - Jawal khouribga officiel</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=zoWnXOj1meU"&gt;&lt;img src="https://img.youtube.com/vi/zoWnXOj1meU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">جولة في الحي الفرنسي بمدينة خريبكة - Khouribga Village OCP</title>
-    <published>2022-02-17T18:25:41+00:00</published>
-    <updated>2022-02-17T18:25:41+00:00</updated>
-    <id>https://www.youtube.com/watch?v=_gdJi5V35vA</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_gdJi5V35vA"/>
-    <author>
-      <name>Naima Vlogs</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_gdJi5V35vA"&gt;&lt;img src="https://img.youtube.com/vi/_gdJi5V35vA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
