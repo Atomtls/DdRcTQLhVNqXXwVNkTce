@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">الندوة الصحفية لنادي اولمبيك خريبكة لكرة القدم</title>
+    <published>2023-11-03T12:06:32+00:00</published>
+    <updated>2023-11-03T12:06:32+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Ugd1eYrB3mE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ugd1eYrB3mE"/>
+    <author>
+      <name>Laknizi Achraf</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ugd1eYrB3mE"&gt;&lt;img src="https://img.youtube.com/vi/Ugd1eYrB3mE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">وقفة احتجاجية أمام نيابة بمدينة خريبكة من اجل ابنائها الله يخد الحق في لكان سباب ،،،ولادنا ضاعوا،،،😔</title>
     <published>2023-11-02T20:58:22+00:00</published>
     <updated>2023-11-02T20:58:22+00:00</updated>
@@ -211,16 +222,5 @@
       <name>يوميات أم ريان البسيطة</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=7zo24EkFPWA"&gt;&lt;img src="https://img.youtube.com/vi/7zo24EkFPWA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">تقليم الخروب والبرتقال بمنطقة خريبكة. ماذا نزيل في الزبير الأول؟</title>
-    <published>2023-10-31T16:09:12+00:00</published>
-    <updated>2023-10-31T16:09:12+00:00</updated>
-    <id>https://www.youtube.com/watch?v=U0FKugTfPPQ</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=U0FKugTfPPQ"/>
-    <author>
-      <name>عالم التقليم مع عبد الرزاق الفيلالي</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=U0FKugTfPPQ"&gt;&lt;img src="https://img.youtube.com/vi/U0FKugTfPPQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
