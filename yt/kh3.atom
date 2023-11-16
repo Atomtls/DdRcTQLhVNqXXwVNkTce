@@ -26,17 +26,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=OM5uADG85cM"&gt;&lt;img src="https://img.youtube.com/vi/OM5uADG85cM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">OCP x Jr.NBA Coaches Academy in Khouribga</title>
-    <published>2023-10-19T15:06:37+00:00</published>
-    <updated>2023-10-19T15:06:37+00:00</updated>
-    <id>https://www.youtube.com/watch?v=NQbSd9AvUAY</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NQbSd9AvUAY"/>
-    <author>
-      <name>NBA Africa</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=NQbSd9AvUAY"&gt;&lt;img src="https://img.youtube.com/vi/NQbSd9AvUAY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">Le Groupe OCP obtient un prêt de 100 millions d'euros de la SFI pour construire 2 centrales solaires</title>
     <published>2023-10-10T12:59:59+00:00</published>
     <updated>2023-10-10T12:59:59+00:00</updated>
@@ -222,5 +211,16 @@
       <name>Offre Immobilier - Khouribga</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=dgfDGGklG9M"&gt;&lt;img src="https://img.youtube.com/vi/dgfDGGklG9M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Carnaval école Ben jelloul OCP Khouribga</title>
+    <published>2022-04-09T13:00:20+00:00</published>
+    <updated>2022-04-09T13:00:20+00:00</updated>
+    <id>https://www.youtube.com/watch?v=mCfXWpMGIXg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=mCfXWpMGIXg"/>
+    <author>
+      <name>Marco live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=mCfXWpMGIXg"&gt;&lt;img src="https://img.youtube.com/vi/mCfXWpMGIXg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
