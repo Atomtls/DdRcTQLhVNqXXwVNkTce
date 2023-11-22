@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">Simo khouribga est en direct !🎤🎤🎤🎤🎤🎻🎻🎻🎻🎻</title>
+    <published>2023-11-22T19:53:47+00:00</published>
+    <updated>2023-11-22T19:53:47+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ABd3_eeXu_0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ABd3_eeXu_0"/>
+    <author>
+      <name>Simo khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ABd3_eeXu_0"&gt;&lt;img src="https://img.youtube.com/vi/ABd3_eeXu_0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">Hino do Olympique Club de Khouribga -  Marrocos</title>
     <published>2023-11-22T14:38:29+00:00</published>
     <updated>2023-11-22T14:38:29+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Saif Sghir / سيف الصغير</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=xpFE85UFgWQ"&gt;&lt;img src="https://img.youtube.com/vi/xpFE85UFgWQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">Semaine d'intégration de la nouvelle promotion 1337 Khouribga</title>
-    <published>2023-11-07T14:22:20+00:00</published>
-    <updated>2023-11-07T14:22:20+00:00</updated>
-    <id>https://www.youtube.com/watch?v=1hLD6XaLoAk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1hLD6XaLoAk"/>
-    <author>
-      <name>1337 Future Is Loading</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1hLD6XaLoAk"&gt;&lt;img src="https://img.youtube.com/vi/1hLD6XaLoAk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
