@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">il était une fois à Khouribga</title>
+    <published>2023-11-25T12:25:47+00:00</published>
+    <updated>2023-11-25T12:25:47+00:00</updated>
+    <id>https://www.youtube.com/watch?v=JfRjPAiODvQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=JfRjPAiODvQ"/>
+    <author>
+      <name>MOURAD BITIL</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=JfRjPAiODvQ"&gt;&lt;img src="https://img.youtube.com/vi/JfRjPAiODvQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">Hult Prize Khouribga UNLIMITED FPK</title>
     <published>2023-11-23T04:16:47+00:00</published>
     <updated>2023-11-23T04:16:47+00:00</updated>
@@ -48,17 +59,6 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=wS9bIoXE-NM"&gt;&lt;img src="https://img.youtube.com/vi/wS9bIoXE-NM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">#rabat #kenitra #marrakech #agadir #casablanca #fès #meknès #errachidia #khouribga #beni</title>
-    <published>2023-11-21T21:35:52+00:00</published>
-    <updated>2023-11-21T21:35:52+00:00</updated>
-    <id>https://www.youtube.com/watch?v=QZHHivEm8og</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QZHHivEm8og"/>
-    <author>
-      <name>Prestigerideauto</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QZHHivEm8og"&gt;&lt;img src="https://img.youtube.com/vi/QZHHivEm8og/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">Pigeon voyageur à Khouribga#الحمام الزاجل#في اخريبكة</title>
     <published>2023-11-21T11:35:09+00:00</published>
     <updated>2023-11-21T11:35:09+00:00</updated>
@@ -68,17 +68,6 @@
       <name>MOURAD BITIL</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=ii9Nq3Fa2PY"&gt;&lt;img src="https://img.youtube.com/vi/ii9Nq3Fa2PY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#rabat #marrakech #kenitra #agadir #casablanca #meknès #fès #errachidia #khouribga #beni</title>
-    <published>2023-11-21T00:21:15+00:00</published>
-    <updated>2023-11-21T00:21:15+00:00</updated>
-    <id>https://www.youtube.com/watch?v=1-oEP2tyfx8</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1-oEP2tyfx8"/>
-    <author>
-      <name>Prestigerideauto</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1-oEP2tyfx8"&gt;&lt;img src="https://img.youtube.com/vi/1-oEP2tyfx8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">#rabat #marrakech #agadir #casablanca #kenitra #fès #meknès #errachidia #khouribga #beni</title>
@@ -222,5 +211,16 @@
       <name>Prestigerideauto</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=wwcWkSo-Qts"&gt;&lt;img src="https://img.youtube.com/vi/wwcWkSo-Qts/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Class S #marrakech #agadir #casablanca #rabat #meknès #kenitra #fès #errachidia #khouribga #beni</title>
+    <published>2023-11-04T14:49:16+00:00</published>
+    <updated>2023-11-04T14:49:16+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_xnu8iM7J0U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_xnu8iM7J0U"/>
+    <author>
+      <name>Prestigerideauto</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_xnu8iM7J0U"&gt;&lt;img src="https://img.youtube.com/vi/_xnu8iM7J0U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
