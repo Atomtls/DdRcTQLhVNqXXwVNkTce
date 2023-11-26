@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">Khouribga Équitation اخريبكة الفروسية #</title>
+    <published>2023-11-26T00:14:32+00:00</published>
+    <updated>2023-11-26T00:14:32+00:00</updated>
+    <id>https://www.youtube.com/watch?v=dHBMTngn-pc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=dHBMTngn-pc"/>
+    <author>
+      <name>MOURAD BITIL</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=dHBMTngn-pc"&gt;&lt;img src="https://img.youtube.com/vi/dHBMTngn-pc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">il était une fois à Khouribga</title>
     <published>2023-11-25T12:25:47+00:00</published>
     <updated>2023-11-25T12:25:47+00:00</updated>
@@ -35,28 +46,6 @@
       <name>Prestigerideauto</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=CC9INndcLts"&gt;&lt;img src="https://img.youtube.com/vi/CC9INndcLts/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#rabat #marrakech #agadir #casablanca #kenitra #fès #meknès #errachidia #khouribga #beni</title>
-    <published>2023-11-21T00:19:37+00:00</published>
-    <updated>2023-11-21T00:19:37+00:00</updated>
-    <id>https://www.youtube.com/watch?v=sqaIJKo5EII</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=sqaIJKo5EII"/>
-    <author>
-      <name>Prestigerideauto</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=sqaIJKo5EII"&gt;&lt;img src="https://img.youtube.com/vi/sqaIJKo5EII/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#rabat #marrakech #agadir #casablanca #kenitra #meknès #fès #errachidia #khouribga #beni</title>
-    <published>2023-11-20T23:50:42+00:00</published>
-    <updated>2023-11-20T23:50:42+00:00</updated>
-    <id>https://www.youtube.com/watch?v=fsfJ_PKMpLk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=fsfJ_PKMpLk"/>
-    <author>
-      <name>Prestigerideauto</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=fsfJ_PKMpLk"&gt;&lt;img src="https://img.youtube.com/vi/fsfJ_PKMpLk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
     <title type="html">ONCF E-1118 assurant une rame de phosphates vers Khouribga (4k 60 FPS)</title>
@@ -222,5 +211,16 @@
       <name>Prestigerideauto</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=vGllfm7VklA"&gt;&lt;img src="https://img.youtube.com/vi/vGllfm7VklA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Sl 380 #marrakech #casablanca #agadir #meknès #errachidia #kenitra #khouribga #fès #rabat #beni</title>
+    <published>2023-10-29T05:14:32+00:00</published>
+    <updated>2023-10-29T05:14:32+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Qd4m1G-CCxo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Qd4m1G-CCxo"/>
+    <author>
+      <name>Prestigerideauto</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Qd4m1G-CCxo"&gt;&lt;img src="https://img.youtube.com/vi/Qd4m1G-CCxo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
