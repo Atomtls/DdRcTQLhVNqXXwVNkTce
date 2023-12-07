@@ -4,6 +4,28 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">abatoird khouribga 02</title>
+    <published>2023-12-07T11:22:03+00:00</published>
+    <updated>2023-12-07T11:22:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=nRULDDTDVbo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=nRULDDTDVbo"/>
+    <author>
+      <name>Isol ecologique iegm</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=nRULDDTDVbo"&gt;&lt;img src="https://img.youtube.com/vi/nRULDDTDVbo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">abatoird khouribga</title>
+    <published>2023-12-07T11:19:23+00:00</published>
+    <updated>2023-12-07T11:19:23+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ou2KBvyGg7A</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ou2KBvyGg7A"/>
+    <author>
+      <name>Isol ecologique iegm</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ou2KBvyGg7A"&gt;&lt;img src="https://img.youtube.com/vi/ou2KBvyGg7A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">Spot Festival international du film documentaire Khouribga  Maroc 2023/édition 14</title>
     <published>2023-12-06T19:45:12+00:00</published>
     <updated>2023-12-06T19:45:12+00:00</updated>
@@ -200,27 +222,5 @@
       <name>Prestigerideauto</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=fsfJ_PKMpLk"&gt;&lt;img src="https://img.youtube.com/vi/fsfJ_PKMpLk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#rabat #marrakech #agadir #casablanca #kenitra #meknès #fès #errachidia #khouribga #beni</title>
-    <published>2023-11-19T05:05:34+00:00</published>
-    <updated>2023-11-19T05:05:34+00:00</updated>
-    <id>https://www.youtube.com/watch?v=mPjeAZYBsb8</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=mPjeAZYBsb8"/>
-    <author>
-      <name>Prestigerideauto</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=mPjeAZYBsb8"&gt;&lt;img src="https://img.youtube.com/vi/mPjeAZYBsb8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#rabat #marrakech #agadir #casablanca #kenitra #meknès #fès #errachidia #khouribga #beni</title>
-    <published>2023-11-19T01:36:57+00:00</published>
-    <updated>2023-11-19T01:36:57+00:00</updated>
-    <id>https://www.youtube.com/watch?v=jx2BMEkEgTw</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jx2BMEkEgTw"/>
-    <author>
-      <name>Prestigerideauto</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=jx2BMEkEgTw"&gt;&lt;img src="https://img.youtube.com/vi/jx2BMEkEgTw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
