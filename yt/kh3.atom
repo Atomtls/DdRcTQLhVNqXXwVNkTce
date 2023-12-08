@@ -4,17 +4,6 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">OCP INSIDER - African Film Festival in Khouribga</title>
-    <published>2023-12-05T16:40:26+00:00</published>
-    <updated>2023-12-05T16:40:26+00:00</updated>
-    <id>https://www.youtube.com/watch?v=2wo8AYE1-vc</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2wo8AYE1-vc"/>
-    <author>
-      <name>Arsystems</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2wo8AYE1-vc"&gt;&lt;img src="https://img.youtube.com/vi/2wo8AYE1-vc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
     <title type="html">Basketball. NBA Africa et le Groupe OCP lancent la ligue Jr NBA à Benguerir à Khouribga</title>
     <published>2023-10-26T17:50:57+00:00</published>
     <updated>2023-10-26T17:50:57+00:00</updated>
@@ -222,5 +211,16 @@
       <name>برامو للمعلوميات</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=29gAB3oLGUU"&gt;&lt;img src="https://img.youtube.com/vi/29gAB3oLGUU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">😍 فيلا ديال بحي الفيلاج، ديال العشاقة / Villa à vendre à khouribga</title>
+    <published>2022-05-11T17:00:42+00:00</published>
+    <updated>2022-05-11T17:00:42+00:00</updated>
+    <id>https://www.youtube.com/watch?v=dgfDGGklG9M</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=dgfDGGklG9M"/>
+    <author>
+      <name>Offre Immobilier - Khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=dgfDGGklG9M"&gt;&lt;img src="https://img.youtube.com/vi/dgfDGGklG9M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
