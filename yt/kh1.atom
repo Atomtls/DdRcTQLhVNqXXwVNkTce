@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">من خريبكة إلى واديزم</title>
+    <published>2023-12-10T00:25:53+00:00</published>
+    <updated>2023-12-10T00:25:53+00:00</updated>
+    <id>https://www.youtube.com/watch?v=qV9bEyphunY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=qV9bEyphunY"/>
+    <author>
+      <name>mohammed erraqiq</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=qV9bEyphunY"&gt;&lt;img src="https://img.youtube.com/vi/qV9bEyphunY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">خيول لمفاسيس خريبكة</title>
     <published>2023-12-09T22:25:38+00:00</published>
     <updated>2023-12-09T22:25:38+00:00</updated>
@@ -59,7 +70,7 @@
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=FQGhDLBeL6w"&gt;&lt;img src="https://img.youtube.com/vi/FQGhDLBeL6w/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
   <entry>
-    <title type="html">نواحي سيدي معروف القطار القادم من خريبكة بانجاه كازا فوايجور</title>
+    <title type="html">نواحي سيدي معروف القطار القادم من خريبكة باتجاه كازا فوايجور</title>
     <published>2023-12-09T17:00:32+00:00</published>
     <updated>2023-12-09T17:00:32+00:00</updated>
     <id>https://www.youtube.com/watch?v=Z5aqBwbDNVQ</id>
@@ -211,16 +222,5 @@
       <name>جمال الحداد  Jamal Ferayour</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=qz2kn6W6T5A"&gt;&lt;img src="https://img.youtube.com/vi/qz2kn6W6T5A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">زيارتي لأول مرة لمدينة خريبكة</title>
-    <published>2023-12-07T15:35:49+00:00</published>
-    <updated>2023-12-07T15:35:49+00:00</updated>
-    <id>https://www.youtube.com/watch?v=RNAddX_6RXQ</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RNAddX_6RXQ"/>
-    <author>
-      <name>الشاعرة ابتسام قرواش</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=RNAddX_6RXQ"&gt;&lt;img src="https://img.youtube.com/vi/RNAddX_6RXQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
