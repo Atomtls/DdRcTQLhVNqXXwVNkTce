@@ -1,99 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "الشريف للفوسفاط" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 500! (19705)</title>
-    <published>2023-12-14T20:03:26+00:00</published>
-    <updated>2023-12-14T20:03:26+00:00</updated>
-    <id>urn:sha1:d073e07b59cd62977123563ac54d8416673800f5</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;الشريف+للفوسفاط&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-            
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; Exception        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 500        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; Could not find videoSecondaryInfoRenderer. Error at: bmG4A4VFWCM        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/error.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 26        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(408): YoutubeBridge-&amp;gt;parseJSONListing()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(308): YoutubeBridge-&amp;gt;ytBridgeQueryVideoInfo()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(115): returnServerError()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/error.php(46): returnError()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/error.php(26)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;الشريف للفوسفاط&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2023-03-22 (git.master.212c56f)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+500&amp;body=%60%60%60%0AException%3A+Could+not+find+videoSecondaryInfoRenderer.+Error+at%3A+bmG4A4VFWCM+in+lib%2Ferror.php+line+26%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28408%29%3A+YoutubeBridge-%3EparseJSONListing%28%29%0Abridges%2FYoutubeBridge.php%28308%29%3A+YoutubeBridge-%3EytBridgeQueryVideoInfo%28%29%0Abridges%2FYoutubeBridge.php%28115%29%3A+returnServerError%28%29%0Alib%2Ferror.php%2846%29%3A+returnError%28%29%0Alib%2Ferror.php%2826%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81%2B%D9%84%D9%84%D9%81%D9%88%D8%B3%D9%81%D8%A7%D8%B7%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2023-03-22+%28git.master.212c56f%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">قافلة صندوق التقاعد تستقبل متقاعدي المكتب الشريف للفوسفاط</title>
+    <published>2023-12-12T21:48:48+00:00</published>
+    <updated>2023-12-12T21:48:48+00:00</updated>
+    <id>https://www.youtube.com/watch?v=hlRrLh2pxRk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hlRrLh2pxRk"/>
+    <author>
+      <name>Adcr OCP Agadir</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hlRrLh2pxRk"&gt;&lt;img src="https://img.youtube.com/vi/hlRrLh2pxRk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">قافلة صندوق التقاعد تستقبل متقاعدي المكتب الشريف للفوسفاط بالجنوب</title>
+    <published>2023-12-12T17:14:46+00:00</published>
+    <updated>2023-12-12T17:14:46+00:00</updated>
+    <id>https://www.youtube.com/watch?v=SnP8wbBXFNg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=SnP8wbBXFNg"/>
+    <author>
+      <name>Anfas press</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=SnP8wbBXFNg"&gt;&lt;img src="https://img.youtube.com/vi/SnP8wbBXFNg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">سقراط علاش مكتب الشريف للفوسفاط كيعطي لخريبكة مليار و لواد زم 300 م. فقط ياك كاملين في نفس القسم</title>
+    <published>2023-11-21T20:38:29+00:00</published>
+    <updated>2023-11-21T20:38:29+00:00</updated>
+    <id>https://www.youtube.com/watch?v=3BNq8nFx-wM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3BNq8nFx-wM"/>
+    <author>
+      <name>flach 24 فلاش</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=3BNq8nFx-wM"&gt;&lt;img src="https://img.youtube.com/vi/3BNq8nFx-wM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مجمع شريف للفوسفاط</title>
+    <published>2023-11-04T18:13:56+00:00</published>
+    <updated>2023-11-04T18:13:56+00:00</updated>
+    <id>https://www.youtube.com/watch?v=I61tKXkByIE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=I61tKXkByIE"/>
+    <author>
+      <name>rafya rafya</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=I61tKXkByIE"&gt;&lt;img src="https://img.youtube.com/vi/I61tKXkByIE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Ocp مجمع شريف للفوسفاط</title>
+    <published>2023-11-04T18:09:42+00:00</published>
+    <updated>2023-11-04T18:09:42+00:00</updated>
+    <id>https://www.youtube.com/watch?v=No0UcbArU2M</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=No0UcbArU2M"/>
+    <author>
+      <name>rafya rafya</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=No0UcbArU2M"&gt;&lt;img src="https://img.youtube.com/vi/No0UcbArU2M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">موضوع للنقاش: "كوماطام" واحتكار الخدمات البحرية للسفن المتعاملة مع المكتب الشريف للفوسفاط</title>
+    <published>2023-10-23T07:54:43+00:00</published>
+    <updated>2023-10-23T07:54:43+00:00</updated>
+    <id>https://www.youtube.com/watch?v=GK1bVklepAM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=GK1bVklepAM"/>
+    <author>
+      <name>el jadida presse الجديدة بريس</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=GK1bVklepAM"&gt;&lt;img src="https://img.youtube.com/vi/GK1bVklepAM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">المكتب الشريف للفوسفاط والرابطة الإفريقية  لكرة السلة يختتمان جولة استهدفت ترسيخ ثقافة اللعبة</title>
+    <published>2023-10-19T11:27:54+00:00</published>
+    <updated>2023-10-19T11:27:54+00:00</updated>
+    <id>https://www.youtube.com/watch?v=4FFnTZUR0-U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=4FFnTZUR0-U"/>
+    <author>
+      <name>Télé Maroc News</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=4FFnTZUR0-U"&gt;&lt;img src="https://img.youtube.com/vi/4FFnTZUR0-U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">بن جرير.. المجمع الشريف للفوسفاط و"إن بي إي جونيور " يطلقان برنامجا لتطوير كرة السلة لفائدة الشباب</title>
+    <published>2023-10-15T17:41:06+00:00</published>
+    <updated>2023-10-15T17:41:06+00:00</updated>
+    <id>https://www.youtube.com/watch?v=JtBU-6RzwiA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=JtBU-6RzwiA"/>
+    <author>
+      <name>M24TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=JtBU-6RzwiA"&gt;&lt;img src="https://img.youtube.com/vi/JtBU-6RzwiA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">المكتب الشريف للفوسفاط : عملاق الأسمدة المغربي و دوره الفعال في النمو الإقتصادي للقارة الإفريقية</title>
+    <published>2023-10-01T19:35:19+00:00</published>
+    <updated>2023-10-01T19:35:19+00:00</updated>
+    <id>https://www.youtube.com/watch?v=yot1z596138</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=yot1z596138"/>
+    <author>
+      <name>Maghreb News TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=yot1z596138"&gt;&lt;img src="https://img.youtube.com/vi/yot1z596138/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">🔷مداخلتي بخصوص ملف أبناء متقاعدي المكتب الشريف للفوسفاط</title>
+    <published>2023-09-24T18:36:11+00:00</published>
+    <updated>2023-09-24T18:36:11+00:00</updated>
+    <id>https://www.youtube.com/watch?v=DyNW0xCeps4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DyNW0xCeps4"/>
+    <author>
+      <name>Mohammed Amine Elasri - محمد أمين العسري</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DyNW0xCeps4"&gt;&lt;img src="https://img.youtube.com/vi/DyNW0xCeps4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">المكتب الشريف للفوسفاط مزال كيقدم المساعدات للمتضررين من الزلزال وداير ليهم مراحض خاصة فالمنطقة</title>
+    <published>2023-09-19T17:44:11+00:00</published>
+    <updated>2023-09-19T17:44:11+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Cj44MVdYkxs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Cj44MVdYkxs"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Cj44MVdYkxs"&gt;&lt;img src="https://img.youtube.com/vi/Cj44MVdYkxs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">المكتب الشريف للفوسفاط يتبرع بمليار درهم...</title>
+    <published>2023-09-16T12:57:02+00:00</published>
+    <updated>2023-09-16T12:57:02+00:00</updated>
+    <id>https://www.youtube.com/watch?v=BjGsK-9ShaA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=BjGsK-9ShaA"/>
+    <author>
+      <name>La_ Journaliste</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=BjGsK-9ShaA"&gt;&lt;img src="https://img.youtube.com/vi/BjGsK-9ShaA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">المكتب الشريف للفوسفاط الجرف الاصفر "الجديدة" يساهم في عملية إسعاف ضحايا زلزال بفرفة خاصة في الانقاد</title>
+    <published>2023-09-14T19:00:15+00:00</published>
+    <updated>2023-09-14T19:00:15+00:00</updated>
+    <id>https://www.youtube.com/watch?v=XwM_LuENmqI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=XwM_LuENmqI"/>
+    <author>
+      <name>Elhadat24 - الحدث24</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=XwM_LuENmqI"&gt;&lt;img src="https://img.youtube.com/vi/XwM_LuENmqI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خدمات المكتب الشريف للفوسفاط في الدواوير المتضررة</title>
+    <published>2023-09-12T13:35:15+00:00</published>
+    <updated>2023-09-12T13:35:15+00:00</updated>
+    <id>https://www.youtube.com/watch?v=AOluOLpe3UE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AOluOLpe3UE"/>
+    <author>
+      <name>Medi1</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=AOluOLpe3UE"&gt;&lt;img src="https://img.youtube.com/vi/AOluOLpe3UE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أجواء رائعة في سهرة المجمع الشريف للفوسفاط بالصويرة القديمة بمدينة أسفي والجمهور ناشط</title>
+    <published>2023-08-23T14:53:33+00:00</published>
+    <updated>2023-08-23T14:53:33+00:00</updated>
+    <id>https://www.youtube.com/watch?v=tq4FMDPkI80</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=tq4FMDPkI80"/>
+    <author>
+      <name>Chouf Almaraa</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=tq4FMDPkI80"&gt;&lt;img src="https://img.youtube.com/vi/tq4FMDPkI80/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">بدعم من المكتب الشريف للفوسفاط وبتعاون مع المجلس الجماعي لوادي زم جمعية AMEJ تفتتح kermesse ببحيرة..</title>
+    <published>2023-08-21T14:12:57+00:00</published>
+    <updated>2023-08-21T14:12:57+00:00</updated>
+    <id>https://www.youtube.com/watch?v=LApvw1hfzTw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=LApvw1hfzTw"/>
+    <author>
+      <name>VARPRESSE TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=LApvw1hfzTw"&gt;&lt;img src="https://img.youtube.com/vi/LApvw1hfzTw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">سهرة الختام في المخيم الصيفي للمكتب الشريف للفوسفاط بشراكة مع الجامعة الوطنية للتخييم#2023  #essaoui</title>
+    <published>2023-07-17T00:14:03+00:00</published>
+    <updated>2023-07-17T00:14:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zv-nScZxk4Q</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zv-nScZxk4Q"/>
+    <author>
+      <name>Chinaz Conseils</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zv-nScZxk4Q"&gt;&lt;img src="https://img.youtube.com/vi/zv-nScZxk4Q/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">متقاعدي الفوسفاط في وقفة سلمية للمطالبة بإدماج أطفالهم في مؤسسات المجمع الشريف للفوسفاط بابن جرير</title>
+    <published>2023-07-11T14:57:25+00:00</published>
+    <updated>2023-07-11T14:57:25+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zrR1kyEBoIE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zrR1kyEBoIE"/>
+    <author>
+      <name>Mamlakatona - مملكتنا</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zrR1kyEBoIE"&gt;&lt;img src="https://img.youtube.com/vi/zrR1kyEBoIE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">المكتب الشريف للفوسفاط ينظم اول مرة مخيم اطفال مدينة اليوسفيةجميعا</title>
+    <published>2023-07-09T22:37:11+00:00</published>
+    <updated>2023-07-09T22:37:11+00:00</updated>
+    <id>https://www.youtube.com/watch?v=VYQbXbtDI0s</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=VYQbXbtDI0s"/>
+    <author>
+      <name>يوميات ام عائشةoum aicha</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=VYQbXbtDI0s"&gt;&lt;img src="https://img.youtube.com/vi/VYQbXbtDI0s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الحكومة  والمكتب الشريف للفوسفاط ومخطط تحلية ماء البحر</title>
+    <published>2023-07-09T21:51:08+00:00</published>
+    <updated>2023-07-09T21:51:08+00:00</updated>
+    <id>https://www.youtube.com/watch?v=nHfhV00TSD4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=nHfhV00TSD4"/>
+    <author>
+      <name>Univers Bounaceur فضاء الحوار منتدى الأبداع</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=nHfhV00TSD4"&gt;&lt;img src="https://img.youtube.com/vi/nHfhV00TSD4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
