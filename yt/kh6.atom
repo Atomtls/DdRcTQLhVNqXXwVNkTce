@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">أخنوش يتفاعل مع طلبة الـENSA.. ويؤكد على أهمية الشراكة بين القطاعين العام والخاص لتحقيق التنمية</title>
+    <published>2023-12-15T19:25:37+00:00</published>
+    <updated>2023-12-15T19:25:37+00:00</updated>
+    <id>https://www.youtube.com/watch?v=VEC8DBq3rXs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=VEC8DBq3rXs"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=VEC8DBq3rXs"&gt;&lt;img src="https://img.youtube.com/vi/VEC8DBq3rXs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">تمكن الطلبة من الولوج للمتاحف.. توقيع شراكة بين المؤسسة الوطنية للمتاحف وزارة التعليم العالي</title>
     <published>2023-12-14T11:27:20+00:00</published>
     <updated>2023-12-14T11:27:20+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Hespress</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=X9xyKTi_5dI"&gt;&lt;img src="https://img.youtube.com/vi/X9xyKTi_5dI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">الصحراء المغربية وتمويل "البراق" ومواجهة الجفاف وعودة الطلبة.. السفير الصيني في حوار حصري مع هسبريس</title>
-    <published>2022-08-21T09:43:35+00:00</published>
-    <updated>2022-08-21T09:43:35+00:00</updated>
-    <id>https://www.youtube.com/watch?v=-12jhOjr4Ac</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-12jhOjr4Ac"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-12jhOjr4Ac"&gt;&lt;img src="https://img.youtube.com/vi/-12jhOjr4Ac/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
