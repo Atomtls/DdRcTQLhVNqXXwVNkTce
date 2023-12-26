@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">قناة الزيتونيzitouniمرجان Morjan 🎬🔥كانت في مدينة خريبكة عند بوشيعب شارع محمد سادس🇲🇦🔥</title>
+    <published>2023-12-25T14:06:03+00:00</published>
+    <updated>2023-12-25T14:06:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zsm6BsIhz6s</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zsm6BsIhz6s"/>
+    <author>
+      <name>Zitouni الزيتوني Morjan مرجان</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zsm6BsIhz6s"&gt;&lt;img src="https://img.youtube.com/vi/zsm6BsIhz6s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">#فيلم قصير بعنوان "الحكرة" #خريبكة</title>
     <published>2023-12-25T10:07:37+00:00</published>
     <updated>2023-12-25T10:07:37+00:00</updated>
@@ -211,16 +222,5 @@
       <name>فنون تمزيغت سوس 🇲🇦</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ihz1SW4WFr0"&gt;&lt;img src="https://img.youtube.com/vi/Ihz1SW4WFr0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">RSS 2-1 OCK | النهضة الرياضية السطاتية 2-1 أولمبيك خريبكة</title>
-    <published>2023-12-22T19:50:22+00:00</published>
-    <updated>2023-12-22T19:50:22+00:00</updated>
-    <id>https://www.youtube.com/watch?v=GnQLajqQxv4</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=GnQLajqQxv4"/>
-    <author>
-      <name>Renaissance Sportive de Settat</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=GnQLajqQxv4"&gt;&lt;img src="https://img.youtube.com/vi/GnQLajqQxv4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
