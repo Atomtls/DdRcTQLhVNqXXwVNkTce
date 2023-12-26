@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">مشاركة سكان مدينة خريبكة في مسيرة تضامنية مع الأقصى</title>
+    <published>2023-12-26T06:47:46+00:00</published>
+    <updated>2023-12-26T06:47:46+00:00</updated>
+    <id>https://www.youtube.com/watch?v=vQfiSKIKo3c</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=vQfiSKIKo3c"/>
+    <author>
+      <name>كن فاعلا و متفعلا</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=vQfiSKIKo3c"&gt;&lt;img src="https://img.youtube.com/vi/vQfiSKIKo3c/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">قناة الزيتونيzitouniمرجان Morjan 🎬🔥كانت في مدينة خريبكة عند بوشيعب شارع محمد سادس🇲🇦🔥</title>
     <published>2023-12-25T14:06:03+00:00</published>
     <updated>2023-12-25T14:06:03+00:00</updated>
@@ -211,16 +222,5 @@
       <name>mhamed belhaimer محمد بلحيمر</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=BF_z6N3TRfE"&gt;&lt;img src="https://img.youtube.com/vi/BF_z6N3TRfE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">جولة في السوق الأسبوعي خريبكة سوق الأحد</title>
-    <published>2023-12-23T05:41:20+00:00</published>
-    <updated>2023-12-23T05:41:20+00:00</updated>
-    <id>https://www.youtube.com/watch?v=Ihz1SW4WFr0</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ihz1SW4WFr0"/>
-    <author>
-      <name>فنون تمزيغت سوس 🇲🇦</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ihz1SW4WFr0"&gt;&lt;img src="https://img.youtube.com/vi/Ihz1SW4WFr0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
