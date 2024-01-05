@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">طارق البخاري خريبكة ههه</title>
+    <published>2024-01-05T10:50:58+00:00</published>
+    <updated>2024-01-05T10:50:58+00:00</updated>
+    <id>https://www.youtube.com/watch?v=xlb-tGVT_Fg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=xlb-tGVT_Fg"/>
+    <author>
+      <name>تاريخ المغرب 🇲🇦</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=xlb-tGVT_Fg"&gt;&lt;img src="https://img.youtube.com/vi/xlb-tGVT_Fg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">مباشرة من خريبكة.جولة ليلية بالمدينة.دردشة مع الأحباب.منين كتابعو المباشر.</title>
     <published>2024-01-04T23:09:15+00:00</published>
     <updated>2024-01-04T23:09:15+00:00</updated>
@@ -211,16 +222,5 @@
       <name>FANKOUCH  قصص بوليسية مع الفنكوش</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=aVk_tvuGmkM"&gt;&lt;img src="https://img.youtube.com/vi/aVk_tvuGmkM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">عايشة حضري من مدينة خريبكة و هادي الوصفة شوربة شوفان لي ربحات بيها</title>
-    <published>2024-01-03T10:46:53+00:00</published>
-    <updated>2024-01-03T10:46:53+00:00</updated>
-    <id>https://www.youtube.com/watch?v=DwvXbpb58hs</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DwvXbpb58hs"/>
-    <author>
-      <name>Radio Chada FM</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DwvXbpb58hs"&gt;&lt;img src="https://img.youtube.com/vi/DwvXbpb58hs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
