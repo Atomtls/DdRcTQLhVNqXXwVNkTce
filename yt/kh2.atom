@@ -1,101 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <icon>https://github.com/favicon.ico</icon>
-  <logo>https://github.com/favicon.ico</logo>
+  <title type="text">Search: "khouribga" -"خريبكة" - YouTube</title>
+  <icon>https://www.youtube.com//favicon.ico</icon>
+  <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
-    <title type="html">Bridge returned error 0! (19731)</title>
-    <published>2024-01-09T17:02:07+00:00</published>
-    <updated>2024-01-09T17:02:07+00:00</updated>
-    <id>urn:sha1:43ef8fe70b0373132d3c8980d6727b5ec41f63f8</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;khouribga&quot;+-&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Failed to connect to www.youtube.com port 443: No route to host: 7 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22khouribga%22+-%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/contents.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 307        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(7): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(15): RssBridge-&amp;gt;run()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 lib/RssBridge.php(92): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(133): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(397): YoutubeBridge-&amp;gt;ytGetSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(222): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 lib/contents.php(367): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(147): _http_request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(307)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;khouribga&amp;quot; -&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; dev.2023-03-22 (git.master.212c56f)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.0.27    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Failed+to+connect+to+www.youtube.com+port+443%3A+No+route+to+host%3A+7+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522khouribga%2522%2B-%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26sp%3DCAI%25253D+in+lib%2Fcontents.php+line+307%0A%0Aindex.php%287%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%2815%29%3A+RssBridge-%3Erun%28%29%0Alib%2FRssBridge.php%2892%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%28133%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%28397%29%3A+YoutubeBridge-%3EytGetSimpleHTMLDOM%28%29%0Abridges%2FYoutubeBridge.php%28222%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28367%29%3A+getContents%28%29%0Alib%2Fcontents.php%28147%29%3A+_http_request%28%29%0Alib%2Fcontents.php%28307%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22khouribga%22%2B-%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+dev.2023-03-22+%28git.master.212c56f%29%0AOs%3A+Linux%0APHP+version%3A+8.0.27%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=em92" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    em92&lt;/p&gt;</content>
+    <title type="html">مشكلة ستة و تسعة #khouribga #pestcontrol #cafard #desinfection #insects #maroc</title>
+    <published>2024-01-09T14:23:45+00:00</published>
+    <updated>2024-01-09T14:23:45+00:00</updated>
+    <id>https://www.youtube.com/watch?v=KJ838TJ-DQ8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KJ838TJ-DQ8"/>
+    <author>
+      <name>Voice Of Natural Services</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=KJ838TJ-DQ8"&gt;&lt;img src="https://img.youtube.com/vi/KJ838TJ-DQ8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">best clan #freefireshorts #khouribga #morocco #newclan</title>
+    <published>2024-01-09T11:44:49+00:00</published>
+    <updated>2024-01-09T11:44:49+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9S7K0VX7h1s</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9S7K0VX7h1s"/>
+    <author>
+      <name>DEMON GANG</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9S7K0VX7h1s"&gt;&lt;img src="https://img.youtube.com/vi/9S7K0VX7h1s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#italy #travel #benimellal #casablanca #imarat #khouribga#france #bouznika</title>
+    <published>2024-01-07T10:49:46+00:00</published>
+    <updated>2024-01-07T10:49:46+00:00</updated>
+    <id>https://www.youtube.com/watch?v=RAp5nxDVrts</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RAp5nxDVrts"/>
+    <author>
+      <name>dardarak25</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=RAp5nxDVrts"&gt;&lt;img src="https://img.youtube.com/vi/RAp5nxDVrts/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Khouribga, Maroc, 03 janvier 2024</title>
+    <published>2024-01-07T10:17:54+00:00</published>
+    <updated>2024-01-07T10:17:54+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Y0GIYvl6oxc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Y0GIYvl6oxc"/>
+    <author>
+      <name>Jm Lathuilliere</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Y0GIYvl6oxc"&gt;&lt;img src="https://img.youtube.com/vi/Y0GIYvl6oxc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">secousse sismique  #Khouribga#هزة ارتجاجية# Maroc #Algerie#Egypte#france#Irak#</title>
+    <published>2024-01-02T10:01:51+00:00</published>
+    <updated>2024-01-02T10:01:51+00:00</updated>
+    <id>https://www.youtube.com/watch?v=7CUamPdzbGw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7CUamPdzbGw"/>
+    <author>
+      <name>MOURAD BITIL</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=7CUamPdzbGw"&gt;&lt;img src="https://img.youtube.com/vi/7CUamPdzbGw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#khouribga #casablanca #morocco #qatar #rabat #reels #religion #missyou</title>
+    <published>2024-01-01T23:11:43+00:00</published>
+    <updated>2024-01-01T23:11:43+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Za8dMaQO3Wk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Za8dMaQO3Wk"/>
+    <author>
+      <name>اواني نزار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Za8dMaQO3Wk"&gt;&lt;img src="https://img.youtube.com/vi/Za8dMaQO3Wk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">best clan #freefireshorts #newclan #morocco #khouribga</title>
+    <published>2024-01-01T13:45:32+00:00</published>
+    <updated>2024-01-01T13:45:32+00:00</updated>
+    <id>https://www.youtube.com/watch?v=uUZsqjZ_ggk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uUZsqjZ_ggk"/>
+    <author>
+      <name>DEMON GANG</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=uUZsqjZ_ggk"&gt;&lt;img src="https://img.youtube.com/vi/uUZsqjZ_ggk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Khouribga is considered the most important phosphate production area in the world.</title>
+    <published>2024-01-01T10:54:00+00:00</published>
+    <updated>2024-01-01T10:54:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=NbzBasC2mgI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NbzBasC2mgI"/>
+    <author>
+      <name>🛫Live from the Cockpit🛬</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=NbzBasC2mgI"&gt;&lt;img src="https://img.youtube.com/vi/NbzBasC2mgI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">café RaQi khouribga</title>
+    <published>2023-12-30T18:13:10+00:00</published>
+    <updated>2023-12-30T18:13:10+00:00</updated>
+    <id>https://www.youtube.com/watch?v=tdneGoVYZFg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=tdneGoVYZFg"/>
+    <author>
+      <name>Café RaQi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=tdneGoVYZFg"&gt;&lt;img src="https://img.youtube.com/vi/tdneGoVYZFg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">khouribga city 💥 #morocco #المغرب #طبيعة #nature #khouribga #ock #shorts #tiktok #youtubeshorts #fyp</title>
+    <published>2023-12-29T16:57:46+00:00</published>
+    <updated>2023-12-29T16:57:46+00:00</updated>
+    <id>https://www.youtube.com/watch?v=NYzlsficbj4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NYzlsficbj4"/>
+    <author>
+      <name>Recettes RaCha عالم رشا</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=NYzlsficbj4"&gt;&lt;img src="https://img.youtube.com/vi/NYzlsficbj4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#casablanca #khouribga #morocco #rabat #qatar #reels #religion #missyou</title>
+    <published>2023-12-28T15:14:04+00:00</published>
+    <updated>2023-12-28T15:14:04+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2001UK0yIew</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2001UK0yIew"/>
+    <author>
+      <name>اواني نزار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2001UK0yIew"&gt;&lt;img src="https://img.youtube.com/vi/2001UK0yIew/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#casablanca #khouribga #morocco #qatar #rabat #reels #religion #missyou</title>
+    <published>2023-12-27T17:46:25+00:00</published>
+    <updated>2023-12-27T17:46:25+00:00</updated>
+    <id>https://www.youtube.com/watch?v=FSZ9TjGbCRI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=FSZ9TjGbCRI"/>
+    <author>
+      <name>اواني نزار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=FSZ9TjGbCRI"&gt;&lt;img src="https://img.youtube.com/vi/FSZ9TjGbCRI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ها علاش تنقولو زبائن ديالنا يسدوا شقاق #cafard #desinfection #pestcontrol #khouribga #insects</title>
+    <published>2023-12-26T20:05:15+00:00</published>
+    <updated>2023-12-26T20:05:15+00:00</updated>
+    <id>https://www.youtube.com/watch?v=T9ujQzFLLe8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=T9ujQzFLLe8"/>
+    <author>
+      <name>Voice Of Natural Services</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=T9ujQzFLLe8"&gt;&lt;img src="https://img.youtube.com/vi/T9ujQzFLLe8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#reels #fyp #morocco #casablanca #rabat #qatar #religion #khouribga</title>
+    <published>2023-12-26T01:38:39+00:00</published>
+    <updated>2023-12-26T01:38:39+00:00</updated>
+    <id>https://www.youtube.com/watch?v=joY1GeYk2F0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=joY1GeYk2F0"/>
+    <author>
+      <name>اواني نزار</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=joY1GeYk2F0"&gt;&lt;img src="https://img.youtube.com/vi/joY1GeYk2F0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خلي لينا تعليق فيه قصتك مع سراق الزيت #cafard #khouribga #insects #ipm</title>
+    <published>2023-12-25T15:23:39+00:00</published>
+    <updated>2023-12-25T15:23:39+00:00</updated>
+    <id>https://www.youtube.com/watch?v=FX8ocJoLcFQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=FX8ocJoLcFQ"/>
+    <author>
+      <name>Voice Of Natural Services</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=FX8ocJoLcFQ"&gt;&lt;img src="https://img.youtube.com/vi/FX8ocJoLcFQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">complexe touristique à Khouribga</title>
+    <published>2023-12-25T08:45:13+00:00</published>
+    <updated>2023-12-25T08:45:13+00:00</updated>
+    <id>https://www.youtube.com/watch?v=bz5BHgcTPdc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bz5BHgcTPdc"/>
+    <author>
+      <name>hicham bennis</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=bz5BHgcTPdc"&gt;&lt;img src="https://img.youtube.com/vi/bz5BHgcTPdc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Édition 14#Film Documentaire #khouribga</title>
+    <published>2023-12-23T14:47:44+00:00</published>
+    <updated>2023-12-23T14:47:44+00:00</updated>
+    <id>https://www.youtube.com/watch?v=okI-y3PBKYs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=okI-y3PBKYs"/>
+    <author>
+      <name>MOURAD BITIL</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=okI-y3PBKYs"&gt;&lt;img src="https://img.youtube.com/vi/okI-y3PBKYs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#chaabi_music_maroc #cover #funny #khouribga ميمون الوجدي</title>
+    <published>2023-12-20T05:17:44+00:00</published>
+    <updated>2023-12-20T05:17:44+00:00</updated>
+    <id>https://www.youtube.com/watch?v=XjJpBe7QB_E</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=XjJpBe7QB_E"/>
+    <author>
+      <name>Adil musique Chaabi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=XjJpBe7QB_E"&gt;&lt;img src="https://img.youtube.com/vi/XjJpBe7QB_E/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#music #khouribga</title>
+    <published>2023-12-16T09:14:26+00:00</published>
+    <updated>2023-12-16T09:14:26+00:00</updated>
+    <id>https://www.youtube.com/watch?v=sCzVlLIa5JI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=sCzVlLIa5JI"/>
+    <author>
+      <name>Abdelhadi El Machbouh عبدالهادي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=sCzVlLIa5JI"&gt;&lt;img src="https://img.youtube.com/vi/sCzVlLIa5JI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#chaabi_music_maroc #khouribga #cover #viralvideos</title>
+    <published>2023-12-15T01:55:50+00:00</published>
+    <updated>2023-12-15T01:55:50+00:00</updated>
+    <id>https://www.youtube.com/watch?v=OlXcNANGi-U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OlXcNANGi-U"/>
+    <author>
+      <name>Adil musique Chaabi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=OlXcNANGi-U"&gt;&lt;img src="https://img.youtube.com/vi/OlXcNANGi-U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
