@@ -4,6 +4,17 @@
   <icon>https://www.youtube.com//favicon.ico</icon>
   <logo>https://www.youtube.com//favicon.ico</logo>
   <entry>
+    <title type="html">هكذا يجتاز الطلبة  المكفوفين الامتحانات الجامعية بكلية العلوم القانونية والاقتصادية السويسي</title>
+    <published>2024-01-13T11:49:28+00:00</published>
+    <updated>2024-01-13T11:49:28+00:00</updated>
+    <id>https://www.youtube.com/watch?v=PacLphJiMmU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=PacLphJiMmU"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=PacLphJiMmU"&gt;&lt;img src="https://img.youtube.com/vi/PacLphJiMmU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">ضعف التأطير والاكتظاظ يُبقيان مقاطعة طلبة الطب والصيدلة للامتحانات</title>
     <published>2024-01-08T14:28:30+00:00</published>
     <updated>2024-01-08T14:28:30+00:00</updated>
@@ -211,16 +222,5 @@
       <name>Hespress</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=LOnqIM6jbOU"&gt;&lt;img src="https://img.youtube.com/vi/LOnqIM6jbOU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">رفضا لإدماج طلبة أوكرانيا .. الطلبة المهندسين يحتجون أمام البرلمان</title>
-    <published>2022-10-01T14:54:44+00:00</published>
-    <updated>2022-10-01T14:54:44+00:00</updated>
-    <id>https://www.youtube.com/watch?v=zhqAbtUPMQU</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zhqAbtUPMQU"/>
-    <author>
-      <name>Hespress</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zhqAbtUPMQU"&gt;&lt;img src="https://img.youtube.com/vi/zhqAbtUPMQU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
