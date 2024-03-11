@@ -4,6 +4,17 @@
   <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
   <icon>https://www.youtube.com/favicon.ico</icon>
   <entry>
+    <title type="html">عبد الواحد فاطن ورشيد الخريبكي نزاهة مع الفنانة بمدينة خريبكة وتحية لجمعية ورديغة للفنون الشعبية</title>
+    <published>2024-03-11T19:19:27+00:00</published>
+    <updated>2024-03-11T19:19:27+00:00</updated>
+    <id>https://www.youtube.com/watch?v=-zt7v1kJBQM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-zt7v1kJBQM"/>
+    <author>
+      <name>Rachid elkhouribguii رشيد الخريبكي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-zt7v1kJBQM"&gt;&lt;img src="https://img.youtube.com/vi/-zt7v1kJBQM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">جولة رائع من السوق النمودجي الى حي الزيتونة في مدينة خريبكة اجواء ممطرة روووعه ❤️🌹❤️❤️🌧️☁️🌚</title>
     <published>2024-03-10T23:31:01+00:00</published>
     <updated>2024-03-10T23:31:01+00:00</updated>
@@ -294,16 +305,5 @@ Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;c
       <name>HANINE ABDELHADI</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=LV5X3uh47qM"&gt;&lt;img src="https://img.youtube.com/vi/LV5X3uh47qM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">البطولة الوطنية للكراطي في التقنيه مدينة خريبكة زياد العكاد 03.03.2024</title>
-    <published>2024-03-09T00:34:20+00:00</published>
-    <updated>2024-03-09T00:34:20+00:00</updated>
-    <id>https://www.youtube.com/watch?v=kQjsi0VoIIQ</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=kQjsi0VoIIQ"/>
-    <author>
-      <name>مدرب جمعية ألاسود للكرطي</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=kQjsi0VoIIQ"&gt;&lt;img src="https://img.youtube.com/vi/kQjsi0VoIIQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
