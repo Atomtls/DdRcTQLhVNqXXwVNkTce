@@ -1,236 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">Search: "خريبكة" - YouTube</title>
-  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-  <icon>https://www.youtube.com/favicon.ico</icon>
-  <entry>
-    <title type="html">موعظة الأستاذ :أحمد لقليعي  :  ان يشكر فلا يكفر.بمسجد الامام مسلم خريبكة</title>
-    <published>2024-04-06T22:36:25+00:00</published>
-    <updated>2024-04-06T22:36:25+00:00</updated>
-    <id>https://www.youtube.com/watch?v=A9KTuZJ58fI</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=A9KTuZJ58fI"/>
-    <author>
-      <name>mosque imam moslim</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=A9KTuZJ58fI"&gt;&lt;img src="https://img.youtube.com/vi/A9KTuZJ58fI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">صلاة التراويح للقارئ هشام الزبيدي .بمسجد الامام مسلم خريبكة</title>
-    <published>2024-04-06T21:02:33+00:00</published>
-    <updated>2024-04-06T21:02:33+00:00</updated>
-    <id>https://www.youtube.com/watch?v=pQQ-HurimUY</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=pQQ-HurimUY"/>
-    <author>
-      <name>mosque imam moslim</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=pQQ-HurimUY"&gt;&lt;img src="https://img.youtube.com/vi/pQQ-HurimUY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">ختم القرءان الكريم ذ/خليل مراد مسجد الخلفاء الراشدين خريبكة</title>
-    <published>2024-04-07T07:45:20+00:00</published>
-    <updated>2024-04-07T07:45:20+00:00</updated>
-    <id>https://www.youtube.com/watch?v=Zxy5OKSYcAE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Zxy5OKSYcAE"/>
-    <author>
-      <name>القناة الرسمية للأستاذ خليل مراد</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Zxy5OKSYcAE"&gt;&lt;img src="https://img.youtube.com/vi/Zxy5OKSYcAE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">عونيات #خريبكة #ولاد_علي #الشيخات #قصارة #خر #وادزم #شعبي #عبدالله #شيخ #سعيد</title>
-    <published>2024-04-07T06:54:30+00:00</published>
-    <updated>2024-04-07T06:54:30+00:00</updated>
-    <id>https://www.youtube.com/watch?v=Qgm7FBLvkv4</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Qgm7FBLvkv4"/>
-    <author>
-      <name>الشيخات و العيطة المغربية</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Qgm7FBLvkv4"&gt;&lt;img src="https://img.youtube.com/vi/Qgm7FBLvkv4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">صلاة العشاعلي الثمري .بمسجد الامام مسلم خريبكة</title>
-    <published>2024-04-07T03:52:07+00:00</published>
-    <updated>2024-04-07T03:52:07+00:00</updated>
-    <id>https://www.youtube.com/watch?v=j6A4q3cVte4</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=j6A4q3cVte4"/>
-    <author>
-      <name>mosque imam moslim</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=j6A4q3cVte4"&gt;&lt;img src="https://img.youtube.com/vi/j6A4q3cVte4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">صلاة القيام مع الدعاء للقارئ هشام الزبيدي .بمسجد الامام مسلم خريبكة</title>
-    <published>2024-04-07T03:50:38+00:00</published>
-    <updated>2024-04-07T03:50:38+00:00</updated>
-    <id>https://www.youtube.com/watch?v=c4NDO9Lm_BQ</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=c4NDO9Lm_BQ"/>
-    <author>
-      <name>mosque imam moslim</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=c4NDO9Lm_BQ"&gt;&lt;img src="https://img.youtube.com/vi/c4NDO9Lm_BQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">شباب علم طنجة مع شباب خريبكة</title>
-    <published>2024-04-07T03:21:10+00:00</published>
-    <updated>2024-04-07T03:21:10+00:00</updated>
-    <id>https://www.youtube.com/watch?v=5uVJVCoiRHo</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5uVJVCoiRHo"/>
-    <author>
-      <name>coach aziz</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5uVJVCoiRHo"&gt;&lt;img src="https://img.youtube.com/vi/5uVJVCoiRHo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">صلاة القيام لمؤذن المسجد : علي الثمري .بمسجد الامام مسلم خريبكة</title>
-    <published>2024-04-07T01:19:28+00:00</published>
-    <updated>2024-04-07T01:19:28+00:00</updated>
-    <id>https://www.youtube.com/watch?v=O4rK67oMjWU</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=O4rK67oMjWU"/>
-    <author>
-      <name>mosque imam moslim</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=O4rK67oMjWU"&gt;&lt;img src="https://img.youtube.com/vi/O4rK67oMjWU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">BOULANOUAR KHOURIBGA بولنوار خريبكة</title>
-    <published>2024-04-07T00:37:10+00:00</published>
-    <updated>2024-04-07T00:37:10+00:00</updated>
-    <id>https://www.youtube.com/watch?v=ThDXpzxg2z8</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ThDXpzxg2z8"/>
-    <author>
-      <name>Hamada Jabbar</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ThDXpzxg2z8"&gt;&lt;img src="https://img.youtube.com/vi/ThDXpzxg2z8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;قرية بولنوار الطريق الوطنية رقم 11</content>
-  </entry>
-  <entry>
-    <title type="html">ملخص مباراة أولمبيك خريبكة ضد اتحاد تواركة 2-2🔥 ock vs touarga 🔥 مباراة مجنونة  🔥</title>
-    <published>2024-04-06T23:32:12+00:00</published>
-    <updated>2024-04-06T23:32:12+00:00</updated>
-    <id>https://www.youtube.com/watch?v=1mfKUZppeos</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=1mfKUZppeos"/>
-    <author>
-      <name>KENISPORT</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=1mfKUZppeos"&gt;&lt;img src="https://img.youtube.com/vi/1mfKUZppeos/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;ملخص مباراة أولمبيك خريبكة ضد اتحاد تواركة 2-2🔥 ock vs touarga 🔥 مباراة مجنونة رائعة برافو 🔥</content>
-  </entry>
-  <entry>
-    <title type="html">صلاة القيام للقارئ ياسين العلافي.بمسجد الامام مسلم خريبكة</title>
-    <published>2024-04-06T23:12:44+00:00</published>
-    <updated>2024-04-06T23:12:44+00:00</updated>
-    <id>https://www.youtube.com/watch?v=y691c33Ks24</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=y691c33Ks24"/>
-    <author>
-      <name>mosque imam moslim</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=y691c33Ks24"&gt;&lt;img src="https://img.youtube.com/vi/y691c33Ks24/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">صلاة العشاء إمام المسجد : محمد العلافي .بمسجد الامام مسلم خريبكة</title>
-    <published>2024-04-06T21:05:36+00:00</published>
-    <updated>2024-04-06T21:05:36+00:00</updated>
-    <id>https://www.youtube.com/watch?v=M_tU1n4I6ws</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=M_tU1n4I6ws"/>
-    <author>
-      <name>mosque imam moslim</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=M_tU1n4I6ws"&gt;&lt;img src="https://img.youtube.com/vi/M_tU1n4I6ws/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">سوق أربعاء القفاف خريبكة المملكة المغربية</title>
-    <published>2024-04-06T20:50:54+00:00</published>
-    <updated>2024-04-06T20:50:54+00:00</updated>
-    <id>https://www.youtube.com/watch?v=FAw6Ygpnjvs</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=FAw6Ygpnjvs"/>
-    <author>
-      <name>lasyan tbourida</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=FAw6Ygpnjvs"&gt;&lt;img src="https://img.youtube.com/vi/FAw6Ygpnjvs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">. خطورة سروج تبوريدة على حياة الفارس مهرجان مفاسيس.خريبكة.المملكة المغربية</title>
-    <published>2024-04-06T20:38:31+00:00</published>
-    <updated>2024-04-06T20:38:31+00:00</updated>
-    <id>https://www.youtube.com/watch?v=rUOth3P-Mzk</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=rUOth3P-Mzk"/>
-    <author>
-      <name>lasyan tbourida</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=rUOth3P-Mzk"&gt;&lt;img src="https://img.youtube.com/vi/rUOth3P-Mzk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">نهار اولمبيك خريبكة احتفلت باللقب بطريقة طريفة وجميلة</title>
-    <published>2024-04-06T18:40:48+00:00</published>
-    <updated>2024-04-06T18:40:48+00:00</updated>
-    <id>https://www.youtube.com/watch?v=etHTU-mMpi8</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=etHTU-mMpi8"/>
-    <author>
-      <name>SYNVA SPORT</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=etHTU-mMpi8"&gt;&lt;img src="https://img.youtube.com/vi/etHTU-mMpi8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">تصريح منير الجعواني بعد تأهل أولمبيك خريبكة على حساب اتحاد تواركة</title>
-    <published>2024-04-06T15:21:08+00:00</published>
-    <updated>2024-04-06T15:21:08+00:00</updated>
-    <id>https://www.youtube.com/watch?v=F8THKhXVgwQ</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=F8THKhXVgwQ"/>
-    <author>
-      <name>ockfoot1923</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=F8THKhXVgwQ"&gt;&lt;img src="https://img.youtube.com/vi/F8THKhXVgwQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;تصريح منير الجعواني بعد تأهل أولمبيك خريبكة على حساب اتحاد تواركة</content>
-  </entry>
-  <entry>
-    <title type="html">حفل حناء للأطفال بمدينة خريبكة</title>
-    <published>2024-04-06T15:21:13+00:00</published>
-    <updated>2024-04-06T15:21:13+00:00</updated>
-    <id>https://www.youtube.com/watch?v=U4uocylfd2A</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=U4uocylfd2A"/>
-    <author>
-      <name>Tanwer - تنوير</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=U4uocylfd2A"&gt;&lt;img src="https://img.youtube.com/vi/U4uocylfd2A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;اشترك في قناة جريدة تنوير عبر الرابط التالي&lt;br /&gt;
- &lt;a href="https://bit.ly/3qNVrLQ" target="_blank"&gt;https://bit.ly/3qNVrLQ&lt;/a&gt;&lt;br /&gt;
-شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
-  يمكنكم متابعتنا على : &lt;br /&gt;
-زوروا موقعنا : &lt;a href="https://tanwer.ma/" target="_blank"&gt;https://tanwer.ma&lt;/a&gt;&lt;br /&gt;
-فيسبوك :&lt;a href="https://bit.ly/39ieMA4" target="_blank"&gt;https://bit.ly/39ieMA4&lt;/a&gt;&lt;br /&gt;
-إنستغرام :&lt;a href="https://bit.ly/3zCqHmP" target="_blank"&gt;https://bit.ly/3zCqHmP&lt;/a&gt;&lt;br /&gt;
-للاطلاع على آخر الأخبار</content>
-  </entry>
-  <entry>
-    <title type="html">ركلات ترجيح مباراة أولمبيك خريبكة - الاتحاد التوركي | كأس العرش</title>
-    <published>2024-04-05T21:58:50+00:00</published>
-    <updated>2024-04-05T21:58:50+00:00</updated>
-    <id>https://www.youtube.com/watch?v=d1LSoV8sAk0</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=d1LSoV8sAk0"/>
-    <author>
-      <name>Youssef Ja - يوسف جا</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=d1LSoV8sAk0"&gt;&lt;img src="https://img.youtube.com/vi/d1LSoV8sAk0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مشاهدة مباراة أولمبيك خريبكة ضد الاتحاد التوركي في ثمن نهائي كأس العرش المغربي&lt;br /&gt;
-&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A5%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A_%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%83%D9%8A" target="_blank"&gt;#الإتحاد_الرياضي_التوركي&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://www.youtube.com/hashtag/%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D9%83_%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9" target="_blank"&gt;#أولمبيك_خريبكة&lt;/a&gt;  &lt;br /&gt;
-&lt;a href="https://www.youtube.com/hashtag/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%B4" target="_blank"&gt;#كأس_العرش&lt;/a&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">دور ثمن نهائي كأس العرش/ أولمبيك خريبكة يتأهل لدور ربع النهائي على حساب الإتحاد الرياضي التوركي</title>
-    <published>2024-04-06T11:49:05+00:00</published>
-    <updated>2024-04-06T11:49:05+00:00</updated>
-    <id>https://www.youtube.com/watch?v=TxoFJR9IPI0</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=TxoFJR9IPI0"/>
-    <author>
-      <name>كرة القدم</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=TxoFJR9IPI0"&gt;&lt;img src="https://img.youtube.com/vi/TxoFJR9IPI0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">🔴 بث مباشر مباراة اليوم | أولمبيك خريبكة - إتحاد تواركة الرياضي | Arryadia live :: Khouribga / UTS</title>
-    <published>2024-04-05T21:37:51+00:00</published>
-    <updated>2024-04-05T21:37:51+00:00</updated>
-    <id>https://www.youtube.com/watch?v=YN6pm8q44Jo</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=YN6pm8q44Jo"/>
-    <author>
-      <name>philo_sagesse</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=YN6pm8q44Jo"&gt;&lt;img src="https://img.youtube.com/vi/YN6pm8q44Jo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;🔴 بث مباشر مباراة اليوم | أولمبيك خريبكة - إتحاد تواركة الرياضي | Arryadia live :: Khouribga / UTS</content>
+  <title type="text"></title>
+  <updated>2024-04-07T18:00:46+00:00</updated>
+  <author>
+    <id>urn:sha1:785f04a57b402bf347db16aa33b49c4b0fa94205</id>
+    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+    <content type="html">
+&lt;div class="error"&gt;
+
+            
+        
+        
+        
+        
+        
+                    &lt;p&gt;
+                See
+                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
+                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
+                &lt;/a&gt;
+                for description of the curl error code.
+            &lt;/p&gt;
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div class="error-type"&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div class="error-message"&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 15000 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;sp=CAI%253D        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 154        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(66): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(103): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 actions/DisplayAction.php(68): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 actions/DisplayAction.php(117): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 bridges/YoutubeBridge.php(88): YoutubeBridge-&amp;gt;collectDataInternal()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 bridges/YoutubeBridge.php(193): YoutubeBridge-&amp;gt;fetch()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 bridges/YoutubeBridge.php(423): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 lib/contents.php(162): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/contents.php(83): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #9 lib/http.php(154)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; 2023-09-24 (git.master.cfe3dcf)    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.7    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+15000+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26sp%3DCAI%25253D+in+lib%2Fhttp.php+line+154%0A%0Aindex.php%2866%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28103%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%2868%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%28117%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%2888%29%3A+YoutubeBridge-%3EcollectDataInternal%28%29%0Abridges%2FYoutubeBridge.php%28193%29%3A+YoutubeBridge-%3Efetch%28%29%0Abridges%2FYoutubeBridge.php%28423%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28162%29%3A+getContents%28%29%0Alib%2Fcontents.php%2883%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28154%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+2023-09-24+%28git.master.cfe3dcf%29%0AOs%3A+Linux%0APHP+version%3A+8.2.7%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    No maintainer&lt;/p&gt;</content>
   </entry>
 </feed>
