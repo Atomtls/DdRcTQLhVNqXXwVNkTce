@@ -4,6 +4,17 @@
   <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
   <icon>https://www.youtube.com/favicon.ico</icon>
   <entry>
+    <title type="html">بنات عيساوة خولة فنان ابنة مدينة خريبكة  افتتاح محل بالدار البيضاء</title>
+    <published>2024-04-20T07:37:21+00:00</published>
+    <updated>2024-04-20T07:37:21+00:00</updated>
+    <id>https://www.youtube.com/watch?v=CQLekpQoK9I</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=CQLekpQoK9I"/>
+    <author>
+      <name>KATYPROD</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=CQLekpQoK9I"&gt;&lt;img src="https://img.youtube.com/vi/CQLekpQoK9I/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">ملتقى التوجيه المدرسي ,المهني,الجامعي بمدينة خريبكة</title>
     <published>2024-04-20T01:11:22+00:00</published>
     <updated>2024-04-20T01:11:22+00:00</updated>
@@ -237,16 +248,5 @@ instagrame/ainetv_chaine &lt;br /&gt;
       <name>فقراء أهل الزاوية سطات السماع البعزاوي</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=f26ur1S5Nk4"&gt;&lt;img src="https://img.youtube.com/vi/f26ur1S5Nk4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">#اكسبلور #خريبكة #تيك_توك #الشيخات #chaabi #وادزم #amazigh #قصارة #رقص #ولاد_علي #سعر #سعيد الخريبكي</title>
-    <published>2024-04-18T02:04:29+00:00</published>
-    <updated>2024-04-18T02:04:29+00:00</updated>
-    <id>https://www.youtube.com/watch?v=lKINCS0SKaU</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lKINCS0SKaU"/>
-    <author>
-      <name>الشيخات و العيطة المغربية</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=lKINCS0SKaU"&gt;&lt;img src="https://img.youtube.com/vi/lKINCS0SKaU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
