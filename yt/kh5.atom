@@ -1,111 +1,640 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <updated>2024-04-23T23:05:11+00:00</updated>
-  <author>
-    <id>urn:sha1:0e59cb7f291892a8da859abb3729b7eb4d759156</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=شوف+تيفي+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%D8%B4%D9%88%D9%81+%D8%AA%D9%8A%D9%81%D9%8A+%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 154        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(66): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(103): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 actions/DisplayAction.php(68): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(117): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(88): YoutubeBridge-&amp;gt;collectDataInternal()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(193): YoutubeBridge-&amp;gt;fetch()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(423): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(162): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(83): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 lib/http.php(154)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=شوف تيفي الطلبة&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2023-09-24 (git.master.cfe3dcf)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.7    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%25D8%25B4%25D9%2588%25D9%2581%2B%25D8%25AA%25D9%258A%25D9%2581%25D9%258A%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2584%25D8%25A8%25D8%25A9%26sp%3DCAI%25253D+in+lib%2Fhttp.php+line+154%0A%0Aindex.php%2866%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28103%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%2868%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%28117%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%2888%29%3A+YoutubeBridge-%3EcollectDataInternal%28%29%0Abridges%2FYoutubeBridge.php%28193%29%3A+YoutubeBridge-%3Efetch%28%29%0Abridges%2FYoutubeBridge.php%28423%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28162%29%3A+getContents%28%29%0Alib%2Fcontents.php%2883%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28154%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%D8%B4%D9%88%D9%81%2B%D8%AA%D9%8A%D9%81%D9%8A%2B%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+2023-09-24+%28git.master.cfe3dcf%29%0AOs%3A+Linux%0APHP+version%3A+8.2.7%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    No maintainer&lt;/p&gt;</content>
+  <title type="text">Search: شوف تيفي الطلبة - YouTube</title>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=شوف+تيفي+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+  <icon>https://www.youtube.com/favicon.ico</icon>
+  <entry>
+    <title type="html">أم الطالب أنور لي صفاوها ليه فقلب دارو بطنجة تكشف معطيات جديدة: ولدي صفاتها ليه عصابة</title>
+    <published>2024-04-18T16:50:37+00:00</published>
+    <updated>2024-04-18T16:50:37+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IjtQROawoHM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IjtQROawoHM"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IjtQROawoHM"&gt;&lt;img src="https://img.youtube.com/vi/IjtQROawoHM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;كشفت أم الطالب أنور الذي تمت تصفيته في قلب منزله بطنجة معطيات جديدة.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">لايف صادم.. أم الطالب أنور لي صفاوها ليه فقلب دارو بطنجة تكشف عن تفاصيل جديدة في ملف إبنها المغدور</title>
+    <published>2024-04-17T16:49:31+00:00</published>
+    <updated>2024-04-17T16:49:31+00:00</updated>
+    <id>https://www.youtube.com/watch?v=k3y0RJD311U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=k3y0RJD311U"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=k3y0RJD311U"&gt;&lt;img src="https://img.youtube.com/vi/k3y0RJD311U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من العرائش:لايف صادم.. أم الطالب أنور لي صفاوها ليه فقلب دارو بطنجة تكشف عن تفاصيل جديدة في ملف إبنها المغدور&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftv_live" target="_blank"&gt;#chouftv_live&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftvlive" target="_blank"&gt;#chouftvlive&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ساكنة دوار ولاد الطالب كاليفورنيا بكازا يفجرونها:ريبو لينا وقالو لينا شهر غاتستافدو صدقنا ف 4 شهور</title>
+    <published>2024-04-16T02:45:01+00:00</published>
+    <updated>2024-04-16T02:45:01+00:00</updated>
+    <id>https://www.youtube.com/watch?v=hcAqmaYHYrU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hcAqmaYHYrU"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hcAqmaYHYrU"&gt;&lt;img src="https://img.youtube.com/vi/hcAqmaYHYrU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;رصدت شوف تيفي صرخة قوية لساكة دوار ولاد الطالب بكاليفورنيا الدار البيضاء بسبب عدم استفادتهم من السكن بعد هدم منازلهم العشوائية.&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">متسولة توجه رسالة صادمة لدنيا بوطازوت: " بوطازوت صورت المسلسل فالبلاصة ديالي و ماعطاتني والو</title>
+    <published>2024-03-21T12:05:56+00:00</published>
+    <updated>2024-03-21T12:05:56+00:00</updated>
+    <id>https://www.youtube.com/watch?v=i_0BTQkDReI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=i_0BTQkDReI"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=i_0BTQkDReI"&gt;&lt;img src="https://img.youtube.com/vi/i_0BTQkDReI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;على المباشر.... واش بصح هاذشي؟...متسولة توجه رسالة صادمة لدنيا بوطازوت: " بوطازوت صورت المسلسل فالبلاصة ديالي و ماعطاتني والو و دارت مسلسل عليا وشوهتني و القيد حيدني من بلاصتي بسبابها&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">قضية الطالب الطنجاوي أنور لي صفاوها ليه فقلب دارو بطنجة فيها تفاصيل جديدة وأم الضحية تعلنها</title>
+    <published>2024-03-19T13:21:01+00:00</published>
+    <updated>2024-03-19T13:21:01+00:00</updated>
+    <id>https://www.youtube.com/watch?v=B3nEf_I3aDM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=B3nEf_I3aDM"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=B3nEf_I3aDM"&gt;&lt;img src="https://img.youtube.com/vi/B3nEf_I3aDM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;كشفت أم الطالب أنور الذي قتـ ل بقلب منزله بطنجة تفاصيل جديدة وتأجيل ملف محاكمة المتهمين.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">تطورات أخطر جريمة بطنجة..هذا ما قررته المحكمة بخصوص واقعة إنهاء حياة الطالب "أنور"</title>
+    <published>2024-03-05T11:51:44+00:00</published>
+    <updated>2024-03-05T11:51:44+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_Fc6DsbhZrM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_Fc6DsbhZrM"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_Fc6DsbhZrM"&gt;&lt;img src="https://img.youtube.com/vi/_Fc6DsbhZrM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عاينت شوف تيفي تطورات جريمة إنهاء حياة الطالب أنور بطنجة.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">تشوات فكبدتها..بكاء هستيري  لأم الطالب بدر لي مات داخل مركز التكوين المهني بعين السبع بكازا</title>
+    <published>2024-03-05T10:08:38+00:00</published>
+    <updated>2024-03-05T10:08:38+00:00</updated>
+    <id>https://www.youtube.com/watch?v=yeAdwnE62Ic</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=yeAdwnE62Ic"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=yeAdwnE62Ic"&gt;&lt;img src="https://img.youtube.com/vi/yeAdwnE62Ic/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;بكاء أم بدر الطالب الذي توفي داخل مركز للتكوين المهني بالدار البيضاء &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أم  بدر لي مات فمركز للتكوين المهني بكازا:عيطات ليا الأستاذة قالت لي ولدك سخفان مشيت لقيتو شبعان موت</title>
+    <published>2024-03-05T01:12:04+00:00</published>
+    <updated>2024-03-05T01:12:04+00:00</updated>
+    <id>https://www.youtube.com/watch?v=VfM49oPewb0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=VfM49oPewb0"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=VfM49oPewb0"&gt;&lt;img src="https://img.youtube.com/vi/VfM49oPewb0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;انفردت شوف تيفي بتصريح صادم لوالدة الطالب بدر الذي توفي في قلب مركز للتكوين المهني بالدار البيضاء وطالبت بمعرفة أسباب وفاته.&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">يهم وزير التعليم العالي..طلبة المدرسة العليا للأساتذة بفاس يطالبون أمام الأكاديمية الجهوية للتربية</title>
+    <published>2024-02-28T16:12:57+00:00</published>
+    <updated>2024-02-28T16:12:57+00:00</updated>
+    <id>https://www.youtube.com/watch?v=PMcPuHq_1Sc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=PMcPuHq_1Sc"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=PMcPuHq_1Sc"&gt;&lt;img src="https://img.youtube.com/vi/PMcPuHq_1Sc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;يهم وزير التعليم العالي..طلبة المدرسة العليا للأساتذة بفاس يطالبون أمام الأكاديمية الجهوية للتربية والتكوين بصرف تعويضاتهم&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">"القاصر معها شركاء وتتستر عليهم"..حقائق تكشفها لأول مرة أم الطالب أنور لي مشا ضحية لأبشع جريمة بطنجة</title>
+    <published>2024-02-22T16:47:52+00:00</published>
+    <updated>2024-02-22T16:47:52+00:00</updated>
+    <id>https://www.youtube.com/watch?v=AHCb044lwFM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AHCb044lwFM"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=AHCb044lwFM"&gt;&lt;img src="https://img.youtube.com/vi/AHCb044lwFM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;"القاصر معها شركاء وتتستر عليهم".. حقائق تكشفها لأول مرة أم الطالب أنور لي مشا ضحية لأبشع جريمة بطنجة&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftv_live" target="_blank"&gt;#chouftv_live&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftvlive" target="_blank"&gt;#chouftvlive&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خالد آيت الطالب يتفاعل مع أسئلة الصحافيين خلال الندوة المخصصة لمناقشة مشاكل طلبة كلية الطب و الصيدلة</title>
+    <published>2024-02-22T15:21:34+00:00</published>
+    <updated>2024-02-22T15:21:34+00:00</updated>
+    <id>https://www.youtube.com/watch?v=5MxAC_i9K_M</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5MxAC_i9K_M"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5MxAC_i9K_M"&gt;&lt;img src="https://img.youtube.com/vi/5MxAC_i9K_M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من الرباط: وزير الصحة البروفيسور خالد آيت الطالب يتفاعل مع أسئلة الصحافيين خلال الندوة المخصصة لمناقشة مشاكل طلبة كلية الطب و الصيدلة&lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">وزير الصحةخالد آيت طالب يترأس في هذه اللحظات ندوة صحفية لمناقشة مشاكل طلبة كلية طب الأسنان والصيادلة</title>
+    <published>2024-02-22T15:01:43+00:00</published>
+    <updated>2024-02-22T15:01:43+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_huiyKDCtGo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_huiyKDCtGo"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_huiyKDCtGo"&gt;&lt;img src="https://img.youtube.com/vi/_huiyKDCtGo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من الرباط: وزير الصحة خالد آيت طالب يترأس في هذه اللحظات ندوة صحفية لمناقشة مشاكل طلبة كلية طب الأسنان والصيادلة&lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">آباء وأمهات طلبة كلية الطب والصيدلة خارجين في احتجاج لدعم أبنائهم في ملفهم المطلبي</title>
+    <published>2024-02-15T13:29:24+00:00</published>
+    <updated>2024-02-15T13:29:24+00:00</updated>
+    <id>https://www.youtube.com/watch?v=YcrAItzB8kM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=YcrAItzB8kM"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=YcrAItzB8kM"&gt;&lt;img src="https://img.youtube.com/vi/YcrAItzB8kM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من مراكش: القضية كبرات عندهم والواليدين دخلو على الخط.. آباء وأمهات طلبة كلية الطب والصيدلة خارجين في احتجاج لدعم أبنائهم في ملفهم المطلبي&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftv_live" target="_blank"&gt;#chouftv_live&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftvlive" target="_blank"&gt;#chouftvlive&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">فضيحة النقل الحضري بمكناس..كاميرا شوف تيفي ترصد طوبيس حرك البلاكة و خلا الطلبة و الناس كبار</title>
+    <published>2024-02-08T20:21:13+00:00</published>
+    <updated>2024-02-08T20:21:13+00:00</updated>
+    <id>https://www.youtube.com/watch?v=oNsItxRQvs8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=oNsItxRQvs8"/>
+    <author>
+      <name>Chouf Almaraa</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=oNsItxRQvs8"&gt;&lt;img src="https://img.youtube.com/vi/oNsItxRQvs8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;فضيحة النقل الحضري بمكناس..كاميرا شوف تيفي ترصد طوبيس حرك البلاكة و خلا الطلبة و الناس كبار كايجريو موراه..واش هدا هو النقل لي بغينا&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">كلية الطب بجامعة محمد الأول بوجدة تنظم لقاء تواصليا بحضور أولياء الطلبة</title>
+    <published>2024-02-02T07:41:59+00:00</published>
+    <updated>2024-02-02T07:41:59+00:00</updated>
+    <id>https://www.youtube.com/watch?v=gOcDFBRc_Ps</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=gOcDFBRc_Ps"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=gOcDFBRc_Ps"&gt;&lt;img src="https://img.youtube.com/vi/gOcDFBRc_Ps/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;نظمت كلية الطب بجامعة محمد الأول لقاء تواصليا بحضور أولياء الطلبة.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة من وجدة : طلبة كلية الطب والصيدلة بجامعة محمد الأول يخرجون للاحتجاج مجددا</title>
+    <published>2024-02-01T14:33:32+00:00</published>
+    <updated>2024-02-01T14:33:32+00:00</updated>
+    <id>https://www.youtube.com/watch?v=H_EQrcyUqJ8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=H_EQrcyUqJ8"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=H_EQrcyUqJ8"&gt;&lt;img src="https://img.youtube.com/vi/H_EQrcyUqJ8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من وجدة : طلبة كلية الطب والصيدلة بجامعة محمد الأول يخرجون للاحتجاج مجددا&lt;br /&gt;
+.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftv_live" target="_blank"&gt;#chouftv_live&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftvlive" target="_blank"&gt;#chouftvlive&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة كلية الطب والصيدلة بوجدة يوجهون رسالة قوية لوزارة الصحة</title>
+    <published>2024-01-30T14:06:00+00:00</published>
+    <updated>2024-01-30T14:06:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Yh78cFQKKoU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Yh78cFQKKoU"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Yh78cFQKKoU"&gt;&lt;img src="https://img.youtube.com/vi/Yh78cFQKKoU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;طلبة كلية الطب والصيدلة بوجدة يوجهون رسالة قوية لوزارة الصحة ويرفضون تقليص سنوات الدراسة من 7 إلى 6 سنوات.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طاقم شوف تيفي يوزع بدل رياضية على الطلبة والطالبات الإيفواريين والفرحة ديالهم كبيرة بزاف</title>
+    <published>2024-01-24T13:02:50+00:00</published>
+    <updated>2024-01-24T13:02:50+00:00</updated>
+    <id>https://www.youtube.com/watch?v=NJRjn4eR1BI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NJRjn4eR1BI"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=NJRjn4eR1BI"&gt;&lt;img src="https://img.youtube.com/vi/NJRjn4eR1BI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من الكوت ديفوار..طاقم شوف تيفي يوزع بدل رياضية على الطلبة والطالبات الإيفواريين والفرحة ديالهم كبيرة بزاف..شكرا ليكم وعاش الملك</content>
+  </entry>
+  <entry>
+    <title type="html">دوار أولاد طالب أقدم دوار فكاليفورنياريبوه السلطات و دابا كيريبو الجامع لي هوالوحيد لي باقي فالمكان</title>
+    <published>2024-01-19T18:15:47+00:00</published>
+    <updated>2024-01-19T18:15:47+00:00</updated>
+    <id>https://www.youtube.com/watch?v=7Gtm4S9NJD4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7Gtm4S9NJD4"/>
+    <author>
+      <name>ChoufTV Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=7Gtm4S9NJD4"&gt;&lt;img src="https://img.youtube.com/vi/7Gtm4S9NJD4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;على المباشر: دوار أولاد طالب أقدم دوار فكاليفورنيا ريبوه السلطات و دابا كيريبو الجامع لي هو الوحيد لي باقي فالمكان ولي تم البناء ديالو سنة 1913&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftv_live" target="_blank"&gt;#chouftv_live&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chouftvlive" target="_blank"&gt;#chouftvlive&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://bit.ly/ChouftvLive﻿" target="_blank"&gt;https://bit.ly/ChouftvLive﻿&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مغاربة يدخلون على خط ابنة عمدة سلا لي دارت جنازة لمشتها وجابت ليها الطلبة كيدعيو معها بالرحمة والجنة</title>
+    <published>2024-01-03T14:09:27+00:00</published>
+    <updated>2024-01-03T14:09:27+00:00</updated>
+    <id>https://www.youtube.com/watch?v=QI6JyWchfso</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QI6JyWchfso"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QI6JyWchfso"&gt;&lt;img src="https://img.youtube.com/vi/QI6JyWchfso/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;استغرب المغاربة حين شاهدوا على موقع التيك توك ابنة عمدة سلا تقيم جنازة لقطتها بحضور الفقهاء وتدعو للقطة بالرحمة والمغفرة &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قناة شوف تيفي هي أول تلفزة إلكترونية تختص بأخبار المغرب، شاملة، مستقلة، تعنى بأخبار اليوم والقضايا السياسية والاقتصادية والاجتماعية والثقافية والرياضية.. تواكب آخر الأخبار المغربية ومختلف الأحداث من قلب الحدث بالصوت والصورة، عبر طاقم صحفي شاب متميز ولوجيستيك جد متطور مسؤول عن برامج إخبارية عديدة كتلفزة الواقع وآراء الشارع ونسولو الناس.. كما تتوفر على استوديو من الطراز العالي يتم إنتاج نشرات شوف الصحافة والحصاد اليومي وخبر اليوم، الأستوديو يتضمن آخر أنواع التجهيزات والكاميرات الرقمية، استضافت من خلاله مختلف الشخصيات الشهيرة، مغربيا، عربيا وعالميا.&lt;br /&gt;
+&lt;br /&gt;
+اشترك في القناة الرسمية لشوف تيفي: &lt;br /&gt;
+&lt;a href="http://bit.ly/2aYOdAx" target="_blank"&gt;http://bit.ly/2aYOdAx&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+اشترك في قناتنا الثانية الرسمية المختصة بالبث المباشر :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/c/ChoufTVLiveMaroc" target="_blank"&gt;chouftvlivemaroc&lt;/a&gt;&lt;br /&gt;
+Chouftv - شوف تيفي&lt;br /&gt;
+شوف تيفي أول تلفزة إلكترونية بالمغرب&lt;br /&gt;
+____&lt;br /&gt;
+ChoufTV &lt;br /&gt;
+Site Web Officiel:  &lt;a href="http://ChoufTV.ma/" target="_blank"&gt;http://ChoufTV.ma&lt;/a&gt;&lt;br /&gt;
+Page Facebook: &lt;a href="https://facebook.com/ChoufTV.Maroc" target="_blank"&gt;chouftv.maroc&lt;/a&gt;&lt;br /&gt;
+tiktok: &lt;a href="https://www.tiktok.com/@chouftv.officiel" target="_blank"&gt;chouftv.officiel&lt;/a&gt;&lt;br /&gt;
+instagram : &lt;a href="https://www.instagram.com/chouftv_official" target="_blank"&gt;chouftv_official&lt;/a&gt;&lt;br /&gt;
+Compte Twitter: &lt;a href="https://twitter.com/ChoufTVMa" target="_blank"&gt;chouftvma&lt;/a&gt;&lt;br /&gt;
+Page Google+: &lt;a href="https://plus.google.com/ ChoufMedia" target="_blank"&gt;https://plus.google.com/+ChoufMedia&lt;/a&gt;&lt;br /&gt;
+Chaine Youtube: &lt;a href="https://youtube.com/ChoufMedia" target="_blank"&gt;choufmedia&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/chouftv" target="_blank"&gt;#chouftv&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/casablanca" target="_blank"&gt;#casablanca&lt;/a&gt;</content>
   </entry>
 </feed>
