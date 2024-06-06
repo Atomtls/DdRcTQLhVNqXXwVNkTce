@@ -4,6 +4,17 @@
   <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
   <icon>https://www.youtube.com/favicon.ico</icon>
   <entry>
+    <title type="html">مع نغمات حسن بنعلي سلطان الطرب بعاصمة الفنون خريبكة</title>
+    <published>2024-06-06T06:10:02+00:00</published>
+    <updated>2024-06-06T06:10:02+00:00</updated>
+    <id>https://www.youtube.com/watch?v=v0ZtyC7UX9w</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=v0ZtyC7UX9w"/>
+    <author>
+      <name>communpress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=v0ZtyC7UX9w"&gt;&lt;img src="https://img.youtube.com/vi/v0ZtyC7UX9w/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">روبورتاج | خريبكة - بني ملال | منافسات المرحلة السادسة ضمن طواف المغرب 2024</title>
     <published>2024-06-06T00:34:31+00:00</published>
     <updated>2024-06-06T00:34:31+00:00</updated>
@@ -258,16 +269,5 @@ Edité par YouCut:https://app.youcut.net/BestEditor</content>
       <name>elmahfoudy TV</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=i0zp25uX7ME"&gt;&lt;img src="https://img.youtube.com/vi/i0zp25uX7ME/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;لحظة إنطلاق &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9" target="_blank"&gt;#المرحلة&lt;/a&gt; الخامسة من &lt;a href="https://www.youtube.com/hashtag/%D8%B7%D9%88%D8%A7%D9%81" target="_blank"&gt;#طوا&lt;/a&gt; المغرب،@قلعة السراغنة-#</content>
-  </entry>
-  <entry>
-    <title type="html">مجموعة رموز الخير خريبكة ترحب بكم في جميع المناسبات والافراح 06.02.49.55.59</title>
-    <published>2024-06-05T00:02:09+00:00</published>
-    <updated>2024-06-05T00:02:09+00:00</updated>
-    <id>https://www.youtube.com/watch?v=TbkCH74XzEE</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=TbkCH74XzEE"/>
-    <author>
-      <name>Walid abidat rma</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=TbkCH74XzEE"&gt;&lt;img src="https://img.youtube.com/vi/TbkCH74XzEE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;mjmou3at rmouz alkhir Khouribga</content>
   </entry>
 </feed>
