@@ -1,117 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <updated>2024-06-23T23:00:04+00:00</updated>
-  <author>
-    <id>urn:sha1:ced7c915b8b1af4abd453d9841cbb785b2f1bc34</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/watch?v=213CzqRwVQE        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 154        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(66): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(103): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 actions/DisplayAction.php(68): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(117): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(88): YoutubeBridge-&amp;gt;collectDataInternal()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(204): YoutubeBridge-&amp;gt;fetchItemsFromFromJsonData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(504): YoutubeBridge-&amp;gt;fetchVideoDetails()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 bridges/YoutubeBridge.php(215): YoutubeBridge-&amp;gt;fetch()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 bridges/YoutubeBridge.php(421): getSimpleHTMLDOMCached()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 lib/contents.php(223): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #10 lib/contents.php(83): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #11 lib/http.php(154)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2023-09-24 (git.master.cfe3dcf)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.7    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D213CzqRwVQE+in+lib%2Fhttp.php+line+154%0A%0Aindex.php%2866%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28103%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%2868%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%28117%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%2888%29%3A+YoutubeBridge-%3EcollectDataInternal%28%29%0Abridges%2FYoutubeBridge.php%28204%29%3A+YoutubeBridge-%3EfetchItemsFromFromJsonData%28%29%0Abridges%2FYoutubeBridge.php%28504%29%3A+YoutubeBridge-%3EfetchVideoDetails%28%29%0Abridges%2FYoutubeBridge.php%28215%29%3A+YoutubeBridge-%3Efetch%28%29%0Abridges%2FYoutubeBridge.php%28421%29%3A+getSimpleHTMLDOMCached%28%29%0Alib%2Fcontents.php%28223%29%3A+getContents%28%29%0Alib%2Fcontents.php%2883%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28154%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+2023-09-24+%28git.master.cfe3dcf%29%0AOs%3A+Linux%0APHP+version%3A+8.2.7%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    No maintainer&lt;/p&gt;</content>
+  <title type="text">Search: "خريبكة" - YouTube</title>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+  <icon>https://www.youtube.com/favicon.ico</icon>
+  <entry>
+    <title type="html">مجموعة رموز الخير خريبكة ترحب بكم في جميع المناسبات والافراح 06.02.49.55.59 #نكافة #تيك_توك #اعراس</title>
+    <published>2024-06-23T23:48:38+00:00</published>
+    <updated>2024-06-23T23:48:38+00:00</updated>
+    <id>https://www.youtube.com/watch?v=j_axPvdhz44</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=j_axPvdhz44"/>
+    <author>
+      <name>Walid abidat rma</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=j_axPvdhz44"&gt;&lt;img src="https://img.youtube.com/vi/j_axPvdhz44/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;mjmou3at rmouz alkhir Khouribga</content>
+  </entry>
+  <entry>
+    <title type="html">جمعية النور للرياضات خريبكة السبت 22 يونيو 2024</title>
+    <published>2024-06-23T23:35:48+00:00</published>
+    <updated>2024-06-23T23:35:48+00:00</updated>
+    <id>https://www.youtube.com/watch?v=4yRVYeUfKdc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=4yRVYeUfKdc"/>
+    <author>
+      <name>adil OUARDICH</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=4yRVYeUfKdc"&gt;&lt;img src="https://img.youtube.com/vi/4yRVYeUfKdc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جمعية النور للرياضات خريبكة السبت 22 يونيو 2024</title>
+    <published>2024-06-23T23:23:25+00:00</published>
+    <updated>2024-06-23T23:23:25+00:00</updated>
+    <id>https://www.youtube.com/watch?v=MwGe7OAfPR8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=MwGe7OAfPR8"/>
+    <author>
+      <name>adil OUARDICH</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=MwGe7OAfPR8"&gt;&lt;img src="https://img.youtube.com/vi/MwGe7OAfPR8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">قصارة شعبية مع شيخات خريبكة و مجموعة نجوم بني مسكين  #المغرب #اكسبلور #music #maroc #chaabi</title>
+    <published>2024-06-23T20:52:45+00:00</published>
+    <updated>2024-06-23T20:52:45+00:00</updated>
+    <id>https://www.youtube.com/watch?v=8iJ2O6nPx8U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8iJ2O6nPx8U"/>
+    <author>
+      <name>Ahlan_MusFoot TV أهلا</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=8iJ2O6nPx8U"&gt;&lt;img src="https://img.youtube.com/vi/8iJ2O6nPx8U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مجموعة رموز الخير خريبكة ترحب بكم في جميع المناسبات والافراح 06.02.49.55.59</title>
+    <published>2024-06-23T20:01:07+00:00</published>
+    <updated>2024-06-23T20:01:07+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ELs9LQWgVgA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ELs9LQWgVgA"/>
+    <author>
+      <name>Walid abidat rma</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ELs9LQWgVgA"&gt;&lt;img src="https://img.youtube.com/vi/ELs9LQWgVgA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;mjmou3at rmouz alkhir Khouribga</content>
+  </entry>
+  <entry>
+    <title type="html">أسفار أركانة 🚍 بريستيج ترحب بزبنائها خط 👈 👈 👈خريبكة 🛣 تارودانت   طريق السلامة للجميع.</title>
+    <published>2024-06-23T18:49:59+00:00</published>
+    <updated>2024-06-23T18:49:59+00:00</updated>
+    <id>https://www.youtube.com/watch?v=213CzqRwVQE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=213CzqRwVQE"/>
+    <author>
+      <name>cosmos AMALAY officiel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=213CzqRwVQE"&gt;&lt;img src="https://img.youtube.com/vi/213CzqRwVQE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;trans Argana prestige   ligne  👉   &lt;a href="https://www.youtube.com/hashtag/kh%C3%A9ribga" target="_blank"&gt;#khéribga&lt;/a&gt; 🛣 &lt;a href="https://www.youtube.com/hashtag/traoudant" target="_blank"&gt;#Traoudant&lt;/a&gt; via auotoroute 💞.</content>
+  </entry>
+  <entry>
+    <title type="html">فيديو مباشر من سوق السيارات المستعملة خريبكة من بعد عيد الاضحى 23/06/2024 مرحبا بكم 0611814646</title>
+    <published>2024-06-23T13:45:37+00:00</published>
+    <updated>2024-06-23T13:45:37+00:00</updated>
+    <id>https://www.youtube.com/watch?v=pXuwpJsDZ0U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=pXuwpJsDZ0U"/>
+    <author>
+      <name>Auto omar اوطو عمر</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=pXuwpJsDZ0U"&gt;&lt;img src="https://img.youtube.com/vi/pXuwpJsDZ0U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">فلوك مع الحصان(pogba)والمقدم عصام في اسطبل الطاسة باولاد عبدون  خريبكة</title>
+    <published>2024-06-23T10:20:58+00:00</published>
+    <updated>2024-06-23T10:20:58+00:00</updated>
+    <id>https://www.youtube.com/watch?v=T7xfrnnKgiA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=T7xfrnnKgiA"/>
+    <author>
+      <name>chaîne Chegzami</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=T7xfrnnKgiA"&gt;&lt;img src="https://img.youtube.com/vi/T7xfrnnKgiA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;تحرير باستخدام InShot: &lt;a href="https://v.inshotapp.net/invite" target="_blank"&gt;https://v.inshotapp.net/invite&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">زعري أو سواكن مع شيخات خريبكة ###المغرب #ايطاليا #اكسبلور #تيك_توك</title>
+    <published>2024-06-23T09:47:13+00:00</published>
+    <updated>2024-06-23T09:47:13+00:00</updated>
+    <id>https://www.youtube.com/watch?v=pI2_Lf6Cy-0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=pI2_Lf6Cy-0"/>
+    <author>
+      <name>نجوم بني مسكين - Stars Bni Meskin</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=pI2_Lf6Cy-0"&gt;&lt;img src="https://img.youtube.com/vi/pI2_Lf6Cy-0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;زعري أو سواكن &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7" target="_blank"&gt;#ايطاليا&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9" target="_blank"&gt;#السعودية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%BA%D8%A7%D9%86%D9%8A" target="_blank"&gt;#اغاني&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC" target="_blank"&gt;#البروج&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/music" target="_blank"&gt;#music&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7" target="_blank"&gt;#اسبانيا&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%BA%D8%A7%D9%86%D9%8A_%D8%B4%D8%B9%D8%A8%D9%8A" target="_blank"&gt;#اغاني_شعبي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/chaabi" target="_blank"&gt;#chaabi&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7_%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7_%D9%81%D8%B1%D9%86%D8%B3%D8%A7_%D8%A7%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7_%D9%87%D9%88%D9%84%D8%A7%D9%86%D8%AF%D8%A7" target="_blank"&gt;#ايطاليا_اسبانيا_فرنسا_المانيا_هولاندا&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة من خريبكة: مواطنون قادمون من جنوب الصحراء ه*جمواعلى محل لبيع و اصلاح الهواتف</title>
+    <published>2024-06-23T00:36:38+00:00</published>
+    <updated>2024-06-23T00:36:38+00:00</updated>
+    <id>https://www.youtube.com/watch?v=63daFUF_cJM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=63daFUF_cJM"/>
+    <author>
+      <name>flach 24 فلاش</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=63daFUF_cJM"&gt;&lt;img src="https://img.youtube.com/vi/63daFUF_cJM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مقاطع من حفل ممثلي لالة العروسة  خريبكة</title>
+    <published>2024-06-22T21:13:13+00:00</published>
+    <updated>2024-06-22T21:13:13+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IJ3Vyit3OLY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IJ3Vyit3OLY"/>
+    <author>
+      <name>chtaiba oficciel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IJ3Vyit3OLY"&gt;&lt;img src="https://img.youtube.com/vi/IJ3Vyit3OLY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;facebook&lt;br /&gt;
+&lt;a href="https://www.facebook.com/profile.php?.." target="_blank"&gt;https://www.facebook.com/profile.php?..&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قال النبي ﷺ (البخيل من ذكرتُ عنده فلم يصلِّ عليَّ)&lt;br /&gt;
+فلا تنسون الصلاة على اشفع الخلق محمد ﷺ&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+لا تدع اليوتيوب يلهيك عن وقت الصلاه حبيب قلبي&lt;br /&gt;
+_&lt;br /&gt;
+لا تقصر معي بنشر الفيديو حبيب قلبي&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+****************&amp;&amp;&amp;&amp;&amp;********************&lt;br /&gt;
+قبل لا تقيم المقطع بلايك او غيره اذا ظحكت في المقطع او ابتسمت (هذه غايتي) اتمنى الايك واذا ما اعجبك المقطع انتقادك مقبول في الكومنت</content>
+  </entry>
+  <entry>
+    <title type="html">أول رد..كوبل خريبكة شيماء وأيمن لغش في المسابقات لالة العروسة /كوبل فاس تهرسات/شحال ديال لفلوس ربحنا</title>
+    <published>2024-06-22T19:00:39+00:00</published>
+    <updated>2024-06-22T19:00:39+00:00</updated>
+    <id>https://www.youtube.com/watch?v=bVZw0NMeG8E</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=bVZw0NMeG8E"/>
+    <author>
+      <name>Sandia lmalki et Safae lmalki</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=bVZw0NMeG8E"&gt;&lt;img src="https://img.youtube.com/vi/bVZw0NMeG8E/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;أول رد..كوبل خريبكة شيماء وأيمن لغش في المسابقات لالة العروسة /كوبل فاس تهرسات/شحال ديال لفلوس ربحنا&lt;br /&gt;
+&lt;br /&gt;
+شكرآ على المشاهدة المرجو الاشتراك في قناتي وفعل زر الجرس ليصلك كل جديد &lt;br /&gt;
+&lt;br /&gt;
+- كن جزء من عائلتنا ونضم إلينا على المواقع التواصل الاجتماعية التالية:&lt;br /&gt;
+&lt;br /&gt;
+YOUTUBE CHANNEL : &lt;a href="https://www.youtube.com/channel/UCAQ8pnWUIqewBmvpDKh3fyg" target="_blank"&gt;@sandia_lmalki...safae_lmalki&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+PAGE FACEBOOK 1 : &lt;a href="https://www.facebook.com/profile.php?id=61550666240101&amp;mibextid=ZbWKwL" target="_blank"&gt;https://www.facebook.com/profile.php?...&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+PAGE FACEBOOK 2 :&lt;br /&gt;
+&lt;a href="https://www.facebook.com/profile.php?id=61559189590757&amp;mibextid=ZbWKwL" target="_blank"&gt;https://www.facebook.com/profile.php?...&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+PAGE TIKTOK : &lt;a href="https://www.tiktok.com/@sandia_lmalki_hafsae_bh?_t=8lmCQ3QwQuT&amp;_r=1" target="_blank"&gt;https://www.tiktok.com/@sandia_lmalki...&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#أخبار_المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/news" target="_blank"&gt;#news&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%83%D8%B3%D8%A8%D9%84%D9%88%D8%B1" target="_blank"&gt;#اكسبلور&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/viral" target="_blank"&gt;#viral&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%B1%D9%86%D8%AF" target="_blank"&gt;#ترن&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/reels" target="_blank"&gt;#reels&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/videos" target="_blank"&gt;#videos&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83_%D8%A8%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9" target="_blank"&gt;#اشتراك_بالقناة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/celebrity" target="_blank"&gt;#celebrity&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B3%D8%AA%D9%88%D8%B1%D9%8A%D8%A7%D8%AA" target="_blank"&gt;#ستوريات&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/fyp%E3%82%B7" target="_blank"&gt;#fypシ&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%B1%D9%86%D8%AF" target="_blank"&gt;#ترن&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/trend" target="_blank"&gt;#trend&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/celebration" target="_blank"&gt;#celebration&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B3%D8%AA%D9%88%D8%B1%D9%8A%D8%A7%D8%AA" target="_blank"&gt;#ستوريات&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/shorts" target="_blank"&gt;#shorts&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%83%D9%88%D9%85%D9%86%D8%AA" target="_blank"&gt;#كومنت&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/smile" target="_blank"&gt;#smile&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83_%D8%A8%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9" target="_blank"&gt;#اشتراك_بالقناة&lt;/a&gt;  &lt;a href="https://www.youtube.com/hashtag/funny" target="_blank"&gt;#funny&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1" target="_blank"&gt;#مشاهير&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/tiktok" target="_blank"&gt;#tiktok&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%83%D8%B3%D8%A8%D9%84%D9%88%D8%B1" target="_blank"&gt;#اكسبلور&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/fyp" target="_blank"&gt;#fyp&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%8A%D9%84%D8%B2" target="_blank"&gt;#ريلز&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الحلقة 12 سقي الفصة بالطاقة الشمسية من أعمال شركة البهي خريبكة بني يخلف</title>
+    <published>2024-06-22T18:00:08+00:00</published>
+    <updated>2024-06-22T18:00:08+00:00</updated>
+    <id>https://www.youtube.com/watch?v=JRDUxXQgblk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=JRDUxXQgblk"/>
+    <author>
+      <name>elbahy equipment البهي للطاقة الشمسية</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=JRDUxXQgblk"&gt;&lt;img src="https://img.youtube.com/vi/JRDUxXQgblk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;سقي الزراعة بالطاقة الشمسية تابعو أعمال شركة البهي المتخصصة في هذا المجال&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9" target="_blank"&gt;#الطاقةالشمسية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B9%D8%AF%D8%A7%D8%AA" target="_blank"&gt;#معدات&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1" target="_blank"&gt;#الدارالبيضاء&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9" target="_blank"&gt;#خريبكة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B3%D9%86%D8%A9_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9" target="_blank"&gt;#السنة_الجديدة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B3%D9%82%D9%8A" target="_blank"&gt;#السقي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9" target="_blank"&gt;#الزراعة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AE%D9%81%D9%8A%D8%B6%D8%A7%D8%AA" target="_blank"&gt;#تخفيضات&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD" target="_blank"&gt;#الفلاح&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%A7%D8%A1" target="_blank"&gt;#الماء&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A7%D8%B6%D8%A7%D8%A1%D8%A9" target="_blank"&gt;#الاضاءة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%86%D8%A7%D8%B1%D8%A9" target="_blank"&gt;#انارة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/shopping" target="_blank"&gt;#shopping&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/morrocco" target="_blank"&gt;#morrocco&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/decoration" target="_blank"&gt;#decoration&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/dessin" target="_blank"&gt;#dessin&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/shop" target="_blank"&gt;#shop&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85" target="_blank"&gt;#الحمام&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B1%D8%A2%D8%A9" target="_blank"&gt;#مرآة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9" target="_blank"&gt;#خريبكة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AE%D8%B1%D9%8A%D8%A8%DA%AF%D8%A9" target="_blank"&gt;#خريبگة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1" target="_blank"&gt;#الدارالبيضاء&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B9%D8%AF%D8%A7%D8%AA" target="_blank"&gt;#معدات&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">soin visage شيماء لالة العروسة كوبل خريبكة</title>
+    <published>2024-06-22T17:34:40+00:00</published>
+    <updated>2024-06-22T17:34:40+00:00</updated>
+    <id>https://www.youtube.com/watch?v=DK7K2rhFGSI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DK7K2rhFGSI"/>
+    <author>
+      <name>روعة  beauty</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DK7K2rhFGSI"&gt;&lt;img src="https://img.youtube.com/vi/DK7K2rhFGSI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/%D9%84%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B3%D8%A9" target="_blank"&gt;#لالة_العروسة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/soinduvisage" target="_blank"&gt;#soinduvisage&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/beautiful" target="_blank"&gt;#beautiful&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">جولة قصيرة في مدينة خريبكة🙂❤️</title>
+    <published>2024-06-22T14:09:45+00:00</published>
+    <updated>2024-06-22T14:09:45+00:00</updated>
+    <id>https://www.youtube.com/watch?v=x4u0Zxp_H-A</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=x4u0Zxp_H-A"/>
+    <author>
+      <name>Couture Channel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=x4u0Zxp_H-A"&gt;&lt;img src="https://img.youtube.com/vi/x4u0Zxp_H-A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أرشيف: شباب خريبكة vs صقر أكادير</title>
+    <published>2024-06-22T14:03:14+00:00</published>
+    <updated>2024-06-22T14:03:14+00:00</updated>
+    <id>https://www.youtube.com/watch?v=J7XANZco4oY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=J7XANZco4oY"/>
+    <author>
+      <name>Moroccan Futsal</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=J7XANZco4oY"&gt;&lt;img src="https://img.youtube.com/vi/J7XANZco4oY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
