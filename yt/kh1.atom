@@ -4,6 +4,17 @@
   <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
   <icon>https://www.youtube.com/favicon.ico</icon>
   <entry>
+    <title type="html">أجواء ممتعة عبيدات رمى سهرة اليوم في مدينة خريبكة</title>
+    <published>2024-06-29T04:33:03+00:00</published>
+    <updated>2024-06-29T04:33:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=634NFrny_mQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=634NFrny_mQ"/>
+    <author>
+      <name>kholod alJouri</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=634NFrny_mQ"&gt;&lt;img src="https://img.youtube.com/vi/634NFrny_mQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">من مدينة خريبكة  سهرة مع الفنان الشعبي  بدر اوعبي   في إطار الانشطة الموازية للمهرجان الوطني</title>
     <published>2024-06-29T01:03:53+00:00</published>
     <updated>2024-06-29T01:03:53+00:00</updated>
@@ -251,16 +262,5 @@ filammed@gmail.com&lt;br /&gt;
       <name>RabaTurf</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=aPPVeT8VVCM"&gt;&lt;img src="https://img.youtube.com/vi/aPPVeT8VVCM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">جمعية النور للرياضات خريبكة استعداد البطلة رباب الثلاثاء 25 يونيو 2024</title>
-    <published>2024-06-26T21:50:01+00:00</published>
-    <updated>2024-06-26T21:50:01+00:00</updated>
-    <id>https://www.youtube.com/watch?v=8dSMtgKR8EQ</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8dSMtgKR8EQ"/>
-    <author>
-      <name>adil OUARDICH</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=8dSMtgKR8EQ"&gt;&lt;img src="https://img.youtube.com/vi/8dSMtgKR8EQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
