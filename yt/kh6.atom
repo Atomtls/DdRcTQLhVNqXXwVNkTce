@@ -1,111 +1,618 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <updated>2024-10-04T11:05:35+00:00</updated>
-  <author>
-    <id>urn:sha1:fdc9a37034032cee49dbfc986d099bfa01922157</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;hespress&quot;+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22hespress%22+%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 154        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(66): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(103): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 actions/DisplayAction.php(68): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(117): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(88): YoutubeBridge-&amp;gt;collectDataInternal()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(193): YoutubeBridge-&amp;gt;fetch()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(423): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(162): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(83): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 lib/http.php(154)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;hespress&amp;quot; الطلبة&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2023-09-24 (git.master.cfe3dcf)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.7    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522hespress%2522%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2584%25D8%25A8%25D8%25A9%26sp%3DCAI%25253D+in+lib%2Fhttp.php+line+154%0A%0Aindex.php%2866%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28103%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%2868%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%28117%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%2888%29%3A+YoutubeBridge-%3EcollectDataInternal%28%29%0Abridges%2FYoutubeBridge.php%28193%29%3A+YoutubeBridge-%3Efetch%28%29%0Abridges%2FYoutubeBridge.php%28423%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28162%29%3A+getContents%28%29%0Alib%2Fcontents.php%2883%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28154%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22hespress%22%2B%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+2023-09-24+%28git.master.cfe3dcf%29%0AOs%3A+Linux%0APHP+version%3A+8.2.7%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    No maintainer&lt;/p&gt;</content>
+  <title type="text">Search: "hespress" الطلبة - YouTube</title>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;hespress&quot;+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+  <icon>https://www.youtube.com/favicon.ico</icon>
+  <entry>
+    <title type="html">في إنزال وطني قوي.. طلبة الطب يتهمون ميراوي بالتعنيف ويطالبون بإسقاط الست سنوات</title>
+    <published>2024-10-05T13:43:58+00:00</published>
+    <updated>2024-10-05T13:43:58+00:00</updated>
+    <id>https://www.youtube.com/watch?v=U_V90imvJ9o</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=U_V90imvJ9o"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=U_V90imvJ9o"&gt;&lt;img src="https://img.youtube.com/vi/U_V90imvJ9o/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;في إنزال وطني قوي.. طلبة الطب يتهمون ميراوي بالتعنيف ويطالبون بإسقاط الست سنوات&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B7" target="_blank"&gt;#الرباط&lt;/a&gt;  &lt;a href="https://www.youtube.com/hashtag/%D8%B7%D9%84%D8%A8%D8%A9_%D8%A7%D9%84%D8%B7%D8%A8" target="_blank"&gt;#طلبة_الطب&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">9 أشهر من المعاناة.. آباء وأمهات طلبة الطب يساندون أبناءهم وينددون بالتجاهل</title>
+    <published>2024-10-05T13:17:21+00:00</published>
+    <updated>2024-10-05T13:17:21+00:00</updated>
+    <id>https://www.youtube.com/watch?v=dOiPoj2YhLo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=dOiPoj2YhLo"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=dOiPoj2YhLo"&gt;&lt;img src="https://img.youtube.com/vi/dOiPoj2YhLo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;9 أشهر من المعاناة.. آباء وأمهات طلبة الطب يساندون أبناءهم وينددون بالتجاهل&lt;br /&gt;
+&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B7" target="_blank"&gt;#الرباط&lt;/a&gt;  &lt;a href="https://www.youtube.com/hashtag/%D8%B7%D9%84%D8%A8%D8%A9_%D8%A7%D9%84%D8%B7%D8%A8" target="_blank"&gt;#طلبة_الطب&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة الطب الموقوفين وتطمينات ميراوي</title>
+    <published>2024-10-04T16:31:30+00:00</published>
+    <updated>2024-10-04T16:31:30+00:00</updated>
+    <id>https://www.youtube.com/watch?v=NHV3TZWzrzw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NHV3TZWzrzw"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=NHV3TZWzrzw"&gt;&lt;img src="https://img.youtube.com/vi/NHV3TZWzrzw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">شكل احتجاجي جديد ... طلبة الطب بالرباط يخلعون وزراتهم تنديدا "بالقمع" ويؤكدون مقاطعة امتحانات الغد</title>
+    <published>2024-10-04T13:30:37+00:00</published>
+    <updated>2024-10-04T13:30:37+00:00</updated>
+    <id>https://www.youtube.com/watch?v=u2B7vpBElvs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=u2B7vpBElvs"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=u2B7vpBElvs"&gt;&lt;img src="https://img.youtube.com/vi/u2B7vpBElvs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;شكل احتجاجي جديد ... طلبة الطب بالرباط يخلعون وزراتهم تنديدا "بالقمع" ويؤكدون مقاطعة امتحانات الغد&lt;br /&gt;
+&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">بين مساند لمطالب الطلبة ومساير لطرح الوزارة   آراء مواطنين مغاربة في أزمة طلبة الطب</title>
+    <published>2024-10-04T12:20:00+00:00</published>
+    <updated>2024-10-04T12:20:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_EmZ4sOKbF0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_EmZ4sOKbF0"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_EmZ4sOKbF0"&gt;&lt;img src="https://img.youtube.com/vi/_EmZ4sOKbF0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;بين مساند لمطالب الطلبة ومساير لطرح الوزارة   آراء مواطنين مغاربة في أزمة طلبة الطب&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">رسالة عميد كلية بخصوص أزمة طلبة الطب</title>
+    <published>2024-10-03T22:58:02+00:00</published>
+    <updated>2024-10-03T22:58:02+00:00</updated>
+    <id>https://www.youtube.com/watch?v=BMLbDPPSbNU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=BMLbDPPSbNU"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=BMLbDPPSbNU"&gt;&lt;img src="https://img.youtube.com/vi/BMLbDPPSbNU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">تخوف لدى الطلبة بأن الا يستطيعوا بعد ست سنوات أن يقدموا أحسن الخدمات للمريض</title>
+    <published>2024-10-03T18:15:02+00:00</published>
+    <updated>2024-10-03T18:15:02+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Ji1WPj5atJE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ji1WPj5atJE"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Ji1WPj5atJE"&gt;&lt;img src="https://img.youtube.com/vi/Ji1WPj5atJE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">بين مساند لمطالب الطلبة ومساير لطرح الوزارة.. آراء مواطنين مغاربة في أزمة طلبة الطب</title>
+    <published>2024-10-03T16:50:48+00:00</published>
+    <updated>2024-10-03T16:50:48+00:00</updated>
+    <id>https://www.youtube.com/watch?v=rxbdspJ1ut4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=rxbdspJ1ut4"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=rxbdspJ1ut4"&gt;&lt;img src="https://img.youtube.com/vi/rxbdspJ1ut4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;بين مساند لمطالب الطلبة ومساير لطرح الوزارة.. آراء مواطنين مغاربة في أزمة طلبة الطب&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عميد كلية طب يوضح أسباب أزمة الطلبة ويبرز مستجدات الملف</title>
+    <published>2024-10-03T09:49:50+00:00</published>
+    <updated>2024-10-03T09:49:50+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_AZM_tmtsw4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_AZM_tmtsw4"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_AZM_tmtsw4"&gt;&lt;img src="https://img.youtube.com/vi/_AZM_tmtsw4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عميد كلية طب يوضح أسباب أزمة الطلبة ويبرز مستجدات الملف&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الطلبة الأطباء يقررون مقاطعة الامتحانات المعلنة من قبل وزارة ميراوي</title>
+    <published>2024-10-02T21:00:33+00:00</published>
+    <updated>2024-10-02T21:00:33+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_sHLqVfQJlc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_sHLqVfQJlc"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_sHLqVfQJlc"&gt;&lt;img src="https://img.youtube.com/vi/_sHLqVfQJlc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الطلبة الأطباء يقررون مقاطعة الامتحانات المعلنة من قبل وزارة ميراوي</title>
+    <published>2024-10-02T18:00:06+00:00</published>
+    <updated>2024-10-02T18:00:06+00:00</updated>
+    <id>https://www.youtube.com/watch?v=A4X3rZhp6jc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=A4X3rZhp6jc"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=A4X3rZhp6jc"&gt;&lt;img src="https://img.youtube.com/vi/A4X3rZhp6jc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مطالبين بحل جدري للأزمة.. أساتذة الطب والصيدلة يتضامنون مع الطلبة في البيضاء</title>
+    <published>2024-10-02T14:09:59+00:00</published>
+    <updated>2024-10-02T14:09:59+00:00</updated>
+    <id>https://www.youtube.com/watch?v=EsBT5inwKp0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EsBT5inwKp0"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=EsBT5inwKp0"&gt;&lt;img src="https://img.youtube.com/vi/EsBT5inwKp0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مطالبين بحل جدري للأزمة.. أساتذة الطب والصيدلة يتضامنون مع الطلبة في البيضاء&lt;br /&gt;
+&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">هذه تفاصيل أزمة الطلبة الأطباء التي دامت حوالي عشرة أشهر</title>
+    <published>2024-10-02T10:53:27+00:00</published>
+    <updated>2024-10-02T10:53:27+00:00</updated>
+    <id>https://www.youtube.com/watch?v=vRG-wFz2SQk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=vRG-wFz2SQk"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=vRG-wFz2SQk"&gt;&lt;img src="https://img.youtube.com/vi/vRG-wFz2SQk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;هذه تفاصيل أزمة الطلبة الأطباء التي دامت حوالي عشرة أشهر&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أزمة طلبة الطب في المغرب.. عشرة أشهر من الاحتجاج والتصعيد</title>
+    <published>2024-10-01T21:07:53+00:00</published>
+    <updated>2024-10-01T21:07:53+00:00</updated>
+    <id>https://www.youtube.com/watch?v=jZsGbg9FRtc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jZsGbg9FRtc"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=jZsGbg9FRtc"&gt;&lt;img src="https://img.youtube.com/vi/jZsGbg9FRtc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;أزمة طلبة الطب تدخل شهرها العاشر.. احتجاجات واعتصامات ليلية وآلاف الطلبة في مواجهة مستقبل ضبابي!&lt;br /&gt;
+&lt;br /&gt;
+هل ستستجيب الحكومة لمطالبهم أم يستمر التصعيد؟&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%85%D9%8A%D8%B1%D8%A7%D9%88%D9%8A" target="_blank"&gt;#ميراوي&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B7%D9%84%D8%A8%D8%A9_%D8%A7%D9%84%D8%B7%D8%A8" target="_blank"&gt;#طلبة_الطب&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مكتب فرع أوطم بالرباط يساند طلبة الطب عبر وقفة آمام كلية العلوم القانونية والاجتماعية</title>
+    <published>2024-10-01T16:58:32+00:00</published>
+    <updated>2024-10-01T16:58:32+00:00</updated>
+    <id>https://www.youtube.com/watch?v=IT_yXeqiCRE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=IT_yXeqiCRE"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=IT_yXeqiCRE"&gt;&lt;img src="https://img.youtube.com/vi/IT_yXeqiCRE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مكتب فرع أوطم بالرباط يساند طلبة الطب عبر وقفة آمام كلية العلوم القانونية والاجتماعية&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الطلبة الأطباء يقررون مقاطعة الامتحانات المعلنة من قبل وزارة ميراوي</title>
+    <published>2024-10-01T14:37:50+00:00</published>
+    <updated>2024-10-01T14:37:50+00:00</updated>
+    <id>https://www.youtube.com/watch?v=0JjsG11qgwg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=0JjsG11qgwg"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=0JjsG11qgwg"&gt;&lt;img src="https://img.youtube.com/vi/0JjsG11qgwg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;الطلبة الأطباء يقررون مقاطعة الامتحانات المعلنة من قبل وزارة ميراوي&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">طلبة الطب في مراكش يستنكرون مع السلطات العمومية لاعتصام أمام كلية الطب والصيدلة في المدينة الحمراء</title>
+    <published>2024-09-28T15:06:47+00:00</published>
+    <updated>2024-09-28T15:06:47+00:00</updated>
+    <id>https://www.youtube.com/watch?v=eaUbtX3u6NU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=eaUbtX3u6NU"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=eaUbtX3u6NU"&gt;&lt;img src="https://img.youtube.com/vi/eaUbtX3u6NU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;طلبة الطب في مراكش يستنكرون مع السلطات العمومية لاعتصام أمام كلية الطب والصيدلة في المدينة الحمراء&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">محاكمة طلبة الطب بالرابط</title>
+    <published>2024-09-27T18:15:03+00:00</published>
+    <updated>2024-09-27T18:15:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=rmH9MGG-xkk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=rmH9MGG-xkk"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=rmH9MGG-xkk"&gt;&lt;img src="https://img.youtube.com/vi/rmH9MGG-xkk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#أخبار_مغربية&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">وسط حضور 25 محاميا.. تقديم طلبة الطب الموقوفين أمام النيابة العامة بالرباط بتُهم التجمهر والعصيان</title>
+    <published>2024-09-27T15:44:19+00:00</published>
+    <updated>2024-09-27T15:44:19+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9lsGHqQf3YQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9lsGHqQf3YQ"/>
+    <author>
+      <name>Hespress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9lsGHqQf3YQ"&gt;&lt;img src="https://img.youtube.com/vi/9lsGHqQf3YQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;وسط حضور 25 محاميا.. تقديم طلبة الطب الموقوفين أمام النيابة العامة بالرباط بتُهم التجمهر والعصيان&lt;br /&gt;
+...&lt;br /&gt;
+اشترك في قناة هسبريس عبر الرابط التالي &lt;a href="http://bit.ly/2nSBfHS" target="_blank"&gt;http://bit.ly/2nSBfHS&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+&lt;br /&gt;
+زوروا موقعنا للاطلاع على آخر الأخبار : &lt;a href="https://hespress.com/" target="_blank"&gt;https://hespress.com&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+تابعونا على:&lt;br /&gt;
+فيسبوك : &lt;a href="http://hes.press/facebook" target="_blank"&gt;http://hes.press/facebook&lt;/a&gt;&lt;br /&gt;
+إنستغرام : &lt;a href="https://hes.press/instagram" target="_blank"&gt;https://hes.press/instagram&lt;/a&gt;&lt;br /&gt;
+تويتر : &lt;a href="http://hes.press/twitter" target="_blank"&gt;http://hes.press/twitter&lt;/a&gt;&lt;br /&gt;
+تيليجرام: &lt;a href="http://hes.press/telegram" target="_blank"&gt;http://hes.press/telegram&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+حملوا تطبيقنا على أندرويد : &lt;a href="http://hes.press/android" target="_blank"&gt;http://hes.press/android&lt;/a&gt;&lt;br /&gt;
+حملوا تطبيقنا على آيفون : &lt;a href="http://hes.press/iOs" target="_blank"&gt;http://hes.press/iOs&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.hespress.com/" target="_blank"&gt;https://www.hespress.com&lt;/a&gt; &lt;br /&gt;
+أول جريدة إلكترونية مغربية تجدد على مدار الساعة&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3" target="_blank"&gt;#هسبريس&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/hespress" target="_blank"&gt;#Hespress&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B7%D9%84%D8%A8%D8%A9_%D8%A7%D9%84%D8%B7%D8%A8" target="_blank"&gt;#طلبة_الطب&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">القوة العمومية تفرق احتجاج الطلبة .. توقيفات بالجملة hespress في صفوف طلبة الطب في الرباط</title>
+    <published>2024-09-27T13:22:14+00:00</published>
+    <updated>2024-09-27T13:22:14+00:00</updated>
+    <id>https://www.youtube.com/watch?v=X-Gyqx-Sghk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=X-Gyqx-Sghk"/>
+    <author>
+      <name>Mustapha Elbaroudi _ مصطفى البرودي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=X-Gyqx-Sghk"&gt;&lt;img src="https://img.youtube.com/vi/X-Gyqx-Sghk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>

@@ -1,111 +1,397 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <updated>2024-10-04T11:02:16+00:00</updated>
-  <author>
-    <id>urn:sha1:fdc9a37034032cee49dbfc986d099bfa01922157</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=ocp+khouribga&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=ocp+khouribga&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 154        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(66): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(103): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 actions/DisplayAction.php(68): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(117): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(88): YoutubeBridge-&amp;gt;collectDataInternal()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(193): YoutubeBridge-&amp;gt;fetch()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(423): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(162): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(83): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 lib/http.php(154)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=ocp khouribga&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2023-09-24 (git.master.cfe3dcf)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.7    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3Docp%2Bkhouribga%26sp%3DCAI%25253D+in+lib%2Fhttp.php+line+154%0A%0Aindex.php%2866%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28103%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%2868%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%28117%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%2888%29%3A+YoutubeBridge-%3EcollectDataInternal%28%29%0Abridges%2FYoutubeBridge.php%28193%29%3A+YoutubeBridge-%3Efetch%28%29%0Abridges%2FYoutubeBridge.php%28423%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28162%29%3A+getContents%28%29%0Alib%2Fcontents.php%2883%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28154%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3Docp%2Bkhouribga%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+2023-09-24+%28git.master.cfe3dcf%29%0AOs%3A+Linux%0APHP+version%3A+8.2.7%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    No maintainer&lt;/p&gt;</content>
+  <title type="text">Search: ocp khouribga - YouTube</title>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=ocp+khouribga&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+  <icon>https://www.youtube.com/favicon.ico</icon>
+  <entry>
+    <title type="html">انجاز مغربي جديد ، تمثال ديناصور ضخم في خريبكة بدعم من ocp</title>
+    <published>2024-07-15T21:49:05+00:00</published>
+    <updated>2024-07-15T21:49:05+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9nYDcQvYf_8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9nYDcQvYf_8"/>
+    <author>
+      <name>خوك انا فالديوانة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9nYDcQvYf_8"&gt;&lt;img src="https://img.youtube.com/vi/9nYDcQvYf_8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Quartier OCP dans le stade de khouribga pour la première fois🇲🇦❤️</title>
+    <published>2024-05-20T22:02:03+00:00</published>
+    <updated>2024-05-20T22:02:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=WHuEhJS8ZSE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=WHuEhJS8ZSE"/>
+    <author>
+      <name>Romeo Kouame</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=WHuEhJS8ZSE"&gt;&lt;img src="https://img.youtube.com/vi/WHuEhJS8ZSE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Bienvenue sur ma chaîne YouTube de vlogs !&lt;br /&gt;
+&lt;br /&gt;
+ Salut tout le monde ! Si vous aimez les aventures, les découvertes et les moments d'une vie positive, alors vous êtes au bon endroit ! Je partage régulièrement des vlogs captivants qui vous emmèneront dans des lieux incroyables et vous feront vivre des expériences uniques. 👉🏾 N'oubliez pas de vous abonner et d'activer la cloche 🔔 pour ne rien manquer de mes nouvelles vidéos. Votre soutien est super important et me motive à créer encore plus de contenu de qualité pour vous ! Merci et à très vite pour de nouvelles aventures !&lt;br /&gt;
+&lt;br /&gt;
+POUR VOS SOUTIENS; JIBI MAROC: 0774762613___Koffi Kouame Romeo&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/romeokouame" target="_blank"&gt;#romeokouame&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/khouribga" target="_blank"&gt;#khouribga&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/vlogmaroc" target="_blank"&gt;#vlogmaroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/travel" target="_blank"&gt;#travel&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/morocco" target="_blank"&gt;#morocco&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/ocp" target="_blank"&gt;#ocp&lt;/a&gt; &lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/benimellal" target="_blank"&gt;#benimellal&lt;/a&gt; &lt;br /&gt;
+&lt;br /&gt;
+Rejoignez cette chaîne pour bénéficier d'avantages exclusifs :&lt;br /&gt;
+&lt;a href="https://www.youtube.com/channel/UCKrhPP3xLy2wR1HxKb60BfQ/join" target="_blank"&gt;@romeo-kouame&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الوقفة الاحتجاجية داخل المصلحة الاجتماعية OCP Khouribga : كلمة الكاتب الجهوي الأخ محمد أمين</title>
+    <published>2024-05-07T21:33:35+00:00</published>
+    <updated>2024-05-07T21:33:35+00:00</updated>
+    <id>https://www.youtube.com/watch?v=y4Xa4ZZkr84</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=y4Xa4ZZkr84"/>
+    <author>
+      <name>فوسفاطي حر TV</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=y4Xa4ZZkr84"&gt;&lt;img src="https://img.youtube.com/vi/y4Xa4ZZkr84/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">STUPÉFAIT DE LA DÉCOUVERTE OCP VILLAGE  KHOURIBGA.</title>
+    <published>2024-03-07T20:19:16+00:00</published>
+    <updated>2024-03-07T20:19:16+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9i9yLO-z0a8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9i9yLO-z0a8"/>
+    <author>
+      <name>Romeo Kouame</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9i9yLO-z0a8"&gt;&lt;img src="https://img.youtube.com/vi/9i9yLO-z0a8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Apparemment, je ne sais pas pourquoi ce beau quartier s'appelle le village.&lt;br /&gt;
+VILLAGE OCP KHOURIBGA.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/vlog" target="_blank"&gt;#vlog&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/khouribga" target="_blank"&gt;#khouribga&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/morocco" target="_blank"&gt;#morocco&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/cotedivoire" target="_blank"&gt;#cotedivoire&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">OCP CCI Khouribga</title>
+    <published>2024-02-14T18:27:16+00:00</published>
+    <updated>2024-02-14T18:27:16+00:00</updated>
+    <id>https://www.youtube.com/watch?v=ZNN-s8UVKaw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ZNN-s8UVKaw"/>
+    <author>
+      <name>Tahitsso</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=ZNN-s8UVKaw"&gt;&lt;img src="https://img.youtube.com/vi/ZNN-s8UVKaw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/ocp" target="_blank"&gt;#ocp&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/formation" target="_blank"&gt;#formation&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/apprentissage" target="_blank"&gt;#apprentissage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/developpementprofessionnel" target="_blank"&gt;#developpementprofessionnel&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/competences" target="_blank"&gt;#competences&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/metier" target="_blank"&gt;#metier&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/emploi" target="_blank"&gt;#emploi&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/avenir" target="_blank"&gt;#avenir&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/reussite" target="_blank"&gt;#reussite&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/etudiant" target="_blank"&gt;#etudiant&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/savoirfaire" target="_blank"&gt;#savoirfaire&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/funny" target="_blank"&gt;#funny&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/fyp" target="_blank"&gt;#fyp&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Recrutement OCP Maroc ( les millieures offres de travail)🔥</title>
+    <published>2023-12-28T12:47:58+00:00</published>
+    <updated>2023-12-28T12:47:58+00:00</updated>
+    <id>https://www.youtube.com/watch?v=b8zXvDZPygw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=b8zXvDZPygw"/>
+    <author>
+      <name>حمزة المومني - Hamza Elmoumni</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=b8zXvDZPygw"&gt;&lt;img src="https://img.youtube.com/vi/b8zXvDZPygw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;من خلال هذا الفيديو تعرفنا عن الطريقة الصحيحة لايجاد عمل في المكتب الشريف للفسفاط OCP، حيث قدمت لكم الطريقة الوحيدة و الصحيحة للترشيح للعمل في المكتب الشريف للفسفاط OCP.&lt;br /&gt;
+&lt;br /&gt;
+رابط الموقع المذكور في الفيديو :&lt;br /&gt;
+&lt;br /&gt;
+https://www.newsunlimit.com/2023/12/ocp-re...&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Keywords :&lt;br /&gt;
+OCP&lt;br /&gt;
+OCP recrutement &lt;br /&gt;
+Recrutement maroc&lt;br /&gt;
+المجمع الوطني للفسفاط &lt;br /&gt;
+المكتب الشريف للفسفاط &lt;br /&gt;
+العمل في المكتب الشريف للفسفاط &lt;br /&gt;
+العمل في OCP&lt;br /&gt;
+فرص عمل في OCP&lt;br /&gt;
+العمل في المغرب&lt;br /&gt;
+ايجاد عمل في المغرب</content>
+  </entry>
+  <entry>
+    <title type="html">اكبر فيلا في خريبكة للبيع فيها 2500 متر 🤩 تشبه القصر للعشاقة 🛑 Villa à Vendre à Khouribga</title>
+    <published>2023-12-18T09:41:57+00:00</published>
+    <updated>2023-12-18T09:41:57+00:00</updated>
+    <id>https://www.youtube.com/watch?v=KajZfex8ZcY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KajZfex8ZcY"/>
+    <author>
+      <name>Offre Immobilier - Khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=KajZfex8ZcY"&gt;&lt;img src="https://img.youtube.com/vi/KajZfex8ZcY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;لمزيد من المعلومات يمكنكم الإتصال مباشرة على الرقم :&lt;br /&gt;
+ 06-08-18-48-37&lt;br /&gt;
+او على  : &lt;br /&gt;
+Facebook : facebook.com/offreimmobilierkh&lt;br /&gt;
+Whatsapp : &lt;a href="https://api.whatsapp.com/send?phone=212608184837" target="_blank"&gt;https://api.whatsapp.com/send?phone=2...&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ارقى فيلا في مدينة خريبكة 🤩 تبنات بالعشاقة والخاطر 🛑&lt;br /&gt;
+العقار بالمغرب &lt;br /&gt;
+خريبكة العقار &lt;br /&gt;
+فيلا خريبكة &lt;br /&gt;
+شقة خريبكة &lt;br /&gt;
+منزل بخريبكة &lt;br /&gt;
+مدينة الفوسفاط &lt;br /&gt;
+حي المكتب الشريف للفوسفاط &lt;br /&gt;
+فيلا رائعة &lt;br /&gt;
+ثمن مناسب&lt;br /&gt;
+خريبكة&lt;br /&gt;
+صيدلية الحراسة خريبكة اليوم&lt;br /&gt;
+شقق ممتازة&lt;br /&gt;
+الكتاني للعقار &lt;br /&gt;
+مغاربة إيطاليا&lt;br /&gt;
+شقق فاخرة للبيع&lt;br /&gt;
+شقق الفقيه بن صالح &lt;br /&gt;
+شقق بازيلال&lt;br /&gt;
+ازيلال&lt;br /&gt;
+شقق أبي الجعد&lt;br /&gt;
+شقق وادي زم&lt;br /&gt;
+واد زم&lt;br /&gt;
+khouribga villa&lt;br /&gt;
+khouribga immobilier&lt;br /&gt;
+khouribga maison&lt;br /&gt;
+khouribga appartement &lt;br /&gt;
+ocp khouribga&lt;br /&gt;
+Khouribga&lt;br /&gt;
+village khouribga&lt;br /&gt;
+&lt;br /&gt;
+kettani immobilier&lt;br /&gt;
+maison a vendre khouribga&lt;br /&gt;
+avito khouribga maison a vendre&lt;br /&gt;
+villa a vendre khouribga&lt;br /&gt;
+avito khouribga maison a louer&lt;br /&gt;
+soukimmobilier khouribga&lt;br /&gt;
+avito immobilier khouribga&lt;br /&gt;
+avito terrain a vendre khouribga&lt;br /&gt;
+chambre a louer khouribga avito &lt;br /&gt;
+khouribga avito</content>
+  </entry>
+  <entry>
+    <title type="html">OCP INSIDER - African Film Festival in Khouribga</title>
+    <published>2023-12-05T16:40:26+00:00</published>
+    <updated>2023-12-05T16:40:26+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2wo8AYE1-vc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2wo8AYE1-vc"/>
+    <author>
+      <name>Arsystems</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2wo8AYE1-vc"&gt;&lt;img src="https://img.youtube.com/vi/2wo8AYE1-vc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Basketball. NBA Africa et le Groupe OCP lancent la ligue Jr NBA à Benguerir à Khouribga</title>
+    <published>2023-10-26T17:50:57+00:00</published>
+    <updated>2023-10-26T17:50:57+00:00</updated>
+    <id>https://www.youtube.com/watch?v=fzLgH7NVNOg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=fzLgH7NVNOg"/>
+    <author>
+      <name>L&amp;#39;Observateur du Maroc et d&amp;#39;Afrique</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=fzLgH7NVNOg"&gt;&lt;img src="https://img.youtube.com/vi/fzLgH7NVNOg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Après une première édition en 2019, NBA Africa et le Groupe OCP ont lancé, samedi 14 octobre, la deuxième ligue Jr NBA à Benguérir et Khouribga.&lt;br /&gt;
+&lt;br /&gt;
+Plus d'infos : https://lobservateur.info/article/108319&lt;br /&gt;
+&lt;br /&gt;
+Reportage vidéo  : Khalid Chouri</content>
+  </entry>
+  <entry>
+    <title type="html">Basketball. NBA Africa et le Groupe OCP lancent la ligue Jr NBA à Benguerir à Khouribga</title>
+    <published>2023-10-24T18:05:23+00:00</published>
+    <updated>2023-10-24T18:05:23+00:00</updated>
+    <id>https://www.youtube.com/watch?v=OM5uADG85cM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OM5uADG85cM"/>
+    <author>
+      <name>L&amp;#39;Observateur du Maroc et d&amp;#39;Afrique</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=OM5uADG85cM"&gt;&lt;img src="https://img.youtube.com/vi/OM5uADG85cM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Après une première édition en 2019, NBA Africa et le Groupe OCP ont lancé, samedi 14 octobre, la deuxième ligue Jr NBA à Benguérir et Khouribga.&lt;br /&gt;
+&lt;br /&gt;
+Plus d'infos : https://lobservateur.info/article/108319&lt;br /&gt;
+&lt;br /&gt;
+Reportage vidéo  : Khalid Chouri</content>
+  </entry>
+  <entry>
+    <title type="html">OCP x Jr.NBA Coaches Academy in Khouribga</title>
+    <published>2023-10-19T15:06:37+00:00</published>
+    <updated>2023-10-19T15:06:37+00:00</updated>
+    <id>https://www.youtube.com/watch?v=NQbSd9AvUAY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=NQbSd9AvUAY"/>
+    <author>
+      <name>NBA Africa</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=NQbSd9AvUAY"&gt;&lt;img src="https://img.youtube.com/vi/NQbSd9AvUAY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;The OCP Group and NBA Africa launched Jr. NBA Leagues in Ben Guerir  and Khouribga on October 14-15, 2023 the basketball development program is targeted at the youth of Morocco , with the aim of making basketball more accessible.</content>
+  </entry>
+  <entry>
+    <title type="html">🎥 Dessalement d’eau de mer : le groupe OCP met les bouchées doubles</title>
+    <published>2023-08-04T08:00:12+00:00</published>
+    <updated>2023-08-04T08:00:12+00:00</updated>
+    <id>https://www.youtube.com/watch?v=MwNuB41RFj8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=MwNuB41RFj8"/>
+    <author>
+      <name>EcoActu Eco</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=MwNuB41RFj8"&gt;&lt;img src="https://img.youtube.com/vi/MwNuB41RFj8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#flame #ock #youtubeshorts #shortvideo #instagram #khouribga #خريبكة #احتفال #احتفالات #ocp</title>
+    <published>2023-06-13T21:43:38+00:00</published>
+    <updated>2023-06-13T21:43:38+00:00</updated>
+    <id>https://www.youtube.com/watch?v=lUctBuAvfPk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=lUctBuAvfPk"/>
+    <author>
+      <name>maryem sulaiman مريم سليمان</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=lUctBuAvfPk"&gt;&lt;img src="https://img.youtube.com/vi/lUctBuAvfPk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مصنع #خريبكة ocp</title>
+    <published>2023-05-04T10:43:34+00:00</published>
+    <updated>2023-05-04T10:43:34+00:00</updated>
+    <id>https://www.youtube.com/watch?v=H1dZTRH0CZ0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=H1dZTRH0CZ0"/>
+    <author>
+      <name>Ayoub vlogs khouribga</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=H1dZTRH0CZ0"&gt;&lt;img src="https://img.youtube.com/vi/H1dZTRH0CZ0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Laverie Beni Amir (OCP)</title>
+    <published>2023-02-09T16:52:47+00:00</published>
+    <updated>2023-02-09T16:52:47+00:00</updated>
+    <id>https://www.youtube.com/watch?v=m8Hx21jOxy4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=m8Hx21jOxy4"/>
+    <author>
+      <name>Tahitsso</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=m8Hx21jOxy4"&gt;&lt;img src="https://img.youtube.com/vi/m8Hx21jOxy4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.youtube.com/hashtag/aloula" target="_blank"&gt;#aloula&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/khouribga" target="_blank"&gt;#khouribga&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/ocp" target="_blank"&gt;#ocp&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/youtube" target="_blank"&gt;#youtube&lt;/a&gt;&lt;br /&gt;
+تأسس المكتب الشريف للفوسفاط في المملكة المغربية عام 1920، بعد اكتشاف كميات كبيرة من خام الفوسفات في منطقة خريبكة ووجدة في المغرب. وقد تم تأسيس المكتب بموجب اتفاق بين الحكومة المغربية وشركة كومباني دو كرايك للاستكشاف والتعدين.&lt;br /&gt;
+&lt;br /&gt;
+وفي عام 1962، تم استحداث الشركة المغربية للفوسفاط (OCP) كشركة مستقلة مملوكة للدولة المغربية، وتم نقل جميع أصول المكتب الشريف للفوسفاط إلى OCP.&lt;br /&gt;
+&lt;br /&gt;
+منذ تأسيسه وحتى الآن، يعتبر OCP أحد أكبر منتجي الفوسفات في العالم ويساهم بشكل كبير في اقتصاد المغرب وتوفير فرص العمل للمغاربة. ويستخدم الفوسفات الذي ينتجه OCP في العديد من التطبيقات، بما في ذلك صناعة الأسمدة والأدوية والمبيدات الحشرية والأسمنت.</content>
+  </entry>
+  <entry>
+    <title type="html">جولة بشوارع الفيلاج الأوروبية الرائعة و الهادئة ، خريبكة 2022 Khouribga village européen</title>
+    <published>2022-11-22T19:33:59+00:00</published>
+    <updated>2022-11-22T19:33:59+00:00</updated>
+    <id>https://www.youtube.com/watch?v=hy8MgLdOy4A</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hy8MgLdOy4A"/>
+    <author>
+      <name>جوّال خريبكَة - Jawal khouribga officiel</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hy8MgLdOy4A"&gt;&lt;img src="https://img.youtube.com/vi/hy8MgLdOy4A/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#qatar #live #explorepage #coaching #football #khouribga #ocp #cardio #performance#nabilfitcross</title>
+    <published>2022-11-20T17:40:47+00:00</published>
+    <updated>2022-11-20T17:40:47+00:00</updated>
+    <id>https://www.youtube.com/watch?v=wSCdJKa0VGA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=wSCdJKa0VGA"/>
+    <author>
+      <name>Nabil Fitcross</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=wSCdJKa0VGA"&gt;&lt;img src="https://img.youtube.com/vi/wSCdJKa0VGA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Traitement des eaux usées: à la station d'épuration du Groupe OCP à Khouribga, rien ne se perd</title>
+    <published>2022-11-19T18:22:28+00:00</published>
+    <updated>2022-11-19T18:22:28+00:00</updated>
+    <id>https://www.youtube.com/watch?v=OMBdJ9dnJLY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=OMBdJ9dnJLY"/>
+    <author>
+      <name>Le360</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=OMBdJ9dnJLY"&gt;&lt;img src="https://img.youtube.com/vi/OMBdJ9dnJLY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Mise en service début 2010 par le groupe OCP, la station d'épuration des eaux usées de Khouribga permet de produire annuellement 5 millions de m3 d'eau non conventionnelle. Traitées selon un procédé d’épuration biologique qui consiste en l’élimination de la pollution carbonée, les eaux épurées en sortie de la station sont utilisées dans les activités minières d’OCP dans la région. La station permet par ailleurs le traitement des boues pour usage agricole, ainsi que la production du gaz qui sert à alimenter la station en électricité.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://bit.ly/3CNveEf" target="_blank"&gt;https://bit.ly/3CNveEf&lt;/a&gt; للاشتراك في القناة  : &lt;br /&gt;
+&lt;a href="https://le360.ma/" target="_blank"&gt;https://le360.ma&lt;/a&gt; زوروا موقعنا  : &lt;br /&gt;
+&lt;br /&gt;
+يمكنكم مشاركة آرائكم في صندوق التعليقات&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.facebook.com/le360ar" target="_blank"&gt;le360ar&lt;/a&gt; فيسبوك  : &lt;br /&gt;
+&lt;a href="https://www.instagram.com/le360ar" target="_blank"&gt;le360ar&lt;/a&gt; إنستغرام  : &lt;br /&gt;
+&lt;a href="https://twitter.com/le360ar" target="_blank"&gt;le360ar&lt;/a&gt; تويتر  : &lt;br /&gt;
+&lt;a href="https://t.me/le360ar" target="_blank"&gt;https://t.me/le360ar&lt;/a&gt; تلغرام  : &lt;br /&gt;
+&lt;br /&gt;
+---&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/le360" target="_blank"&gt;#Le360&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/360" target="_blank"&gt;#360&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#أخبار_المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">Le "programme eau" de l'OCP se renforce par quatre nouveaux projets</title>
+    <published>2022-11-17T14:35:13+00:00</published>
+    <updated>2022-11-17T14:35:13+00:00</updated>
+    <id>https://www.youtube.com/watch?v=-GNQrdo-LTs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=-GNQrdo-LTs"/>
+    <author>
+      <name>Le360</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=-GNQrdo-LTs"&gt;&lt;img src="https://img.youtube.com/vi/-GNQrdo-LTs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;Afin d’accompagner les efforts nationaux visant à faire face au stress hydrique, le Groupe OCP a décidé d’accélérer son «programme eau». Quatre nouveaux projets de traitement des eaux usées verront bientôt le jour. L’objectif est de couvrir 100% des besoins hydriques du groupe, à partir de ressources non conventionnelles à l'horizon 2026.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://bit.ly/3CNveEf" target="_blank"&gt;https://bit.ly/3CNveEf&lt;/a&gt; للاشتراك في القناة  : &lt;br /&gt;
+&lt;a href="https://le360.ma/" target="_blank"&gt;https://le360.ma&lt;/a&gt; زوروا موقعنا  : &lt;br /&gt;
+&lt;br /&gt;
+يمكنكم مشاركة آرائكم في صندوق التعليقات&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.facebook.com/le360ar" target="_blank"&gt;le360ar&lt;/a&gt; فيسبوك  : &lt;br /&gt;
+&lt;a href="https://www.instagram.com/le360ar" target="_blank"&gt;le360ar&lt;/a&gt; إنستغرام  : &lt;br /&gt;
+&lt;a href="https://twitter.com/le360ar" target="_blank"&gt;le360ar&lt;/a&gt; تويتر  : &lt;br /&gt;
+&lt;a href="https://t.me/le360ar" target="_blank"&gt;https://t.me/le360ar&lt;/a&gt; تلغرام  : &lt;br /&gt;
+&lt;br /&gt;
+---&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/le360" target="_blank"&gt;#Le360&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/360" target="_blank"&gt;#360&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#أخبار_المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/ocp" target="_blank"&gt;#OCP&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مغراوي ابراهيم : مدير الصناعات خريبكة وأحد أكبر رموز الفساد في OCP</title>
+    <published>2022-09-20T15:00:08+00:00</published>
+    <updated>2022-09-20T15:00:08+00:00</updated>
+    <id>https://www.youtube.com/watch?v=EPQZFoI9fjA</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EPQZFoI9fjA"/>
+    <author>
+      <name>Bo7ati</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=EPQZFoI9fjA"&gt;&lt;img src="https://img.youtube.com/vi/EPQZFoI9fjA/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مغراوي ابراهيم : مدير الصناعات خريبكة وأحد أكبر رموز الفساد في OCP&lt;br /&gt;
+جمع بين الفساد الاخلاقي و المالي، واحد من كبار الشفارا في اوساط الفوسفاط&lt;br /&gt;
+Mohammed 6&lt;br /&gt;
+ocp maroc,&lt;br /&gt;
+MAROC&lt;br /&gt;
+sahara marocain&lt;br /&gt;
+maroc&lt;br /&gt;
+maroc vs algérie&lt;br /&gt;
+maroc vs algerie,mohammed  6&lt;br /&gt;
+morocco&lt;br /&gt;
+king mohammed vi&lt;br /&gt;
+ocp&lt;br /&gt;
+phosphate&lt;br /&gt;
+الأنباء المغربية&lt;br /&gt;
+عاجل,فضيحة حصريا&lt;br /&gt;
+الرجاء الرياضي&lt;br /&gt;
+الوداد البيضاوي&lt;br /&gt;
+يوتيوب&lt;br /&gt;
+المغرب&lt;br /&gt;
+أخبار اليوم&lt;br /&gt;
+actualité,anbaetv&lt;br /&gt;
+من هو عزيز اخنوش&lt;br /&gt;
+بنكيران,التجمع الوطني للأحرار&lt;br /&gt;
+رئيس الحكومة&lt;br /&gt;
+عزيز اخنوش&lt;br /&gt;
+سعد الدين العثماني&lt;br /&gt;
+شوف tv&lt;br /&gt;
+شوف تيفي&lt;br /&gt;
+إدريس لشكر&lt;br /&gt;
+عبد الإله بنكيران&lt;br /&gt;
+الملك&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/maroc" target="_blank"&gt;#maroc&lt;/a&gt;    &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/ocp" target="_blank"&gt;#ocp&lt;/a&gt;  &lt;a href="https://www.youtube.com/hashtag/news" target="_blank"&gt;#news&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1" target="_blank"&gt;#أخبار&lt;/a&gt;</content>
   </entry>
 </feed>
