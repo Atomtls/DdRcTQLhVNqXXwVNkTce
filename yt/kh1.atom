@@ -1,111 +1,272 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <updated>2025-02-16T20:00:55+00:00</updated>
-  <author>
-    <id>urn:sha1:aa0551a5e19ecc2984368d3bd664d99573ca5381</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 154        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(66): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(103): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 actions/DisplayAction.php(68): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(117): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(88): YoutubeBridge-&amp;gt;collectDataInternal()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(193): YoutubeBridge-&amp;gt;fetch()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(423): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(162): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(83): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 lib/http.php(154)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2023-09-24 (git.master.cfe3dcf)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.7    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26sp%3DCAI%25253D+in+lib%2Fhttp.php+line+154%0A%0Aindex.php%2866%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28103%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%2868%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%28117%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%2888%29%3A+YoutubeBridge-%3EcollectDataInternal%28%29%0Abridges%2FYoutubeBridge.php%28193%29%3A+YoutubeBridge-%3Efetch%28%29%0Abridges%2FYoutubeBridge.php%28423%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28162%29%3A+getContents%28%29%0Alib%2Fcontents.php%2883%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28154%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+2023-09-24+%28git.master.cfe3dcf%29%0AOs%3A+Linux%0APHP+version%3A+8.2.7%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    No maintainer&lt;/p&gt;</content>
+  <title type="text">Search: "خريبكة" - YouTube</title>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+  <icon>https://www.youtube.com/favicon.ico</icon>
+  <entry>
+    <title type="html">الملتقى القرآني السنوي الثالث بمسجد الامام مسلم خريبكة</title>
+    <published>2025-02-17T19:48:32+00:00</published>
+    <updated>2025-02-17T19:48:32+00:00</updated>
+    <id>https://www.youtube.com/watch?v=t5xyEd5_f0M</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=t5xyEd5_f0M"/>
+    <author>
+      <name>mosque imam moslim</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=t5xyEd5_f0M"&gt;&lt;img src="https://img.youtube.com/vi/t5xyEd5_f0M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;الملتقى القرآني الثالث بمسجد الامام مسلم بخريبكة</content>
+  </entry>
+  <entry>
+    <title type="html">حبيب ليولفو كلبي ياحصرة 0660834612 #خريبكة #إيطاليا #فرنسا #شعبي #اسبانيا #المغرب #البروج #تيك_توك</title>
+    <published>2025-02-17T17:44:46+00:00</published>
+    <updated>2025-02-17T17:44:46+00:00</updated>
+    <id>https://www.youtube.com/watch?v=5K3yjDxnWSU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5K3yjDxnWSU"/>
+    <author>
+      <name>نجوم بني مسكين - Stars Bni Meskin</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5K3yjDxnWSU"&gt;&lt;img src="https://img.youtube.com/vi/5K3yjDxnWSU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الدورة الثامنة نهضة ابن مسيك vs شباب خريبكة 2024 2025</title>
+    <published>2025-02-17T17:25:22+00:00</published>
+    <updated>2025-02-17T17:25:22+00:00</updated>
+    <id>https://www.youtube.com/watch?v=UBdRoLT-wJo</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=UBdRoLT-wJo"/>
+    <author>
+      <name>Moroccan Futsal</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=UBdRoLT-wJo"&gt;&lt;img src="https://img.youtube.com/vi/UBdRoLT-wJo/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الوداد السوسي ضد إتحاد خريبكة</title>
+    <published>2025-02-17T17:24:00+00:00</published>
+    <updated>2025-02-17T17:24:00+00:00</updated>
+    <id>https://www.youtube.com/watch?v=mB_iN1ZdB98</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=mB_iN1ZdB98"/>
+    <author>
+      <name>Moroccan Futsal</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=mB_iN1ZdB98"&gt;&lt;img src="https://img.youtube.com/vi/mB_iN1ZdB98/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">شباب علم طنجة   شباب خريبكة 2024-2025</title>
+    <published>2025-02-17T17:18:26+00:00</published>
+    <updated>2025-02-17T17:18:26+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zALLA1I52YE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zALLA1I52YE"/>
+    <author>
+      <name>Moroccan Futsal</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zALLA1I52YE"&gt;&lt;img src="https://img.youtube.com/vi/zALLA1I52YE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">لقاء حول أهمية التشخيص الطبي للإعاقة بمدينة حطان خريبكة</title>
+    <published>2025-02-17T15:22:24+00:00</published>
+    <updated>2025-02-17T15:22:24+00:00</updated>
+    <id>https://www.youtube.com/watch?v=fEP_42xUQq4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=fEP_42xUQq4"/>
+    <author>
+      <name>Tanwer - تنوير</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=fEP_42xUQq4"&gt;&lt;img src="https://img.youtube.com/vi/fEP_42xUQq4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;اشترك في قناة جريدة تنوير عبر الرابط التالي&lt;br /&gt;
+ &lt;a href="https://bit.ly/3qNVrLQ" target="_blank"&gt;https://bit.ly/3qNVrLQ&lt;/a&gt;&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+  يمكنكم متابعتنا على : &lt;br /&gt;
+زوروا موقعنا : &lt;a href="https://tanwer.ma/" target="_blank"&gt;https://tanwer.ma&lt;/a&gt;&lt;br /&gt;
+فيسبوك :&lt;a href="https://bit.ly/39ieMA4" target="_blank"&gt;https://bit.ly/39ieMA4&lt;/a&gt;&lt;br /&gt;
+إنستغرام :&lt;a href="https://bit.ly/3zCqHmP" target="_blank"&gt;https://bit.ly/3zCqHmP&lt;/a&gt;&lt;br /&gt;
+للاطلاع على آخر الأخبار</content>
+  </entry>
+  <entry>
+    <title type="html">جولة مع ابو شيماء يوسف ب خريبكة عاصمة الفوسفاط تبارك الله #ماشاءاللــّٰـــــه #بارطاجي #احلى #مت</title>
+    <published>2025-02-17T14:19:06+00:00</published>
+    <updated>2025-02-17T14:19:06+00:00</updated>
+    <id>https://www.youtube.com/watch?v=9S-pEFLbzMM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=9S-pEFLbzMM"/>
+    <author>
+      <name>Canal _abouchaimae</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=9S-pEFLbzMM"&gt;&lt;img src="https://img.youtube.com/vi/9S-pEFLbzMM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">في خاطر ناس الغربة باب ديوانة 0660834612 #خريبكة #إيطاليا#فرنسا #شعبي#اسبانيا#المغرب#السعودية#البروج</title>
+    <published>2025-02-16T22:22:01+00:00</published>
+    <updated>2025-02-16T22:22:01+00:00</updated>
+    <id>https://www.youtube.com/watch?v=n08grNiyyzI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=n08grNiyyzI"/>
+    <author>
+      <name>نجوم بني مسكين - Stars Bni Meskin</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=n08grNiyyzI"&gt;&lt;img src="https://img.youtube.com/vi/n08grNiyyzI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عبيدات الرمى خريبكة//الصيادة//حفل النشاط حتى شاط</title>
+    <published>2025-02-16T20:11:43+00:00</published>
+    <updated>2025-02-16T20:11:43+00:00</updated>
+    <id>https://www.youtube.com/watch?v=SYHmie7xgGw</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=SYHmie7xgGw"/>
+    <author>
+      <name>Fbs Fbs</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=SYHmie7xgGw"&gt;&lt;img src="https://img.youtube.com/vi/SYHmie7xgGw/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">دامة خريبكة</title>
+    <published>2025-02-16T20:08:11+00:00</published>
+    <updated>2025-02-16T20:08:11+00:00</updated>
+    <id>https://www.youtube.com/watch?v=WxRqRRulrAI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=WxRqRRulrAI"/>
+    <author>
+      <name>Jogodama</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=WxRqRRulrAI"&gt;&lt;img src="https://img.youtube.com/vi/WxRqRRulrAI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">دامة خريبكة</title>
+    <published>2025-02-16T20:07:27+00:00</published>
+    <updated>2025-02-16T20:07:27+00:00</updated>
+    <id>https://www.youtube.com/watch?v=716jqLmm_ak</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=716jqLmm_ak"/>
+    <author>
+      <name>Jogodama</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=716jqLmm_ak"&gt;&lt;img src="https://img.youtube.com/vi/716jqLmm_ak/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">دامة خريبكة</title>
+    <published>2025-02-16T18:58:23+00:00</published>
+    <updated>2025-02-16T18:58:23+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Jt3EveqDw2w</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Jt3EveqDw2w"/>
+    <author>
+      <name>Jogodama</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Jt3EveqDw2w"&gt;&lt;img src="https://img.youtube.com/vi/Jt3EveqDw2w/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">تبرك الله مدينة خريبكة سبحان الله</title>
+    <published>2025-02-16T18:15:54+00:00</published>
+    <updated>2025-02-16T18:15:54+00:00</updated>
+    <id>https://www.youtube.com/watch?v=7vJMdqDMbpU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=7vJMdqDMbpU"/>
+    <author>
+      <name>aya</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=7vJMdqDMbpU"&gt;&lt;img src="https://img.youtube.com/vi/7vJMdqDMbpU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">كفاش حصلو جريمة خريبكة مجرم وخليلته كيسرقو شاحنات بطريقة احترافية عبد القادر الخراز يحكي</title>
+    <published>2025-02-16T18:15:59+00:00</published>
+    <updated>2025-02-16T18:15:59+00:00</updated>
+    <id>https://www.youtube.com/watch?v=nfZwq7x6loI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=nfZwq7x6loI"/>
+    <author>
+      <name>محبي الخراز</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=nfZwq7x6loI"&gt;&lt;img src="https://img.youtube.com/vi/nfZwq7x6loI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;كفاش حصلو جريمة خريبكة مجرم وخليلته كيسرقو شاحنات بطريقة احترافية عبد القادر الخراز يحكي&lt;br /&gt;
+&lt;br /&gt;
+أهلاً بكم في حلقتنا الجديدة "حلقة الغد شيقة"، حيث نغوص في عالم الألغاز والجرائم الحقيقية. في هذه الحلقة، سنستكشف بعضًا من أكثر القضايا إثارة للاهتمام وتعقيدًا والتي ستتركك على حافة مقعدك. من أسرار مسارح الجريمة إلى التحقيقات التي أدت إلى الحقيقة، سنكشف عن التفاصيل التي ستصدمك وتدهشك. انضم إلينا بينما نتعمق في عالم قصص الجرائم الحقيقية والأحداث الغامضة التي ستبقيك في حيرة حتى النهاية. من خلال تحليلنا الخبير وأبحاثنا المتعمقة، سنلقي الضوء على أكثر القضايا المحيرة التي حيرت المحققين والعامة على حد سواء. لذا، استعد لتجربة إثارة المطاردة والرضا عن حل اللغز. لا تفوت هذه الحلقة الممتعة التي ستأخذك في رحلة اكتشاف وإثارة.&lt;br /&gt;
+ &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%B2" target="_blank"&gt;#الخراز&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A%D8%A7%D8%AA" target="_blank"&gt;#تحريات&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84" target="_blank"&gt;#كيفاش_حصل&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%83%D8%B3%D8%A8%D9%84%D9%88%D8%B1" target="_blank"&gt;#اكسبلور&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%B2" target="_blank"&gt;#عبدالقادرالخراز&lt;/a&gt;  &lt;a href="https://www.youtube.com/hashtag/%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84" target="_blank"&gt;#كيفاش_حصل&lt;/a&gt;  &lt;a href="https://www.youtube.com/hashtag/kifache_hsal" target="_blank"&gt;#kifache_hsal&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8" target="_blank"&gt;#المغرب&lt;/a&gt; &lt;br /&gt;
+ &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D8%AC%D8%B1%D8%A7%D8%A6%D9%85_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#قصص_جرائم_مغربية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/kharaz" target="_blank"&gt;#kharaz&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9" target="_blank"&gt;#قصص_بوليسية&lt;/a&gt; &lt;br /&gt;
+تهتم قناتنا بحصر كل أنواع الجريمة وأصنافها ،من جرائم القتل ،وجرائم السرقة ،وجرائم الإغتصاب، و جرائم السطو المسلح،  وجرائم سرقة  البنوك، و جرائم النصب والإحتيال ،والبركاج، والهروب من السجون، نقدم كل هاته الجرائم في قالب خاص به نوع من الحبكة والتشويق،&lt;br /&gt;
+ &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%BA%D8%A7%D9%85%D8%B6%D8%A9_%D8%AA%D9%85_%D8%AD%D9%84%D9%87%D8%A7" target="_blank"&gt;#قضايا_غامضة_تم_حلها&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%AD%D9%84_%D9%84%D8%BA%D8%B2_%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D9%85%D8%B9%D9%82%D8%AF%D8%A9" target="_blank"&gt;#حل_لغز_قضايا_معقدة&lt;/a&gt;&lt;br /&gt;
+ &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9" target="_blank"&gt;#قصص_واقعية&lt;/a&gt;&lt;br /&gt;
+ &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9_%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9" target="_blank"&gt;#قصص_بوليسية_واقعية&lt;/a&gt;&lt;br /&gt;
+ &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9" target="_blank"&gt;#قصص_بوليسية&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%BA%D8%A7%D9%85%D8%B6%D8%A9" target="_blank"&gt;#قضايا_غامضة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%AA%D8%AD%D9%82%D9%8A%D9%82" target="_blank"&gt;#قضايا_تحقيق&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%A7%D8%AE%D9%8A%D8%B1%D8%A7_%D8%AA%D9%85_%D8%AD%D9%84%D9%87%D8%A7" target="_blank"&gt;#قضايا_اخيرا_تم_حلها&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D9%85%D8%B9%D9%82%D8%AF%D8%A9_%D8%AA%D9%85_%D8%AD%D9%84%D9%87%D8%A7" target="_blank"&gt;#قضايا_معقدة_تم_حلها&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%BA%D8%A7%D9%85%D8%B6%D8%A9_%D8%AA%D9%85_%D8%AD%D9%84%D9%87%D8%A7" target="_blank"&gt;#قضايا_غامضة_تم_حلها&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D9%85%D8%AD%D9%8A%D8%B1%D8%A9" target="_blank"&gt;#قضايا_محيرة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D9%85%D8%AD%D9%84%D9%88%D9%84%D8%A9" target="_blank"&gt;#قضايا_محلولة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9" target="_blank"&gt;#قضايا_الساعة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84" target="_blank"&gt;#قضايا_كيفاش_حصل&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84" target="_blank"&gt;#كيفاش_حصل&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/kifach_7sal" target="_blank"&gt;#kifach_7sal&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/kifache_hsal" target="_blank"&gt;#kifache_hsal&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%86%D9%88%D9%85" target="_blank"&gt;#قصص_قبل_النوم&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D9%88%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9" target="_blank"&gt;#قصص_وروايات_بوليسية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%85%D9%84%D9%81%D8%A7%D8%AA_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9" target="_blank"&gt;#ملفات_بوليسية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%85%D9%84%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9" target="_blank"&gt;#ملفات_الشرطة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A" target="_blank"&gt;#تحري&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A_%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D9%85%D8%A9" target="_blank"&gt;#تحري_الجريمة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%BA%D8%A7%D9%85%D8%B6%D8%A9_%D8%AA%D9%85_%D8%AD%D9%84%D9%87%D8%A7" target="_blank"&gt;#قضايا_غامضة_تم_حلها&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9_%D9%85%D8%B9%D9%82%D8%AF%D8%A9" target="_blank"&gt;#قضايا_بوليسية_معقدة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AD%D9%84_%D9%84%D8%BA%D8%B2_%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D9%85%D8%B9%D9%82%D8%AF%D8%A9" target="_blank"&gt;#حل_لغز_قضايا_معقدة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AD%D9%84_%D9%84%D8%BA%D8%B2%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D9%85%D8%A9" target="_blank"&gt;#حل_لغزالجريمة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84" target="_blank"&gt;#قصص_كيفاش_حصل&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D9%86%D8%A7%D8%A9_%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84" target="_blank"&gt;#قناة_كيفاش_حصل&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D8%AD%D8%B1%D9%8A%D8%A7%D8%AA" target="_blank"&gt;#قناة_تحريات&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A%D8%A7%D8%AA_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9" target="_blank"&gt;#تحريات_بوليسية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9" target="_blank"&gt;#قصص_بوليسية_مغربية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9_%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9" target="_blank"&gt;#قصص_بوليسية_واقعية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/kifache_hsal" target="_blank"&gt;#kifache_hsal&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A" target="_blank"&gt;#تحري&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9_%D8%AD%D9%82%D9%8A%D9%82%D9%8A%D8%A9" target="_blank"&gt;#قصص_بوليسية_حقيقية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AD%D9%84_%D9%84%D8%BA%D8%B2_%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D9%85%D8%B9%D9%82%D8%AF%D8%A9" target="_blank"&gt;#حل_لغز_قضايا_معقدة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AC%D8%B1%D8%A7%D8%A6%D9%85_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%86%D9%82%D8%B9%D8%A7%D8%AA" target="_blank"&gt;#جرائم_المستنقعات&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D9%86%D8%A7%D8%A9_%D9%83%D9%8A%D9%81%D8%A7%D8%B4" target="_blank"&gt;#قناة_كيفاش&lt;/a&gt; _حصل &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B5%D8%B5_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9_%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84" target="_blank"&gt;#قصص_بوليسية_كيفاش_حصل&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/tahariyat" target="_blank"&gt;#tahariyat&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84" target="_blank"&gt;#كيفاش_حصل&lt;/a&gt; وتا &lt;a href="https://www.youtube.com/hashtag/%D9%83%D9%8A%D9%81%D8%A7%D8%B4_%D8%AD%D8%B5%D9%84_%D8%AD%D9%84%D9%82%D8%A9_%D8%A7%D9%84%D9%8A%D9%88%D9%85" target="_blank"&gt;#كيفاش_حصل_حلقة_اليوم&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/tahariyat_2024" target="_blank"&gt;#tahariyat_2024&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A%D8%A7%D8%AA_2025" target="_blank"&gt;#تحريات_2025&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9_%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9" target="_blank"&gt;#تحريات_الشرطة_القضائية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9" target="_blank"&gt;#تحريات_الشرطة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AA%D8%AD%D8%B1%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D9%85%D8%A9" target="_blank"&gt;#تحريات_الجريمة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%AA%D8%AD%D9%82%D9%8A%D9%82" target="_blank"&gt;#قضايا_تحقيق&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AC%D8%B1%D8%A7%D8%A6%D9%85_%D8%BA%D8%A7%D9%85%D8%B6%D8%A9" target="_blank"&gt;#جرائم_غامضة&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9" target="_blank"&gt;#روايات_بوليسية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D9%8A%D8%A9" target="_blank"&gt;#حكايات_بوليسية&lt;/a&gt; &lt;a href="https://www.youtube.com/hashtag/%D9%82%D8%B6%D8%A7%D9%8A%D8%A7_%D8%A7%D9%84%D8%AF%D8%B1%D9%83_%D8%A7%D9%84%D9%85%D9%84%D9%83" target="_blank"&gt;#قضايا_الدرك_الملك&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">16 فبراير مدينة خريبكة</title>
+    <published>2025-02-16T17:16:04+00:00</published>
+    <updated>2025-02-16T17:16:04+00:00</updated>
+    <id>https://www.youtube.com/watch?v=k3iCtYjkrqY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=k3iCtYjkrqY"/>
+    <author>
+      <name>fatima Kawar</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=k3iCtYjkrqY"&gt;&lt;img src="https://img.youtube.com/vi/k3iCtYjkrqY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">📢 جديد عند سعيد خريبكة 🔥اجيونتولعو 👀 ونتعرفوعلى اتمنه 💰 جميع انواع الطيور 🦜 الكناري 🐦 والزنس 🦜 فرجه🔔</title>
+    <published>2025-02-16T13:43:15+00:00</published>
+    <updated>2025-02-16T13:43:15+00:00</updated>
+    <id>https://www.youtube.com/watch?v=z1wX1MBkMpY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=z1wX1MBkMpY"/>
+    <author>
+      <name>عالم أبو يوسف</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=z1wX1MBkMpY"&gt;&lt;img src="https://img.youtube.com/vi/z1wX1MBkMpY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اجواء سوق حد اولاد عبدون خريبكة #تبارك #الله هادي هي الفراشة كاين ميداااار تبارك الله #ماشاءاللــّه</title>
+    <published>2025-02-16T10:10:50+00:00</published>
+    <updated>2025-02-16T10:10:50+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2_drCx_PECg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2_drCx_PECg"/>
+    <author>
+      <name>Canal _abouchaimae</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2_drCx_PECg"&gt;&lt;img src="https://img.youtube.com/vi/2_drCx_PECg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#خريبكة دار شباب الزلاقة #عبيدات_الرمى</title>
+    <published>2025-02-15T23:52:30+00:00</published>
+    <updated>2025-02-15T23:52:30+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_hZtV3sTfx4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_hZtV3sTfx4"/>
+    <author>
+      <name>Oussama Chtaiba</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_hZtV3sTfx4"&gt;&lt;img src="https://img.youtube.com/vi/_hZtV3sTfx4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;facebook&lt;br /&gt;
+&lt;a href="https://www.facebook.com/profile.php?.." target="_blank"&gt;https://www.facebook.com/profile.php?..&lt;/a&gt;.&lt;br /&gt;
+facebook&lt;br /&gt;
+&lt;a href="https://www.facebook.com/profile.php?.." target="_blank"&gt;https://www.facebook.com/profile.php?..&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+قال النبي ﷺ (البخيل من ذكرتُ عنده فلم يصلِّ عليَّ)&lt;br /&gt;
+فلا تنسون الصلاة على اشفع الخلق محمد ﷺ&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+لا تدع اليوتيوب يلهيك عن وقت الصلاه حبيب قلبي&lt;br /&gt;
+_&lt;br /&gt;
+لا تقصر معي بنشر الفيديو حبيب قلبي&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+****************&amp;&amp;&amp;&amp;&amp;********************&lt;br /&gt;
+قبل لا تقيم المقطع بلايك او غيره اذا ظحكت في المقطع او ابتسمت (هذه غايتي) اتمنى الايك واذا ما اعجبك المقطع انتقادك مقبول في الكومنت&lt;br /&gt;
+&lt;br /&gt;
+قال النبي ﷺ (البخيل من ذكرتُ عنده فلم يصلِّ عليَّ)&lt;br /&gt;
+فلا تنسون الصلاة على اشفع الخلق محمد ﷺ&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+لا تدع اليوتيوب يلهيك عن وقت الصلاه حبيب قلبي&lt;br /&gt;
+_&lt;br /&gt;
+لا تقصر معي بنشر الفيديو حبيب قلبي&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+****************&amp;&amp;&amp;&amp;&amp;********************&lt;br /&gt;
+قبل لا تقيم المقطع بلايك او غيره اذا ظحكت في المقطع او ابتسمت (هذه غايتي) اتمنى الايك واذا ما اعجبك المقطع انتقادك مقبول في الكومنت</content>
+  </entry>
+  <entry>
+    <title type="html">أسرة بإقليم خريبكة تقول : واك واك عبد الله جدارمي حكرنا تيهددنا في دارنا دون قانون</title>
+    <published>2025-02-15T20:26:49+00:00</published>
+    <updated>2025-02-15T20:26:49+00:00</updated>
+    <id>https://www.youtube.com/watch?v=iWBqXAEC_ew</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=iWBqXAEC_ew"/>
+    <author>
+      <name>الخبر المغربي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=iWBqXAEC_ew"&gt;&lt;img src="https://img.youtube.com/vi/iWBqXAEC_ew/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">اربعاء القفاف خريبكة اكبر سوق لخيول تبوريدة.سوق عامر اليوم</title>
+    <published>2025-02-15T20:12:49+00:00</published>
+    <updated>2025-02-15T20:12:49+00:00</updated>
+    <id>https://www.youtube.com/watch?v=jLKX58w-UYk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jLKX58w-UYk"/>
+    <author>
+      <name>lasyan tbourida</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=jLKX58w-UYk"&gt;&lt;img src="https://img.youtube.com/vi/jLKX58w-UYk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
