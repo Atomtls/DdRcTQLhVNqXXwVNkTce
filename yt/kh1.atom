@@ -1,111 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <updated>2025-06-10T02:00:03+00:00</updated>
-  <author>
-    <id>urn:sha1:89a7ac3d7150276689e22919a607d9bf5fa47c03</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Could not resolve host: www.youtube.com: 6 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/results?search_query=%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22&amp;amp;sp=CAI%253D        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 154        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(66): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(103): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 actions/DisplayAction.php(68): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(117): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(88): YoutubeBridge-&amp;gt;collectDataInternal()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(193): YoutubeBridge-&amp;gt;fetch()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(423): getSimpleHTMLDOM()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 lib/contents.php(162): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 lib/contents.php(83): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 lib/http.php(154)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=&amp;quot;خريبكة&amp;quot;&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2023-09-24 (git.master.cfe3dcf)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.7    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Could+not+resolve+host%3A+www.youtube.com%3A+6+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3D%2522%25D8%25AE%25D8%25B1%25D9%258A%25D8%25A8%25D9%2583%25D8%25A9%2522%26sp%3DCAI%25253D+in+lib%2Fhttp.php+line+154%0A%0Aindex.php%2866%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28103%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%2868%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%28117%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%2888%29%3A+YoutubeBridge-%3EcollectDataInternal%28%29%0Abridges%2FYoutubeBridge.php%28193%29%3A+YoutubeBridge-%3Efetch%28%29%0Abridges%2FYoutubeBridge.php%28423%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28162%29%3A+getContents%28%29%0Alib%2Fcontents.php%2883%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28154%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%22%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9%22%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+2023-09-24+%28git.master.cfe3dcf%29%0AOs%3A+Linux%0APHP+version%3A+8.2.7%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    No maintainer&lt;/p&gt;</content>
+  <title type="text">Search: "خريبكة" - YouTube</title>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+  <icon>https://www.youtube.com/favicon.ico</icon>
+  <entry>
+    <title type="html">ربورتاج | خريبكة  | منتدى درب السلطان يتوج بطلا لكأس العرش في كرة اليد على حساب رجاء أكادير</title>
+    <published>2025-06-14T22:59:26+00:00</published>
+    <updated>2025-06-14T22:59:26+00:00</updated>
+    <id>https://www.youtube.com/watch?v=zN55cYmsWXs</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zN55cYmsWXs"/>
+    <author>
+      <name>Arryadia TV Hd</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=zN55cYmsWXs"&gt;&lt;img src="https://img.youtube.com/vi/zN55cYmsWXs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;ربورتاج | خريبكة  | منتدى درب السلطان يتوج بطلا لكأس العرش في كرة اليد على حساب رجاء أكادير</content>
+  </entry>
+  <entry>
+    <title type="html">مرحبا بكم عندنا في المعرض الجهوي المقام في مدينة خريبكة 👌</title>
+    <published>2025-06-14T22:41:41+00:00</published>
+    <updated>2025-06-14T22:41:41+00:00</updated>
+    <id>https://www.youtube.com/watch?v=C0TyfscsvAM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=C0TyfscsvAM"/>
+    <author>
+      <name>شهيوات ام احلام</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=C0TyfscsvAM"&gt;&lt;img src="https://img.youtube.com/vi/C0TyfscsvAM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">موعد البث المباشر لمباراة المغرب التطواني وأولمبيك خريبكة اليوم والقنوات الناقلة والمعلقين في الكأس</title>
+    <published>2025-06-14T22:39:42+00:00</published>
+    <updated>2025-06-14T22:39:42+00:00</updated>
+    <id>https://www.youtube.com/watch?v=hE8MS6rWP9I</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hE8MS6rWP9I"/>
+    <author>
+      <name>الوافي للكورة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=hE8MS6rWP9I"&gt;&lt;img src="https://img.youtube.com/vi/hE8MS6rWP9I/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;موعد مباراة أولمبيك خريبكة والمغرب التطواني اليوم في كأس العرش والقنوات الناقلة والمعلقين ربع النهائي&lt;br /&gt;
+جدول مباريات اليوم، مواعيد مباريات اليوم، توقيت مباريات اليوم، اهم مباريات اليوم، ابرز مباريات اليوم، أهم مباريات اليوم، أبرز مباريات اليوم، المغرب التطواني، أولمبيك خريبكة، المغرب التطواني المغربي، المغرب التطواني المغربى، أولمبيك خريبكة المغربي، أولمبيك خريبكة المغربى، نادي المغرب التطواني، نادى المغرب التطواني، نادي أولمبيك خريبكة، نادى أولمبيك خريبكة، أخبار المغرب التطواني اليوم، اخبار المغرب التطواني اليوم، أخبار أولمبيك خريبكة اليوم، اخبار أولمبيك خريبكة اليوم، موعد مباراة المغرب التطواني وأولمبيك خريبكة، موعد مباراة أولمبيك خريبكة والمغرب التطواني، توقيت مباراة المغرب التطواني وأولمبيك خريبكة، توقيت مباراة أولمبيك خريبكة والمغرب التطواني، لعبة مباراة المغرب التطواني وأولمبيك خريبكة، لعبة مباراة أولمبيك خريبكة والمغرب التطواني، القنوات الناقلة لمباراة المغرب التطواني وأولمبيك خريبكة، القنوات الناقلة لمباراة أولمبيك خريبكة والمغرب التطواني، معلق مباراة المغرب التطواني وأولمبيك خريبكة، معلق مباراة أولمبيك خريبكة والمغرب التطواني، مباراة المغرب التطواني اليوم، مباراة أولمبيك خريبكة اليوم، متى مباراة المغرب التطواني وأولمبيك خريبكة، متى مباراة أولمبيك خريبكة والمغرب التطواني، بث مباشر مباراة المغرب التطواني وأولمبيك خريبكة، بث مباشر مباراة أولمبيك خريبكة والمغرب التطواني، بث مباشر مباراة المغرب التطواني اليوم، بث مباشر مباراة أولمبيك خريبكة اليوم، موعد مباراة المغرب التطواني اليوم، موعد مباراة أولمبيك خريبكة اليوم، توقيت مباراة المغرب التطواني اليوم، توقيت مباراة أولمبيك خريبكة اليوم، لعبة مباراة المغرب التطواني اليوم، لعبة مباراة أولمبيك خريبكة اليوم، لعبه مباراة المغرب التطواني اليوم، لعبه مباراة أولمبيك خريبكة اليوم، كأس العرش، كاس العرش، كأس العرش المغربي، كاس العرش المغربى، كأس العرش اليوم، كاس العرش اليوم، القنوات الناقلة، القنوات المفتوحة، بث مباشر، مشاهدة، مشاهده، ملخص، موعد، توقيت، مشاهدة مباراة المغرب التطواني اليوم، مشاهدة مباراة أولمبيك خريبكة اليوم، ملخص مباراة المغرب التطواني اليوم، ملخص مباراة أولمبيك خريبكة اليوم، مشاهدة مباراة المغرب التطواني وأولمبيك خريبكة اليوم، مشاهدة مباراة أولمبيك خريبكة والمغرب التطواني اليوم، ملخص مباراة المغرب التطواني وأولمبيك خريبكة اليوم، ملخص مباراة أولمبيك خريبكة والمغرب التطواني اليوم، متى مباراة المغرب التطواني اليوم، متى مباراة أولمبيك خريبكة اليوم، مقابلة المغرب التطواني اليوم، مقابلة أولمبيك خريبكة اليوم، مواجهة المغرب التطواني اليوم، مواجهة مباراة المغرب التطواني اليوم، مواجهة أولمبيك خريبكة اليوم، مواجهة مباراة أولمبيك خريبكة اليوم، مقابلة المغرب التطواني وأولمبيك خريبكة اليوم، مقابلة مباراة المغرب التطواني وأولمبيك خريبكة اليوم، مقابلة أولمبيك خريبكة والمغرب التطواني اليوم، مقابلة مباراة أولمبيك خريبكة والمغرب التطواني اليوم، مواجهة المغرب التطواني وأولمبيك خريبكة اليوم، مواجهة مباراة المغرب التطواني وأولمبيك خريبكة اليوم، مواجهة أولمبيك خريبكة والمغرب التطواني اليوم، مواجهة مباراة أولمبيك خريبكة والمغرب التطواني اليوم، ميعاد مباراة المغرب التطواني وأولمبيك خريبكة اليوم، ميعاد مباراة أولمبيك خريبكة والمغرب التطواني اليوم.&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%A7%D9%86%D9%8A_%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D9%83_%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9" target="_blank"&gt;#المغرب_التطواني_أولمبيك_خريبكة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%B1%D8%B4" target="_blank"&gt;#كأس_العرش&lt;/a&gt;&lt;br /&gt;
+----------------------------------------------------------------------------------&lt;br /&gt;
+شاهد أيضاً علي قناة الوافي للكورة&lt;br /&gt;
+جدول مباريات اليوم والقنوات الناقلة والمعلقين| الأحد 15-06-2025| اهم مباريات اليوم 15 يونيو 2025&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=zuzrSs8jZyA" target="_blank"&gt;جدول مباريات اليوم والقنوات الناقلة والمعل...&lt;/a&gt;&lt;br /&gt;
+----------------------------------------------------------------------------------</content>
+  </entry>
+  <entry>
+    <title type="html">موعد مباراة المغرب التطواني ضد أولمبيك خريبكة القادمة في  ربع نهائي كأس العرش المغربي 2025 والقنوات</title>
+    <published>2025-06-14T20:54:23+00:00</published>
+    <updated>2025-06-14T20:54:23+00:00</updated>
+    <id>https://www.youtube.com/watch?v=gfqJ8btN6jU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=gfqJ8btN6jU"/>
+    <author>
+      <name>رؤيا البوهالي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=gfqJ8btN6jU"&gt;&lt;img src="https://img.youtube.com/vi/gfqJ8btN6jU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;موعد مباراة المغرب التطواني ضد أولمبيك خريبكة القادمة في  ربع نهائي كأس العرش المغربي 2025 والقنوات الناقلة&lt;br /&gt;
+موعد مباراة المغرب التطواني ضد أولمبيك خريبكة&lt;br /&gt;
+موعد مباراة المغرب التطواني&lt;br /&gt;
+موعد مباراة  أولمبيك خريبكة&lt;br /&gt;
+  ربع نهائي كأس العرش المغربي 2025 والقنوات الناقلة</content>
+  </entry>
+  <entry>
+    <title type="html">مسرحية  لمزابية بمدينة خريبكة</title>
+    <published>2025-06-14T18:18:03+00:00</published>
+    <updated>2025-06-14T18:18:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2-_WHZPqYPE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2-_WHZPqYPE"/>
+    <author>
+      <name>Tanwer - تنوير</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2-_WHZPqYPE"&gt;&lt;img src="https://img.youtube.com/vi/2-_WHZPqYPE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;اشترك في قناة جريدة تنوير عبر الرابط التالي&lt;br /&gt;
+ &lt;a href="https://bit.ly/3qNVrLQ" target="_blank"&gt;https://bit.ly/3qNVrLQ&lt;/a&gt;&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+  يمكنكم متابعتنا على : &lt;br /&gt;
+زوروا موقعنا : &lt;a href="https://tanwer.ma/" target="_blank"&gt;https://tanwer.ma&lt;/a&gt;&lt;br /&gt;
+فيسبوك :&lt;a href="https://bit.ly/39ieMA4" target="_blank"&gt;https://bit.ly/39ieMA4&lt;/a&gt;&lt;br /&gt;
+إنستغرام :&lt;a href="https://bit.ly/3zCqHmP" target="_blank"&gt;https://bit.ly/3zCqHmP&lt;/a&gt;&lt;br /&gt;
+للاطلاع على آخر الأخبار</content>
+  </entry>
+  <entry>
+    <title type="html">أعرس خريبكة زعري روعة</title>
+    <published>2025-06-14T17:26:27+00:00</published>
+    <updated>2025-06-14T17:26:27+00:00</updated>
+    <id>https://www.youtube.com/watch?v=n0zEB8QJZ94</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=n0zEB8QJZ94"/>
+    <author>
+      <name>قناة أعراس جديدة</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=n0zEB8QJZ94"&gt;&lt;img src="https://img.youtube.com/vi/n0zEB8QJZ94/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">بولنوار- خريبكة.. السيد محمد تخيم يعطي انطلاقة أشغال مصنع «شيم-كو» للأسمدة السائلة</title>
+    <published>2025-06-14T15:54:49+00:00</published>
+    <updated>2025-06-14T15:54:49+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_01QlTLAXCM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_01QlTLAXCM"/>
+    <author>
+      <name>Tamayouz Media</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_01QlTLAXCM"&gt;&lt;img src="https://img.youtube.com/vi/_01QlTLAXCM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;بولنوار- خريبكة.. السيد محمد تخيم يعطي انطلاقة أشغال مصنع «شيم-كو» للأسمدة السائلة&lt;br /&gt;
+✍️نجيب مصباح -&lt;br /&gt;
+أعطىالسيد محمد تخيم، الرئيس المدير العام لشركة شيم-كو، صباح يوم أمس الجمعة 13 يونيو 2025، الانطلاقة الرسمية لأشغال بناء مصنع جديد لإنتاج الأسمدة السائلة بجماعة بولنوار بإقليم خريبكة.&lt;br /&gt;
+&lt;br /&gt;
+وجرى الحفل بحضور شخصيات بارزة، من شركاء ماليين وتقنيين وممثلي المجتمع المدني، في خطوة تعكس أهمية المشروع في الدفع بعجلة التنمية الصناعية بالمنطقة.&lt;br /&gt;
+&lt;br /&gt;
+ويُعد هذا المشروع استثمارًا واعدًا بقيمة 100 مليون درهم، موزعة على ثلاث مراحل، بطاقة إنتاجية سنوية تفوق 60 ألف طن، كما يُتوقع أن يخلق أكثر من 120 منصب شغل مباشر.&lt;br /&gt;
+@tamayouzmedia&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%B4%D9%8A%D9%85_%D9%83%D9%88" target="_blank"&gt;#شيم_كو&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%B5%D9%86%D8%B9_%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%AF%D8%A9_%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9" target="_blank"&gt;#مصنع_الأسمدة_خريبكة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%85%D8%AD%D9%85%D8%AF_%D8%AA%D8%AE%D9%8A%D9%85" target="_blank"&gt;#محمد_تخيم&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9_%D8%AA%D9%86%D8%AA%D8%AC" target="_blank"&gt;#خريبكة_تنتج&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%AC%D9%85%D8%A7%D8%B9%D8%A9_%D8%A8%D9%88%D9%84%D9%86%D9%88%D8%A7%D8%B1" target="_blank"&gt;#جماعة_بولنوار&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%AA%D9%86%D9%85%D9%8A%D8%A9_%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9" target="_blank"&gt;#تنمية_خريبكة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%AF%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%84%D8%A9" target="_blank"&gt;#الأسمدة_السائلة&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1_%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D9%82%D8%A7%D9%84%D9%8A%D9%85" target="_blank"&gt;#الاستثمار_في_الأقاليم&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D9%8A%D8%A9" target="_blank"&gt;#الصناعة_الفلاحية&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9_%D8%AA%D8%AA%D8%AD%D8%B1%D9%83" target="_blank"&gt;#خريبكة_تتحرك&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/hashtag/%D9%81%D8%B1%D8%B5_%D8%B4%D8%BA%D9%84_%D8%AE%D8%B1%D9%8A%D8%A8%D9%83%D8%A9" target="_blank"&gt;#فرص_شغل_خريبكة&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#بني_ملال #عين_اسردون #خريبكة #خنيفرة #اطلس #اكسبلور #المغرب_إسبانيا #الغوالم #زحليكة #الرماني#زعير</title>
+    <published>2025-06-14T12:53:30+00:00</published>
+    <updated>2025-06-14T12:53:30+00:00</updated>
+    <id>https://www.youtube.com/watch?v=FAXgqPdeIVg</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=FAXgqPdeIVg"/>
+    <author>
+      <name>أجي نكتاشفو بلادنا سعيدة 🇲🇦</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=FAXgqPdeIVg"&gt;&lt;img src="https://img.youtube.com/vi/FAXgqPdeIVg/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">khoribga  echolink atomo 2  ايكولنك اطومو 2  خريبكة</title>
+    <published>2025-06-14T11:44:59+00:00</published>
+    <updated>2025-06-14T11:44:59+00:00</updated>
+    <id>https://www.youtube.com/watch?v=l8HyDdqJdY4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=l8HyDdqJdY4"/>
+    <author>
+      <name>AKSYSTEME1</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=l8HyDdqJdY4"&gt;&lt;img src="https://img.youtube.com/vi/l8HyDdqJdY4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;*khoribga atomo 2  ايكولنك اطومو 2  خريبكة &lt;br /&gt;
+&lt;br /&gt;
+khoribga atomo 2  ايكولنك اطومو 2  خريبكة &lt;br /&gt;
+&lt;br /&gt;
+khoribga  echolink atomo 2  ايكولنك اطومو 2  خريبكة &lt;br /&gt;
+&lt;br /&gt;
+*&lt;br /&gt;
+Warning: Everything that is watched or published on my channel is for the purpose of spreading technical awareness, and it is completely forbidden to use it in any way for illegal or illegal actions that harm people's interests&lt;br /&gt;
+&lt;br /&gt;
+ تنبيه: كل ما يتم مشاهدته او نشره على  قناتي هو بهدف نشر الوعي التقني ويُمنع منعا كليا  استخدامه بأي شكل من الأشكال في أعمال غير قانونية أو غير مشروعه و تضر بمصالح الناس *&lt;br /&gt;
+متوفر جميع السيرفرات و باثمنة في المتناول &lt;br /&gt;
+واتساب&lt;br /&gt;
+&lt;a href="http://wa.me/212615609192" target="_blank"&gt;http://wa.me/212615609192&lt;/a&gt;&lt;br /&gt;
+نقبل الدفع عبرi&lt;br /&gt;
+cih&lt;br /&gt;
+ &lt;br /&gt;
+FACEBOOK &lt;br /&gt;
+&lt;a href="https://web.facebook.com/profile.php?id=61552528970927" target="_blank"&gt;https://web.facebook.com/profile.php?...&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+الصفحة الرسمية &lt;br /&gt;
+&lt;a href="https://www.facebook.com/profile.php?.." target="_blank"&gt;https://www.facebook.com/profile.php?..&lt;/a&gt;.&lt;br /&gt;
+التليغرام &lt;br /&gt;
+&lt;a href="https://t.me/AkSysteme" target="_blank"&gt;https://t.me/AkSysteme&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+شكرا لكل الاخوة لي وضعوا فينا الثقة و شرف ليا تعاملت مع ناس من المغرب و خارج المغرب &lt;br /&gt;
+و الجاليات الجزائرية و المغربية و المصرية و التونسية &lt;br /&gt;
+و الناس لي في اوروبا و في كندا و امريكا و بعض الاخوة في  ✅&lt;br /&gt;
+لمزيد من العاملات اجيب على رقم الواتساب &lt;br /&gt;
+ نتوفر على اغلب الاجهزة الالكترونية و خصوصا الحاسوب و لوازمه و اجهزة الاستقبال &lt;br /&gt;
+ &lt;br /&gt;
+لتجديد السيرفرات لي بالطبسيل او بلا طبسيل &lt;br /&gt;
+نتوفر على اكثر من 62 نوع سيرفر&lt;br /&gt;
+&lt;br /&gt;
+echolink zen 4,zen4,zen 4,zen lite,starsat 7075,lordkamal1,lordkamal,7075,7075 hd,zen 4 hd,starsat x7,x7,x2,starsat x4,starsat x2 ارخص جهار</content>
+  </entry>
+  <entry>
+    <title type="html">ورشة فنية للأطفال في وضعية إعاقة بمدينة خريبكة</title>
+    <published>2025-06-14T01:03:56+00:00</published>
+    <updated>2025-06-14T01:03:56+00:00</updated>
+    <id>https://www.youtube.com/watch?v=kSamBcqTBXU</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=kSamBcqTBXU"/>
+    <author>
+      <name>Tanwer - تنوير</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=kSamBcqTBXU"&gt;&lt;img src="https://img.youtube.com/vi/kSamBcqTBXU/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;اشترك في قناة جريدة تنوير عبر الرابط التالي&lt;br /&gt;
+ &lt;a href="https://bit.ly/3qNVrLQ" target="_blank"&gt;https://bit.ly/3qNVrLQ&lt;/a&gt;&lt;br /&gt;
+شارك برأيك من خلال التعليقات أسفله، وساهم في إغناء النقاش&lt;br /&gt;
+  يمكنكم متابعتنا على : &lt;br /&gt;
+زوروا موقعنا : &lt;a href="https://tanwer.ma/" target="_blank"&gt;https://tanwer.ma&lt;/a&gt;&lt;br /&gt;
+فيسبوك :&lt;a href="https://bit.ly/39ieMA4" target="_blank"&gt;https://bit.ly/39ieMA4&lt;/a&gt;&lt;br /&gt;
+إنستغرام :&lt;a href="https://bit.ly/3zCqHmP" target="_blank"&gt;https://bit.ly/3zCqHmP&lt;/a&gt;&lt;br /&gt;
+للاطلاع على آخر الأخبار</content>
+  </entry>
+  <entry>
+    <title type="html">لفن زعري مع ناس خريبكة</title>
+    <published>2025-06-14T00:35:56+00:00</published>
+    <updated>2025-06-14T00:35:56+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2VJ5o_ejbig</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2VJ5o_ejbig"/>
+    <author>
+      <name>نجوم أسفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2VJ5o_ejbig"&gt;&lt;img src="https://img.youtube.com/vi/2VJ5o_ejbig/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#خريبكة #السوق #النموذجي #234</title>
+    <published>2025-06-13T22:15:46+00:00</published>
+    <updated>2025-06-13T22:15:46+00:00</updated>
+    <id>https://www.youtube.com/watch?v=iqYp1PHPY6s</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=iqYp1PHPY6s"/>
+    <author>
+      <name>منوعات أم البنين تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=iqYp1PHPY6s"&gt;&lt;img src="https://img.youtube.com/vi/iqYp1PHPY6s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خريبكة حي الرشاد</title>
+    <published>2025-06-13T19:27:21+00:00</published>
+    <updated>2025-06-13T19:27:21+00:00</updated>
+    <id>https://www.youtube.com/watch?v=DWvgToE3O-s</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DWvgToE3O-s"/>
+    <author>
+      <name>SAIF ED-DINE MAHBOUB</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DWvgToE3O-s"&gt;&lt;img src="https://img.youtube.com/vi/DWvgToE3O-s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">شحال زوينة هاذ المدينة 🤩😍 مدينة خريبكة ❤️ #خريبكة #اكسبلور #المغرب #تيك_توك #كرة_القدم</title>
+    <published>2025-06-13T08:54:57+00:00</published>
+    <updated>2025-06-13T08:54:57+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2-LzOU7FKsM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2-LzOU7FKsM"/>
+    <author>
+      <name>ESSALHI</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2-LzOU7FKsM"&gt;&lt;img src="https://img.youtube.com/vi/2-LzOU7FKsM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ممزكيش في خريبكة</title>
+    <published>2025-06-12T22:09:59+00:00</published>
+    <updated>2025-06-12T22:09:59+00:00</updated>
+    <id>https://www.youtube.com/watch?v=v8MNw6F67a0</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=v8MNw6F67a0"/>
+    <author>
+      <name>رجل الجبال</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=v8MNw6F67a0"&gt;&lt;img src="https://img.youtube.com/vi/v8MNw6F67a0/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;ممزكيش في خريبكة</content>
+  </entry>
+  <entry>
+    <title type="html">دورة في خريبكة.... المرقة ب لوبيا و البقري</title>
+    <published>2025-06-12T21:56:48+00:00</published>
+    <updated>2025-06-12T21:56:48+00:00</updated>
+    <id>https://www.youtube.com/watch?v=U3QiIC_QTcM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=U3QiIC_QTcM"/>
+    <author>
+      <name>يوميات فاتي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=U3QiIC_QTcM"&gt;&lt;img src="https://img.youtube.com/vi/U3QiIC_QTcM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">مجموعة الخاوة خريبكة #food #اكسبلور #stitchtricks #تيك_توك #ضحك #funny #ترند #شعبي #memes #كوميدي</title>
+    <published>2025-06-12T20:56:42+00:00</published>
+    <updated>2025-06-12T20:56:42+00:00</updated>
+    <id>https://www.youtube.com/watch?v=QLPFByokAlY</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QLPFByokAlY"/>
+    <author>
+      <name>si_l3alawi</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=QLPFByokAlY"&gt;&lt;img src="https://img.youtube.com/vi/QLPFByokAlY/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#بني_ملال #خنيفرة #خريبكة #وادي_زم #الغوالم #الخميسات #مكناس #فاس_المدينة #إفران #اكسبلور #المغرب</title>
+    <published>2025-06-12T20:14:11+00:00</published>
+    <updated>2025-06-12T20:14:11+00:00</updated>
+    <id>https://www.youtube.com/watch?v=v94rLixfD1U</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=v94rLixfD1U"/>
+    <author>
+      <name>أجي نكتاشفو بلادنا سعيدة 🇲🇦</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=v94rLixfD1U"&gt;&lt;img src="https://img.youtube.com/vi/v94rLixfD1U/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">خريبكة اليوم 🥵حرارة المفرطة</title>
+    <published>2025-06-12T19:03:56+00:00</published>
+    <updated>2025-06-12T19:03:56+00:00</updated>
+    <id>https://www.youtube.com/watch?v=_lvWwvlo-6I</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_lvWwvlo-6I"/>
+    <author>
+      <name>SAIF ED-DINE MAHBOUB</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=_lvWwvlo-6I"&gt;&lt;img src="https://img.youtube.com/vi/_lvWwvlo-6I/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">#خريبكة #فردوس</title>
+    <published>2025-06-12T17:21:20+00:00</published>
+    <updated>2025-06-12T17:21:20+00:00</updated>
+    <id>https://www.youtube.com/watch?v=AfnHr8WLp_8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AfnHr8WLp_8"/>
+    <author>
+      <name>SAIF ED-DINE MAHBOUB</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=AfnHr8WLp_8"&gt;&lt;img src="https://img.youtube.com/vi/AfnHr8WLp_8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
