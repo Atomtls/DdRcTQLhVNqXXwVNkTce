@@ -1,117 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text"></title>
-  <updated>2025-06-14T21:46:10+00:00</updated>
-  <author>
-    <id>urn:sha1:2cf469d88644b62f9305e322d940c2b3133e5abd</id>
-    <link rel="alternate" type="text/html" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=شوف+تيفي+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
-    <content type="html">
-&lt;div class="error"&gt;
-
-            
-        
-        
-        
-        
-        
-                    &lt;p&gt;
-                See
-                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
-                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
-                &lt;/a&gt;
-                for description of the curl error code.
-            &lt;/p&gt;
-        
-    
-    &lt;h2&gt;Details&lt;/h2&gt;
-
-    &lt;div style="margin-bottom: 15px"&gt;
-        &lt;div class="error-type"&gt;
-            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
-
-        &lt;div class="error-message"&gt;
-            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Connection timed out after 15000 milliseconds: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.youtube.com/watch?v=b4FBl6FKk7E        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
-
-        &lt;div&gt;
-            &lt;strong&gt;Line:&lt;/strong&gt; 154        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;h2&gt;Trace&lt;/h2&gt;
-
-            &lt;code&gt;
-            #0 index.php(66): RssBridge-&amp;gt;main()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #1 lib/RssBridge.php(103): DisplayAction-&amp;gt;execute()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #2 actions/DisplayAction.php(68): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #3 actions/DisplayAction.php(117): YoutubeBridge-&amp;gt;collectData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #4 bridges/YoutubeBridge.php(88): YoutubeBridge-&amp;gt;collectDataInternal()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #5 bridges/YoutubeBridge.php(204): YoutubeBridge-&amp;gt;fetchItemsFromFromJsonData()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #6 bridges/YoutubeBridge.php(504): YoutubeBridge-&amp;gt;fetchVideoDetails()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #7 bridges/YoutubeBridge.php(215): YoutubeBridge-&amp;gt;fetch()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #8 bridges/YoutubeBridge.php(421): getSimpleHTMLDOMCached()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #9 lib/contents.php(223): getContents()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #10 lib/contents.php(83): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
-        &lt;br&gt;
-            &lt;code&gt;
-            #11 lib/http.php(154)        &lt;/code&gt;
-        &lt;br&gt;
-    
-    &lt;br&gt;
-
-    &lt;h2&gt;Context&lt;/h2&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Query:&lt;/strong&gt; action=display&amp;amp;bridge=Youtube&amp;amp;context=Search result&amp;amp;s=شوف تيفي الطلبة&amp;amp;pa=&amp;amp;duration_min=&amp;amp;duration_max=&amp;amp;format=Atom    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;Version:&lt;/strong&gt; 2023-09-24 (git.master.cfe3dcf)    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
-
-    &lt;div&gt;
-        &lt;strong&gt;PHP:&lt;/strong&gt; 8.2.7    &lt;/div&gt;
-
-    &lt;br&gt;
-
-    &lt;a href="/"&gt;Go back&lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen++-+YouTube" title="Opens GitHub to search for similar issues"&gt;
-    &lt;button&gt;Find similar bugs&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=+-+YouTube+failed+with+error+0&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Connection+timed+out+after+15000+milliseconds%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db4FBl6FKk7E+in+lib%2Fhttp.php+line+154%0A%0Aindex.php%2866%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28103%29%3A+DisplayAction-%3Eexecute%28%29%0Aactions%2FDisplayAction.php%2868%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%28117%29%3A+YoutubeBridge-%3EcollectData%28%29%0Abridges%2FYoutubeBridge.php%2888%29%3A+YoutubeBridge-%3EcollectDataInternal%28%29%0Abridges%2FYoutubeBridge.php%28204%29%3A+YoutubeBridge-%3EfetchItemsFromFromJsonData%28%29%0Abridges%2FYoutubeBridge.php%28504%29%3A+YoutubeBridge-%3EfetchVideoDetails%28%29%0Abridges%2FYoutubeBridge.php%28215%29%3A+YoutubeBridge-%3Efetch%28%29%0Abridges%2FYoutubeBridge.php%28421%29%3A+getSimpleHTMLDOMCached%28%29%0Alib%2Fcontents.php%28223%29%3A+getContents%28%29%0Alib%2Fcontents.php%2883%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28154%29%0A%0AQuery+string%3A+action%3Ddisplay%26bridge%3DYoutube%26context%3DSearch%2Bresult%26s%3D%D8%B4%D9%88%D9%81%2B%D8%AA%D9%8A%D9%81%D9%8A%2B%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9%26pa%3D%26duration_min%3D%26duration_max%3D%26format%3DAtom%0AVersion%3A+2023-09-24+%28git.master.cfe3dcf%29%0AOs%3A+Linux%0APHP+version%3A+8.2.7%0A%60%60%60&amp;labels=Bridge-Broken&amp;assignee=No+maintainer" title="After clicking this button you can review the issue before submitting it"&gt;
-    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
-&lt;/a&gt;
-
-&lt;p class="maintainer"&gt;
-    No maintainer&lt;/p&gt;</content>
+  <title type="text">Search: شوف تيفي الطلبة - YouTube</title>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=شوف+تيفي+الطلبة&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
+  <icon>https://www.youtube.com/favicon.ico</icon>
+  <entry>
+    <title type="html">بهذه الطريقة يحتفل أطر مؤسسة خصوصية بتلاميذها لي نجحو فالبكالوريا بمنطقة البرنوصي</title>
+    <published>2025-06-15T16:43:27+00:00</published>
+    <updated>2025-06-15T16:43:27+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Sw0KWbfsk_k</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Sw0KWbfsk_k"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Sw0KWbfsk_k"&gt;&lt;img src="https://img.youtube.com/vi/Sw0KWbfsk_k/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;بهذه الطريقة يحتفل أطر مؤسسة خصوصية بتلاميذها لي نجحو فالبكالوريا بمنطقة البرنوصي</content>
+  </entry>
+  <entry>
+    <title type="html">إيقاف عصابة خطيرة متخصصة في سرقة الطلبة الجامعيين بمنطقة عين السبع من طرف عناصر الشرطة القضائية</title>
+    <published>2025-06-13T12:02:34+00:00</published>
+    <updated>2025-06-13T12:02:34+00:00</updated>
+    <id>https://www.youtube.com/watch?v=5g1m2puNHis</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5g1m2puNHis"/>
+    <author>
+      <name>Hibapress</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=5g1m2puNHis"&gt;&lt;img src="https://img.youtube.com/vi/5g1m2puNHis/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;روابط مهمة : &lt;br /&gt;
+منياتر ×3&lt;br /&gt;
+&lt;a href="https://hibatv.ma/1/3.php" target="_blank"&gt;https://hibatv.ma/1/3.php&lt;/a&gt;&lt;br /&gt;
+الدخول لتسجيل حصيلة فيديوهاتي :&lt;br /&gt;
+&lt;a href="https://www.hibatv.ma/app/" target="_blank"&gt;https://www.hibatv.ma/app&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+الدخول الى اللوحة :&lt;br /&gt;
+Ar.hibapress.com/hadmin&lt;br /&gt;
+تطبيق خاص خط وصورة لمنياتير :&lt;br /&gt;
+&lt;a href="https://hiba.ma/mapp" target="_blank"&gt;https://hiba.ma/mapp&lt;/a&gt;&lt;br /&gt;
+لإضافة لوغو للصور :             &lt;br /&gt;
+&lt;a href="https://hiba.ma/logo" target="_blank"&gt;https://hiba.ma/logo&lt;/a&gt;&lt;br /&gt;
+  &lt;br /&gt;
+ لتكبير الصور :                                 hiba.ma/img&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+موقع الذكاء الاصطناعي :  &lt;a href="https://chatgpt.com/" target="_blank"&gt;https://chatgpt.com&lt;/a&gt;&lt;br /&gt;
+موقع تفريغ الفيديوهات : &lt;a href="https://www.youtube-transcript.io/" target="_blank"&gt;https://www.youtube-transcript.io&lt;/a&gt;&lt;br /&gt;
+موقع بنك الصور : &lt;a href="https://www.gettyimages.com/" target="_blank"&gt;https://www.gettyimages.com&lt;/a&gt;&lt;br /&gt;
+موقع التحميل من بنك الصور : &lt;a href="https://gettyimages-downloader.beatsnoop.com/" target="_blank"&gt;https://gettyimages-downloader.beatsn...&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">صرخة طالب ف OFPPT  بكازا  ' أنا ولد مراكش كاري ب 15 ألف ريال و المنحة هي لي معول عليها</title>
+    <published>2025-06-03T16:38:03+00:00</published>
+    <updated>2025-06-03T16:38:03+00:00</updated>
+    <id>https://www.youtube.com/watch?v=DxCf0xPHjRM</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DxCf0xPHjRM"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DxCf0xPHjRM"&gt;&lt;img src="https://img.youtube.com/vi/DxCf0xPHjRM/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">تلميذ  جايب معاه نتاف الحجبان في امتحانات  البكالوريا</title>
+    <published>2025-05-31T22:40:35+00:00</published>
+    <updated>2025-05-31T22:40:35+00:00</updated>
+    <id>https://www.youtube.com/watch?v=G_WJo71OFM4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=G_WJo71OFM4"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=G_WJo71OFM4"&gt;&lt;img src="https://img.youtube.com/vi/G_WJo71OFM4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">الآباء قلبا وقالبا مع أبنائهم في امتحان البكالوريا بمدينة مكناس والتلاميذ بغاو يفرحوهم</title>
+    <published>2025-05-30T18:40:41+00:00</published>
+    <updated>2025-05-30T18:40:41+00:00</updated>
+    <id>https://www.youtube.com/watch?v=N_im27xaqdk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=N_im27xaqdk"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=N_im27xaqdk"&gt;&lt;img src="https://img.youtube.com/vi/N_im27xaqdk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;رصدت شوف تيفي أجواء امتحان الوطني في يومه الأول بمدينة مكناس.</content>
+  </entry>
+  <entry>
+    <title type="html">تصريحات الطلبة #bac #2025 😂😂 مع #chouftv #شوف_تيفي #البكالوريا #المغرب #maroc #morocco #ضحك #الباك</title>
+    <published>2025-05-30T15:51:35+00:00</published>
+    <updated>2025-05-30T15:51:35+00:00</updated>
+    <id>https://www.youtube.com/watch?v=UL94iNEGA8M</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=UL94iNEGA8M"/>
+    <author>
+      <name>Maze News</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=UL94iNEGA8M"&gt;&lt;img src="https://img.youtube.com/vi/UL94iNEGA8M/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">من كازا... تلاميذ الباك يفجروناها " الامتحانات ديال 2025 صعيبة بزاف و حتى واحد فينا مغادي ينجح"</title>
+    <published>2025-05-30T10:48:11+00:00</published>
+    <updated>2025-05-30T10:48:11+00:00</updated>
+    <id>https://www.youtube.com/watch?v=jfnX1JZVOns</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=jfnX1JZVOns"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=jfnX1JZVOns"&gt;&lt;img src="https://img.youtube.com/vi/jfnX1JZVOns/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;على المباشر من كازا... تلاميذ الباك يفجروناها " الامتحانات ديال 2025 صعيبة بزاف و حتى واحد فينا مغادي ينجح"</content>
+  </entry>
+  <entry>
+    <title type="html">تأخر صرف منح OFPPT يقلق طلبة التكوين المهني وسط تجاهل الجهات المسؤولة</title>
+    <published>2025-05-29T22:54:09+00:00</published>
+    <updated>2025-05-29T22:54:09+00:00</updated>
+    <id>https://www.youtube.com/watch?v=aYSKuT6w-N4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=aYSKuT6w-N4"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=aYSKuT6w-N4"&gt;&lt;img src="https://img.youtube.com/vi/aYSKuT6w-N4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;تأخر صرف منح OFPPT يقلق طلبة التكوين المهني وسط تجاهل الجهات المسؤولة</content>
+  </entry>
+  <entry>
+    <title type="html">الإمتحان في المتناول.. تصريحات مثيرة لتلاميذ الباكالوريا بتطوان في أول يوم من امتحانات البكالوريا</title>
+    <published>2025-05-29T18:02:14+00:00</published>
+    <updated>2025-05-29T18:02:14+00:00</updated>
+    <id>https://www.youtube.com/watch?v=TyEl9-ol_Uc</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=TyEl9-ol_Uc"/>
+    <author>
+      <name>ChoufTV  Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=TyEl9-ol_Uc"&gt;&lt;img src="https://img.youtube.com/vi/TyEl9-ol_Uc/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;رصدت شوف تيفي من تطز تصريحات مثيرة لتلاميذ الباك بعد اجتياز الإمتحان الوطني في يومه الأول.</content>
+  </entry>
+  <entry>
+    <title type="html">مباشرة من أكادير: خروج المجتهدين بعد اجتيازهم لامتحان الفترة المسائية.. امتحان كان ساهل فالمتناول</title>
+    <published>2025-05-29T16:10:35+00:00</published>
+    <updated>2025-05-29T16:10:35+00:00</updated>
+    <id>https://www.youtube.com/watch?v=GekfiIDh0m8</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=GekfiIDh0m8"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=GekfiIDh0m8"&gt;&lt;img src="https://img.youtube.com/vi/GekfiIDh0m8/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;مباشرة من أكادير: خروج المجتهدين بعد اجتيازهم لامتحان الفترة المسائية.. امتحان كان ساهل فالمتناول لي راجع غدي يجاوب</content>
+  </entry>
+  <entry>
+    <title type="html">أول خروج إعلامي للشابة سلمى المراكشية لي شرملاتها تلميذة بعد خروجها من امتحان الفيزياء:الباك فالجيب</title>
+    <published>2025-05-29T15:51:48+00:00</published>
+    <updated>2025-05-29T15:51:48+00:00</updated>
+    <id>https://www.youtube.com/watch?v=c-QLIpIQG-E</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=c-QLIpIQG-E"/>
+    <author>
+      <name>ChoufTV  Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=c-QLIpIQG-E"&gt;&lt;img src="https://img.youtube.com/vi/c-QLIpIQG-E/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;رصدت شوف تيفي أول خروج إعلامي للشابة سلمى المراكشية بعد اجتيازها امتحان البكالوريا في يومه الأول.</content>
+  </entry>
+  <entry>
+    <title type="html">طرائف مثيرة وقعت لأصحاب الباك هاد النهار بثانوية أبي العباس السبتي بطنجة</title>
+    <published>2025-05-29T15:44:33+00:00</published>
+    <updated>2025-05-29T15:44:33+00:00</updated>
+    <id>https://www.youtube.com/watch?v=8-H2q50J1Sk</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8-H2q50J1Sk"/>
+    <author>
+      <name>ChoufTV  Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=8-H2q50J1Sk"&gt;&lt;img src="https://img.youtube.com/vi/8-H2q50J1Sk/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;رصدت شوف تيفي تفاصيل اليوم الأول من باك 2025 بمدرسة أبي العباس السبتي بطنجة</content>
+  </entry>
+  <entry>
+    <title type="html">وسط إجراءات مشددة.. هكذا مرت أجواء اليوم الأول من امتحان البكالوريا بثانوية مولاي رشيد بطنجة</title>
+    <published>2025-05-29T14:42:37+00:00</published>
+    <updated>2025-05-29T14:42:37+00:00</updated>
+    <id>https://www.youtube.com/watch?v=mkLauZPvfRI</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=mkLauZPvfRI"/>
+    <author>
+      <name>ChoufTV  Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=mkLauZPvfRI"&gt;&lt;img src="https://img.youtube.com/vi/mkLauZPvfRI/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;شوف تيفي تكشف عن تفاصيل اليوم الأول من امتحان البكالوريا بقلب مدرسة مولاي رشيد بطنجة</content>
+  </entry>
+  <entry>
+    <title type="html">حتى واحد مايفلت.. ظهور تقنية جديدة لاكتشاف الغش في امتحان البكالوريا في يومه الأول بالدار البيضاء</title>
+    <published>2025-05-29T14:37:01+00:00</published>
+    <updated>2025-05-29T14:37:01+00:00</updated>
+    <id>https://www.youtube.com/watch?v=33JtomSM1ac</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=33JtomSM1ac"/>
+    <author>
+      <name>ChoufTV  Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=33JtomSM1ac"&gt;&lt;img src="https://img.youtube.com/vi/33JtomSM1ac/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;حتى واحد مايفلت.. ظهور تقنية جديدة لاكتشاف الغش في امتحان البكالوريا في يومه الأول بالدار البيضاء</content>
+  </entry>
+  <entry>
+    <title type="html">تلميذ مدار والو في امتحان الباك مادة الفيزيك 'كتبت سميتي وكنيتي والسؤال الأول وبغيت عائلتي يسمحو لي</title>
+    <published>2025-05-29T11:35:55+00:00</published>
+    <updated>2025-05-29T11:35:55+00:00</updated>
+    <id>https://www.youtube.com/watch?v=Xv1ho-EUOzE</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Xv1ho-EUOzE"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=Xv1ho-EUOzE"&gt;&lt;img src="https://img.youtube.com/vi/Xv1ho-EUOzE/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ضبط 11 حالة غش بمدرسة بلقرشي بالدار البيضاء في أول مادة من امتحانات البكالوريا</title>
+    <published>2025-05-29T11:30:09+00:00</published>
+    <updated>2025-05-29T11:30:09+00:00</updated>
+    <id>https://www.youtube.com/watch?v=RUvJLjIiL5E</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RUvJLjIiL5E"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=RUvJLjIiL5E"&gt;&lt;img src="https://img.youtube.com/vi/RUvJLjIiL5E/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">أول تلميذة خرجات من امتحان الباك فالفيزيك بمراكش بثانوية الزرقطوني   عطاونا الفيزيك هاد العام ساهل</title>
+    <published>2025-05-29T09:47:07+00:00</published>
+    <updated>2025-05-29T09:47:07+00:00</updated>
+    <id>https://www.youtube.com/watch?v=l8qhb8ZBh5c</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=l8qhb8ZBh5c"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=l8qhb8ZBh5c"&gt;&lt;img src="https://img.youtube.com/vi/l8qhb8ZBh5c/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">ثاني تلميذ خرج بكري من امتحانات الباك بتطوان    نزلو لينا ثلاثة الورقات  الأولى قلت هانية و الثانية</title>
+    <published>2025-05-29T09:47:20+00:00</published>
+    <updated>2025-05-29T09:47:20+00:00</updated>
+    <id>https://www.youtube.com/watch?v=2_aDAHQ73NQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=2_aDAHQ73NQ"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=2_aDAHQ73NQ"&gt;&lt;img src="https://img.youtube.com/vi/2_aDAHQ73NQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
+    <title type="html">عاجل من أكادير: بداية خروج أول التلاميذ بعدما دوزو أول مادة في باك 2025.. شوفو آش قالو على الامتحان</title>
+    <published>2025-05-29T09:35:36+00:00</published>
+    <updated>2025-05-29T09:35:36+00:00</updated>
+    <id>https://www.youtube.com/watch?v=FWuE5UjfxIQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=FWuE5UjfxIQ"/>
+    <author>
+      <name>ChoufTV  Live</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=FWuE5UjfxIQ"&gt;&lt;img src="https://img.youtube.com/vi/FWuE5UjfxIQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;عاجل من أكادير: بداية خروج أول التلاميذ بعدما دوزو أول مادة في باك 2025.. شوفو آش قالو على الامتحان</content>
+  </entry>
+  <entry>
+    <title type="html">أول تلميذ خرج بكري  من امتحان الباك مادة الكونطا سولو صحافي شوف تيفي شنو درتي</title>
+    <published>2025-05-29T09:15:04+00:00</published>
+    <updated>2025-05-29T09:15:04+00:00</updated>
+    <id>https://www.youtube.com/watch?v=a2MCQMxKFiQ</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=a2MCQMxKFiQ"/>
+    <author>
+      <name>Chouftv - شوف تيفي</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=a2MCQMxKFiQ"&gt;&lt;img src="https://img.youtube.com/vi/a2MCQMxKFiQ/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
