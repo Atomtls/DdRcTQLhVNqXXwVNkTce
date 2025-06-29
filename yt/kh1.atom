@@ -4,6 +4,17 @@
   <link rel="self" type="application/atom+xml" href="http://0.0.0.0:31113/?action=display&amp;bridge=Youtube&amp;context=Search+result&amp;s=&quot;خريبكة&quot;&amp;pa=&amp;duration_min=&amp;duration_max=&amp;format=Atom"/>
   <icon>https://www.youtube.com/favicon.ico</icon>
   <entry>
+    <title type="html">مباشرة من خريبكة مغربي قادم من مدينة طنجة. يقول انا بكامل قواي العقلية علاش رحلوني الى مدينة خريبكة</title>
+    <published>2025-06-29T08:49:30+00:00</published>
+    <updated>2025-06-29T08:49:30+00:00</updated>
+    <id>https://www.youtube.com/watch?v=T-ayoDI6yV4</id>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=T-ayoDI6yV4"/>
+    <author>
+      <name>Flach 24 - فلاش 24</name>
+    </author>
+    <content type="html">&lt;a href="https://www.youtube.com/watch?v=T-ayoDI6yV4"&gt;&lt;img src="https://img.youtube.com/vi/T-ayoDI6yV4/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
+  </entry>
+  <entry>
     <title type="html">قضايا نسائية في صلب اختتام فعاليات مهرجان خريبكة للسينما الأفريقية</title>
     <published>2025-06-29T07:59:17+00:00</published>
     <updated>2025-06-29T07:59:17+00:00</updated>
@@ -215,16 +226,5 @@ Tbourida,Fantasia,Moroccan Culture,Moroccan Heritage,Moroccan Traditions,Morocca
       <name>Elfajri.Vlogs.بني ملال بعيون الجالية المغربية</name>
     </author>
     <content type="html">&lt;a href="https://www.youtube.com/watch?v=E9akjI-sQWs"&gt;&lt;img src="https://img.youtube.com/vi/E9akjI-sQWs/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
-  </entry>
-  <entry>
-    <title type="html">الضوارة الغنم #سوق جديد خريبكة #مواشي #ثمن 21/06/2025 #اكسبلور #ثمن</title>
-    <published>2025-06-27T15:48:50+00:00</published>
-    <updated>2025-06-27T15:48:50+00:00</updated>
-    <id>https://www.youtube.com/watch?v=DKC-_1-TN3s</id>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DKC-_1-TN3s"/>
-    <author>
-      <name>Elfajri.Vlogs.بني ملال بعيون الجالية المغربية</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=DKC-_1-TN3s"&gt;&lt;img src="https://img.youtube.com/vi/DKC-_1-TN3s/0.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;</content>
   </entry>
 </feed>
